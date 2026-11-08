@@ -1,0 +1,37 @@
+# Topics asked on exams but missing from the app (from exam agents)
+- ROS / oksygentoksisitet / antioksidanter (2023-v oppg. 37) – tagged peroksisomer for now
+- Nominalkompositum, greske/latinske ordelementer (otorhinolaryngologia) (2018-h oppg. 31) – nomenklatur
+- "Schei"-materialet (2018-h 125–127): biopsykososial modell, mismatch, stress/skam/immunforsvar – likely outside 2026 syllabus; note in exam file
+- Epilepsi som unntak fra sosial gradient (2018-h 14)
+- Folketellinger i Norge, tiårstellinger (2023-v 17)
+- Base excess, Siggaard-Andersen, metabolsk kompensert respiratorisk acidose (KOLS) (2015-h 63, 10 p!) – cellebiologi blodets-ph / generell-kjemi karbonsyre
+- Oksygentoksisitet / ROS ved O₂-behandling (2015-h 64) – same as ROS gap
+- Jernmangel: transferrin, transferrinreseptor, ferritin (2015-h 65)
+- Barnedødelighet i fattige land, trender (2015-h 25) – samfunnsmedisin K1
+- Resonansregler (kun π/lone pairs flyttes, mot sp²/sp, samme ladning) (2022-h 68) – organisk grunnlag/resonans
+- Sunnhetsloven innførte ikke vaksinasjonsplikt (kopper 1810) (2022-h 14) – samf K1
+- Fattigdomsgrense-historikk ($1.90 → $3) (2022-h 18) – samf
+- Telling av konstitusjonsisomerer (tertiære alkoholer C6H14O) (2019-v 4.40) – organisk isomeri
+- Kinasehemmere – molekylær konsekvens (2019-v 4.58) – proteiner enzymregulering
+- Induktiv effekt Cl på alkohol vs fenol surhet (2019-v 4.39) – fenoler
+- (likely old sammensatt tema, not in 2026 syllabus) Jernmetabolisme/hepcidin/hemokromatose, sporstoffer (Se, Cu, Zn/Cd), kvikksølv/amalgam, O₂-toksisitet/ROS (2018-v 4.68–4.72, 2015-h 64–65) – these questions have topics: []
+- Blodgass med base excess + Siggaard-Andersen (2018-v 4.65–4.67, 2015-h 63) – recurring in older exams
+- Hygienehypotesen (2018-v 3.8) – miljomedisin
+- Aniongap ved metabolsk acidose (2016-h 5.3)
+- ppm/ppb-omregning (2016-h 5.6)
+- Cysteinproteaser, kymotrypsin spesifisitetslomme (Ser189 vs trypsin Asp189) (2016-h 5.50–5.51) – proteiner enzymkatalyse
+- Heterodimer/homodimer (2016-h 5.38) – proteinstruktur
+- (old theme again, 2017-v 77–80) jern, sporstoffer/toksiske metaller (Cd tobakk, Hg fisk, Pb, Al dialyse)
+- Blodgass/BE/Siggaard-Andersen (2017-v 76) – 4th exam asking this
+- Metalloproteaser (Zn), cysteinproteaser, kymotrypsin/trypsin-lomme (2017-v 54, 56, 57)
+- Karbonsyreanhydrase kcat ~10^6 (2024-h 112); isoenzymer LDH (2024-h 111) thin
+- Endosymbiose: binær fisjon som argument (2017-v 87)
+- Check explicit: høyt utdannede får mer sykehusbehandling siste leveår (2024-h 6); rasismens tre dimensjoner (2024-h 3); TB-tiltak før 1940 (2024-h 9)
+- Inverse care law (2021-h 20); «dobbelt urettferdighet» (2021-h 22); Norge vs Spania – røyking forklarer større ulikhet i levealder (2019-h 19); Dahl-rapporten: gratis barnehage utjevnende (2019-h 13) – samf
+- Cellens tørrvekt mest protein (2019-h 58) – cellebiologi
+- Arrhenius: bratt temperaturavhengighet = høy Ea (2021-h 58) – proteiner enzymkatalyse
+- (2017-h 5.34–5.45) syre-base-tolkning Siggaard-Andersen/BE (6 qs!), jern/sporstoffer/Hg, O₂-radikaler (superoksid, hydroksyl, H₂O₂ ikke radikal) – old theme but heavily examined 2015–2018
+- Alkoholpolitikk (tilgjengelighetstiltak) – samf
+- TB-dødstall 1895–1955 (250 000) (2020-h) – samf K1
+- Ukompetitiv hemming (endrer Km) thin; metotreksat/DHFR; divergent vs konvergent evolusjon; intrinsisk uordnede proteiner (2020) – proteiner
+- Lipoproteinklasser og kolesterolandel (2020) – cellebiologi; ER største membranareal (2020) – cellebiologi

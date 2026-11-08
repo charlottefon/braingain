@@ -1,0 +1,20 @@
+id: medod1
+title: MEDOD1
+fullTitle: Medisin og odontologi – 1. semester
+institution: Universitetet i Bergen
+exam:
+  date: 2026-12-10
+  duration: 5 timer
+  credits: 17
+  format: Skoleeksamen. Hovedsakelig flervalgsoppgaver, i tillegg kortsvar/essay. Bestått/ikke bestått.
+  aids: Enkel kalkulator (log og kvadratrot). Ordlisten fra nomenklaturheftet er tilgjengelig i oppgavesettet. Ikke latinordbok.
+subjects:
+  - cellebiologi
+  - generell-kjemi
+  - organisk-kjemi
+  - proteiner
+  - nomenklatur
+  - samfunnsmedisin
+  - lab
+outOfScope:
+  - Akuttmedisin / Den akutt syke pasient (ikke pensum til eksamen 2026)

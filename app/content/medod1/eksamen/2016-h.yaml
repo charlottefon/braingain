@@ -1,0 +1,1513 @@
+title: MEDOD1 høst 2016
+year: 2016
+term: høst
+source: medod1/exams/2016-medod1-h2016-med-svar--1419947.pdf
+note: Del 1 (Introduksjonskurs) og del 2 (Den akutt sjuke pasienten) er utelatt. Spørsmål med flere deloppgaver er delt opp (f.eks. 3.1a–e). 5.34 (dra-og-slipp på proteinstruktur uten synlig fasit) er utelatt.
+questions:
+  # ---------------- Medisinsk nomenklaturlære ----------------
+  - n: "3.1a"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/ordstilling-og-uttrykk]
+    type: single
+    points: 1
+    stem: |
+      Hva må et uttrykk starte med?
+    options: [Et adjektiv, Et substantiv, Et partisipp]
+    answer: [1]
+    explanation: |
+      Et medisinsk-latinsk uttrykk starter med hovedordet, et substantiv i nominativ; attributter (adjektiv, genitiv) følger etter.
+  - n: "3.1b"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/ordstilling-og-uttrykk]
+    type: single
+    points: 1
+    stem: |
+      I hvilken kasus må første ord stå?
+    options: [Nominativ, Genitiv, Ablativ]
+    answer: [0]
+    explanation: |
+      Hovedordet står i nominativ (grunnformen); f.eks. *fractura* colli femoris.
+  - n: "3.1c"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adnominal-genitiv]
+    type: single
+    points: 1
+    stem: |
+      Hvilken kasus betegner eier/relasjon?
+    options: [Akkusativ, Nominativ, Genitiv]
+    answer: [2]
+    explanation: |
+      Genitiv svarer på «hvem/hva sin?» – f.eks. *cancer prostatae* = kreft i prostata (prostatas kreft).
+  - n: "3.1d"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-1-2-og-perfektum-partisipp]
+    type: single
+    points: 1
+    stem: |
+      Hva betyr kongruens?
+    options: [Samsvar, Forskjell, Uavhengighet]
+    answer: [0]
+    explanation: |
+      Kongruens (samsvarsbøyning) betyr at adjektivet står i samme kjønn, tall og kasus som substantivet det beskriver.
+  - n: "3.1e"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-1-2-og-perfektum-partisipp]
+    type: single
+    points: 1
+    stem: |
+      Hvilken handling uttrykker perfektum partisipp?
+    options: [Framtidig, Fortidig, Samtidig]
+    answer: [1]
+    explanation: |
+      Perfektum partisipp (f.eks. *operatus* = operert) uttrykker en fullført, fortidig handling; presens partisipp (*perforans*) uttrykker samtidig handling.
+  - n: "3.2a"
+    subject: nomenklatur
+    topics: [nomenklatur/ordliste, nomenklatur/uttrykk/dens-caninus]
+    type: single
+    points: 1
+    stem: |
+      Hva betyr «dens molaris»?
+    options: [Hjørnetann, Jeksel, Fortann]
+    answer: [1]
+    explanation: |
+      dens molaris = jeksel (kverntann). Hjørnetann = dens caninus, fortann = dens incisivus.
+  - n: "3.2b"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f, nomenklatur/uttrykk/musculus-extensor-digiti-minimi-pedis-dextri]
+    type: single
+    points: 1
+    stem: |
+      Hvilken kasus er pedis i uttrykket «digiti pedis dextri»?
+    options: [Nominativ, Akkusativ, Genitiv]
+    answer: [2]
+    explanation: |
+      pes, pedis (3. dekl.) – pedis er genitiv entall («fotens»), og dextri samsvarer med pedis.
+  - n: "3.2c"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adnominal-genitiv, nomenklatur/uttrykk/musculus-flexor-hallucis-longus]
+    type: single
+    points: 1
+    stem: |
+      Hvilket ord er apposisjon i uttrykket «musculus flexor hallucis brevis operatus»?
+    options: [Musculus, Hallucis, Flexor]
+    answer: [2]
+    explanation: |
+      Apposisjon er et substantiv som står i samme kasus ved siden av hovedordet og forklarer det nærmere – *flexor* («bøyer») utdyper *musculus*. hallucis er genitiv.
+  - n: "3.2d"
+    subject: nomenklatur
+    topics: [nomenklatur/ordliste]
+    type: single
+    points: 1
+    stem: |
+      Hva betyr «cholelithiasis»?
+    options: [Åreknute, Gallesteinslidelse, Nervøs lidelse]
+    answer: [1]
+    explanation: |
+      chole- (galle) + lith- (stein) + -iasis (lidelse/tilstand) = gallesteinslidelse.
+  - n: "3.2e"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/febris-causae-ignotae]
+    type: single
+    points: 1
+    stem: |
+      Hvilket uttrykk betyr «feber av ukjent årsak»?
+    options: [Februs causae ignotae, Febris causae ignotae, Febris causa ignotae]
+    answer: [1]
+    explanation: |
+      febris (3. dekl., nom.) + causae ignotae (genitiv av causa ignota, 1. dekl.).
+  - n: "3.3a"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/thrombosis-arteriae-cerebri-posterioris]
+    type: single
+    points: 1
+    stem: |
+      Ta utgangspunkt i uttrykket «thrombosis arteriae cerebri anterioris».
+      Til hvilket ord er «anterioris» et attributivt tillegg?
+    options: [Arteriae, Cerebri, Thrombosis]
+    answer: [0]
+    explanation: |
+      Det er arterien som er fremre (arteria cerebri anterior = hjernens fremre arterie); anterioris står derfor i genitiv i samsvar med arteriae.
+  - n: "3.3b"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/thrombosis-arteriae-cerebri-posterioris, nomenklatur/grammatikk/komparasjon]
+    type: single
+    points: 1
+    stem: |
+      «thrombosis arteriae cerebri anterioris»: Hvilken kasus er «anterioris»?
+    options: [Nominativ, Genitiv, Ablativ]
+    answer: [1]
+    explanation: |
+      anterior, anterioris (komparativ, 3. dekl.) – anterioris er genitiv entall, i samsvar med arteriae.
+  - n: "3.3c"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/komparasjon]
+    type: single
+    points: 1
+    stem: |
+      «thrombosis arteriae cerebri anterioris»: Hvilket komparasjonstrinn er «anterioris»?
+    options: [Positiv, Superlativ, Komparativ]
+    answer: [2]
+    explanation: |
+      Endelsen -ior/-ius (gen. -ioris) kjennetegner komparativ («fremre» = mer fremme).
+  - n: "3.3d"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/forste-og-andre-deklinasjon]
+    type: single
+    points: 1
+    stem: |
+      «thrombosis arteriae cerebri anterioris»: Hvilken kasus er «cerebri»?
+    options: [Genitiv, Ablativ, Akkusativ]
+    answer: [0]
+    explanation: |
+      cerebrum, cerebri (2. dekl. n) – cerebri er genitiv entall («hjernens»).
+  - n: "3.3e"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f]
+    type: single
+    points: 1
+    stem: |
+      «thrombosis arteriae cerebri anterioris»: Hva heter «thrombosis» i genitiv entall?
+    options: [Thrombosi, Thrombosis, Thrombosium]
+    answer: [1]
+    explanation: |
+      Ord på -sis (3. dekl., f, i-stamme) har lik form i nom. og gen. entall – thrombosis, thrombosis.
+  - n: "3.4a"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/caries-dentium]
+    type: single
+    points: 1
+    stem: |
+      Ta utgangspunkt i uttrykket «caries dentium».
+      Hva betyr uttrykket?
+    options: [Tannråte, Hulltann, Tannstein]
+    answer: [0]
+    explanation: |
+      caries = råte, dentium = tennenes → «tennenes råte», dvs. tannråte (karies).
+  - n: "3.4b"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/fjerde-og-femte-deklinasjon, nomenklatur/uttrykk/caries-dentium]
+    type: single
+    points: 1
+    stem: |
+      «caries dentium» – Hvilken deklinasjon er «caries»?
+    options: [1. deklinasjon, 3. deklinasjon, 5. deklinasjon]
+    answer: [2]
+    explanation: |
+      caries, cariei (f) bøyes etter 5. deklinasjon (som facies, faciei).
+  - n: "3.4c"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/fjerde-og-femte-deklinasjon]
+    type: single
+    points: 1
+    stem: |
+      «caries dentium» – Hvilken kasus er «cariei»?
+    options: [Genitiv, Ablativ, Akkusativ]
+    answer: [0]
+    explanation: |
+      5. deklinasjon har -ei i genitiv entall; ablativ er -e og akkusativ -em.
+  - n: "3.4d"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-n, nomenklatur/uttrykk/caries-dentium]
+    type: single
+    points: 1
+    stem: |
+      «caries dentium» – Hvilken kasus er «dentium»?
+    options: [Akkusativ, Genitiv, Nominativ]
+    answer: [1]
+    explanation: |
+      dens, dentis er en i-stamme i 3. dekl.; -ium er genitiv flertall («tennenes»).
+  - n: "3.4e"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f, nomenklatur/uttrykk/dens-caninus]
+    type: single
+    points: 1
+    stem: |
+      «caries dentium» – Hva heter «dentium» i genitiv entall?
+    options: [Denti, Dentei, Dentis]
+    answer: [2]
+    explanation: |
+      dens, dentis (m, 3. dekl.) – genitiv entall dentis.
+  - n: "3.5a"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/ramus-anterior-nervi-spinalis]
+    type: single
+    points: 1
+    stem: |
+      Ta utgangspunkt i uttrykket «ramus anterior nervi spinalis».
+      Hva betyr «ramus»?
+    options: [Stamme, Grein, Nerve]
+    answer: [1]
+    explanation: |
+      ramus = grein (gren). Uttrykket betyr ryggmargsnervens fremre grein.
+  - n: "3.5b"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/ramus-anterior-nervi-spinalis, nomenklatur/grammatikk/komparasjon]
+    type: single
+    points: 1
+    stem: |
+      «ramus anterior nervi spinalis» – Hva heter «ramus anterior» i genitiv entall?
+    options: [Ramis anterioris, Rami anterioris, Rami anteriori]
+    answer: [1]
+    explanation: |
+      ramus (2. dekl.) → rami; anterior (komparativ, 3. dekl.) → anterioris.
+  - n: "3.5c"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/komparasjon]
+    type: single
+    points: 1
+    stem: |
+      «ramus anterior nervi spinalis» – Hva er det motsatte av «anterioris»?
+    options: [Interioris, Posterioris, Inferioris]
+    answer: [1]
+    explanation: |
+      anterior (fremre) ↔ posterior (bakre); superior ↔ inferior; interior ↔ exterior.
+  - n: "3.5d"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-3-deklinasjon-og-presens-partisipp]
+    type: single
+    points: 1
+    stem: |
+      «ramus anterior nervi spinalis» – Etter hvilken deklinasjon bøyes «spinalis»?
+    options: [1. deklinasjon, 3. deklinasjon, 5. deklinasjon]
+    answer: [1]
+    explanation: |
+      spinalis, spinale er et 3. deklinasjons adjektiv (to endelser, -is/-e); spinalis er her genitiv entall m.
+  - n: "3.5e"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/ramus-anterior-nervi-spinalis]
+    type: single
+    points: 1
+    stem: |
+      «ramus anterior nervi spinalis» – Til hvilket ord er «spinalis» et attributivt tillegg?
+    options: [Nervi, Ramus, Anterior]
+    answer: [0]
+    explanation: |
+      nervus spinalis = ryggmargsnerve; spinalis står i genitiv i samsvar med nervi. Det er nerven, ikke greinen, som er «spinal».
+
+  # ---------------- Ulikskap i helse ----------------
+  - n: "4.1a"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      Barnedødeligheten i Norge er 2/1000. Hva er den i Angola?
+    options: [200/1000, 100/1000, 50/1000, 5/1000]
+    answer: [1]
+    explanation: |
+      Angola hadde en av verdens høyeste barnedødeligheter, rundt 100 per 1000 – omtrent 50 ganger høyere enn i Norge. Det illustrerer de store globale helseforskjellene.
+  - n: "4.1b"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: "Ulikhetene mellom de 5 % rikeste landene i verden og lavinntektsland har:"
+    options:
+      - Økt siste 60 år
+      - Minket siste 60 år
+      - Vært stabile siste 60 år
+      - Minket i perioden 1950-1980 og har siden økt
+    answer: [1]
+    explanation: |
+      Globalt har forskjellene i helse (f.eks. levealder og barnedødelighet) mellom rike og fattige land blitt mindre de siste tiårene, fordi lav- og mellominntektsland har hatt stor forbedring.
+  - n: "4.1c"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      Hvilken påstand om jobbkrav er mest riktig?
+    options:
+      - Høye krav kan være skadelig dersom det er kombinert med at arbeidstakerne har liten kontroll over sin egen arbeidshverdag
+      - Høye krav på jobb gir økt risiko for helseproblemer
+      - Høye krav på jobb gir redusert risiko for helseproblemer
+      - Høye krav kombinert med høy kontroll over egen arbeidshverdag gir økt risiko for helseproblemer
+    answer: [0]
+    explanation: |
+      Krav–kontroll-modellen (Karasek) – det er kombinasjonen høye krav og lav kontroll («high strain») som gir økt risiko, f.eks. for hjerte-kar-sykdom. Høye krav med høy kontroll («aktive jobber») er ikke skadelig.
+  - n: "4.1d"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-tiltak]
+    type: single
+    points: 1
+    stem: |
+      Hvilken påstand om helsetjenesten i Norge er riktig?
+    options:
+      - De med lavest sosioøkonomisk status bruker helsetjenestene mest
+      - De med lavest sosioøkonomisk status bruker helsetjenestene minst
+      - De med lavest sosioøkonomisk status har større sjanse for å bli henvist til spesialist
+      - Prognosen etter behandling har ingen sammenheng med sosioøkonomisk status i Norge
+    answer: [1]
+    explanation: |
+      Fasiten er at de med lavest sosioøkonomisk status bruker helsetjenestene minst i forhold til behovet sitt (særlig spesialisthelsetjenesten). Det motsatte er det omvendte omsorgsprinsippet («inverse care law»). Nyanse – målt i antall besøk bruker grupper med lav SØS ofte fastlegen mer, men de blir sjeldnere henvist til spesialist og har dårligere prognose.
+  - n: "4.1e"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-tiltak, samfunnsmedisin/kortsvar/ovelse-proporsjonal-universalisme]
+    type: single
+    points: 1
+    stem: "Den mest effektive måten å forebygge sosiale ulikheter i helse i Norge er:"
+    options:
+      - Informasjonskampanjer om hva som er anbefalt treningsmengde per dag
+      - Å gi folk individuelt tilpasset rådgivning om trening på legekontoret
+      - Støtte opprettelsen av flere treningssentre
+      - Obligatorisk fysisk aktivitet hver dag i grunnskolen
+    answer: [3]
+    explanation: |
+      Et strukturelt, universelt tiltak som når alle barn uavhengig av foreldrenes ressurser, utjevner. Informasjonskampanjer, individuell rådgivning og treningssentre benyttes mest av dem med høy utdanning/inntekt og kan øke ulikheten.
+  - n: "4.2a"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: «Totaldødelighet blant menn 45–59 år etter utdanning, Norge 1970–1990-årene» (Zahl et al. 2003). Døde per 100 000 (aldersjustert) for perioder 1970–77, 1980–87 og 1990–97 i fire utdanningsgrupper (0–9, 10–12, 13–16 og 17+ år). Dødeligheten faller i alle grupper, men raskest blant de høyt utdannede; gruppen med 0–9 år ligger høyest (ca. 1150 → 980), gruppen med 17+ år lavest (ca. 730 → 380). Relativ ulikhetsindeks (RII) = 1,7, 2,1 og 2,8.)*
+
+      Ulikheter i helse i Norge i dag skyldes...
+    figure: Linjediagram over totaldødelighet etter utdanningsnivå, Norge 1970–1997, med RII 1,7 → 2,1 → 2,8.
+    options:
+      - ...aldersfordeling i samfunnet
+      - ...forskjeller i utdanning
+      - ...at noen grupper ikke har kunnskap om kosthold, trening og røyking
+      - ...genetikk
+    answer: [1]
+    explanation: |
+      Utdanning (sammen med inntekt og yrke) er en sentral sosial helsedeterminant, og dødeligheten følger en gradient etter utdanningslengde. Kunnskapsmangel alene forklarer lite – ulikhetene er strukturelt betinget.
+  - n: "4.2b"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      Hva måler vi med relativ ulikhetsindeks?
+    options:
+      - Totaldødeligheten i gruppen med lavest utdanning
+      - Totaldødeligheten i gruppen med høyest utdanning
+      - Forskjellen i totaldødelighet i forskjellige utdanningsgrupper
+      - Totaldødeligheten i forskjellige tidsperioder
+    answer: [2]
+    explanation: |
+      RII er et relativt mål på ulikhet over hele den sosiale gradienten – forholdet mellom dødeligheten nederst og øverst i (utdannings)fordelingen. RII = 1 betyr ingen ulikhet.
+  - n: "4.3a"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      Hvordan har den relative ulikhetsindeksen utviklet seg i forhold til utdanning og totaldødelighet de siste 30 årene?
+    options:
+      - Den har vært stabil
+      - Den har blitt større
+      - Den har gått opp og ned fra år til år
+      - Den har blitt mindre
+    answer: [1]
+    explanation: |
+      RII økte fra 1,7 til 2,8 (figuren i 4.2). Dødeligheten falt i alle grupper, men mest blant de høyt utdannede, så de relative forskjellene ble større.
+  - n: "4.3b"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      Hva er ønsket utvikling av relativ ulikhetsindeks?
+    options: [At den øker, At den holder seg konstant, At den går mot 1, At den går mot 0]
+    answer: [2]
+    explanation: |
+      RII er et forholdstall; RII = 1 betyr lik dødelighet i alle utdanningsgrupper. Den kan ikke gå mot 0 med mindre de lavest utdannede skulle få lavere dødelighet enn de høyest utdannede.
+  - n: "4.3c"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/folkehelse-og-forebygging, samfunnsmedisin/kortsvar/ovelse-forebyggingsparadokset]
+    type: single
+    points: 1
+    stem: |
+      Begrepet «høyrisikostrategi» henviser til hva?
+    options:
+      - Forebyggende tiltak som har svært usikkert evidensgrunnlag
+      - Forebyggende tiltak som er rettet mot særlig utsatte grupper
+      - Forebyggende tiltak som kan ha potensielt skumle bivirkninger
+      - Forebyggende tiltak med høy risiko for liten effekt
+    answer: [1]
+    explanation: |
+      Høyrisikostrategien (Rose) retter seg mot individer/grupper med høy risiko, i motsetning til befolkningsstrategien som forskyver risikoen i hele befolkningen.
+  - n: "4.3d"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-tiltak, samfunnsmedisin/kortsvar/ovelse-elvemetaforen]
+    type: single
+    points: 1
+    stem: |
+      Hvilket av følgende tiltak er mest «oppstrøms» i forhold til å utjevne sosiale ulikheter i helse?
+    options:
+      - Opprettelse av kommunale frisklivssentraler
+      - Skolekampanjer som oppfordrer foreldre til å la elevene gå eller sykle til skolen i stedet for å kjøre dem
+      - Progressiv skattlegging av inntekt og formue
+      - Flere helsestasjonskontroller i småbarnsalderen
+    answer: [2]
+    explanation: |
+      Oppstrømstiltak endrer den sosioøkonomiske fordelingen selv (inntekt, utdanning, klasse). Progressiv skatt omfordeler inntekt; de andre tiltakene er midt- eller nedstrøms.
+  - n: "4.3e"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-tiltak, samfunnsmedisin/kortsvar/ovelse-elvemetaforen]
+    type: single
+    points: 1
+    stem: |
+      Råd om kosthold og fysisk aktivitet hos person med økt risiko for hjerteinfarkt er et...
+    options: [...oppstrøms tiltak, ...midtstrøms tiltak, ...nedstrøms tiltak, Ingen av delene]
+    answer: [2]
+    explanation: |
+      Individrettet rådgivning i helsetjenesten til en som allerede har høy risiko, er et nedstrømstiltak (og en høyrisikostrategi).
+  - n: "4.4a"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-tiltak, samfunnsmedisin/temaer/folkehelse-og-forebygging]
+    type: single
+    points: 1
+    stem: |
+      Røykeforbud på restauranter for å forebygge røykerelaterte helseproblemer er et...
+    options: [...oppstrøms tiltak, ...nedstrøms tiltak, ...høyrisikostrategi tiltak, Ingen av delene]
+    answer: [0]
+    explanation: |
+      Et lovpålagt, strukturelt tiltak som endrer omgivelsene for hele befolkningen regnes som oppstrøms (befolkningsstrategi), i motsetning til individrettet røykesluttbehandling (nedstrøms).
+  - n: "4.4b"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/hva-er-samfunnsmedisin, samfunnsmedisin/kortsvar/ovelse-demografisk-epidemiologisk-transisjon]
+    type: single
+    points: 1
+    stem: |
+      Hva er viktigste grunn til at levealderen har økt i Norge de siste 100 årene?
+    options:
+      - Vi har fått effektive midler mot infeksjoner (antibiotika)
+      - Vi har fått bedre behandling av kreftsykdommer
+      - Vi har fått bedre behandling av hjerte-kar sykdommer
+      - Vi har fått lavere spedbarnsdødelighet
+    answer: [3]
+    explanation: |
+      Fallet i spedbarns- og barnedødelighet (bedre ernæring, boforhold, hygiene, vann og kloakk) bidro mest til økt forventet levealder; mye av økningen skjedde før antibiotika kom på 1940-tallet.
+  - n: "4.4c"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: |
+      Hvilke av følgende yrkesgrupper har lavest forventet levealder i Norge?
+    options:
+      - Lærere og annet undervisningspersonale
+      - Helsepersonell
+      - Ansatte i handel og kontor
+      - Ansatte i hotell og restaurant
+    answer: [3]
+    explanation: |
+      Hotell- og restaurantansatte har kortere utdanning, lavere inntekt, mer skiftarbeid og høyere forekomst av røyking og alkoholbruk enn de andre gruppene – i tråd med den sosiale gradienten.
+  - n: "4.4d"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker]
+    type: single
+    points: 1
+    stem: "I følge «Oxford Textbook of Global Public Health» brukes begrepet «relativ fattigdom» for å beskrive:"
+    options:
+      - Forskjellen i andelen fattige i befolkningen i forskjellige land
+      - Evnen til å fungere sosialt i forhold til normative krav til levestandard i det samfunnet en tilhører
+      - Endringer i fattigdomsgrense over tid i et samfunn
+      - Prosentvis forskjell i inntekt mellom de 10 % som tjener mest og de 10 % som tjener minst i samfunnet
+    answer: [1]
+    explanation: |
+      Relativ fattigdom måles mot levestandarden i det samfunnet man lever i (f.eks. under 60 % av medianinntekten) – å mangle ressurser til å delta på lik linje med andre. Absolutt fattigdom handler om å mangle det man trenger for å overleve.
+
+  # ---------------- Celle 1: cellebiologi og miljø ----------------
+  - n: "5.1"
+    subject: generell-kjemi
+    topics: [cellebiologi/sammensatte-tema/jern-sporstoffer-og-oksygentoksisitet]
+    type: fill
+    points: 2
+    stem: |
+      Sporelementer er til stede i organismen i svært lave konsentrasjoner, ppm (parts per million) eller ppb (parts per billion).
+
+      Hvor mange mg/kg svarer til:
+    parts:
+      - {prompt: "A – 1 ppm (0,000001, 0,001, 1, 1000)", answer: "1"}
+      - {prompt: "B – 1 ppb (1000, 1, 0,001, 0,000001)", answer: "0,001"}
+    explanation: |
+      1 kg = $10^6$ mg, så 1 mg/kg = 1 del per million (ppm). 1 ppb er 1000 ganger mindre = 0,001 mg/kg (= 1 µg/kg).
+  - n: "5.2"
+    subject: cellebiologi
+    topics: [cellebiologi/sammensatte-tema/blodets-ph-regulering-og-hyperventilering, generell-kjemi/teori/karbonsyre-og-blodets-ph]
+    type: single
+    points: 1
+    stem: |
+      Hyperventilering kan føre til...
+    options: [...metabolsk acidose, ...metabolsk alkalose, ...respiratorisk alkalose, ...respiratorisk acidose]
+    answer: [2]
+    explanation: |
+      Hyperventilering blåser ut $\ce{CO2}$, $p\ce{CO2}$ faller, likevekten $\ce{CO2 + H2O <=> H2CO3 <=> H+ + HCO3-}$ forskyves mot venstre og pH stiger – en respiratorisk alkalose.
+  - n: "5.3"
+    subject: cellebiologi
+    topics: [cellebiologi/sammensatte-tema/blodets-ph-regulering-og-hyperventilering, cellebiologi/sammensatte-tema/syre-base-forstyrrelser-og-blodgass]
+    type: single
+    points: 1
+    stem: |
+      Økt «anion gap» med metabolsk acidose tyder på...
+    options:
+      - ...metabolsk kompensasjon
+      - ...respiratorisk kompensasjon
+      - ...at tilstanden har vart lenge
+      - ...at acidosen skyldes opphopning av organiske syrer
+    answer: [3]
+    explanation: |
+      Anion gap = $[\ce{Na+}] - ([\ce{Cl-}] + [\ce{HCO3-}])$ (normalt ca. 10–16 mM). Øker den, er bikarbonat brukt opp av syrer med umålte anioner – f.eks. laktat eller ketonlegemer (diabetisk ketoacidose).
+  - n: "5.4"
+    subject: cellebiologi
+    topics: [cellebiologi/sammensatte-tema/jern-sporstoffer-og-oksygentoksisitet]
+    type: single
+    points: 1
+    stem: |
+      Skadeeffekt av oksygen avhenger hovedsakelig av oksygenets...
+    options: [...temperatur, ...partialtrykk, ...fuktighet, ...konsentrasjon]
+    answer: [1]
+    explanation: |
+      Oksygentoksisitet bestemmes av partialtrykket ($p\ce{O2}$ = andel O₂ × totaltrykk) og eksponeringstiden – høyt $p\ce{O2}$ gir mer dannelse av reaktive oksygenforbindelser.
+  - n: "5.5"
+    subject: cellebiologi
+    topics: [cellebiologi/sammensatte-tema/jern-sporstoffer-og-oksygentoksisitet]
+    type: multi
+    points: 2
+    stem: |
+      Oksygentilførsel blir ofte brukt til kritisk syke pasienter, men oksygen kan også være skadelig.
+
+      For å begrense faren for oksygentoksisitet bør man sørge for at ...
+    options:
+      - ...det ikke er oksygenradikaler i pustegassen
+      - ...oksygentrykket er så høyt som mulig
+      - ...andel oksygen i pustegassen ikke overstiger ca. 40 % i lengre tid
+      - ...pusting i 100 % oksygen bare benyttes i kort tid
+      - ...pustegassen består av 100 % oksygen
+    answer: [2, 3]
+    explanation: |
+      Skaden avhenger av $p\ce{O2}$ og varighet, så man holder oksygenandelen moderat over tid og bruker 100 % O₂ bare kortvarig. Radikalene dannes i vevet, ikke i pustegassen.
+  - n: "5.6"
+    subject: cellebiologi
+    topics: [cellebiologi/sammensatte-tema/jern-sporstoffer-og-oksygentoksisitet]
+    type: multi
+    points: 3
+    stem: "Angi hvilke av disse stoffene som er essensielle sporelementer:"
+    options: [Kvikksølv, Natrium, Kobber, Selen, Aluminium, Oksygen, Kadmium, Sink]
+    answer: [2, 3, 7]
+    explanation: |
+      Kobber, selen og sink er essensielle sporelementer (kofaktorer i enzymer, f.eks. Cu/Zn-superoksiddismutase, selenoproteinet glutationperoksidase). Natrium og oksygen er makroelementer; kvikksølv, kadmium og aluminium er toksiske uten kjent funksjon.
+  - n: "5.7"
+    subject: cellebiologi
+    topics: [cellebiologi/sammensatte-tema/jern-sporstoffer-og-oksygentoksisitet]
+    type: multi
+    points: 2
+    stem: |
+      Ved jernmangel er konsentrasjonen i blodet vanligvis økt av ...
+    options: [...kvikksølv, ...ferritin, ...transferrin, ...transferrin reseptor, ...hemoglobin]
+    answer: [2, 3]
+    explanation: |
+      Ved jernmangel oppreguleres transferrin (transportproteinet) og (løselig) transferrinreseptor for å fange opp mer jern, mens ferritin (jernlageret) og hemoglobin faller. Lav ferritin er det mest spesifikke tegnet på jernmangel.
+  - n: "5.8"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/mikroskopi-og-modellorganismer]
+    type: single
+    points: 1
+    stem: |
+      Hvilken av de følgende strukturer kan bare ses ved hjelp av et elektronmikroskop?
+    options: [Golgi-apparat, Kloroplast, Gjærcelle, Bakteriofag]
+    answer: [3]
+    explanation: |
+      En bakteriofag (virus, ca. 20–300 nm) er under lysmikroskopets oppløsningsgrense på ca. 0,2 µm. Golgi, kloroplaster og gjærceller kan ses i lysmikroskop.
+  - n: "5.9"
+    subject: cellebiologi
+    topics: [cellebiologi/organeller/endosomer, cellebiologi/cellen/membraner-og-membrantransport]
+    type: single
+    points: 1
+    stem: |
+      Celler i kroppens perifere vev får mesteparten av sitt kolesterol gjennom en prosess som kalles hva?
+    options: [Reseptor-mediert endocytose, Aterosklerose, Nedbryting av liposomer, Fri diffusjon]
+    answer: [0]
+    explanation: |
+      LDL bindes til LDL-reseptorer og tas opp i klatrinkledde vesikler; kolesterolet frigjøres etter nedbrytning i endosomer/lysosomer.
+  - n: "5.10"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/den-generelle-cellen]
+    type: single
+    points: 1
+    stem: |
+      Hvilken av de følgende komponenter er *ikke* til stede i prokaryote celler?
+    options: [Endosom, Cytoplasma, Ribosom, Kromosom]
+    answer: [0]
+    explanation: |
+      Endosomer er membranomsluttede organeller som bare finnes i eukaryoter. Prokaryoter har cytoplasma, ribosomer og (som regel ett sirkulært) kromosom.
+  - n: "5.11"
+    subject: cellebiologi
+    topics: [cellebiologi/organeller/cellekjernen, cellebiologi/cellen/proteinsyntese-og-vesikkeltransport]
+    type: single
+    points: 1
+    stem: |
+      I eukaryote celler skjer syntesen av mRNA i ...
+    options: [...endosomer, ...endoplasmatiske retikulum, ...kjernen, ...cytoplasma]
+    answer: [2]
+    explanation: |
+      Transkripsjon (og prosessering av mRNA) skjer i kjernen; translasjonen skjer i cytoplasma.
+  - n: "5.12"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/energi-og-eukaryotenes-opprinnelse]
+    type: single
+    points: 1
+    stem: |
+      For ca. 1 billion år siden – som resultat av endosymbiose med prokaryote celler og opphav av mitokondria – utviklet de tidlige eukaryote celler evnen å nyttiggjøre en av de følgende komponentene i atmosfæren.
+
+      Hvilken?
+    options: [Nitrogen, Oksygen, Karbondioksid, ATP]
+    answer: [1]
+    explanation: |
+      De endosymbiotiske aerobe bakteriene ble mitokondrier og ga cellen oksidativ fosforylering – evnen til å bruke O₂ som elektronakseptor og få langt mer ATP per glukose.
+  - n: "5.13"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/cellens-rom-og-organisering, cellebiologi/organeller/kromatin-og-kromosomer]
+    type: single
+    points: 1
+    stem: |
+      Hvilken er ikke en typisk komponent av cytoplasma?
+    options: [Aktin, Histon, Ribosom, Tubulin]
+    answer: [1]
+    explanation: |
+      Histoner pakker DNA til kromatin i kjernen. Aktin og tubulin (cytoskjelett) og ribosomer finnes i cytoplasma.
+  - n: "5.14"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/den-generelle-cellen]
+    type: single
+    points: 1
+    stem: |
+      På hvilken måte er alle celler like?
+    options:
+      - De inneholder kloroplaster
+      - De inneholder samme type ribosomer
+      - De trenger oksidativ fosforylering for å leve
+      - De bruker mRNA for å flytte genetisk informasjon fra DNA til proteinstruktur
+    answer: [3]
+    explanation: |
+      Det sentrale dogmet (DNA → mRNA → protein) er felles for alt liv. Prokaryoter og eukaryoter har ulike ribosomer (70S/80S), og mange celler lever anaerobt.
+  - n: "5.15"
+    subject: cellebiologi
+    topics: [lab/ovelser/lipid-kolesterol, organisk-kjemi/biomolekyler/lipider, cellebiologi/cellen/proteinsyntese-og-vesikkeltransport]
+    type: single
+    points: 1
+    stem: |
+      Hvilken av de følgende påstander om lipoproteinpartikler er korrekt?
+    options:
+      - Mestparten av kolesterol i plasma finnes i HDL
+      - Lipoproteinpartikler tillater kolesteroltransport i kroppen (plasma) pga. sin vannløslighet
+      - Mangel på LDL i plasma kan føre til blodpropp
+      - VLDL blir dannet i perifere vev
+    answer: [1]
+    explanation: |
+      Lipoproteiner har et hydrofobt innhold (kolesterylestere, triacylglyseroler) og en amfipatisk overflate (fosfolipider, kolesterol, apoproteiner), slik at de er løselige i plasma. Mesteparten av plasmakolesterolet er i LDL; VLDL lages i leveren; høyt (ikke lavt) LDL gir aterosklerose.
+  - n: "5.16"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/dna-kromosomer-og-cellesyklus]
+    type: single
+    points: 1
+    stem: |
+      I hvilken fase av cellesyklus skjer DNA-replikasjon?
+    options: [Slutten av interfase (G2), Cytokinese, M-fase, S-fase (syntese)]
+    answer: [3]
+    explanation: |
+      DNA kopieres i S-fasen (mellom G1 og G2) i interfasen.
+  - n: "5.17"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/cellens-rom-og-organisering, cellebiologi/organeller/ru-endoplasmatisk-retikulum]
+    type: single
+    points: 1
+    stem: |
+      Hvilken organelle i eukaryote celler har størst membranareal?
+    options: [Mitokondria, Golgi-apparat, Plasmamembran, Endoplasmatisk retikulum]
+    answer: [3]
+    explanation: |
+      ER er et sammenhengende nettverk som ofte utgjør over halvparten av cellens totale membranareal (f.eks. i levercellen).
+
+  # ---------------- Celle 1: generell kjemi ----------------
+  - n: "5.18"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/syre-base-likevekter]
+    type: single
+    points: 1
+    stem: |
+      For en svak syre er $K_a = 1{,}0 \times 10^{-4}$. Hva er $pK_b$ for dens konjugerte base?
+    options: ["10", "$1{,}0 \\times 10^{-10}$", "4", "$1{,}0 \\times 10^{-14}$"]
+    answer: [0]
+    explanation: |
+      $pK_a = 4$ og $pK_a + pK_b = 14$, så $pK_b = 10$. ($K_b = 1{,}0\times10^{-10}$, men spørsmålet gjelder $pK_b$.)
+  - n: "5.19a"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/termodynamikk]
+    type: single
+    points: 1
+    stem: |
+      Ved fase-endringen av $\ce{CO2}$ ($\ce{CO2(g)}$ endres til $\ce{CO2(s)}$), vil entropien i systemet...
+    options: [...forbli den samme, ...minke, ...umulig å si, ...øke]
+    answer: [1]
+    explanation: |
+      Gass → fast stoff gir et mye mer ordnet system, så $\Delta S < 0$.
+  - n: "5.19b"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/gibbs-fri-energi]
+    type: single
+    points: 1
+    stem: "Når $\\Delta H > 0$ og $\\Delta S < 0$, er følgende sant:"
+    options: ["$\\Delta G = 0$", "$\\Delta G < 0$", "$\\Delta G > 0$", Umulig å si]
+    answer: [2]
+    explanation: |
+      $\Delta G = \Delta H - T\Delta S$ = (positiv) − T·(negativ) = positiv + positiv > 0 ved alle temperaturer – reaksjonen er aldri spontan.
+  - n: "5.19c"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/termodynamikk]
+    type: single
+    points: 1
+    stem: "For en endoterm reaksjon er følgende alltid oppfylt:"
+    options: ["$\\Delta H > 0$", "$\\Delta S > 0$", "$\\Delta G > 0$", "$\\Delta H < 0$"]
+    answer: [0]
+    explanation: |
+      Endoterm betyr per definisjon at systemet tar opp varme, $\Delta H > 0$. Fortegnet på ΔS og ΔG er ikke gitt (en endoterm reaksjon kan være spontan hvis $T\Delta S > \Delta H$).
+  - n: "5.20"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/henderson-hasselbalch]
+    type: single
+    points: 1
+    stem: |
+      For en svak syre HA har vi en likevekt hvor $[\ce{HA}] = [\ce{A-}]/10$. Hva er pH for løsningen?
+    options: ["$pK_a + 1$", "$pK_a$", "$pK_a - 1$", "10"]
+    answer: [0]
+    explanation: |
+      $[\ce{A-}]/[\ce{HA}] = 10$, så $pH = pK_a + \log 10 = pK_a + 1$.
+  - n: "5.21"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/syrer-baser-og-ph]
+    type: single
+    points: 1
+    stem: |
+      Hvilken av de følgende er *ikke* korrekt?
+    options:
+      - "$K_w = K_a \\times K_b$"
+      - "$K_w = 1{,}0 \\times 10^{-14}$"
+      - "$K_w = -\\log[\\ce{H2O}]$"
+      - "$K_w = [\\ce{H3O+}][\\ce{OH-}]$"
+    answer: [2]
+    explanation: |
+      Vannets ionprodukt er $K_w = [\ce{H3O+}][\ce{OH-}] = 1{,}0\times10^{-14}$ ved 25 °C, og $K_a K_b = K_w$ for et korresponderende par. $-\log$ av noe er en p-verdi, og $[\ce{H2O}]$ inngår ikke i $K_w$.
+  - n: "5.22"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/kjemisk-likevekt, generell-kjemi/regnetyper/likevektskonstant-fra-konsentrasjoner]
+    type: single
+    points: 1
+    stem: |
+      Hva er likevektsuttrykket for reaksjonen?
+
+      $\ce{2CCl4(g) + O2(g) <=> 2COCl2(g) + 2Cl2(g)}$
+    options:
+      - "$K = \\dfrac{[\\ce{COCl2}]^2[\\ce{Cl2}]^2}{[\\ce{CCl4}]^2[\\ce{O2}]}$"
+      - "$K = \\dfrac{[\\ce{COCl2}][\\ce{Cl2}]}{[\\ce{CCl4}][\\ce{O2}]}$"
+      - "$K = \\dfrac{2[\\ce{COCl2}]2[\\ce{Cl2}]}{2[\\ce{CCl4}][\\ce{O2}]}$"
+      - "$K = \\dfrac{[\\ce{COCl2}]^2[\\ce{Cl2}]^2}{2[\\ce{CCl4}][\\ce{O2}]}$"
+    answer: [0]
+    explanation: |
+      Produkter over brøkstreken, reaktanter under, hver konsentrasjon opphøyd i sin støkiometriske koeffisient (ikke multiplisert med den).
+  - n: "5.23a"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/titrering-svak-syre, generell-kjemi/regnetyper/ph-svak-syre]
+    type: single
+    points: 1
+    stem: |
+      En svak syre HA har $K_a = 6 \times 10^{-6}$. Vi har 100 ml av en oppløsning, der [HA] = 0,1 M. Vi vil titrere syren med 1 M NaOH.
+
+      Beregn pH før du tilsetter NaOH.
+    options: ["pH=3,1", "pH=5,7", "pH=1,0", "pH=3,35"]
+    answer: [0]
+    explanation: |
+      $[\ce{H3O+}] \approx \sqrt{K_a \cdot c} = \sqrt{6\times10^{-6} \cdot 0{,}1} = \sqrt{6\times10^{-7}} = 7{,}7\times10^{-4}$ M → $pH = 3{,}11 \approx 3{,}1$.
+  - n: "5.23b"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/titrering-svak-syre, generell-kjemi/regnetyper/henderson-hasselbalch]
+    type: single
+    points: 1
+    stem: |
+      Samme titrering (100 ml 0,1 M HA, $K_a = 6 \times 10^{-6}$, titreres med 1 M NaOH).
+
+      Beregn pH etter å ha tilsatt 5 ml NaOH.
+    options: ["pH=5,7", "pH=5,2", "pH=6,1", "pH=7,5"]
+    answer: [1]
+    explanation: |
+      $n(\ce{HA}) = 10$ mmol, $n(\ce{OH-}) = 5$ mmol → 5 mmol HA og 5 mmol A⁻ (halvtitrert).
+      $pH = pK_a = -\log(6\times10^{-6}) = 5{,}22 \approx 5{,}2$.
+  - n: "5.23c"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/titrering-svak-syre, generell-kjemi/regnetyper/ph-svak-base-og-salt]
+    type: single
+    points: 1
+    stem: |
+      Samme titrering (100 ml 0,1 M HA, $K_a = 6 \times 10^{-6}$, titreres med 1 M NaOH).
+
+      Beregn pH etter å ha tilsatt 10 ml NaOH.
+    options: ["pH=9,3", "pH=10,0", "pH=5,7", "pH=9,1"]
+    answer: [3]
+    explanation: |
+      10 mmol OH⁻ = ekvivalenspunktet: 10 mmol A⁻ i 110 ml → $[\ce{A-}] = 0{,}0909$ M.
+      $K_b = K_w/K_a = 10^{-14}/(6\times10^{-6}) = 1{,}67\times10^{-9}$.
+      $[\ce{OH-}] = \sqrt{1{,}67\times10^{-9} \cdot 0{,}0909} = 1{,}23\times10^{-5}$ M → $pOH = 4{,}91$ → $pH = 9{,}09 \approx 9{,}1$.
+  - n: "5.24"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/isoelektrisk-punkt, generell-kjemi/teori/flerprotiske-syrer-og-aminosyrer]
+    type: single
+    points: 1
+    stem: |
+      Ved det isoelektriske punktet til en aminosyre er...
+    options: ["...K = 0", "...pH = $pK_a$", "...pH = 7", "...elektrisk nettoladning = 0"]
+    answer: [3]
+    explanation: |
+      pI er den pH der aminosyren i gjennomsnitt har netto null ladning (zwitterionet dominerer). For en enkel aminosyre er pI gjennomsnittet av de to pKa-verdiene, ikke lik én pKa eller 7.
+  - n: "5.25"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/kjemisk-likevekt]
+    type: single
+    points: 1
+    stem: |
+      Vi har den kjemiske reaksjonen
+      $\ce{2A + B <=> 2C + D}$
+      Ved likevekt, tilsetter en student ved et uhell mer D.
+      Nå skal konsentrasjonen til C ...
+    options: [...minke, ...øke, ...forbli den samme, ...umulig å si]
+    answer: [0]
+    explanation: |
+      Mer D gir Q > K, og likevekten forskyves mot venstre (Le Châtelier) – C forbrukes.
+  - n: "5.26"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/kjemisk-likevekt]
+    type: single
+    points: 1
+    stem: |
+      Ved en reaksjon som har nådd likevekt er...
+    options:
+      - ...hastigheten av foroverreaksjonen («forward reaction») er større enn hastigheten av den omvendte («reverse») reaksjonen
+      - ...hastigheten av foroverreaksjonen («forward reaction») lik hastigheten av den omvendte («reverse») reaksjonen
+      - ...mengden av produkter er lik mengden av reaktanter
+      - ...mengden av produkter er større enn mengden av reaktanter
+    answer: [1]
+    explanation: |
+      Likevekt er dynamisk – like hastigheter i begge retninger, slik at konsentrasjonene er konstante (men ikke nødvendigvis like).
+  - n: "5.27"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/standard-cellepotensial]
+    type: single
+    points: 1
+    stem: |
+      Vi har gitt standard reduksjonspotensial for disse halvreaksjonene:
+
+      $\ce{Fe^3+(aq) + e- -> Fe^2+(aq)}$   $E^\circ = +0{,}771$ V
+      $\ce{Ni^2+(aq) + 2e- -> Ni(s)}$   $E^\circ = -0{,}250$ V
+
+      Hva er da standard cellepotensialet til følgende reaksjon?
+
+      $\ce{2Fe^3+(aq) + Ni(s) -> 2Fe^2+(aq) + Ni^2+(aq)}$
+    options: ["+1,271 V", "+0,271 V", "+1,021 V", "+0,521 V"]
+    answer: [2]
+    explanation: |
+      Fe³⁺ reduseres (katode), Ni oksideres (anode). $E^\circ_{celle} = E^\circ_{katode} - E^\circ_{anode} = 0{,}771 - (-0{,}250) = +1{,}021$ V. E° multipliseres ikke med koeffisienten 2 (intensiv størrelse).
+  - n: "5.28"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/ph-sterk-syre-og-base, generell-kjemi/regnetyper/ph-og-h3o-omregning]
+    type: single
+    points: 1
+    stem: |
+      I laboratoriet har en forsker en stamløsning av 10 M NaOH. Hva er dens pH-verdi?
+    options: ["15", "10", "-1", "13"]
+    answer: [0]
+    explanation: |
+      $[\ce{OH-}] = 10$ M → $pOH = -\log 10 = -1$ → $pH = 14 - (-1) = 15$. (pH-skalaen er ikke begrenset til 0–14; ved så høye konsentrasjoner er dette en idealisert verdi.)
+  - n: "5.29"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/isoelektrisk-punkt, cellebiologi/sammensatte-tema/multippel-sklerose-og-myelin]
+    type: single
+    points: 1
+    stem: |
+      Det isoelektriske punktet til proteinet MBP i myelin er 11. Hva kan man si om den elektriske nettoladningen til MBP ved nøytral pH (pH = 7)?
+    options: [Nettoladning er 0, Umulig å si, Nettoladning er negativ, Nettoladning er positiv]
+    answer: [3]
+    explanation: |
+      Ved pH < pI er proteinet netto protonert og positivt ladet. MBP er rikt på Lys og Arg, som binder til de negative fosfolipidene i myelinmembranen.
+  - n: "5.30"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/losninger-og-konsentrasjon, cellebiologi/cellen/membraner-og-membrantransport]
+    type: fill
+    points: 2
+    stem: |
+      Velg riktig ord i hver setning.
+    parts:
+      - prompt: "Isotoniske oppløsninger har samme ___ (osmolaritet, pH, konsentrasjon av NaCl, frysepunkt)."
+        answer: osmolaritet
+      - prompt: "Osmose er diffusjon av molekyler gjennom en ___ (fullt permeabel, semipermeabel, gjennomsiktig, ikke-permeabel) membran."
+        answer: semipermeabel
+    explanation: |
+      Isotone løsninger har samme (effektive) osmolaritet, så det blir ingen netto vannbevegelse. Osmose er vanndiffusjon over en semipermeabel membran som slipper gjennom løsemidlet, men ikke de løste stoffene.
+  - n: "5.31"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/fellesioneffekt, generell-kjemi/teori/loselighet-og-komplekser]
+    type: fill
+    points: 2
+    stem: |
+      $\ce{PbCl2}$ løses dårlig i vann.
+    parts:
+      - prompt: "Dersom $\\ce{PbCl2}$ blir løst i 0,01 M KCl, vil $\\ce{PbCl2}$ løselighet være ___ (høyere enn i vann, det samme som i vann, lavere enn i vann, umulig å si)."
+        answer: lavere enn i vann
+      - prompt: "Dette er et eksempel på ___ (fellesioneffekten, Henry's lov, termodynamikkens første lov, en buffer)."
+        answer: fellesioneffekten
+    explanation: |
+      $K_{sp} = [\ce{Pb^2+}][\ce{Cl-}]^2$ er konstant; når det allerede er Cl⁻ i løsningen, må $[\ce{Pb^2+}]$ (og dermed løseligheten) bli lavere.
+  - n: "5.32"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/likevektskonstant-fra-konsentrasjoner]
+    type: single
+    points: 1
+    stem: |
+      For reaksjonen:
+      $\ce{2A + B <=> 2C + D}$
+      ved likevekt, kan vi måle konsentrasjonene av alle reaktanter:
+
+      [A] = 0,02 M
+      [B] = 0,01 M
+      [C] = 0,1 M
+      [D] = 0,05 M
+
+      Hva er $K_c$ for denne reaksjonen?
+    options: ["25 000", "0,008", "2,5", "125"]
+    answer: [3]
+    explanation: |
+      $K_c = \dfrac{[C]^2[D]}{[A]^2[B]} = \dfrac{(0{,}1)^2 \cdot 0{,}05}{(0{,}02)^2 \cdot 0{,}01} = \dfrac{5{,}0\times10^{-4}}{4{,}0\times10^{-6}} = 125$
+
+  # ---------------- Celle 1: proteiner ----------------
+  - n: "5.33"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk, proteiner/teori/enzymregulering]
+    type: single
+    points: 1
+    stem: |
+      Ved å plotte (1/enzymatisk reaksjonshastighet) mot (1/substratkonsentrasjon) oppnår man et Lineweaver-Burk-plott. I et eksperiment har man en inhibitor tilstede. I plottet ditt får man to rette linjer med ulike stigningstall som krysser i et gitt punkt på x-aksen.
+
+      Hvilket av følgende alternativer er riktig:
+    options:
+      - Km endres i nærvær av en inhibitor
+      - Reaksjonshastigheten forblir uendret ved tilstedeværelse av en inhibitor
+      - Inhibitoren er en kompetitiv inhibitor («competitive inhibitor»)
+      - Inhibitoren er en ikke-kompetitiv inhibitor («noncompetitive inhibitor»)
+    answer: [3]
+    explanation: |
+      Skjæring med x-aksen er $-1/K_m$ – felles skjæringspunkt der betyr uendret Km. Ulik helning og ulikt y-skjæringspunkt ($1/V_{max}$) betyr redusert Vmax → (ren) ikke-kompetitiv hemming. Kompetitive hemmere gir linjer som krysser på y-aksen.
+  - n: "5.35"
+    subject: proteiner
+    topics: [proteiner/teori/proteinstruktur, proteiner/teori/aminosyrer]
+    type: fill
+    points: 1
+    stem: |
+      Markér posisjonen til aminosyren i et protein med hvor det mest sannsynlig finnes (kjernen av et cytosolisk protein / den ytre overflaten av et cytosolisk protein / i en loop/sløyferegion).
+    parts:
+      - {prompt: Leu, answer: Kjernen av et cytosolisk protein}
+      - {prompt: Lys, answer: Den ytre overflaten av et cytosolisk protein}
+      - {prompt: Ile, answer: Kjernen av et cytosolisk protein}
+    explanation: |
+      Leu og Ile har upolare, hydrofobe sidekjeder som begraves i proteinets indre (hydrofob effekt). Lys er positivt ladet og hydrofil og sitter på overflaten mot vannet.
+  - n: "5.36"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk]
+    type: numeric
+    points: 1
+    stem: |
+      I ein gjeven enzymkatalysert reaksjon er $V_{max} = 0{,}2$ mol/sek og $K_m = 5$ mM. Anta at enzymet følger standard Michaelis-Menten kinetikk.
+
+      Hva er hastigheten av reaksjonen når [S] = 1,25 mM? Oppgi $V_0$ i mol/sek.
+    answer: ["0,04"]
+    explanation: |
+      $V_0 = \dfrac{V_{max}[S]}{K_m + [S]} = \dfrac{0{,}2 \cdot 1{,}25}{5 + 1{,}25} = \dfrac{0{,}25}{6{,}25} = 0{,}04$ mol/sek.
+  - n: "5.37"
+    subject: proteiner
+    topics: [proteiner/teori/proteinmetoder]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: SDS-gel med 8 baner. Bane 1 og 8 er markører med 7 bånd; bane 2 og 3 har ett bånd høyt oppe; bane 4 og 5 har mange bånd; bane 6 og 7 har et utsmurt mønster med et kraftig bånd nederst. To markørbånd i bane 1 er merket «Prot A» (øverst) og «Prot B» (lenger ned).)*
+
+      Figuren viser en SDS-gel. Figuren er satt opp på en måte som viser at proteinprøvene ble satt på toppen av gelen før gelen ble kjørt.
+
+      Hvilke av følgende svar er korrekt?
+    figure: SDS-PAGE-gel med baner 1–8; «Prot A» ligger høyere i gelen enn «Prot B».
+    options:
+      - Bane («lane») 8 viser proteinblandingen som er renset med affinitetskromatografi
+      - Bane («lane») 5 viser proteinblandingen oppnådd etter gelfiltrering
+      - Båndet i bane («lane») 2 kan bare inneholder ett bestemt protein
+      - Molekylvekten til proteinet merket med «Prot A» er større enn den merket med «Prot B»
+    answer: [3]
+    explanation: |
+      I SDS-PAGE vandrer små proteiner lengst; Prot A ligger høyere (nærmere brønnene) og er derfor større. Ett bånd kan inneholde flere proteiner med lik størrelse, og bane 8 er en markør.
+  - n: "5.38"
+    subject: proteiner
+    topics: [proteiner/teori/proteinstruktur]
+    type: single
+    points: 1
+    stem: |
+      Eit funksjonelt protein inneheld to forskjellige aminosyrekjeder. Kva for nokre av følgjande påstandar er korrekte?
+    options:
+      - Proteinet er en heterodimer
+      - Proteinet er en homodimer
+      - Ingen av de øvre alternativene er riktige
+      - For at proteinet skal være funksjonelt må aminosyrekjedene være omtrent like lange
+    answer: [0]
+    explanation: |
+      To ulike polypeptidkjeder = heterodimer (kvartærstruktur). En homodimer har to like kjeder.
+  - n: "5.39"
+    subject: proteiner
+    topics: [proteiner/teori/peptidbindingen]
+    type: single
+    points: 1
+    stem: |
+      Som følge av det delokaliserte elektronsystemet er peptidbindingen...
+    options: [...veldig stabil, ...lett å hydrolysere, ...vannløselig, Alle alternativene over er riktige]
+    answer: [0]
+    explanation: |
+      Resonansen (delvis dobbeltbindingskarakter i C–N) gjør peptidbindingen plan og stabil; ikke-katalysert hydrolyse er ekstremt langsom.
+  - n: "5.40"
+    subject: proteiner
+    topics: [proteiner/teori/aminosyrer, organisk-kjemi/navnsetting/stereodeskriptorer]
+    type: single
+    points: 1
+    stem: |
+      Hvilke av følgende påstander er riktige?
+
+      1) D-aminosyrer forekommer ikke i naturen
+      2) Humane proteiner inneholder kun R-aminosyrer
+      3) Humane proteiner inneholder kun S-aminosyrer
+      4) R- og L-aminosyrer er alltid enantiomerer
+    options: [Kun 1 og 2, Kun 1 og 3, Kun 1 og 4, Kun 3 og 4, Ingen av alternativene er riktige]
+    answer: [4]
+    explanation: |
+      D-aminosyrer finnes i naturen (f.eks. i bakteriecellevegger). Proteinenes L-aminosyrer er S, unntatt L-cystein, som er R (svovel gir høyere CIP-prioritet), og glysin er akiral – så verken 2 eller 3 holder. R/S og D/L er ulike systemer, så 4 er også feil.
+  - n: "5.41"
+    subject: proteiner
+    topics: [proteiner/teori/enzymkatalyse]
+    type: single
+    points: 1
+    stem: |
+      Hvilken reaksjon vil forekomme spontant?
+    options: ["En med $k_{cat} = 1$", En med høy aktiveringsenergi, "En hvor ΔG < 0", "En med lav $K_M$"]
+    answer: [2]
+    explanation: |
+      Spontanitet bestemmes bare av fortegnet på ΔG (termodynamikk), ikke av hastighet, aktiveringsenergi eller kinetiske parametre.
+  - n: "5.42"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk]
+    type: single
+    points: 1
+    stem: |
+      $K_M$ bestemmes ved å måle reaksjonshastighetene ved forskjellige substratkonsentrasjoner. Etter eksperimentet er avsluttet, oppdager du at substratet har felt ut under målingen.
+
+      Hvordan vil denne omstendigheten påvirke bestemmelsen av $K_M$?
+    options:
+      - Den bestemte $K_M$-verdien er lavere enn den ekte $K_M$-verdien
+      - Den bestemte $K_M$-verdien er lik den ekte $K_M$-verdien
+      - Den bestemte $K_M$-verdien er høyere enn den ekte $K_M$-verdien
+    answer: [2]
+    explanation: |
+      Den reelle (løste) [S] var lavere enn den man tror man tilsatte. Hastighetene plottes dermed mot for høye [S]-verdier, kurven forskyves mot høyre, og man finner en tilsynelatende høyere $K_M$.
+  - n: "5.43"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk]
+    type: single
+    points: 1
+    stem: |
+      Du utfører Michaelis-Menten-kinetikk.
+      For å øke $V_{max}$ til en enzymatisk reaksjon må du...
+    options:
+      - ...øke enzymkonsentrasjonen
+      - "...doble $K_M$-verdien"
+      - Vmax til en enzymatisk reaksjon under Michaelis-Menten-kinetikk betingelsen kan ikke økes
+      - ...øke substratkonsentrasjonen
+    answer: [2]
+    explanation: |
+      Merk: Fasiten markerer «kan ikke økes», men $V_{max} = k_{cat}[E]_t$, så **økt enzymkonsentrasjon øker Vmax** – det ville vært det riktige svaret etter læreboka. Det som stemmer, er at Vmax ikke kan økes ved å øke [S] (Vmax er per definisjon hastigheten ved metning) eller ved å endre $K_M$.
+  - n: "5.44"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk, proteiner/teori/enzymregulering]
+    type: fill
+    points: 1.75
+    stem: |
+      Sett merkelappene på riktig posisjon på grafen.
+
+      *(Figur: $V_0$ mot [S] med tre hyperbolske kurver. Svart kurve stiger brattest; rød kurve stiger langsommere, men flater ut på samme platå som den svarte; blå kurve flater ut på et lavere platå. En pil peker mot platånivået øverst på y-aksen, og en pil peker opp fra et punkt på x-aksen. Merkelapper: Vmax, Km, Vo, [S], Ikke-inhibert enzym, Kompetitiv inhibitor, Ikke-kompetitiv («noncompetitive») inhibitor.)*
+    figure: Michaelis–Menten-kurver uten og med kompetitiv og ikke-kompetitiv hemmer, med tomme merkefelter.
+    parts:
+      - {prompt: Svart kurve (høyest initialt stigning), answer: Ikke-inhibert enzym}
+      - {prompt: Rød kurve (samme platå som svart), answer: Kompetitiv inhibitor}
+      - {prompt: Blå kurve (lavere platå), answer: Ikke-kompetitiv inhibitor}
+      - {prompt: Pil mot platånivået på y-aksen, answer: Vmax}
+      - {prompt: Pil på x-aksen, answer: Km}
+      - {prompt: y-aksen, answer: Vo}
+      - {prompt: x-aksen, answer: "[S]"}
+    explanation: |
+      Fasit er ikke vist i PDF-en (dra-og-slipp); plasseringen følger av teorien. Kompetitiv hemmer øker tilsynelatende Km, men Vmax nås ved høy [S] → samme platå. Ikke-kompetitiv hemmer senker Vmax → lavere platå. Km er [S] ved ½ Vmax (avleses på x-aksen).
+  - n: "5.45"
+    subject: proteiner
+    topics: [proteiner/teori/aminosyrer]
+    type: single
+    points: 1
+    stem: |
+      Et polypeptid med netto negativ ladning ved fysiologisk pH (~7,4) inneholder antageligvis aminosyrer med R-grupper av hvilken type?
+    options: [Alifatiske R-grupper, Sure R-grupper, Aromatiske R-grupper, Basiske R-grupper]
+    answer: [1]
+    explanation: |
+      Asp og Glu (pKa ≈ 4) er deprotonerte og negativt ladet ved pH 7,4. Basiske sidekjeder (Lys, Arg) gir positiv ladning; alifatiske og aromatiske er uladde.
+  - n: "5.46"
+    subject: proteiner
+    topics: [proteiner/teori/enzymer-egenskaper, organisk-kjemi/reaksjoner/amiddannelse-og-hydrolyse]
+    type: single
+    points: 1
+    stem: |
+      $\ce{R-CO-NH-R + H2O -> R-COO- + H3N+-R}$
+
+      Et enzym som katalyserer reaksjonen på figuren er antageligvis en...
+    options: [...ligase, ...oksidoreduktase, ...hydrolase, ...transferase, ...isomerase, ...lyase]
+    answer: [2]
+    explanation: |
+      En amid-/peptidbinding spaltes ved tilsetting av vann – hydrolyse (EC 3, f.eks. proteaser).
+  - n: "5.47"
+    subject: proteiner
+    topics: [proteiner/teori/enzymregulering]
+    type: fill
+    points: 1
+    stem: |
+      Finn de som passer sammen (kompetitiv inhibering / ukonkurrerende («uncompetitive») inhibering / allosterisk kontroll / kovalent modifikasjon).
+    parts:
+      - {prompt: En fosfatgruppe blir lagt til et protein, answer: Kovalent modifikasjon}
+      - {prompt: Molekyl binder til substratbindingssete, answer: Kompetitiv inhibering}
+      - {prompt: Molekyl binder til et bindingssete borte fra det aktive setet, answer: Allosterisk kontroll}
+      - {prompt: Molekyl binder til et sete ved siden av bindingssete, answer: Ukonkurrerende inhibering}
+    explanation: |
+      Fosforylering er den vanligste kovalente modifikasjonen. Kompetitive hemmere konkurrerer om det aktive setet; allosteriske effektorer binder et sete langt unna; ukompetitive hemmere binder bare ES-komplekset, i et sete som dannes nær/ved siden av substratsetet.
+  - n: "5.48"
+    subject: proteiner
+    topics: [proteiner/teori/enzymkatalyse, proteiner/aminosyrer/serin, proteiner/aminosyrer/treonin]
+    type: single
+    points: 1
+    stem: |
+      Noen proteiner har serin i sin katalytiske triade. Hva skjer når denne aminosyren blir byttet ut med treonin?
+    options:
+      - Hastigheten til reaksjonen forblir uendret
+      - Enzymet blir deaktivert
+      - Den enzymatiske reaksjonen blir tregere
+      - Den enzymatiske reaksjonen blir raskere
+    answer: [1]
+    explanation: |
+      Selv om treonin også har en OH-gruppe, gir den ekstra metylgruppen på β-karbonet en annen geometri og sterisk hindring i det presist utformede aktive setet, slik at OH-gruppen ikke posisjoneres riktig mot His – enzymet blir i praksis inaktivt.
+  - n: "5.49"
+    subject: proteiner
+    topics: [proteiner/teori/proteinmetoder, proteiner/teori/folding-og-modifisering, proteiner/teori/proteinstruktur]
+    type: single
+    points: 1
+    stem: |
+      Basert på desse observasjonane, kva for ein (nokre) av dei følgjande påstandane stemmer?
+
+      Et protein ble renset til homogenitet. Ved å bruke molekylær eksklusjonskromatografi i nærvær av en mild buffer ble molekylvekten av proteinet bestemt til å være 90 kDa.
+
+      Hvis samme metode ble brukt, men med 6 M urea i bufferen, ble molekylvekten av subenhetene til dette proteinet bestemt til å være 30 kDa. Hvis 10 mM β-merkaptoetanol ble inkludert sammen med 6 M urea i bufferen, resulterte eksklusjonskromatografien i en 30 kDa subenheter.
+
+      1) Proteinet inneholder minst én disulfidbinding
+      2) Subenhetene er bundet sammen av minst én disulfidbinding. Hver av disse subenhetene har en molekylvekt på 30 kDa
+      3) Proteinet inneholder en heliksregion
+      4) Proteinet er en dimer
+      5) Proteinet er en trimer
+    options: ["1, 2, og 4", "1, 2, og 5", Kun 3, Kun 4, Kun 5]
+    answer: [4]
+    explanation: |
+      90 kDa nativt og 30 kDa etter denaturering med urea → tre subenheter (trimer). Urea alene var nok til å skille dem, og β-merkaptoetanol (reduserer S–S) endret ingenting – subenhetene holdes sammen av ikke-kovalente krefter, ikke disulfidbroer. Om heliks kan ikke sies noe.
+  - n: "5.50"
+    subject: proteiner
+    topics: [proteiner/teori/enzymkatalyse, proteiner/aminosyrer/cystein]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: syklus for cysteinproteasens mekanisme. Cys–SH deprotoneres av His; tiolatet angriper karbonylkarbonet i substratet R–CO–NH–R′ og gir et tetraedrisk intermediat; aminet R′–NH₂ forlater og det dannes en kovalent tioester (acyl-enzym); vann (aktivert av His) angriper tioesteren, nytt tetraedrisk intermediat, og R–COOH frigjøres slik at enzymet regenereres.)*
+
+      Figuren viser en reaksjonsmekanisme for cysteine protease.
+
+      Hvilken av følgende påstander er *feil*?
+    figure: Reaksjonsmekanisme for cysteinprotease (Cys–His-dyade, tetraedriske intermediater, acyl-enzym).
+    options:
+      - Enzymet katalyserer kløyvingen av en peptidbinding
+      - Den enzymatiske reaksjonen inneholder en tetraedrisk transisjonstilstand
+      - Enzymet danner et kovalent intermediat med substratet
+      - Cysteinet blir deaktivert av histidin
+    answer: [3]
+    explanation: |
+      Histidin fungerer som generell base og *aktiverer* cysteinet (gjør det til et sterkt nukleofilt tiolat), tilsvarende His–Ser i serinproteaser. De andre påstandene er riktige.
+  - n: "5.51"
+    subject: proteiner
+    topics: [proteiner/teori/enzymkatalyse, proteiner/teori/enzymer-egenskaper]
+    type: single
+    points: 1
+    stem: |
+      En mutant av chymotrypsin ble laget, der Ser189 – som er på bunnen av substrat-spesifisitetslommen – ble byttet ut med Val.
+
+      Hvilken effekt av Ser189 → Val189 er mest sannsynlig?
+    options:
+      - Mutanten vil foretrekke å kløyve peptider som eksponerer en positivt ladet aminosyre inn i spesifisitetslommen
+      - Mutanten vil foretrekke å kløyve peptider som eksponerer en negativt ladet aminosyre inn i spesifisitetslommen
+      - Mutanten vil foretrekke å kløyve peptider som eksponerer en hydrofob aminosyre inn i spesifisitetslommen
+      - Substratsspesifisiteten er uforandret
+    answer: [2]
+    explanation: |
+      Valin er hydrofob, så lommen blir enda mer hydrofob og vil foretrekke hydrofobe sidekjeder. (Til sammenligning har trypsin Asp189 i bunnen av lommen og kløyver etter positivt ladde Lys/Arg.)
+
+  # ---------------- Celle 1: organisk kjemi ----------------
+  - n: "5.52"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/funksjonelle-grupper/alkaner, organisk-kjemi/grunnlag/polaritet-og-fysiske-egenskaper]
+    type: single
+    points: 1
+    stem: |
+      Hvilket av de følgende stoffene har høyest smeltepunkt/kokepunkt?
+    options: [Propan, Pentan, Heptan, Oktan]
+    answer: [3]
+    explanation: |
+      For uforgrenede alkaner øker dispersjonskreftene med molekylstørrelsen; oktan (C₈) har størst overflate og høyest kokepunkt.
+  - n: "5.53"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/hydrohalogenering]
+    type: single
+    points: 1
+    stem: |
+      2-Metylpropen reagerer med hydrogenbromid og danner et av de følgende alternativene.
+
+      Hvilket?
+    options:
+      - 1-Bromo-2-metylpropan
+      - 2-Bromo-2-metylpropan
+      - 70 % 1-Bromo-2-metylpropan og 30 % 2-Bromo-2-metylpropan
+      - 50 % 1-Bromo-2-metylpropan og 50 % 2-Bromo-2-metylpropan
+    answer: [1]
+    explanation: |
+      Markovnikov – H⁺ adderes til CH₂-enden, slik at det dannes det stabile tertiære karbokationet; Br⁻ binder dit → 2-brom-2-metylpropan (tert-butylbromid).
+  - n: "5.54"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/funksjonelle-grupper/fenoler, organisk-kjemi/grunnlag/resonans-syrer-og-baser]
+    type: single
+    points: 1
+    stem: |
+      Hvilket av følgende utsagn er *ikke* korrekt?
+    options:
+      - Sykloheksanol er en sterkere syre enn fenol
+      - 7-metyl-2-oktyn inneholder en trippelbinding
+      - For tertiære halider skjer ikke SN2-reaksjonen
+      - Sukrose er et ikke-reduserende disakkarid
+    answer: [0]
+    explanation: |
+      Fenol (pKa ≈ 10) er en mye sterkere syre enn sykloheksanol (pKa ≈ 16–18) fordi fenoksidionet er resonansstabilisert av benzenringen. -yn betyr trippelbinding; tertiære substrater er for sterisk hindret for SN2; sukrose har ingen fri anomer OH.
+  - n: "5.55"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/sn2-reaksjon]
+    type: single
+    points: 1
+    stem: |
+      Produktet etter reaksjonen mellom (R)-2-bromobutan og $\ce{OH-}$ blir (R)-2-butanol og $\ce{Br-}$.
+    options: [Sant, Usant]
+    answer: [1]
+    explanation: |
+      Sekundært substrat med sterk nukleofil → SN2 med baksideangrep og inversjon (Walden-inversjon). OH tar Br sin plass og har samme CIP-prioritet (høyest), så R → **S**-2-butanol.
+  - n: "5.56"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/sn2-reaksjon, organisk-kjemi/reaksjoner/sn1-reaksjon, organisk-kjemi/reaksjoner/e2-reaksjon]
+    type: single
+    points: 1
+    stem: |
+      Hvilket av alternativene nedenfor er riktig?
+    options:
+      - "$S_N2$/E2 favoriseres av høy konsentrasjon av en god nukleofil/sterk base"
+      - "Hastigheten til $S_N2$ reaksjonen er bare avhengig av konsentrasjonen til alkylhalidet"
+      - Graden av SN1/E1 reaksjon vil ikke påvirkes av styrken på basen eller om man har en god eller dårlig nukleofil
+      - "$S_N2$ mekanismen er en tostegs prosess"
+    answer: [0]
+    explanation: |
+      SN2 og E2 er bimolekylære (rate = k[RX][Nu⁻/B⁻]) og ett-trinns, så høy konsentrasjon av sterk nukleofil/base favoriserer dem. Selv om nukleofilen ikke inngår i hastighetsuttrykket for SN1/E1, påvirker den hvilken mekanisme som vinner konkurransen.
+  - n: "5.57"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/kiralitet-og-r-s, organisk-kjemi/biomolekyler/monosakkarider]
+    type: single
+    points: 1
+    stem: |
+      *(Fischer-projeksjon, ovenfra og ned: CH=O; H–C–OH; H–C–OH; H–C–OH; H–C–OH; $\ce{CH2OH}$ – en aldoheksose med alle OH-grupper til høyre, dvs. D-allose.)*
+
+      Hvor mange kirale karboner er det i molekylet på figuren?
+    figure: Fischer-projeksjon av D-allose (alle fire OH til høyre).
+    options: ["2", "1", "3", "4"]
+    answer: [3]
+    explanation: |
+      I en åpen aldoheksose er C2, C3, C4 og C5 kirale (fire ulike substituenter hver); C1 (CHO) og C6 ($\ce{CH2OH}$) er ikke.
+  - n: "5.58"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/enantiomerer-diastereomerer-meso, organisk-kjemi/grunnlag/kiralitet-og-r-s]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: to kilestrek-tegninger av 2-pentanol. Venstre: sentralt C med $\ce{CH3}$ opp, OH ned mot venstre (i planet), H på stiplet kile (bak) mot høyre og $\ce{CH2CH2CH3}$ på fylt kile (frem) ned mot høyre. Høyre: sentralt C med OH opp, $\ce{CH3CH2CH2}$ ned mot venstre (i planet), $\ce{CH3}$ på stiplet kile (bak) mot høyre og H på fylt kile (frem) ned mot høyre.)*
+
+      De to stoffene på bildet er....
+    figure: To kilestrek-formler av 2-pentanol som beskrevet i teksten.
+    options: [Identiske molekyler, Enantiomerer, Hemiacetaler, Diasteromerer]
+    answer: [1]
+    explanation: |
+      Prioritet: OH > propyl > metyl > H.
+      Venstre: H bak; OH → propyl → metyl går mot klokka → S.
+      Høyre: H foran; OH → propyl → metyl går mot klokka, snus → R.
+      Samme forbindelse med motsatt konfigurasjon i eneste stereosenter → enantiomerer.
+  - n: "5.59"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/biomolekyler/monosakkarider]
+    type: single
+    points: 1
+    stem: |
+      *(Fischer-projeksjon, ovenfra og ned: CHO; H–C–OH; HO–C–H; H–C–OH; H–C–OH; $\ce{CH2OH}$.)*
+
+      Sukkeret på figuren foreligger som D-Glukose.
+    figure: Fischer-projeksjon av D-glukose.
+    options: [Sant, Usant]
+    answer: [0]
+    explanation: |
+      OH-mønsteret høyre–venstre–høyre–høyre (C2–C5) er D-glukose; OH på C5 til høyre gir D.
+  - n: "5.60"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/biomolekyler/syklisering-og-anomerer]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: to Haworth-projeksjoner av glukopyranose. Venstre: OH på C1 peker ned (H opp). Høyre: OH på C1 peker opp (H ned). Resten av molekylet er identisk.)*
+
+      Molekylene på figuren er anomerer.
+    figure: Haworth-projeksjoner av α- og β-D-glukopyranose med C1 uthevet.
+    options: [Sant, Usant]
+    answer: [0]
+    explanation: |
+      Molekylene skiller seg bare i konfigurasjonen på det anomere karbonet (C1) – α (OH ned, trans til CH₂OH) og β (OH opp) – og er derfor anomerer.
+  - n: "5.61"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider, organisk-kjemi/reaksjoner/hemiacetal-og-hemiketal]
+    type: multi
+    points: 3
+    stem: |
+      Hvilke(n) av påstandene nedenfor er riktige?
+    options:
+      - Maltose består av to like glukoseenheter bundet sammen via en alfa-1,4 link
+      - Et aldehyd reagerer med en alkohol i nærvær av syre som katalysator og danner en hemiacetal
+      - Sukrose består av alfa-D-glukose og beta-D-fruktose
+      - Laktose er et ikke-reduserende sukker som består av beta-D-galactose og beta-D-glucose
+    answer: [0, 1, 2]
+    explanation: |
+      Maltose = Glc-α(1→4)-Glc; sukrose = α-D-Glc-(1↔2)-β-D-Fru. Aldehyd + alkohol gir hemiacetal (med overskudd alkohol og syre kan reaksjonen gå videre til acetal). Laktose (Gal-β(1→4)-Glc) har fri anomer OH på glukosen og er reduserende.
+  - n: "5.62"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/navnsetting/aromatiske-forbindelser]
+    type: single
+    points: 1
+    stem: |
+      Hva er navnet på strukturen vist på figuren?
+
+      ```smiles
+      [O-][N+](=O)c1cccc(Cl)c1
+      ```
+    options: [Meta-kloronitrobenzen, Ingen av alternativene, Para-kloronitrobenzen, Ortho-kloronitrobenzen]
+    answer: [0]
+    explanation: |
+      Substituentene sitter på C1 og C3 i benzenringen (1,3-disubstituert) = meta. Orto er 1,2 og para 1,4. Systematisk navn – 1-klor-3-nitrobenzen.
+  - n: "5.63"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/enantiomerer-diastereomerer-meso]
+    type: single
+    points: 1
+    stem: |
+      Hvor mange stereoisomerer kan et molekyl med n asymmetriske sentre maksimalt lage?
+    options: ["$2n$", "$2^{n-1}$", "$2n-1$", "$2^n$"]
+    answer: [3]
+    explanation: |
+      Hvert stereosenter kan være R eller S → maksimalt $2^n$ stereoisomerer (færre hvis det finnes meso-former).
+  - n: "5.64"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/kiralitet-og-r-s]
+    type: single
+    points: 1
+    stem: |
+      Hvor mange ulike grupper må et karbonatom ha knyttet til seg for å være stereogent?
+    options: ["3", "2", "4", "1"]
+    answer: [2]
+    explanation: |
+      Et sp³-karbon med fire forskjellige substituenter er et stereosenter (kiralt senter).
+  - n: "5.65"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/enantiomerer-diastereomerer-meso]
+    type: single
+    points: 1
+    stem: |
+      *(Fischer-projeksjon, ovenfra og ned: $\ce{CO2H}$; HO–C–H; HO–C–H; $\ce{CO2H}$ – vinsyre med begge OH-grupper på samme side.)*
+
+      Molekylet er en meso-forbindelse.
+    figure: Fischer-projeksjon av meso-vinsyre.
+    options: [Sant, Usant]
+    answer: [0]
+    explanation: |
+      Med begge OH på samme side har molekylet et indre speilplan (mellom C2 og C3); de to stereosentrene er R og S og opphever hverandre – meso-vinsyre, optisk inaktiv.
+  - n: "5.66"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/kiralitet-og-r-s]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: kilestrek-tegning av 3-metylheksan. Sentralt C med $\ce{CH3}$ rett opp, $\ce{CH2CH2CH3}$ ned mot venstre (i planet), H på stiplet kile (bak) mot høyre og $\ce{CH2CH3}$ på fylt kile (frem) ned mot høyre.)*
+
+      Molekylet på figuren har en R-konfigurasjon.
+    figure: Kilestrek-formel av 3-metylheksan som beskrevet i teksten.
+    options: [Sant, Usant]
+    answer: [1]
+    explanation: |
+      Prioritet propyl > etyl > metyl > H. H peker bakover; propyl (venstre) → etyl (ned mot høyre) → metyl (opp) går mot klokka → **S**, så påstanden er usann.
+  - n: "5.67"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider]
+    type: single
+    points: 1
+    stem: |
+      Hva er felles for maltose, laktose og sukrose?
+    options:
+      - De har 1,2 anomerisk link mellom to enkle sukkerenheter
+      - De er monosakkarider
+      - De er reduserende
+      - De er disakkarider
+    answer: [3]
+    explanation: |
+      Alle tre er disakkarider. Bare sukrose har 1↔2-binding og er ikke-reduserende; maltose og laktose har 1→4-binding og er reduserende.
+  - n: "5.68"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/kiralitet-og-r-s, organisk-kjemi/navnsetting/stereodeskriptorer]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: kilestrek-tegning. Sentralt C med Br rett opp, $\ce{CH2CH2CH3}$ ned mot venstre (i planet), $\ce{CH3}$ på stiplet kile (bak) mot høyre og H på fylt kile (frem) ned mot høyre.)*
+
+      Hva er navnet på forbindelsen?
+    figure: Kilestrek-formel av 2-brompentan som beskrevet i teksten.
+    options: [(R)-4-Bromopentan, (R)-2-Bromopentan, (S)-2-Bromobutan, (S)-2-Bromopentan]
+    answer: [1]
+    explanation: |
+      Kjeden er CH₃–CH(Br)–CH₂CH₂CH₃ = 2-brompentan (lavest mulig nummer, ikke 4-). Prioritet Br > propyl > metyl > H. H peker mot betrakteren; Br → propyl → metyl går mot klokka, snus → **R**.
+  - n: "5.69"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/isomeri-og-konformasjon, organisk-kjemi/navnsetting/stereodeskriptorer]
+    type: single
+    points: 1
+    stem: |
+      *(Figur: C=C der venstre karbon bærer $\ce{CH2OH}$ (opp) og CHO (skrevet «COH», ned), og høyre karbon bærer Br (opp) og $\ce{CH2CH2CH3}$ (ned).)*
+
+      Forbindelsen på bildet er av typen...
+    figure: Tetrasubstituert alken med CH2OH/CHO på det ene og Br/propyl på det andre karbonet.
+    options: [...Z, ...E, ...Cis, ...Trans]
+    answer: [1]
+    explanation: |
+      CIP på venstre karbon – CHO (O,O,H) > $\ce{CH2OH}$ (O,H,H), så CHO (ned) har høyest prioritet. På høyre karbon – Br > propyl, så Br (opp). Høyest prioriterte grupper på motsatt side → **E**. Cis/trans brukes ikke for tetrasubstituerte alkener.

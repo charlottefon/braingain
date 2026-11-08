@@ -1,0 +1,1168 @@
+title: MEDOD1 vår 2019
+year: 2019
+term: vår
+source: medod1/exams/2019-medod1-ny-v2019-med-svar--2098874.pdf
+note: Konte-/ny eksamen (MEDOD1 NY vår 2019). Oppgave 1.1–1.12 (akuttmedisin/førstehjelp) er utelatt.
+questions:
+  - n: "2.1"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker, samfunnsmedisin/kortsvar/ovelse-livslopsperspektivet]
+    type: text
+    points: 8
+    stem: Nevn ulike faktorer som kan bidra til at sosiale ulikheter i helse overføres fra generasjon til generasjon.
+    model: |
+      - Helseforskjeller i voksen alder skyldes i stor grad forskjeller i materielle, psykososiale og atferdsrelaterte risikofaktorer i fosterliv og barndom.
+      - Forhold i svangerskapet, som dårlig ernæringstilstand hos mor, bidrar til prematur sykdomsutvikling hos barnet og gjør det mer sårbart for ytre påkjenninger.
+      - Epigenetiske forandringer: uttrykket av gener kan modifiseres av kjemiske forandringer i DNA og i proteinene DNA pakkes rundt, under befruktning, fosterutvikling og perinatalt. For eksempel kan eksponeringer foreldrene har vært utsatt for (som røyking) gi epigenetiske forandringer som øker risikoen for allergi og astma hos barna.
+      - Sosial læring: foreldre er rollemodeller for barn når det gjelder helsevaner og valg av utdanning.
+      - Utdanning: foreldre med lav utdanning har dårligere forutsetninger for å hjelpe barna med skolearbeid, og barna får dermed dårligere forutsetninger for å gjøre det bra på skolen.
+      - Oppvekstmiljø:
+        - *Fysisk:* barns eksponering for støv, lukt, støy og annen forurensning er ulikt fordelt etter foreldrenes utdanning og inntekt, og påvirker sykdomsrisikoen.
+        - *Psykisk:* foreldrenes sosioøkonomiske status påvirker barnas psykososiale miljø; andelen barn og unge i skilsmissefamilier er større i lavere sosiale lag.
+      - Ressursknapphet og helseproblemer kan gjensidig forsterke hverandre over livsløpet.
+    modelSource: Sensorveiledning
+  - n: "2.2"
+    subject: samfunnsmedisin
+    topics: [samfunnsmedisin/temaer/sosial-ulikhet-arsaker, samfunnsmedisin/kortsvar/ovelse-livslopsperspektivet]
+    type: text
+    points: 3
+    stem: Hva handler Forsdal-Barkerhypotesen om?
+    model: |
+      - Kalles også **programmeringshypotesen**: forhold i svangerskapet og i spedbarnsalderen kan gi prematur sykdomsutvikling senere i livet.
+      - Forsdahl tok utgangspunkt i levekårene i barne- og ungdomsårene; Barker viste at det samme gjaldt når en tok utgangspunkt i miljøet i fosterlivet og ernæringssituasjonen i første leveår.
+      - Dårlig ernæring i fosterlivet og de første leveårene gir økt risiko for overvekt, diabetes og hjerte- og karsykdom senere i livet. Sannsynligvis blir fosterets metabolisme innstilt på en næringsfattig verden og tar godt vare på enhver kalori – det øker risikoen for overvekt når næringstilgangen blir normal.
+    modelSource: Sensorveiledning
+  - n: "3.1"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/tumor-benignus, nomenklatur/grammatikk/adnominal-genitiv]
+    type: single
+    points: 1
+    stem: "Oversett til norsk: tumor benignus abdominis"
+    options: [Godartet svulst i bukhulen, Godartet svulst i hjernen, Ondartet svulst i bukhulen, Ondartet svulst i hjernen]
+    answer: [0]
+    explanation: Tumor = svulst, benignus = godartet (malignus = ondartet), abdominis = genitiv av abdomen (buk).
+  - n: "3.2"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-n, nomenklatur/ordliste]
+    type: single
+    points: 1
+    stem: "Oversett til norsk: ulcus cruris"
+    options: [diabetisk sår, leggsår, sår på tolvfingertarmen, sår på magesekken]
+    answer: [1]
+    explanation: Crus, cruris (3N) = legg. Sår på tolvfingertarmen er ulcus duodeni, sår på magesekken ulcus ventriculi.
+  - n: "3.3"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/genu-dextrum]
+    type: single
+    points: 1
+    stem: "Oversett til norsk: genu dextrum"
+    options: [venstre fot, høyre legg, venstre albue, høyre kne]
+    answer: [3]
+    explanation: Genu (4N) = kne, dexter/dextra/dextrum = høyre (intetkjønnsform fordi genu er intetkjønn).
+  - n: "3.4"
+    subject: nomenklatur
+    topics: [nomenklatur/ordliste, nomenklatur/grammatikk/tredje-deklinasjon-m-f]
+    type: single
+    points: 1
+    stem: "Oversett til norsk: musculus tractor"
+    options: [bøyemuskel, tyggemuskel, trekkemuskel, strekkemuskel]
+    answer: [2]
+    explanation: Tractor (av trahere = trekke) = trekker. Bøyemuskel er flexor, strekkemuskel extensor, tyggemuskel masseter.
+  - n: "3.5"
+    subject: nomenklatur
+    topics: [nomenklatur/ordliste, nomenklatur/grammatikk/forste-og-andre-deklinasjon]
+    type: single
+    points: 1
+    stem: "Oversett til norsk: cauda"
+    options: [hode, hale, bark, årsak]
+    answer: [1]
+    explanation: Cauda (1F) = hale (jf. cauda equina). Hode er caput, bark cortex, årsak causa.
+  - n: "3.6"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-1-2-og-perfektum-partisipp]
+    type: single
+    points: 1
+    stem: Hvilket av følgende uttrykk inneholder et perfektum partisipp?
+    options: [nervus recurrens, caries dentium, cancer operatus, os pisiforme]
+    answer: [2]
+    explanation: Operatus («operert») er perfektum partisipp av operare og bøyes som et 1+2-adjektiv. Recurrens er presens partisipp, dentium er gen pl av dens, og pisiforme er et 3. deklinasjons adjektiv.
+  - n: "3.7"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-3-deklinasjon-og-presens-partisipp, nomenklatur/uttrykk/ulcus-perforans]
+    type: single
+    points: 1
+    stem: Hvilket av følgende uttrykk inneholder et presens partisipp?
+    options: [manus dextra, testis laesus, prostata integer, ulcus perforans]
+    answer: [3]
+    explanation: Perforans («gjennombrytende») har presens partisipp-endelsen -ns, gen -ntis. Laesus er perfektum partisipp; dextra og integer er vanlige adjektiv.
+  - n: "3.8"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f, nomenklatur/grammatikk/introduksjon-og-grunnbegreper]
+    type: single
+    points: 1
+    stem: Hva er bøyningsstammen til substantivet meningitis, meningitidis, 3F?
+    options: [meningitid-, meningitis-, meningit-, mening-]
+    answer: [0]
+    explanation: Bøyningsstammen finnes ved å ta bort genitivsendelsen -is fra genitiv entall – meningitid-is → meningitid-.
+  - n: "3.9"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/komparasjon]
+    type: single
+    points: 1
+    stem: Hvilket av følgende uttrykk inneholder et adjektiv i komparativ?
+    options: [ligamentum anterius, tumor cerebri, functio laesa, status gravis]
+    answer: [0]
+    explanation: Anterior, anterius (komparativ, -ior/-ius) = fremre. Intetkjønn -ius passer til ligamentum. Laesa er perfektum partisipp og gravis et positivt adjektiv.
+  - n: "3.10"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-n]
+    type: single
+    points: 1
+    stem: Hva er bøyningsstammen til substantivet genus, generis, 3N = art, slag?
+    options: [gener-, genu-, gen-, gene-]
+    answer: [0]
+    explanation: Gener-is minus -is gir stammen gener- (genus, generis – samme mønster som corpus, corporis og tempus, temporis).
+  - n: "3.11"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-n]
+    type: single
+    points: 1
+    stem: Hva heter tempus i genitiv flertall?
+    options: [temporibus, temporum, temporis, temporium]
+    answer: [1]
+    explanation: Tempus, temporis (3N, konsonantstamme) → gen pl stamme + -um = temporum. -ium brukes bare for i-stammer.
+  - n: "3.12"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f, nomenklatur/uttrykk/musculus-flexor-hallucis-longus]
+    type: single
+    points: 1
+    stem: Hva heter hallux i ablativ entall?
+    options: [halluce, hallucis, hallucem, hallucibus]
+    answer: [0]
+    explanation: Hallux, hallucis (3M) – abl sg = stamme halluc- + -e. Hallucis er gen sg, hallucem akk sg og hallucibus dat/abl pl.
+  - n: "3.13"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/ganglion-superius, nomenklatur/grammatikk/komparasjon]
+    type: single
+    points: 1
+    stem: Hva heter ganglion superius i nominativ flertall?
+    options: [ganglii superiori, gangliones superiores, ganglia superiora, gangliae superiores]
+    answer: [2]
+    explanation: Ganglion (gresk 2N) → ganglia; superius er komparativ intetkjønn (stamme superior-), og intetkjønn har nom pl -a → superiora.
+  - n: "3.14"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/fjerde-og-femte-deklinasjon, nomenklatur/uttrykk/genu-dextrum]
+    type: single
+    points: 1
+    stem: Hva heter genu i akkusativ flertall?
+    options: [genua, genus, genuum, genum]
+    answer: [0]
+    explanation: Genu, genus (4N) – intetkjønn har nom = akk, og flertall ender på -a → genua. Genus er gen sg, genuum gen pl.
+  - n: "3.15"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-n, nomenklatur/uttrykk/foramen-ovale]
+    type: single
+    points: 1
+    stem: Hva heter foramen i genitiv flertall?
+    options: [foramina, foraminum, foraminium, foraminis]
+    answer: [1]
+    explanation: Foramen, foraminis (3N, konsonantstamme) → gen pl foraminum. Foramina er nom/akk pl, foraminis gen sg.
+  - n: "3.16"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f]
+    type: single
+    points: 1
+    stem: "Angi kjønn og deklinasjon: cholelithiasis"
+    options: [3M, 2M, 3F, 1F]
+    answer: [2]
+    explanation: Ord på -iasis (gen -iasis) og andre greske -sis-ord er 3. deklinasjon hunkjønn.
+  - n: "3.17"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f]
+    type: single
+    points: 1
+    stem: "Angi kjønn og deklinasjon: thorax"
+    options: [4M, 3N, 3F, 3M]
+    answer: [3]
+    explanation: Thorax, thoracis er 3. deklinasjon hankjønn (som pharynx og larynx).
+  - n: "3.18"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/tredje-deklinasjon-m-f]
+    type: single
+    points: 1
+    stem: "Angi kjønn og deklinasjon: graviditas"
+    options: [3F, 3M, 1F, 2M]
+    answer: [0]
+    explanation: Ord på -tas, -tatis (graviditas, graviditatis) er 3. deklinasjon hunkjønn.
+  - n: "3.19"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/fjerde-og-femte-deklinasjon]
+    type: single
+    points: 1
+    stem: "Angi kjønn og deklinasjon: status"
+    options: [4M, 3N, 3M, 2M]
+    answer: [0]
+    explanation: Status, status (gen sg -us) er 4. deklinasjon hankjønn – ikke 2. deklinasjon, selv om nominativ ender på -us.
+  - n: "3.20"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/forste-og-andre-deklinasjon, nomenklatur/uttrykk/fractura-simplex]
+    type: single
+    points: 1
+    stem: "Angi kjønn og deklinasjon: fractura"
+    options: [2N, 3N, 1F, 3F]
+    answer: [2]
+    explanation: Fractura, fracturae er 1. deklinasjon hunkjønn.
+  - n: "3.21"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-1-2-og-perfektum-partisipp]
+    type: single
+    points: 1
+    stem: "Oversett til latin: dyp arterie"
+    options: [arteria profundus, arteria profundum, arteria profunda, arteria profundis]
+    answer: [2]
+    explanation: Arteria er hunkjønn, så adjektivet profundus, -a, -um må stå i hunkjønnsform – arteria profunda.
+  - n: "3.22"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adjektiv-3-deklinasjon-og-presens-partisipp, nomenklatur/grammatikk/tredje-deklinasjon-n]
+    type: single
+    points: 1
+    stem: "Oversett til latin: erteformet bein"
+    options: [os pisiformium, os pisiforme, os pisiformis, os pisiformus]
+    answer: [1]
+    explanation: Os, ossis er 3N, og pisiformis, -e er et 3. deklinasjons adjektiv med to endelser (M/F -is, N -e) → os pisiforme.
+  - n: "3.23"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/status-gravis-post-commotionem-cerebri]
+    type: single
+    points: 1
+    stem: "Oversett til latin: alvorlig tilstand etter hjernerystelse"
+    options:
+      - status grave post commotio cerebri
+      - status gravis post commotionem cerebri
+      - status gravis post commotio cerebrum
+      - status grave post commotione cerebrum
+    answer: [1]
+    explanation: Status er hankjønn → gravis (M). Preposisjonen post styrer akkusativ → commotionem. «Hjerne-» uttrykkes som genitiv av cerebrum → cerebri.
+  - n: "3.24"
+    subject: nomenklatur
+    topics: [nomenklatur/grammatikk/adnominal-genitiv, nomenklatur/grammatikk/adjektiv-1-2-og-perfektum-partisipp, nomenklatur/grammatikk/tredje-deklinasjon-m-f]
+    type: single
+    points: 1
+    stem: "Oversett til latin: akutt blindtarmbetennelse"
+    options: [appendix acutus, appendicitis acutis, appendix acuta, appendicitis acuta]
+    answer: [3]
+    explanation: Betennelse = -itis (appendicitis, 3F); adjektivet må være hunkjønn nominativ → acuta. Appendix alene er blindtarmen, ikke betennelsen.
+  - n: "3.25"
+    subject: nomenklatur
+    topics: [nomenklatur/uttrykk/ulcus-duodeni]
+    type: single
+    points: 1
+    stem: "Oversett til latin: sår på tolvfingertarmen"
+    options: [ulcus cruris, ulcus duodeni, ulcus ventriculi, ulcus diabeticum]
+    answer: [1]
+    explanation: Duodenum (2N) = tolvfingertarm, genitiv duodeni. Ventriculi = magesekkens, cruris = leggens.
+  - n: "4.1"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/loselighet-og-komplekser, generell-kjemi/regnetyper/kompleksdannelse-og-loselighet]
+    type: single
+    points: 1
+    stem: Medisinstudenten Jens har 100 ml av en mettet vannløsning av AgCl. Hvordan kan han øke løseligheten til AgCl?
+    options: [Ved å tilsette mer AgCl(s)., Ved å tilsette NaCl., Ved å minke pH., 'Ved å tilsette ammoniakk ($\ce{NH3}$).']
+    answer: [3]
+    explanation: NH₃ danner komplekset Ag(NH₃)₂⁺, som fjerner fritt Ag⁺, og likevekten AgCl(s) ⇌ Ag⁺ + Cl⁻ forskyves mot høyre. NaCl senker løseligheten (fellesioneffekt), mer fast stoff endrer ingenting, og Cl⁻ er en ekstremt svak base, så pH har praktisk talt ingen effekt.
+  - n: "4.2"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/reaksjoner-og-radioaktivitet, generell-kjemi/teori/atomer-og-elektroner]
+    type: single
+    points: 1
+    stem: Ulike isotoper av det samme elementet har...
+    options: ["...forskjellig antall elektroner.", "...forskjellig atomtall.", "...forskjellig antall protoner.", "...forskjellig antall nøytroner."]
+    answer: [3]
+    explanation: Isotoper har samme antall protoner (samme atomnummer og grunnstoff), men ulikt antall nøytroner og dermed ulikt massetall.
+  - n: "4.3"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/syre-base-likevekter, generell-kjemi/regnetyper/ph-svak-base-og-salt]
+    type: single
+    points: 1
+    stem: 'For en svak syre er $K_a = 1{,}0 \times 10^{-4}$. Hva er $pK_b$ for dens konjugerte base?'
+    options: ['$1{,}0 \times 10^{-10}$', '$1{,}0 \times 10^{-14}$', "4", "10"]
+    answer: [3]
+    explanation: $pK_a = 4$, og $pK_a + pK_b = 14$ gir $pK_b = 10$. $1{,}0 \times 10^{-10}$ er $K_b$, ikke $pK_b$.
+  - n: "4.4"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/kombinere-likevektskonstanter]
+    type: single
+    points: 2
+    stem: |
+      Vi har følgende to reaksjoner:
+      A + B ⇌ C (reaksjon 1)
+      2 C ⇌ D + E (reaksjon 2)
+      Vi kan måle likevektskonstantene til begge reaksjonene:
+      $K_c = 0.5$ (reaksjon 1)
+      $K_c = 100$ (reaksjon 2)
+      Hva blir da likevektskonstanten til følgende reaksjon:
+      2 A + 2 B ⇌ D + E
+    options: ["5000", "101", "50", "25"]
+    answer: [3]
+    explanation: Reaksjon 1 multiplisert med 2 gir $K = 0{,}5^2 = 0{,}25$. Summen med reaksjon 2 gir produktet av K-ene – $0{,}25 \times 100 = 25$.
+  - n: "4.5"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/flerprotiske-syrer-og-aminosyrer, generell-kjemi/regnetyper/isoelektrisk-punkt]
+    type: single
+    points: 1
+    stem: "Ved det isoelektriske punktet til et molekyl:"
+    options: ['pH = $pK_a$', "pH = 7", '$K_c = 0$', "elektrisk nettoladning = 0"]
+    answer: [3]
+    explanation: pI er den pH der molekylet i gjennomsnitt har netto ladning null. Det er gjennomsnittet av de to pKa-verdiene rundt den nøytrale formen, ikke én pKa og ikke nødvendigvis 7.
+  - n: "4.6"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/ph-og-h3o-omregning]
+    type: single
+    points: 1
+    stem: |
+      pH 7,4 i blod tilsvarer 40 nM hydroniumioner ($\ce{H3O+}$).
+      Hvilken hydroniumionkonsentrasjon ($\ce{H3O+}$) tilsvarer pH 7,1 i blod?
+    options: ["0,8 µM", "16 nM", "80 nM", "40 µM"]
+    answer: [2]
+    explanation: $[\ce{H3O+}] = 10^{-7{,}1} = 7{,}9 \times 10^{-8}$ M ≈ 80 nM. pH-fall på 0,3 tilsvarer en dobling ($10^{0{,}3} \approx 2$), altså 40 nM × 2.
+  - n: "4.7"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/buffere]
+    type: single
+    points: 1
+    stem: En buffer er...
+    options:
+      - en blanding av en svak syre og dens konjugerte base.
+      - en blanding av en sterk syre og en sterk base.
+      - en løsning av en sterk syre ved lav konsentrasjon.
+      - en blanding av en svak syre og en sterk syre.
+    answer: [0]
+    explanation: Et korresponderende syre–base-par i sammenlignbare mengder kan nøytralisere både tilsatt H₃O⁺ (via basen) og OH⁻ (via syren), slik at pH holder seg omtrent konstant.
+  - n: "4.8"
+    subject: generell-kjemi
+    topics: [cellebiologi/sammensatte-tema/saliva-og-salivas-kjemi, generell-kjemi/teori/buffere]
+    type: single
+    points: 1
+    stem: Mange drikker og matvarer kan skade tannemaljen. Hvilken av de følgende er den verste kombinasjonen for tennene?
+    options: [høy pH og lav bufferkapasitet, lav pH og høy bufferkapasitet, lav pH og lav bufferkapasitet, høy pH og høy bufferkapasitet]
+    answer: [1]
+    explanation: Lav pH løser opp hydroksyapatitt. Høy bufferkapasitet gjør at spyttet (HCO₃⁻) bruker lang tid på å nøytralisere syren, så den lave pH-en varer lenger i munnen.
+  - n: "4.9"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/protolyttfordeling, generell-kjemi/teori/flerprotiske-syrer-og-aminosyrer]
+    type: single
+    points: 1
+    stem: |
+      Fosforsyre ($\ce{H3PO4}$) er triprotisk og har følgende likevektskonstanter til de tre protolysereaksjonene:
+      $K_{a1} = 6{,}9 \times 10^{-3}$
+      $K_{a2} = 6{,}2 \times 10^{-8}$
+      $K_{a3} = 4{,}8 \times 10^{-13}$
+      Hva er den dominerende protolyttformen ved pH = 8?
+    options: ['$\ce{H2PO4-}$', '$\ce{H3PO4}$', '$\ce{PO4^3-}$', '$\ce{HPO4^2-}$']
+    answer: [3]
+    explanation: pKa-verdiene er 2,16, 7,21 og 12,32. pH 8 ligger mellom pKa2 og pKa3, så HPO₄²⁻ dominerer (forholdet HPO₄²⁻/H₂PO₄⁻ = $10^{8-7{,}21} \approx 6$).
+  - n: "4.10"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/standard-cellepotensial]
+    type: single
+    points: 1
+    stem: |
+      For en galvanisk celle har vi følgende reaksjon:
+      $\ce{Zn(s) + Cu^2+ -> Zn^2+ + Cu(s)}$
+      Standard reduksjonspotensial for halvcellereaksjonene er:
+      $\ce{Zn^2+ + 2e- -> Zn(s)}$  −0.763 V
+      $\ce{Cu^2+ + 2e- -> Cu(s)}$  +0.377 V
+      Hva er standard cellepotensiale for denne galvaniske cellen?
+    options: ["+1.140 V", "-1.140 V", "-0.386 V", "+0.386 V"]
+    answer: [0]
+    explanation: Cu²⁺ reduseres (katode), Zn oksideres (anode) – $E^\circ_\text{cell} = 0{,}377 - (-0{,}763) = +1{,}140$ V. En galvanisk celle har alltid positiv $E^\circ_\text{cell}$. (Tabellverdien for Cu²⁺/Cu er egentlig +0,337 V, som gir 1,100 V – men regn med oppgitte tall.)
+  - n: "4.11"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/syrer-baser-og-ph, generell-kjemi/teori/syre-base-likevekter]
+    type: single
+    points: 1
+    stem: |
+      Vann er et amfolytt. Hvor mange av de følgende utsagnene relatert til vannets egendissosiasjon er riktig?
+
+      - $pK_w = pK_a + pK_b$
+      - $K_w = [\ce{H3O+}][\ce{OH-}]$
+      - $K_w = 14$
+      - $K_w = -\log[\ce{H2O}]$
+    options: ["3", "2", "1", "4"]
+    answer: [1]
+    explanation: De to første stemmer. $K_w = 1{,}0 \times 10^{-14}$ (det er $pK_w$ som er 14), og $K_w$ har ingenting med $-\log[\ce{H2O}]$ å gjøre.
+  - n: "4.12"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/flerprotiske-syrer-og-aminosyrer, cellebiologi/sammensatte-tema/multippel-sklerose-og-myelin]
+    type: single
+    points: 1
+    stem: |
+      Det isoelektriske punktet til proteinet MBP i nervesystemets myelinmembran er 11.
+      Hva kan man si om elektrisk nettoladning til MBP ved nøytral pH (pH = 7)?
+    options: [Nettoladning er 0., Umulig å si., Nettoladning er positiv., Nettoladning er negativ.]
+    answer: [2]
+    explanation: pH < pI betyr at proteinet er mer protonert enn ved pI og har netto positiv ladning. MBP er rikt på Lys/Arg og binder seg til negativt ladde lipider i myelinmembranen.
+  - n: "4.13"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/atomer-og-elektroner]
+    type: single
+    points: 1
+    stem: Grunnstoffene innen samme gruppe i det periodiske system har...
+    options: [lignende kjemiske egenskaper, identiske orbitaler, lignende massetall, samme antall elektroner]
+    answer: [0]
+    explanation: Samme gruppe betyr samme antall valenselektroner og lik valenselektronkonfigurasjon, og det gir lignende kjemi. Totalt antall elektroner og massetall øker nedover i gruppen.
+  - n: "4.14"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/termodynamikk, generell-kjemi/regnetyper/gibbs-fri-energi]
+    type: single
+    points: 1
+    stem: |
+      En professor analyserer en viktig biokjemisk reaksjon med hjelp av kalorimetri. Hun måler de følgende verdiene:
+      $\Delta H = +8{,}0$ kcal/mol
+      $\Delta S = -28$ cal/(mol K)
+      Hva kan vi si om reaksjonen basert på dette?
+    options:
+      - Reaksjonen er endergon og endoterm.
+      - Reaksjonen er endergon og eksoterm.
+      - Reaksjonen er eksergon og eksoterm.
+      - Reaksjonen er eksergon og endoterm.
+    answer: [0]
+    explanation: ΔH > 0 → endoterm. ΔS < 0 gjør $-T\Delta S$ positiv, så $\Delta G > 0$ ved alle temperaturer (ved 298 K – 8,0 + 8,3 = +16,3 kcal/mol) → endergon.
+  - n: "4.15"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/intermolekylaere-krefter]
+    type: single
+    points: 1
+    stem: Hvilken av disse er IKKE en intermolekylær kraft?
+    options: [En hydrogenbinding, Dipol-dipolkraft, Dispersjonskraft, En kovalent binding]
+    answer: [3]
+    explanation: En kovalent binding er en intramolekylær binding (delte elektronpar innen molekylet). Hydrogenbindinger, dipol–dipol- og dispersjonskrefter virker mellom molekyler.
+  - n: "4.16"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/titrering-aminosyre, proteiner/aminosyrer/alanin]
+    type: single
+    points: 2
+    stem: |
+      Vi har 50,0 ml med 0,1 M protonert alanin ($\ce{H2A+}$). Vi titrerer med 0,1 M NaOH.
+      $K_{a1} = 4{,}6 \times 10^{-3}$
+      $K_{a2} = 2{,}0 \times 10^{-10}$
+      Beregn pH etter tilsetting av 70 ml NaOH.
+    options: ["9,88", "2,71", "2,16", "9,52"]
+    answer: [3]
+    explanation: |
+      n(H₂A⁺) = 5,0 mmol, n(OH⁻) = 7,0 mmol. Etter 5,0 mmol er alt omdannet til HA (zwitterion). Overskuddet på 2,0 mmol gir 2,0 mmol A⁻, mens 3,0 mmol HA er igjen.
+      $pK_{a2} = -\log(2{,}0 \times 10^{-10}) = 9{,}70$, og $pH = 9{,}70 + \log\dfrac{2{,}0}{3{,}0} = 9{,}70 - 0{,}18 = 9{,}52$.
+  - n: "4.17"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/kjemisk-likevekt]
+    type: single
+    points: 1
+    stem: |
+      Den kjemiske reaksjonen
+      A + B ⇌ C + D
+      har nådd likevekt.
+      Hva kan man si om reaksjonen?
+    options:
+      - Konsentrasjonen til molekyl A er lik konsentrasjonen til molekyl C.
+      - Aktiveringsenergien er 0.
+      - Hastigheten til foroverreaksjonen er lik hastigheten til bakoverreaksjonen.
+      - Likevektskonstanten til foroverreaksjonen er lik likevektskonstanten til bakoverreaksjonen.
+    answer: [2]
+    explanation: Likevekt er dynamisk – fram- og tilbakereaksjonen går like fort, så konsentrasjonene er konstante (ikke like). K for bakoverreaksjonen er 1/K for foroverreaksjonen.
+  - n: "4.18"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/losninger-og-konsentrasjon, generell-kjemi/regnetyper/osmolaritet-ekvivalenter-ionestyrke]
+    type: single
+    points: 1
+    stem: Isotoniske oppløsninger har...
+    options: ["...samme pH", "...samme p(CO2)", "...samme elektrolyttkonsentrasjon", "...samme osmolaritet"]
+    answer: [3]
+    explanation: Isotonisk betyr samme osmotiske trykk, dvs. samme osmolaritet (totalkonsentrasjon av osmotisk aktive partikler).
+  - n: "4.19"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/karbonsyre-og-blodets-ph, generell-kjemi/regnetyper/henderson-hasselbalch, cellebiologi/sammensatte-tema/blodets-ph-regulering-og-hyperventilering]
+    type: single
+    points: 1
+    stem: |
+      Biologistudenten Anna forbereder seg til semestereksamen. Sammen med vennen hennes hypoventilerer hun, og dermed øker $[\ce{H2CO3}]$ i blodet hennes fra 1,2 mM til 2,0 mM. Blodets $[\ce{HCO3-}]$ forblir stabil ved 24 mM.
+      $pK_a$ til karbonsyre ved fysiologiske betingelser er 6,1.
+      Hva blir pH i Annas blod?
+    options: ["7,2", "6,2", "5,0", "7,0"]
+    answer: [0]
+    explanation: |
+      $pH = 6{,}1 + \log\dfrac{24}{2{,}0} = 6{,}1 + \log 12 = 6{,}1 + 1{,}08 = 7{,}18 \approx 7{,}2$ (respiratorisk acidose; før var pH = 6,1 + log 20 = 7,4).
+  - n: "4.20"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/termodynamikk]
+    type: single
+    points: 1
+    stem: For en eksoterm reaksjon, hva av det følgende gjelder alltid?
+    options: ['$\Delta H < 0$', '$\Delta S < 0$', '$\Delta G < 0$', '$\Delta T < 0$']
+    answer: [0]
+    explanation: Eksoterm betyr per definisjon at varme avgis, ΔH < 0. ΔG < 0 (spontan) følger ikke automatisk, det avhenger også av ΔS og T.
+  - n: "4.21"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/intermolekylaere-krefter]
+    type: single
+    points: 1
+    stem: Hvor mange hydrogenbindinger deltar et vannmolekyl normalt i?
+    options: ["3", "4", "2", "1"]
+    answer: [1]
+    explanation: Hvert vannmolekyl har to O–H (to donorer) og to frie elektronpar på O (to akseptorer), og kan derfor delta i inntil fire hydrogenbindinger (tetraedrisk nettverk i is).
+  - n: "4.22"
+    subject: generell-kjemi
+    topics: [generell-kjemi/teori/kjemisk-likevekt, proteiner/teori/enzymkatalyse]
+    type: single
+    points: 1
+    stem: |
+      For å påvirke en viktig kjemisk reaksjon, bruker en ingeniør en katalysator.
+      Hvilket utsagn stemmer?
+    options:
+      - Katalysatoren øker aktiveringsenergien.
+      - Katalysatoren omdanner en endergonisk reaksjon til en eksergonisk reaksjon.
+      - Katalysatoren gjør reaksjonen raskere.
+      - Katalysatoren øker likevektskonstanten.
+    answer: [2]
+    explanation: En katalysator senker aktiveringsenergien og øker hastigheten i begge retninger, men endrer verken ΔG eller K – likevekten nås bare raskere.
+  - n: "4.23"
+    subject: generell-kjemi
+    topics: [cellebiologi/sammensatte-tema/blodets-ph-regulering-og-hyperventilering, generell-kjemi/teori/karbonsyre-og-blodets-ph]
+    type: single
+    points: 1
+    stem: Hyperventilering kan forårsake...
+    options: [Respiratorisk alkalose, Metabolsk alkalose, Metabolsk acidose, Respiratorisk acidose]
+    answer: [0]
+    explanation: Økt utlufting av CO₂ senker [H₂CO₃], så [H⁺] faller og pH stiger. Årsaken er pusten, så det er en respiratorisk alkalose.
+  - n: "4.24"
+    subject: generell-kjemi
+    topics: [cellebiologi/sammensatte-tema/blodets-ph-regulering-og-hyperventilering, proteiner/teori/myoglobin-og-hemoglobin]
+    type: single
+    points: 1
+    stem: |
+      Hyperventilering fører til endringer i funksjonene til proteinene serumalbumin og hemoglobin.
+      Velg det riktige alternativet.
+    options:
+      - Albumin binder mer kalsium, og hemoglobin har høyere affinitet mot oksygen.
+      - Albumin binder mer kalsium, og hemoglobin har lavere affinitet mot oksygen.
+      - Albumin binder mindre kalsium, og hemoglobin har lavere affinitet mot oksygen.
+      - Albumin binder mindre kalsium, og hemoglobin har høyere affinitet mot oksygen.
+    answer: [0]
+    explanation: Ved alkalose avgir albumin H⁺ og blir mer negativt ladet, så det binder mer Ca²⁺. Fritt (ionisert) Ca²⁺ faller og gir prikking/tetani. Høyere pH og lavere CO₂ gir også høyere O₂-affinitet for hemoglobin (omvendt Bohr-effekt, venstreforskyvning).
+  - n: "4.25"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/likevektskonstant-fra-konsentrasjoner]
+    type: single
+    points: 2
+    stem: |
+      Vi betrakter følgende likevekt ved 1600 °C:
+      $\ce{Br2(g) <=> 2 Br(g)}$
+
+      Når vi tar 1,05 mol $\ce{Br2}$ i en beholder med volum 0,980 liter, er det 1,20 % av det opprinnelige $\ce{Br2}$ som er spaltet ved likevekt.
+      Beregn likevektskonstanten $K_c$ for reaksjonen!
+    options: ['$6{,}4 \times 10^{-4}$', '$5{,}4 \times 10^{-4}$', '$1{,}6 \times 10^{-4}$', '$2{,}5 \times 10^{-2}$']
+    answer: [0]
+    explanation: |
+      $[\ce{Br2}]_0 = 1{,}05 / 0{,}980 = 1{,}071$ M. Spaltet: $x = 0{,}0120 \cdot 1{,}071 = 0{,}01286$ M.
+      Likevekt: $[\ce{Br}] = 2x = 0{,}02571$ M, $[\ce{Br2}] = 1{,}071 - 0{,}013 = 1{,}059$ M.
+      $K_c = \dfrac{[\ce{Br}]^2}{[\ce{Br2}]} = \dfrac{(0{,}02571)^2}{1{,}059} = \dfrac{6{,}61 \times 10^{-4}}{1{,}059} \approx 6{,}2 \times 10^{-4}$.
+      Merk: nøyaktig regning gir 6,2 × 10⁻⁴. Det offisielle svaret 6,4 × 10⁻⁴ er det nærmeste alternativet (avviket skyldes trolig avrunding).
+  - n: "4.26"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/noytralisering-sterk-syre-base, generell-kjemi/regnetyper/ph-sterk-syre-og-base]
+    type: single
+    points: 1
+    stem: |
+      Beregn pH etter at vi har blandet følgende løsninger:
+      100,0 ml 0,100 M HCl (aq) (saltsyre) og 80,0 ml 0,150 M NaOH (aq).
+    options: ["7,0", "12,44", "1,95", "12,05"]
+    answer: [3]
+    explanation: |
+      n(H₃O⁺) = 10,0 mmol, n(OH⁻) = 12,0 mmol, overskudd OH⁻ = 2,0 mmol i 180 ml.
+      $[\ce{OH-}] = 2{,}0 / 180 = 0{,}0111$ M → pOH = 1,95 → pH = 14 − 1,95 = 12,05.
+      (12,44 får du hvis du glemmer å regne med totalvolumet.)
+  - n: "4.27"
+    subject: generell-kjemi
+    topics: [generell-kjemi/regnetyper/loselighetsprodukt]
+    type: single
+    points: 1
+    stem: |
+      Løselighetsproduktet $K_{sp}$ for sølvklorid, AgCl, er $1{,}6 \times 10^{-10}$.
+      Beregn løseligheten (i M) av sølvklorid i rent vann.
+    options: ['$1{,}3 \times 10^{-5}$ M', '$1{,}6 \times 10^{-10}$ M', '$5{,}4 \times 10^{-4}$ M', '$2{,}6 \times 10^{-20}$ M']
+    answer: [0]
+    explanation: $K_{sp} = s \cdot s = s^2$, så $s = \sqrt{1{,}6 \times 10^{-10}} = 1{,}26 \times 10^{-5}$ M.
+  - n: "4.28"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider]
+    type: single
+    points: 1
+    stem: |
+      Hva er navnet på sukkeret på bildet?
+
+      Bildet: Haworth-struktur av et disakkarid – en glukopyranosering bundet via O fra C1 (α, ned) til anomert C2 i en fruktofuranosering (som har to CH₂OH-grupper).
+    options: [Glukose, Maltose, Sukrose, Laktose]
+    answer: [2]
+    explanation: Glukopyranose α(1→2) β-fruktofuranose er sukrose. Fem-ringen med to CH₂OH-grupper avslører fruktose. Maltose og laktose består av to seksringer.
+    figure: Haworth-struktur av sukrose (glukopyranose–O–fruktofuranose).
+  - n: "4.29"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/navnsetting/alkener-og-alkyner]
+    type: single
+    points: 1
+    stem: |
+      Hva er IUPAC-navnet på forbindelsen på bildet?
+
+      $\ce{CH3C#CCH2CH2CH(CH3)CH3}$
+    options: [6-Metyl-2-heptyn, 6-Metyl-2-hepten, 6-Metyl-2-heptan, 2-Metyl-6-hepten]
+    answer: [0]
+    explanation: Lengste kjede med trippelbindingen har 7 C. Nummerer fra enden nærmest trippelbindingen → C≡C mellom C2 og C3 (2-heptyn) og metyl på C6 → 6-metyl-2-heptyn (6-metylhept-2-yn).
+  - n: "4.30"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/enantiomerer-diastereomerer-meso, organisk-kjemi/grunnlag/kiralitet-og-r-s]
+    type: single
+    points: 1
+    stem: Hvilket av de følgende utsagnene er korrekt for enhver (S)-enantiomer?
+    options:
+      - Den er speilbilde av den korresponderende (R)-enantiomeren
+      - Den er en racemisk form
+      - Den roterer planpolarisert lys til venstre
+      - Den roterer planpolarisert lys til høyre
+    answer: [0]
+    explanation: R/S er en navnekonvensjon (CIP) og sier ingenting om dreieretningen (+/−), som må måles. Det eneste som alltid gjelder er at S og R er speilbilder av hverandre.
+  - n: "4.31"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/kiralitet-og-r-s, organisk-kjemi/grunnlag/enantiomerer-diastereomerer-meso]
+    type: single
+    points: 1
+    stem: |
+      Hvilket av de tre alternativene er enantiomer til strukturforbindelsen i firkanten på bildet?
+
+      Bildet: Firkanten viser et karbon med H, H (stiplet), Br (kile) og CH₃, dvs. brometan ($\ce{CH3CH2Br}$). Alternativ I, II og III viser det samme karbonet med de fire gruppene (2 × H, Br, CH₃) tegnet i ulike orienteringer.
+    options: [II, III, I, Ingen av dem.]
+    answer: [3]
+    explanation: Karbonet har to H-atomer og er derfor ikke et stereosenter – brometan er akiralt. Alle tegningene er samme molekyl, så ingen av dem er en enantiomer.
+    figure: Fire kileformler av brometan (firkant + I, II, III).
+  - n: "4.32"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/funksjonelle-grupper/fenoler, organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider, organisk-kjemi/reaksjoner/sn2-reaksjon]
+    type: single
+    points: 1
+    stem: Hvilket av utsagnene er ikke korrekt?
+    options:
+      - sykloheksanol er en sterkere syre enn fenol.
+      - 7-metyl-2-oktyl inneholder en trippelbinding.
+      - Sukrose er et ikke-reduserende disakkarid.
+      - For tertiære halider skjer ikke Sn2-reaksjonen.
+    answer: [0]
+    explanation: Fenol (pKa ≈ 10) er langt sterkere syre enn sykloheksanol (pKa ≈ 16) fordi fenoksidionet er resonansstabilisert over ringen. Merk at «7-metyl-2-oktyl» trolig skal være «-oktyn» (endelsen -yn = trippelbinding).
+  - n: "4.33"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/kiralitet-og-r-s, organisk-kjemi/navnsetting/stereodeskriptorer]
+    type: single
+    points: 1
+    stem: |
+      Hva er IUPAC-navnet på forbindelsen på bildet?
+
+      Kileformel: sentralt C med Br opp, $\ce{CH2CH2CH3}$ til venstre, H stiplet (bak) og $\ce{CH3}$ på kile (frem). Tilsvarende SMILES:
+
+      ```smiles
+      CCC[C@H](C)Br
+      ```
+    options: [(S)-2-bromopentan, (S)-2-bromoheptan, (R)-4-bromopentan, (R)-2-bromopentan]
+    answer: [0]
+    explanation: Kjeden er 5 C med Br på C2 (2-brompentan). Prioritet Br > propyl > CH₃ > H. Med H bakover går Br (opp) → propyl (venstre) → CH₃ (ned til høyre) mot klokka, altså S.
+    figure: Kileformel av (S)-2-brompentan.
+  - n: "4.34"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/hydrohalogenering]
+    type: single
+    points: 1
+    stem: 2-Metylpropen reagerer med hydrogenbromid og danner et av de følgende alternativene. Hvilket?
+    options:
+      - 80% 1-Bromo-2-metylpropan og 20 % 2-Bromo-2-metylpropan
+      - 50% 1-Bromo-2-metylpropan og 50 % 2-Bromo-2-metylpropan
+      - 2-Bromo-2-metylpropan
+      - 1-Bromo-2-metylpropan
+    answer: [2]
+    explanation: Markovnikov – H⁺ går til CH₂ og gir det tertiære karbokationet (mye mer stabilt enn primært), og Br⁻ adderes dit → 2-brom-2-metylpropan.
+  - n: "4.35"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/isomeri-og-konformasjon, organisk-kjemi/navnsetting/stereodeskriptorer]
+    type: single
+    points: 1
+    stem: |
+      Forbindelsen på bildet er av hvilken type?
+
+      Bildet: C=C der venstre karbon har $\ce{CH2OH}$ (opp) og $\ce{COH}$ (= –CHO, ned), og høyre karbon har $\ce{CH2CH2CH3}$ (opp) og Br (ned).
+    options: [Cis, Z, E, Trans]
+    answer: [1]
+    explanation: Venstre C – CHO (O,O,H) har høyere prioritet enn CH₂OH (O,H,H). Høyre C – Br har høyere prioritet enn propyl. Begge høyprioritetsgruppene står nede (samme side), altså Z. Cis/trans brukes ikke når alle fire substituentene er ulike.
+    figure: Tetrasubstituert alken (CH₂OH/CHO på ett C, propyl/Br på det andre).
+  - n: "4.36"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/sn1-reaksjon, organisk-kjemi/grunnlag/kiralitet-og-r-s]
+    type: single
+    points: 1
+    stem: |
+      Velg det alternativet nedenfor som **IKKE** er betegnende for reaksjonen på bildet.
+
+      Bildet: 3-brom-3-metylheksan (kileformel) i «aqueous acetone» danner et plant karbokation (CH₃CH₂, CH₃CH₂CH₂ og CH₃ på C⁺), som angripes av H₂O fra begge sider (−H⁺) og gir to enantiomere 3-metyl-3-heksanoler.
+    options:
+      - IUPAC-navnet til utgangsstoffet (reaktanten) er (S)-3-Bromo-3-metylhexan
+      - Produktet vil samlet sett ikke være optisk aktivt (racemisk)
+      - Dette er en Sn1 reaksjon
+      - Produktene av reaksjonen foreligger som både R og S konfigurasjon
+    answer: [0]
+    explanation: Utgangsstoffet i figuren (lærebokeksempelet) er (R)-3-brom-3-metylheksan, så S-navnet er feil. Tertiært substrat i vandig aceton gir SN1 via et plant karbokation, og vannet angriper fra begge sider → racemisk blanding av R og S.
+    figure: SN1-mekanisme for (R)-3-brom-3-metylheksan i vandig aceton.
+  - n: "4.37"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/navnsetting/alkoholer-etere-tioler-aminer, organisk-kjemi/funksjonelle-grupper/tioler]
+    type: single
+    points: 1
+    stem: Hva er IUPAC-navnet på $\ce{CH3CH=CHCH2SH}$?
+    options: [2-butan-1-tiol, 2-butan-4-tiol, 1-tiol-2-buten, 2-buten-1-tiol]
+    answer: [3]
+    explanation: SH er hovedgruppen og får lavest nummer (C1); dobbeltbindingen ligger da mellom C2 og C3 → 2-buten-1-tiol (but-2-en-1-tiol). «Butan» ville betydd ingen dobbeltbinding.
+  - n: "4.38"
+    subject: organisk-kjemi
+    topics: [lab/ovelser/karbohydrater, organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider]
+    type: single
+    points: 1
+    stem: Velg det sukkeret som gir positivt utslag på både Benedikts test og Barfoeds test.
+    options: [Maltose, D-Galaktose, Laktose, Sukrose]
+    answer: [1]
+    explanation: Barfoed (surt Cu²⁺) er positiv bare for reduserende monosakkarider innen kort tid; Benedict for alle reduserende sukkere. D-galaktose er et reduserende monosakkarid. Maltose/laktose er reduserende disakkarider (Barfoed negativ), og sukrose er ikke-reduserende.
+  - n: "4.39"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/funksjonelle-grupper/fenoler, organisk-kjemi/grunnlag/resonans-syrer-og-baser, organisk-kjemi/funksjonelle-grupper/alkoholer]
+    type: single
+    points: 1
+    stem: "Sett følgende stoffer i rekkefølge med hensyn på økende syrestyrke: p-metylfenol, sykloheksanol, fenol, p-nitrofenol og 2-klorosykloheksanol."
+    options:
+      - sykloheksanol < 2-klorosykloheksanol < fenol < p-nitrofenol < p-metylfenol
+      - fenol < p-nitrofenol < p-metylfenol < sykloheksanol < 2-klorosykloheksanol
+      - sykloheksanol < 2-klorosykloheksanol < p-metylfenol < fenol < p-nitrofenol
+      - p-metylfenol < fenol < p-nitrofenol < 2-klorosykloheksanol < sykloheksanol
+    answer: [2]
+    explanation: Alkoholer er svakere syrer enn fenoler (ingen resonansstabilisering av anionet). Cl trekker elektroner induktivt, så 2-klorsykloheksanol er litt sterkere enn sykloheksanol. Blant fenolene destabiliserer elektrondonerende CH₃ fenoksidet (svakere), mens elektrontiltrekkende NO₂ stabiliserer det ved resonans (sterkest).
+  - n: "4.40"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/funksjonelle-grupper/alkoholer, organisk-kjemi/grunnlag/isomeri-og-konformasjon]
+    type: single
+    points: 1
+    stem: 'Hvor mange ulike strukturer av tertiære alkoholer får man ut fra molekylformelen $\ce{C6H14O}$?'
+    options: ["4", "1", "2", "3"]
+    answer: [3]
+    explanation: OH må sitte på et C bundet til tre andre C. Mulighetene er 2-metyl-2-pentanol, 3-metyl-3-pentanol og 2,3-dimetyl-2-butanol – tre strukturer.
+  - n: "4.41"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/e2-reaksjon, organisk-kjemi/reaksjoner/e1-reaksjon, organisk-kjemi/reaksjoner/sn1-reaksjon]
+    type: single
+    points: 1
+    stem: Hvilket alternativ er ikke riktig?
+    options:
+      - Sn1/E1 reaksjonen favoriseres av polar, protisk løsning.
+      - E2 mekanismen er en tostegsprosess.
+      - Økt konsentrasjon av nukleofil/base øker reaksjonen av Sn2/E2
+      - Det hastighetsbestemmende steget i en E1 reaksjon er konsentrasjonen av alkylhalidet.
+    answer: [1]
+    explanation: E2 er en ett-trinns (konsertert) reaksjon der basen fjerner H samtidig som den utgående gruppen forlater. E1 er totrinns via karbokation, og hastigheten avhenger bare av [alkylhalid].
+  - n: "4.42"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/grunnlag/enantiomerer-diastereomerer-meso, organisk-kjemi/grunnlag/kiralitet-og-r-s]
+    type: single
+    points: 1
+    stem: Hvilket av alternativene er riktig?
+    options:
+      - En racemisk blanding består av like mye av to enantiomerer og gir optisk aktiv blanding.
+      - Enantiomerer har ulike akirale egenskaper
+      - Enantiomerer har like kirale egenskaper
+      - Kirale molekyler har minst ett stereogent senter.
+    answer: [3]
+    explanation: En racemisk blanding er optisk inaktiv. Enantiomerer har like akirale egenskaper (kokepunkt, løselighet), men ulike kirale egenskaper (dreining av lys, binding til enzymer). Merk at strengt tatt finnes kirale molekyler uten stereosenter (aksialkiralitet), men på dette nivået er påstanden ment som riktig.
+  - n: "4.43"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/elektrofil-aromatisk-substitusjon]
+    type: single
+    points: 1
+    stem: 'Hva blir isomer-hovedproduktet av reaksjonen mellom nitrobensen og $\ce{HONO2}$?'
+    options: [Para, Meta, Orto, Orto og para i lik mengde]
+    answer: [1]
+    explanation: NO₂ er sterkt elektrontiltrekkende og deaktiverende. Ved orto/para-angrep havner den positive ladningen i intermediatet på C-en ved siden av NO₂, så meta-angrep foretrekkes → m-dinitrobenzen.
+  - n: "4.44"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider]
+    type: single
+    points: 1
+    stem: |
+      Hva er navnet på sukkeret som er vist på figuren?
+
+      Figuren: to glukopyranoseringer (Haworth) bundet med en α(1→4)-glykosidbinding (O-broen fra C1 i venstre ring, pekende ned, til C4 i høyre ring); høyre ring har fri OH på C1.
+    options: [Laktose, Galaktose, Maltose, Sukrose]
+    answer: [2]
+    explanation: To glukoseenheter med α(1→4)-binding er maltose. Laktose er Gal β(1→4) Glc, og sukrose inneholder en fruktofuranose.
+    figure: Haworth-struktur av maltose.
+  - n: "4.45"
+    subject: organisk-kjemi
+    topics: [lab/ovelser/karbohydrater, organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider]
+    type: single
+    points: 1
+    stem: Velg det sukkeret som gir positivt utslag på Benedikts test og er negativ på Barfoeds test (i henhold til protokoll utført på laboratorieøvelsen).
+    options: [D-Galaktose, Mannose, Sukrose, Maltose]
+    answer: [3]
+    explanation: Maltose er et reduserende disakkarid – positiv Benedict, men reduserer ikke Barfoed-reagenset innen labprotokollens tid. Galaktose og mannose er monosakkarider (begge positive), sukrose er negativ på begge.
+  - n: "4.46"
+    subject: organisk-kjemi
+    topics: [organisk-kjemi/reaksjoner/elektrofil-aromatisk-substitusjon]
+    type: single
+    points: 1
+    stem: 'Hva blir isomerproduktet av reaksjonen mellom toluen (metylbenzen) og $\ce{HONO2}$?'
+    options: [Orto, Orto og para, Meta, Para]
+    answer: [1]
+    explanation: CH₃ er svakt aktiverende og orto/para-dirigerende fordi den stabiliserer karbokation-intermediatet ved hyperkonjugasjon/induktiv effekt. Det gir en blanding av o- og p-nitrotoluen.
+  - n: "4.47"
+    subject: organisk-kjemi
+    topics: [lab/ovelser/karbohydrater, organisk-kjemi/biomolekyler/glykosidbindinger-og-disakkarider]
+    type: single
+    points: 1
+    stem: Velg det sukkeret som gir positivt utslag på både Benedikts test og Barfoeds test.
+    options: [Sukrose, Maltose, Laktose, Glukose]
+    answer: [3]
+    explanation: Glukose er et reduserende monosakkarid og gir positiv Benedict og Barfoed. Maltose og laktose er disakkarider (Barfoed negativ), sukrose er ikke-reduserende.
+  - n: "4.48"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/membraner-og-membrantransport, organisk-kjemi/biomolekyler/lipider]
+    type: single
+    points: 1
+    stem: Hvilken av de følgende påstandene om lipoproteiner er korrekt?
+    options:
+      - Lav LDL- (low density lipoprotein-) konsentrasjon i plasma kan lede til blodpropp.
+      - VLDL (very low density lipoprotein) inneholder mestparten av kolesterol i plasma.
+      - HDL (high density lipoprotein) transporterer kolesterol fra leveren til perifere vev.
+      - Lipoproteiner er vannløslige pakker som tillater transport av kolesterol i plasma.
+    answer: [3]
+    explanation: Lipoproteiner har amfipatisk skall rundt hydrofob kjerne og frakter kolesterol i plasma. Det er høy LDL som disponerer for aterosklerose, LDL bærer mest kolesterol, og HDL frakter kolesterol fra vev til leveren.
+  - n: "4.49"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/membraner-og-membrantransport, lab/ovelser/lipid-kolesterol]
+    type: single
+    points: 1
+    stem: Hvilken type lipoprotein henvises til som "godt kolesterol"?
+    options: [Very low density lipoprotein (VLDL)., High density lipoprotein (HDL)., Intermediate density lipoprotein (IDL)., Low density lipoprotein (LDL).]
+    answer: [1]
+    explanation: HDL frakter overskuddskolesterol fra perifert vev tilbake til leveren (revers kolesteroltransport), og høy HDL er forbundet med lavere risiko for aterosklerose.
+  - n: "4.50"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/mikroskopi-og-modellorganismer]
+    type: single
+    points: 1
+    stem: Hvilken av de følgende strukturer kan ses vha. et lysmikroskop?
+    options: [Mitokondrie, Influensavirus, Nukleosom, Ribosom]
+    answer: [0]
+    explanation: Lysmikroskopet oppløser ned til ca. 0,2 µm. Mitokondrier (~0,5–1 µm) er synlige, mens virus (~100 nm), ribosomer (~25 nm) og nukleosomer (~10 nm) krever elektronmikroskop.
+  - n: "4.51"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/den-generelle-cellen, cellebiologi/organeller/ribosomer]
+    type: single
+    points: 1
+    stem: Prokaryote celler har bare en av de følgende cellekomponenter/organeller. Hvilken?
+    options: [Mitokondrie, Kloroplast, Kjernemembran, Ribosom]
+    answer: [3]
+    explanation: Alle celler trenger ribosomer for proteinsyntese (prokaryote 70S). Prokaryoter mangler membranomsluttede organeller som kjerne, mitokondrier og kloroplaster.
+  - n: "4.52"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/cellens-rom-og-organisering, cellebiologi/organeller/mitokondrier]
+    type: single
+    points: 1
+    stem: Hvilke membranorganeller i eukaryote celler har størst totalvolum?
+    options: [Peroksisomer, Endosomer, Lysosomer, Mitokondrier]
+    answer: [3]
+    explanation: Mitokondriene utgjør ca. 20 % av volumet i en levercelle – langt mer enn peroksisomer, endosomer og lysosomer (~1 % hver).
+  - n: "4.53"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/cellens-rom-og-organisering, cellebiologi/organeller/cellekjernen]
+    type: single
+    points: 1
+    stem: Alternativene nedenfor nevner ulike prosesser som skjer i eukaryote celler. Hvilke to skjer i samme rom/kompartment?
+    options:
+      - RNA-syntese og proteinsyntese
+      - Proteinsyntese og nedbryting av LDL-partikler
+      - DNA-syntese og RNA-syntese
+      - Proteinsyntese og oksidativ fosforylering
+    answer: [2]
+    explanation: Både replikasjon og transkripsjon skjer i kjernen. Proteinsyntese skjer i cytosol/rER, LDL brytes ned i lysosomer, og oksidativ fosforylering skjer i mitokondrienes indre membran.
+  - n: "4.54"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/den-generelle-cellen, cellebiologi/organeller/ribosomer]
+    type: single
+    points: 1
+    stem: Hvilket utsagn om eukaryote og prokaryote celler er korrekt?
+    options:
+      - I motsetning til eukaryoter kan ikke prokaryoter bli infisert av virus.
+      - I begge celletyper skjer RNA-syntese (transkripsjon) i cytoplasma.
+      - Begge celletyper har reseptor-mediert endocytose som viktig cellefunksjon.
+      - Begge celletyper inneholder ribosomer, men eukaryote ribosomer er større enn de prokaryote.
+    answer: [3]
+    explanation: Eukaryote ribosomer er 80S, prokaryote 70S. Bakteriofager infiserer bakterier, eukaryot transkripsjon skjer i kjernen, og endocytose finnes bare hos eukaryoter.
+  - n: "4.55"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/cellens-rom-og-organisering, cellebiologi/organeller/golgi-apparatet]
+    type: single
+    points: 1
+    stem: Hvilken av de følgende celleorganeller har IKKE dobbeltmembran?
+    options: [Golgiapparat, Kjerne, Kloroplast, Mitokondrie]
+    answer: [0]
+    explanation: Golgi består av flate sisterner omgitt av én membran. Kjernen, mitokondrier og kloroplaster har dobbel membran.
+  - n: "4.56"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/proteinsyntese-og-vesikkeltransport]
+    type: single
+    points: 1
+    stem: Hva kalles prosessen som skiller ut nysyntetiserte proteiner til ekstracellulært rom?
+    options: [Eksocytose, Sur hydrolyse, Reseptormediert endocytose, Osmose]
+    answer: [0]
+    explanation: Sekretoriske vesikler fra Golgi fusjonerer med plasmamembranen og slipper innholdet ut (eksocytose).
+  - n: "4.57"
+    subject: cellebiologi
+    topics: [cellebiologi/cellen/den-generelle-cellen]
+    type: single
+    points: 1
+    stem: I hvilken forstand er alle celler like?
+    options: [De deler seg gjennom mitose, De har en rund form, De bruker DNA til lagring av genetisk informasjon, De inneholder kloroplaster]
+    answer: [2]
+    explanation: Alle celler lagrer arvestoffet som DNA. Prokaryoter deler seg ved todeling, ikke mitose, og bare planteceller/alger har kloroplaster.
+  - n: "4.58"
+    subject: proteiner
+    topics: [proteiner/teori/enzymregulering]
+    type: single
+    points: 1
+    stem: Mange medikamenter virker ved å hemme kinaser som er involverte i sentrale cellulære signalveier, for eks. tumorutvikling. Hva er den molekylære konsekvensen av en kinase A-hemmer?
+    options:
+      - Kinase A blir ikke translatert
+      - Kinase A er mindre fosforylert selv
+      - Mindre proteolyse av proteinsubstrater til kinase A
+      - Mindre fosforylering av proteinsubstrater til kinase A
+    answer: [3]
+    explanation: En kinase overfører fosfat fra ATP til sine substratproteiner. Hemmeren blokkerer den katalytiske aktiviteten, så substratene blir mindre fosforylert – syntesen av kinasen påvirkes ikke.
+  - n: "4.59"
+    subject: proteiner
+    topics: [proteiner/teori/enzymregulering]
+    type: single
+    points: 1
+    stem: Hvordan fungerer penicillin?
+    options:
+      - Er en kompetitiv hemmer av serin-proteaser
+      - Ligner ikke på transisjonstilstanden i karboksypeptidase-reaksjonen
+      - Er en irreversibel suicidal hemmer av glycopeptid transpeptidase
+      - Er en aktivator i glycopeptid transpeptidase-reaksjonen
+    answer: [2]
+    explanation: Penicillin ligner D-Ala-D-Ala og binder i det aktive setet til glykopeptid-transpeptidase, der β-laktamringen reagerer med et Ser og danner et stabilt kovalent penicilloyl-enzym (suicidhemmer). Bakterien kan da ikke krysslenke celleveggen.
+  - n: "4.60"
+    subject: proteiner
+    topics: [proteiner/teori/proteinmetoder]
+    type: single
+    points: 1
+    stem: Hvilke egenskaper av et protein utnytter ionebyttekromatografi til rensing?
+    options: [Molekylvekt, Enzymaktivitet, Ladede aminosyrer, Hydrofobe aminosyrer på proteinoverflaten]
+    answer: [2]
+    explanation: Ionebytte separerer etter nettoladning (ladede sidekjeder) – proteinet binder til en motsatt ladd kolonne og elueres med salt eller pH. Molekylvekt utnyttes i gelfiltrering, og hydrofobe overflater i HIC.
+  - n: "4.61"
+    subject: proteiner
+    topics: [proteiner/teori/folding-og-modifisering]
+    type: single
+    points: 1
+    stem: Hva er sant om denaturering av et protein?
+    options: [Kan være reversibel, Skjer kun ved lav pH (<2), Det ødelegger primærstrukturen, Den forandrer proteinets primære struktur]
+    answer: [0]
+    explanation: Denaturering bryter de ikke-kovalente interaksjonene (sekundær–kvartærstruktur), mens peptidbindingene er intakte. Anfinsens forsøk med ribonuklease viste at proteinet kan folde seg tilbake (reversibelt). Varme, urea, detergent og pH kan alle denaturere.
+  - n: "4.62"
+    subject: proteiner
+    topics: [proteiner/aminosyrer/arginin, proteiner/teori/enzymkatalyse]
+    type: single
+    points: 1
+    stem: Hva skjer dersom vi behandler peptidet Ala-Glu-Arg-Gly-Asp med trypsin?
+    options:
+      - Den C-terminale aminosyren blir frigjort
+      - Det blir 2 fragmenter, et dipeptid og et tripeptid
+      - Det blir fem isolerte aminosyrer
+      - Det blir ingen forandring i peptidet
+    answer: [1]
+    explanation: Trypsin spalter på karboksylsiden av Lys og Arg (Asp i S1-lommen binder den positive sidekjeden) → Ala-Glu-Arg (tripeptid) + Gly-Asp (dipeptid).
+  - n: "4.63"
+    subject: proteiner
+    topics: [proteiner/teori/folding-og-modifisering]
+    type: single
+    points: 1
+    stem: Hva er sant om aggregering av proteiner?
+    options:
+      - Skjer kun med proteiner som bruker metaller som kofaktorer
+      - Kan ikke skje in vitro
+      - Forandrer proteinets primære struktur
+      - Kan forårsakes av mutasjoner
+    answer: [3]
+    explanation: Mutasjoner kan destabilisere folden og eksponere hydrofobe områder slik at proteinet aggregerer (f.eks. α-synuklein ved arvelig Parkinson, HbS ved sigdcelleanemi). Aggregering endrer ikke sekvensen og kan godt skje in vitro.
+  - n: "4.64"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk, proteiner/teori/enzymregulering]
+    type: single
+    points: 1
+    stem: 'Med hvilken av følgende typer reversibel hemming kan du endre et enzyms $V_{max}$, men ikke $K_M$?'
+    options: [Kompetitiv, Nonkompetitiv, Ukompetitiv, Allosterisk]
+    answer: [1]
+    explanation: En (ren) ikke-kompetitiv hemmer binder like godt til E og ES, så Vmax senkes mens KM er uendret. Kompetitiv hemming øker KM (Vmax uendret), og ukompetitiv senker begge.
+  - n: "4.65"
+    subject: proteiner
+    topics: [proteiner/teori/aminosyrer]
+    type: single
+    points: 1
+    stem: Den stereokjemiske konfigurasjonen av alle aminosyrer i proteiner er?
+    options: [L, Ingen av de andre alternativene er korrekt, Både L og D, D]
+    answer: [0]
+    explanation: Ribosomene bygger bare inn L-aminosyrer. Glysin er riktignok akiral, men det er standardsvaret.
+  - n: "4.66"
+    subject: proteiner
+    topics: [proteiner/teori/proteinstruktur]
+    type: single
+    points: 1
+    stem: "**Hvilket av følgende er et eksempel på kvartærstruktur i et protein?**"
+    options: [Et domene, Et tetramerisk protein, En beta-sheet i et protein, En alfa-heliks i et protein]
+    answer: [1]
+    explanation: Kvartærstruktur er sammensetningen av flere polypeptidkjeder (subenheter), f.eks. tetrameren hemoglobin (α₂β₂). Domener er tertiærstruktur, mens α-heliks og β-plate er sekundærstruktur.
+  - n: "4.67"
+    subject: proteiner
+    topics: [proteiner/teori/myoglobin-og-hemoglobin]
+    type: single
+    points: 1
+    stem: Hva er effekten av en reduksjon i pH på hemoglobin-oksygenaffinitet?
+    options: [Økning i oksygenaffinitet, Dimerisering av hemoglobin, Ingen effekt på oksygenaffinitet, Nedgang i oksygenaffinitet]
+    answer: [3]
+    explanation: Bohr-effekten – H⁺ protonerer bl.a. His146β, som danner saltbroer som stabiliserer T-tilstanden. O₂-affiniteten synker (høyreforskyvning), og det letter O₂-avgivelse i arbeidende vev.
+  - n: "4.68"
+    subject: proteiner
+    topics: [proteiner/teori/myoglobin-og-hemoglobin, proteiner/aminosyrer/valin, proteiner/aminosyrer/glutamat]
+    type: single
+    points: 1
+    stem: Hva forårsaker sigdcelle-anemi?
+    options:
+      - Ingen av de andre alternativene er korrekte
+      - Mutasjon Glu6 --> Val6 i hemoglobin-kjedene
+      - Infeksjon med en parasitt
+      - Mutasjon Val6 --> Glu6 i hemoglobin-kjedene
+    answer: [1]
+    explanation: Punktmutasjonen Glu6→Val i β-kjeden (HbS) gir en hydrofob «klebrig» flekk som binder seg til en lomme på naboens deoksy-Hb. Det gir lange fibre som deformerer erytrocyttene.
+  - n: "4.69"
+    subject: proteiner
+    topics: [proteiner/teori/enzymer-egenskaper, proteiner/teori/enzymkatalyse]
+    type: single
+    points: 1
+    stem: Hva er det kjemiske grunnlaget for enzymets spesifisitet?
+    options:
+      - Det komplementære forholdet mellom enzymets aktive sete og substratet
+      - Den strukturelle passform av produktet i enzymets aktive sete
+      - Nærvær av upolare grupper i transisjonstilstanden
+      - Fravær av komplementaritet mellom enzymets aktive sete og substratet.
+    answer: [0]
+    explanation: Spesifisitet skyldes at det aktive setet er komplementært til substratet i form, ladning, hydrofobisitet og H-bindingsmønster (lås og nøkkel / induced fit).
+  - n: "4.70"
+    subject: proteiner
+    topics: [proteiner/teori/enzymregulering, proteiner/enzymkinetikk]
+    type: single
+    points: 1
+    stem: Hva er sant om kompetitiv hemming?
+    options:
+      - Substratet og inhibitoren kan være strukturelt og kjemisk like
+      - Substratet virker også som en inhibitor
+      - Substratet og inhibitoren er strukturelt og kjemisk ulike
+      - Inhibitoren binder i et annet område enn substratet
+    answer: [0]
+    explanation: En kompetitiv hemmer konkurrerer om det aktive setet og ligner derfor ofte substratet (f.eks. etanol/fomepizol vs. metanol for ADH, metotreksat vs. folat).
+  - n: "4.71"
+    subject: proteiner
+    topics: [proteiner/teori/enzymer-egenskaper]
+    type: single
+    points: 1
+    stem: Hva er et apoenzym?
+    options: [Et allosterisk enzym, Et enzym som mangler sin kofaktor, Et enzym med kofaktor, En kofaktor]
+    answer: [1]
+    explanation: Apoenzym = proteindelen uten kofaktor (inaktiv). Apoenzym + kofaktor = holoenzym.
+  - n: "4.72"
+    subject: proteiner
+    topics: [proteiner/teori/enzymkatalyse]
+    type: single
+    points: 1
+    stem: "Hva er sant om enzymer:"
+    options:
+      - Enzymer reduserer aktiveringsenergien (Ea) for konvertering av substrater til produkter
+      - Enzymer forandrer seg permanent under reaksjonen
+      - Enzymer reduserer differansen i fri energi (Delta-G) mellom substrater og produkter
+      - Enzymer reagerer irreversibelt med sine substrater
+    answer: [0]
+    explanation: Enzymer stabiliserer transisjonstilstanden og senker aktiveringsenergien. De endrer ikke ΔG eller likevekten og kommer uforandret ut av reaksjonen.
+  - n: "4.73"
+    subject: proteiner
+    topics: [proteiner/teori/proteinstruktur]
+    type: single
+    points: 1
+    stem: Vannløselige globulære proteiner karakteriseres av? (velg kun ett korrekt alternativ)
+    options:
+      - De er lokalisert i membraner.
+      - De inkluderer polare aminosyrer og mange elektrostatiske bindinger på innsiden.
+      - De har apolare, hydrofobe aminosyrer på innsiden.
+      - De har ikke definerte sekundære strukturer.
+    answer: [2]
+    explanation: Den hydrofobe effekten driver foldingen slik at upolare sidekjeder pakkes i kjernen og polare/ladde sidekjeder vender ut mot vannet. Globulære proteiner har veldefinerte α-helikser og β-plater.
+  - n: "4.74"
+    subject: proteiner
+    topics: [proteiner/teori/enzymkatalyse, generell-kjemi/regnetyper/fri-energi-og-likevekt]
+    type: single
+    points: 1
+    stem: |
+      Hvilken reaksjon er spontan?
+      $K'_{eq}$ = likevektskonstanten ved standard betingelser
+    options:
+      - 'En som har $K_{eq} = 4 \times 10^{-2}$'
+      - "En som har $K'_{eq} = 0.5$"
+      - "En som har $K'_{eq} = 1$"
+      - "En som har $K'_{eq} = 50$"
+    answer: [3]
+    explanation: $\Delta G^{\circ\prime} = -RT\ln K'_{eq} < 0$ bare når $K'_{eq} > 1$. K = 1 gir ΔG°' = 0, og K < 1 gir positiv ΔG°'.
+  - n: "4.75"
+    subject: proteiner
+    topics: [proteiner/teori/aminosyrer, proteiner/aminosyrer/glutamat]
+    type: single
+    points: 1
+    stem: Velg den korrekte påstanden om aminosyrer
+    options:
+      - Lysin er en aromatisk aminosyre
+      - Sidekjeden til glutamat har negativ ladning ved fysiologisk pH
+      - Sidekjeden til tryptofan har positiv ladning ved fysiologisk pH
+      - Histidin er hydrofob
+    answer: [1]
+    explanation: Glutamats karboksylgruppe i sidekjeden (pKa ≈ 4,1) er deprotonert (COO⁻) ved pH 7,4. Lysin er basisk (ikke aromatisk), tryptofan er uladet, og histidin er polar/basisk.
+  - n: "4.76"
+    subject: proteiner
+    topics: [proteiner/teori/myoglobin-og-hemoglobin]
+    type: single
+    points: 1
+    stem: Myoglobin og hemoglobin er to proteiner med oksygenbindende evne som utfører ulike funksjoner i organismene. Hva er sant om disse proteinene?
+    options:
+      - Begge proteinene har kvaternær struktur.
+      - '$P_{50}$ ($pO_2$ for 50% maksimal binding) er større for hemoglobin enn for myoglobin.'
+      - Hemoglobin og myoglobin er ikke homologe proteiner.
+      - Både myoglobin og hemoglobin varierer sin affinitet for oksygen avhengig av oksygenkonsentrasjon.
+    answer: [1]
+    explanation: Hb har lavere O₂-affinitet (P₅₀ ≈ 26 torr) enn Mb (≈ 2–3 torr). Myoglobin er en monomer uten kvartærstruktur og uten kooperativitet – bare Hb endrer affinitet med pO₂. De er homologe (globinfamilien).
+  - n: "4.77"
+    subject: proteiner
+    topics: [proteiner/enzymkinetikk]
+    type: single
+    points: 1
+    stem: 'Hvilket av følgende utsagn er korrekt om $K_m$?'
+    options:
+      - '$K_m$ øker i nærvær av en ikke-kompetitiv inhibitor'
+      - '$K_m$ er den substratkonsentrasjonen som gir halv $V_{max}$'
+      - '$K_m$ er halvparten av $V_{max}$'
+      - '$K_m$ er høy når substratet har høy affinitet for enzymet'
+    answer: [1]
+    explanation: KM er [S] der $v_0 = V_{max}/2$. Lav KM betyr høy (tilsynelatende) affinitet, og en ikke-kompetitiv hemmer endrer ikke KM.

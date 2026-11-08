@@ -1,0 +1,4344 @@
+# MittUiB material inventory
+
+Checked: 7 November 2026. Read-only Canvas API discovery.
+
+3807 unique file references; 3806 readable file metadata records; 12 marked locked; 292 readable course pages.
+
+PDF, PPTX, and DOCX sample downloads verified by content type and file signature. Actual teaching files have not been bulk downloaded.
+
+## Course summary
+
+| Space | File references | Readable pages |
+|---|---:|---:|
+| HF | 18 | 2 |
+| DIGI100 | 0 | 38 |
+| DQMED 26H | 0 | 0 |
+| DIGI101 | 55 | 62 |
+| EXPHIL-MOSEM | 50 | 29 |
+| Institutt for biomedisin | 19 | 0 |
+| Institutt for filosofi og førstesemesterstudier | 9 | 2 |
+| STUDENTUTVALG-HF | 88 | 1 |
+| STUDENTUTVALG-MO | 77 | 41 |
+| PRMEDISIN / KULL 2026 HØST | 7 | 1 |
+| PRMEDISIN / KULL 2026 HØST / MED26-FØR | 4 | 2 |
+| MENTOR-MED | 1 | 1 |
+| MEDOD1 | 200 | 82 |
+| Studentparlamentet | 0 | 1 |
+| PRMEDISIN | 163 | 29 |
+| MED | 3096 | 1 |
+
+## Scope and limitations
+
+- Inventory covers course file lists, module items, linked course pages, files linked from those pages, personal files, and enrolled group files.
+- Some file/page list endpoints are unavailable; directly linked resources were checked individually.
+- Third-party tools, recordings, external sites, and files linked only in announcements or assignment descriptions have not been exhaustively inspected.
+- File metadata does not guarantee download access; three sample formats were verified using partial downloads.
+- Counts include images and older institutional documents. Files may be shared between multiple spaces.
+
+## MEDOD1 files
+
+- [2026-08-26 Bibliotekkurs MEDOD1.pdf](https://mitt.uib.no/files/7995018)
+- [260825_MEDOD1_Forebyggende_helsearbeid.pdf](https://mitt.uib.no/files/7980770)
+- [Akuttmedisinsk torg.pdf](https://mitt.uib.no/files/8018505)
+- [aminosyrenes struktur v25.pdf](https://mitt.uib.no/files/8211293)
+- [ÅRsaker_til_studentene_H2024.pdf](https://mitt.uib.no/files/7794067)
+- [Årsaksforklaringer_fra Øversveen_og_Rydland.pdf](https://mitt.uib.no/files/7794182)
+- [Bevisstløshet.pdf](https://mitt.uib.no/files/7794042)
+- [Bild_35.png](https://mitt.uib.no/files/280085)
+- [bøker4.png](https://mitt.uib.no/files/7793896)
+- [Brannskade Ambulanseforum Høst 2015.pdf](https://mitt.uib.no/files/7793860)
+- [Brannskade Den akutt syke pasient.pdf](https://mitt.uib.no/files/7793852)
+- [CELLE1__forelesing 2 celebiologi_MSB_2.pdf](https://mitt.uib.no/files/7982915)
+- [CELLE1_forelesing 1 celebiologi_intro_AW.pdf](https://mitt.uib.no/files/7982916)
+- [CELLE1_forelesing 3 MEDOD1 Cellebiologi Aug26_AW.pdf](https://mitt.uib.no/files/7982914)
+- [Colloquium primum.pdf](https://mitt.uib.no/files/8063664)
+- [Colloquium quartum.pdf](https://mitt.uib.no/files/8200050)
+- [Colloquium quintum et ultimum.pdf](https://mitt.uib.no/files/8208371)
+- [Colloquium secundum.pdf](https://mitt.uib.no/files/8087323)
+- [Colloquium tertium.pdf](https://mitt.uib.no/files/8135336)
+- [copy_of_hva-forelesning-1-2025.pdf](https://mitt.uib.no/files/8002186)
+- [copy_of_hva-forelesning-2-2025.pdf](https://mitt.uib.no/files/8023010)
+- [Det akutt syke barnet MED1 150922 Mette Engan.pdf](https://mitt.uib.no/files/7793849)
+- [Det norske helsevesen høsten 2026 1. semester BFL .pdf](https://mitt.uib.no/files/7962759)
+- [det periodiske system v25.pdf](https://mitt.uib.no/files/8211294)
+- [Diaz diskriinering.pdf](https://mitt.uib.no/files/8103280)
+- [Dreiebok for studentene introkurset H26.pdf](https://mitt.uib.no/files/7942665)
+- [elektro (1).pdf](https://mitt.uib.no/files/7793974)
+- [ENZYM_2026_1.pdf](https://mitt.uib.no/files/8215494)
+- [Fagartikkel_2_TRIAGE.pdf](https://mitt.uib.no/files/7793859)
+- [Faglig-retningslinje-for-håndtering-av-aksidentell-hypotermi.pdf](https://mitt.uib.no/files/7793863)
+- [fakta-boks om samene i norge canvas 4.0-1.jpg](https://mitt.uib.no/files/7794008)
+- [fakta-boks om samene i norge canvas 4.0.pdf](https://mitt.uib.no/files/7794010)
+- [FASIT-oppgavesett1-2026-ny.docx](https://mitt.uib.no/files/8047288)
+- [FASIT-oppgavesett1-2026ny-1.pdf](https://mitt.uib.no/files/8047271)
+- [fl+ot.pdf](https://mitt.uib.no/files/7793975)
+- [Flerkulturelt helsearbeid  -med spesielt fokus på samisk helse - Kalstad.pdf](https://mitt.uib.no/files/8107977)
+- [Folkehelse og helseforvaltningen 2026-08-24.pdf](https://mitt.uib.no/files/7967627)
+- [forelesning-4-2026.pdf](https://mitt.uib.no/files/8041090)
+- [forelesning1-2026.pdf](https://mitt.uib.no/files/7993417)
+- [forelesning2-2026.pdf](https://mitt.uib.no/files/7998527)
+- [forelesning3-del0-2025.pdf](https://mitt.uib.no/files/7794114)
+- [forelesning3-del1-3-2026.pdf](https://mitt.uib.no/files/8030911)
+- [forelesning5-del1-2024-13-14.pdf](https://mitt.uib.no/files/7794043)
+- [forelesning5-del1-2026.pdf](https://mitt.uib.no/files/8063675)
+- [forelesning5-del2-2026-1.pdf](https://mitt.uib.no/files/8069233)
+- [Forelesningsnotater 12.-13.10.docx](https://mitt.uib.no/files/8135335)
+- [Forelesningsnotater 14.-15.09.docx](https://mitt.uib.no/files/8057318)
+- [Forelesningsnotater 2.-3.11.docx](https://mitt.uib.no/files/8206051)
+- [Forelesningsnotater 21.-22.09.docx](https://mitt.uib.no/files/8063659)
+- [Forelesningsnotater 26.-27.10.docx](https://mitt.uib.no/files/8200048)
+- [Forelesningsnotater 28.-29.09.docx](https://mitt.uib.no/files/8165359)
+- [formelhefte.pdf](https://mitt.uib.no/files/7793986)
+- [Generell kjemi.pdf](https://mitt.uib.no/files/7794006)
+- [Grunnlaget for velferdsstaten Kaarbøe .pdf](https://mitt.uib.no/files/7959358)
+- [gruppediskusjon2.png](https://mitt.uib.no/files/7793904)
+- [Gruppegjennomgang_miljømedisin_oppgave 1 og 3.pdf](https://mitt.uib.no/files/8075691)
+- [Gruppeinndeling u37 - Odontologi.pdf](https://mitt.uib.no/files/8011919)
+- [Gruppeinndeling.pdf](https://mitt.uib.no/files/8012432)
+- [Gruppeoppgaver_helsejus_2026.docx](https://mitt.uib.no/files/8161297)
+- [Helseberedskap 2026-09-02.pdf](https://mitt.uib.no/files/7995662)
+- [Helserett – Andrea Melberg.pdf](https://mitt.uib.no/files/7974868)
+- [hva-forelesning-1-2025.pdf](https://mitt.uib.no/files/7794096)
+- [Hvilke grupper kommenterer hva.pdf](https://mitt.uib.no/files/7975084) — LOCKED
+- [Hvordan oppnå fri luftvei.pdf](https://mitt.uib.no/files/7793862)
+- [Hvordan sosiale ulikheter i barneårene bidrar til ulikheter - Elling Ulvestad.pdf](https://mitt.uib.no/files/8107291)
+- [hybrid-ladning.pdf](https://mitt.uib.no/files/8002180)
+- [hyperventilering.pdf](https://mitt.uib.no/files/7794027)
+- [Hypotermi 2022.pdf](https://mitt.uib.no/files/7794050)
+- [hypotermi_2024_studmed – Kopi.pdf](https://mitt.uib.no/files/7793850)
+- [image-187690ea-78e4-4cfa-bdf5-3a9f45860e88.png](https://mitt.uib.no/files/7975890)
+- [image-1bf053d4-cc4b-4152-8817-852aef8f6979.png](https://mitt.uib.no/files/7975953)
+- [image-2.png](https://mitt.uib.no/files/7057677)
+- [image-3.png](https://mitt.uib.no/files/7057701)
+- [image-6.png](https://mitt.uib.no/files/7034644)
+- [Innleverte gruppeoppgaver H2026 MEDOD1.pdf](https://mitt.uib.no/files/8100891)
+- [Intro forelesning.pdf](https://mitt.uib.no/files/7794102)
+- [Intro sosial ulikhet i helse handout V3.pdf](https://mitt.uib.no/files/7983038)
+- [Intro studieplan odontologi.pdf](https://mitt.uib.no/files/7941353)
+- [intro-celle1-2026.pdf](https://mitt.uib.no/files/7976046)
+- [Introforelesning miljømedisin_MEDOD1_H-26.pdf](https://mitt.uib.no/files/7998839)
+- [kahoot4.png](https://mitt.uib.no/files/7793898)
+- [Karbohydrater_oppgaver.pdf](https://mitt.uib.no/files/8155388)
+- [Kart Sentralblokka - HUS.pdf](https://mitt.uib.no/files/7982531)
+- [Klinikktøy s.pdf](https://mitt.uib.no/files/7793845)
+- [Kollaps på tannlegekontoret.pdf](https://mitt.uib.no/files/8018910)
+- [kollasj1.2.jpg](https://mitt.uib.no/files/7794011)
+- [Kollokvie organisk kjemi MEDOD1 Løsningsforslag 2024.doc](https://mitt.uib.no/files/8157258)
+- [kollokvieoppgaver-Enzymologi og enzym 2025.pdf](https://mitt.uib.no/files/7794057)
+- [Kollokvier organisk kjemi.pdf](https://mitt.uib.no/files/7794158)
+- [Kollokvium1-2026.pdf](https://mitt.uib.no/files/8066247)
+- [Kollokvium1-Løsningsforslag-2026.pdf](https://mitt.uib.no/files/8121960)
+- [Labhefte MEDOD1_262109.pdf](https://mitt.uib.no/files/8060302)
+- [laringsutbytte2.png](https://mitt.uib.no/files/7793903)
+- [Lectio prima.pptx](https://mitt.uib.no/files/8048207)
+- [Løsningsforslag på Medod 1 Eksamen 2018 Høst Laget av Khattab Ahmad-1.pdf](https://mitt.uib.no/files/7793991)
+- [Luftforurensning i bymiljø_2026.pdf](https://mitt.uib.no/files/7977192)
+- [Lysbilde1.2-3.jpeg](https://mitt.uib.no/files/7794009)
+- [Matallergi HUS august 2026 (1).pdf](https://mitt.uib.no/files/7977177)
+- [Medisinsk historie - Vollset - Levekårsutviklingen i Norge h2026.pdf](https://mitt.uib.no/files/7968274)
+- [MEDOD1 Introduksjon grupper og rom v2026.pdf](https://mitt.uib.no/files/7942642)
+- [MEDOD1 Spyttkjertel sekret 15.10.2026Kettunen.pdf](https://mitt.uib.no/files/8135437)
+- [MEDOD1 Spyttkjertel sekret 16.10.2025Kettunen.pdf](https://mitt.uib.no/files/7794153)
+- [MEDOD1-H26-Helseplager tilskrevet miljøfaktorer_pdf versjon.pdf](https://mitt.uib.no/files/7998560)
+- [MEDOD1-H26-ROS abc_pdf.pdf](https://mitt.uib.no/files/7998559)
+- [MEDOD1-H26-velkommen dag 2.pdf](https://mitt.uib.no/files/7967628)
+- [MEDONT1  Sosial ulikhet  bruk av helstjenesten Høsten 2026 Øystein Hetlevik.pdf](https://mitt.uib.no/files/8091784)
+- [Miljøstøy_2026_PDF.pdf](https://mitt.uib.no/files/7983228)
+- [Nasjonal veileder helsetjenestens organisering på skadested IS 2536.pdf](https://mitt.uib.no/files/7793855)
+- [Nevrotraumer for førsteårs 2019_PDF Sundstrøm.pdf](https://mitt.uib.no/files/7793848)
+- [NEWS.pdf](https://mitt.uib.no/files/7793861)
+- [Note 12 Oct 2026.pdf](https://mitt.uib.no/files/8161651)
+- [NRR_Guidelines_2021_Basal_HLR_til_barn_oppdatert_januar_2023.pdf](https://mitt.uib.no/files/7794148)
+- [NRR_Guidelines_2021_Grunnleggende_HLR_voksne_oppdatert_januar 2023.pdf](https://mitt.uib.no/files/7794149)
+- [NRR_Guidelines_2021_Systemer_som_redder_liv.pdf](https://mitt.uib.no/files/7794150)
+- [NRR_og_NFR_Guidelines_2021_Generell_forstehjelp.pdf](https://mitt.uib.no/files/7794151)
+- [NY smågrupper til miljømedisin M7til M12.pdf](https://mitt.uib.no/files/7989137)
+- [Odontologi og samhandling.pdf](https://mitt.uib.no/files/7974015)
+- [Oppgaver_Aldehyder_og_Ketoner.pdf](https://mitt.uib.no/files/8156662)
+- [Oppgaver_Alkoholer_Fenoler_Etere.pdf](https://mitt.uib.no/files/8156711)
+- [Oppgaver_Karboksylsyrer_Estere_Amider.pdf](https://mitt.uib.no/files/8156716)
+- [Oppgaver_SN1_SN2_E1_E2_med_losninger.pdf](https://mitt.uib.no/files/8122254)
+- [Oppgaver_til_forlesning_OC1_IUPAC_Nomenklatur_Alkaner_Alkener_Alkiner.pdf](https://mitt.uib.no/files/8112302)
+- [Oppgaver_til_forlesning_OC1_Organiske_Reaksjoner.pdf](https://mitt.uib.no/files/8112303)
+- [Oppgavesett 1-2026.pdf](https://mitt.uib.no/files/8017863)
+- [Oppgavesett 4-2026.pdf](https://mitt.uib.no/files/8204427)
+- [Oppgavesett 4-fasit-2026.pdf](https://mitt.uib.no/files/8204433)
+- [oppgavesett2-2026-fasit.pdf](https://mitt.uib.no/files/8047656)
+- [Oppgavesett2-2026.pdf](https://mitt.uib.no/files/8047637)
+- [Oppgavesett3-2026-fasit.pdf](https://mitt.uib.no/files/8081616)
+- [Oppgavesett3-2026.pdf](https://mitt.uib.no/files/8066331)
+- [Oppstartsprogram_Medisin_August2026.pdf](https://mitt.uib.no/files/7896696)
+- [Ordensregler for laboratoriet.pdf](https://mitt.uib.no/files/5240705)
+- [Ordliste nomenklaturlære v25.pdf](https://mitt.uib.no/files/7794137)
+- [Organic_Chemistry_Lecture_1.pdf](https://mitt.uib.no/files/8106129)
+- [Organic_Chemistry_Lecture_2A_2.pdf](https://mitt.uib.no/files/8114132)
+- [Organic_Chemistry_Lecture_2A_3.pdf](https://mitt.uib.no/files/8116857)
+- [Organic_Chemistry_Lecture_2B_2.pdf](https://mitt.uib.no/files/8113994)
+- [Organic_Chemistry_Lecture_2B_3.pdf](https://mitt.uib.no/files/8128218)
+- [Organic_Chemistry_Lecture_3A.pdf](https://mitt.uib.no/files/8116858)
+- [Organic_Chemistry_Lecture_3B.pdf](https://mitt.uib.no/files/8116859)
+- [Organic_Chemistry_Lecture_4A_3.pdf](https://mitt.uib.no/files/8190320)
+- [Organic_Chemistry_Lecture_4B.pdf](https://mitt.uib.no/files/8131296)
+- [Organic_Chemistry_Lecture_5.pdf](https://mitt.uib.no/files/8135969)
+- [Orientering MEDOD1 nov 2026.docx](https://mitt.uib.no/files/8161289)
+- [Oversiktskart BBB.pdf](https://mitt.uib.no/files/7794038)
+- [Philips IntelliVue pasientmonitor.pdf](https://mitt.uib.no/files/7793856)
+- [Plan underveistester høsten 2026-2.0.pdf](https://mitt.uib.no/files/7926133)
+- [Poem - OrganicMatchmaker.pdf](https://mitt.uib.no/files/7793955)
+- [Presentasjon_MEDOD1_JannickeIgland.pdf](https://mitt.uib.no/files/7959131)
+- [Primærhelsetjenesten i fokus - Hansen.pdf](https://mitt.uib.no/files/7968135)
+- [Proteiner 1 AM 2026.pdf](https://mitt.uib.no/files/8186375)
+- [Proteiner 2 AM 2026.pdf](https://mitt.uib.no/files/8198447)
+- [Proteiner 3 AM 2026.pdf](https://mitt.uib.no/files/8203206)
+- [Pustevansker 2022.pdf](https://mitt.uib.no/files/7793851)
+- [R_og_S_konfigurasjon_oppgaver_med_losninger.pdf](https://mitt.uib.no/files/8122255)
+- [Risikovurdering av miljøfaktorer i samfunnet_UIB_august 2026_Revidert.pdf](https://mitt.uib.no/files/7994470)
+- [Rulleringsplan for praktiske øvelser.pdf](https://mitt.uib.no/files/7982532)
+- [salivas-kjemi-petri-2026.pdf](https://mitt.uib.no/files/8135438)
+- [Salkart stor aud HUS MEDOD1 hø26.pdf](https://mitt.uib.no/files/8129985)
+- [Samhandling spesialisthelsetjenesten - Hansen.pdf](https://mitt.uib.no/files/7968136)
+- [sammensatt-tema-MS-2026-PK.pdf](https://mitt.uib.no/files/8214691)
+- [Sápmi.png](https://mitt.uib.no/files/7793913)
+- [Sår og brudd Damsgaard.pdf](https://mitt.uib.no/files/7793847)
+- [Screenshot 2022-09-06 at 11.49.53.png](https://mitt.uib.no/files/7793927)
+- [Screenshot 2022-09-06 at 11.51.50.png](https://mitt.uib.no/files/7793925)
+- [Screenshot 2022-09-19 at 17.13.29.png](https://mitt.uib.no/files/7793938)
+- [Screenshot 2022-09-19 at 17.13.52.png](https://mitt.uib.no/files/7793935)
+- [Screenshot 2022-09-19 at 17.18.33.png](https://mitt.uib.no/files/7793937)
+- [Sepsis og NEWS.pdf](https://mitt.uib.no/files/7793857)
+- [Sirkulasjonssvikt-med-stud-2020-21.pdf](https://mitt.uib.no/files/7793854)
+- [Skadested førsteår.pdf](https://mitt.uib.no/files/7794040)
+- [Slides sosial ulikhet i helse høst 2020_til_studentene.pdf](https://mitt.uib.no/files/7793900)
+- [Smågrupper til miljømedisin OD og M1 til M6 h26.pdf](https://mitt.uib.no/files/7985079)
+- [Smittevern intro 2025.pdf](https://mitt.uib.no/files/7793846)
+- [Sosial ulikhet i helse - Mette Tollånes.pdf](https://mitt.uib.no/files/8092187)
+- [Sosial ulikhet i helse En norsk kunnskapsoversikt. Hovedrapport.pdf](https://mitt.uib.no/files/7793919)
+- [Sosial ulikhet og etikk H2026-Andrea Melberg.pdf](https://mitt.uib.no/files/8091775)
+- [spørretime1-2026-v2.pdf](https://mitt.uib.no/files/8130558)
+- [spørretime1-2026.pdf](https://mitt.uib.no/files/8121071)
+- [student1.png](https://mitt.uib.no/files/7793905)
+- [Studentassistent - norske videoer.pdf](https://mitt.uib.no/files/7793992)
+- [Tannskader-kull1-2025.pdf](https://mitt.uib.no/files/7794171)
+- [TBL ROS - Vollset & Møllerløkken (2026).pdf](https://mitt.uib.no/files/8151849)
+- [TBL-oppgaver Helsejus-helsepersonelloven-forsvarlighet 21102026 1-semester.pdf](https://mitt.uib.no/files/8136478)
+- [termo (1).pdf](https://mitt.uib.no/files/7793971)
+- [Tidende, introuka 2026.pdf](https://mitt.uib.no/files/7941351)
+- [Timeplan - Medisin.pdf](https://mitt.uib.no/files/8011920)
+- [Timeplan - Odontologi.pdf](https://mitt.uib.no/files/7982528)
+- [titrering-fasit-2021.pdf](https://mitt.uib.no/files/7793988)
+- [Titrering-revidert-Petri2020 (1)-1.pdf](https://mitt.uib.no/files/7794025)
+- [titrering-tegninger.pdf](https://mitt.uib.no/files/7793987)
+- [Traumekompendium2014.pdf](https://mitt.uib.no/files/7793858)
+- [traumer og sirkulasjon stud med 2021.pdf](https://mitt.uib.no/files/7794039)
+- [UiB_Digitalisering_24aug2026_Jon-Torgeir Lunke.pdf](https://mitt.uib.no/files/7973931)
+- [unnamed (1).jpg](https://mitt.uib.no/files/7880557)
+- [urfolk-faktaboks 7.jpg](https://mitt.uib.no/files/7794012)
+- [Utvalgte eksamensoppgaver første semester medisin- og odontologistudiet-Einar.pdf](https://mitt.uib.no/files/7793993)
+- [Velkommen til samfunnsmedisin 1 av 2.pdf](https://mitt.uib.no/files/7962911)
+- [Velkommen_LUB5-3.jpg](https://mitt.uib.no/files/7794013)
+- [vurdere2.png](https://mitt.uib.no/files/7793897)
+
+## All files
+
+- [_Anatomi_Makro_Nyre_2023_10_20_Finale.docx](https://mitt.uib.no/files/6023472) — MED
+- [_DSC0757-Edit (2).jpg](https://mitt.uib.no/files/7815062) — DIGI101 — LOCKED
+- [(unavailable file)](https://mitt.uib.no/files/3865785) — STUDENTUTVALG-MO — unavailable
+- [0000-05266.pdf](https://mitt.uib.no/files/7787388) — MED
+- [01 - OSKE-MED6_Pleuravæske etter costafractur.docx](https://mitt.uib.no/files/4197758) — MED
+- [02 - OSKE-6_Mikrobiologi_UVI_Proteus mirabilis_Grewal (002).docx](https://mitt.uib.no/files/4197757) — MED
+- [03 -  OSKE 6-GASTROKIRURGI-Akutt_Abdomen-2021-09-01.docx](https://mitt.uib.no/files/4197756) — MED
+- [04 - Kont_21 OSCE_MED6_Wiggers + flowprofil_revidert.docx](https://mitt.uib.no/files/4197759) — MED
+- [05 - OSCE-6_Måling av blodtrykk_ rev_2021.docx](https://mitt.uib.no/files/4197760) — MED
+- [06 - OSCE-6 Patologisk ventrikkel-2018-04-26-OK.docx](https://mitt.uib.no/files/4197761) — MED
+- [07 - OSCE-6_Mikroanatomi_lymfeknute_Frode Selheim_EndeligVersjon.docx](https://mitt.uib.no/files/4197762) — MED
+- [08 - OSKE 6- Anestesi-Infusjon2021_- gb.docx](https://mitt.uib.no/files/4197755) — MED
+- [09 - OSKE MED6 ErnÃringsscreening 110619 Ranhoff.docx](https://mitt.uib.no/files/4197754) — MED
+- [1_OSKE-6_Dårlig nytt_Kommunikasjon_Almenmed-Mildestvedt_2019_03_29_Final.pdf](https://mitt.uib.no/files/4838862) — MED
+- [1_OSKE12 2026_genetikk_Arvelig kreft_endelig.docx](https://mitt.uib.no/files/7847396) — MED
+- [1_Tolkning av PET-CT_v2026_.docx](https://mitt.uib.no/files/7875345) — MED
+- [10 - Rev_OSCE-6_Hofteundersøkelse_JEG.docx](https://mitt.uib.no/files/4197753) — MED
+- [10_Hoste_utkastV26_revidert_mars26_siste utgave.docx](https://mitt.uib.no/files/7875354) — MED
+- [10_OSKE MED6 ErnÃ¦ringsscreening 110619 Ranhoff.pdf](https://mitt.uib.no/files/4838863) — MED
+- [10_OSKE-12-Hud-Psoriasis_v2026_endelig.docx](https://mitt.uib.no/files/7847402) — MED
+- [10. semester-1.jpg](https://mitt.uib.no/files/7521102) — PRMEDISIN
+- [11 - OSKE-oppgave reflekser MED6-AT juni 2018 endelig.docx](https://mitt.uib.no/files/4197752) — MED
+- [11_OSKE_MED12_infeksjonsmedisin_2026_feber_endelig2.docx](https://mitt.uib.no/files/7847403) — MED
+- [11_Propedeutikk_Anamnese ved diaré_revidert_final_2026-04.docx](https://mitt.uib.no/files/7875355) — MED
+- [12 - OSKE-6_Dårlig nytt_Kommunikasjon_Almenmed-Mildestvedt_2019_03_29_Final.docx](https://mitt.uib.no/files/4197751) — MED
+- [12_ OSKE Pediatri 6-2019.Spedbarn med høy feber, innsendt.Finale.pdf](https://mitt.uib.no/files/4838864) — MED
+- [13_Farmakologi.docx](https://mitt.uib.no/files/7875359) — MED
+- [13_OSKE Med12 Karkirurgi AAA endelig.docx](https://mitt.uib.no/files/7847404) — MED
+- [14_ForaminaCranii_fasit_v4.docx](https://mitt.uib.no/files/7875360) — MED
+- [16_Lungeoppgave OSKE6 V26 ny.docx](https://mitt.uib.no/files/7875356) — MED
+- [16_Lungeoppgave OSKE6 V26.docx](https://mitt.uib.no/files/7875357) — MED
+- [16_OSKE-6_Kneundersøkelse_Artrose_Final_2019_06_17.pdf](https://mitt.uib.no/files/4838865) — MED
+- [17_Oske med 6 Fordøyelse_endelig.docx](https://mitt.uib.no/files/7875358) — MED
+- [191011ALM_SlapphetEndelig.docx](https://mitt.uib.no/files/3191880) — PRMEDISIN
+- [191011ALM_SlapphetEndelig.docx](https://mitt.uib.no/files/3192899) — MED
+- [191011GYN_PostmenopausalblødningEndelig.docx](https://mitt.uib.no/files/3191881) — PRMEDISIN
+- [191011GYN_PostmenopausalblødningEndelig.docx](https://mitt.uib.no/files/3192900) — MED
+- [191011HUD_SOI_endelig.docx](https://mitt.uib.no/files/3191882) — PRMEDISIN
+- [191011HUD_SOI_endelig.docx](https://mitt.uib.no/files/3192901) — MED
+- [191011NEVR_KarpaltunnelsyndromEndelig.docx](https://mitt.uib.no/files/3191883) — PRMEDISIN
+- [191011NEVR_KarpaltunnelsyndromEndelig.docx](https://mitt.uib.no/files/3192902) — MED
+- [191011NKIR_Hodeskade_endelig.docx](https://mitt.uib.no/files/3191884) — PRMEDISIN
+- [191011NKIR_Hodeskade_endelig.docx](https://mitt.uib.no/files/3192903) — MED
+- [191011PKIR_Handundersokelse-EPL-skade_Endelig(2).docx](https://mitt.uib.no/files/3191886) — PRMEDISIN
+- [191011PKIR_Handundersokelse-EPL-skade_Endelig(2).docx](https://mitt.uib.no/files/3192904) — MED
+- [191108Temporalisarteritt_FastlegekontorEndelig2.docx](https://mitt.uib.no/files/3191887) — PRMEDISIN
+- [191108Temporalisarteritt_FastlegekontorEndelig2.docx](https://mitt.uib.no/files/3192905) — MED
+- [191119NEFRONefrotiskSyndromEndelig.docx](https://mitt.uib.no/files/3191888) — PRMEDISIN
+- [191119NEFRONefrotiskSyndromEndelig.docx](https://mitt.uib.no/files/3192906) — MED
+- [191120ALM_RisikovurderingNORRISK_Endelig.docx](https://mitt.uib.no/files/3191889) — PRMEDISIN
+- [191120ALM_RisikovurderingNORRISK_Endelig.docx](https://mitt.uib.no/files/3192907) — MED
+- [2_Brannskade OSKE_ final.docx](https://mitt.uib.no/files/7875346) — MED
+- [2_OSKE 2026_ONKO_Lymfom Fluge_310326_final.pdf](https://mitt.uib.no/files/7847397) — MED
+- [2012_112844_Tiltaksbok_ambulanse.pdf](https://mitt.uib.no/files/24331) — PRMEDISIN
+- [2013utenbilderny.pdf](https://mitt.uib.no/files/16823) — MED
+- [2013utenbilderny.pdf](https://mitt.uib.no/files/17259) — MED
+- [2017 fagstipend utlysning.pdf](https://mitt.uib.no/files/521264) — HF
+- [2017 opg 25A.png](https://mitt.uib.no/files/2110439) — PRMEDISIN
+- [2017 opg 25B.png](https://mitt.uib.no/files/2110440) — PRMEDISIN
+- [2017 opg 44.png](https://mitt.uib.no/files/2110710) — PRMEDISIN
+- [2017 opg 47.png](https://mitt.uib.no/files/2110789) — PRMEDISIN
+- [2017 opg 57.png](https://mitt.uib.no/files/2110857) — PRMEDISIN
+- [2017 opg 84A.png](https://mitt.uib.no/files/2112511) — PRMEDISIN
+- [2017 opg 84B.png](https://mitt.uib.no/files/2112495) — PRMEDISIN
+- [2017 opg 85.png](https://mitt.uib.no/files/2112525) — PRMEDISIN
+- [2017 opg 9.png](https://mitt.uib.no/files/2110068) — PRMEDISIN
+- [2017 opg 98.png](https://mitt.uib.no/files/2112582) — PRMEDISIN
+- [2018 høst - infomøte om delstudier i utlandet.pptx](https://mitt.uib.no/files/1029137) — HF
+- [2018 opg 10.png](https://mitt.uib.no/files/2129511) — PRMEDISIN
+- [2018 opg 144.png](https://mitt.uib.no/files/2129746) — PRMEDISIN
+- [2018 opg 147.png](https://mitt.uib.no/files/2129747) — PRMEDISIN
+- [2018 opg 17.png](https://mitt.uib.no/files/2129734) — PRMEDISIN
+- [2018 opg 36.png](https://mitt.uib.no/files/2129735) — PRMEDISIN
+- [2018 opg 38.png](https://mitt.uib.no/files/2129736) — PRMEDISIN
+- [2018 opg 47.png](https://mitt.uib.no/files/2129737) — PRMEDISIN
+- [2018 opg 52-2.png](https://mitt.uib.no/files/2129739) — PRMEDISIN
+- [2018 opg 52.png](https://mitt.uib.no/files/2129738) — PRMEDISIN
+- [2018 opg 69.png](https://mitt.uib.no/files/2129740) — PRMEDISIN
+- [2018 opg 75.png](https://mitt.uib.no/files/2129741) — PRMEDISIN
+- [2018 opg 82.png](https://mitt.uib.no/files/2129742) — PRMEDISIN
+- [2018 opg 83.png](https://mitt.uib.no/files/2129743) — PRMEDISIN
+- [2018 opg 89-2.png](https://mitt.uib.no/files/2129745) — PRMEDISIN
+- [2018 opg 89.png](https://mitt.uib.no/files/2129744) — PRMEDISIN
+- [2019 opg 111.png](https://mitt.uib.no/files/2139608) — PRMEDISIN
+- [2019 opg 12.png](https://mitt.uib.no/files/2139590) — PRMEDISIN
+- [2019 opg 13.png](https://mitt.uib.no/files/2139591) — PRMEDISIN
+- [2019 opg 165-2.png](https://mitt.uib.no/files/2139610) — PRMEDISIN
+- [2019 opg 165.png](https://mitt.uib.no/files/2139609) — PRMEDISIN
+- [2019 opg 168-1.png](https://mitt.uib.no/files/2139611) — PRMEDISIN
+- [2019 opg 168-2.png](https://mitt.uib.no/files/2139612) — PRMEDISIN
+- [2019 opg 170.png](https://mitt.uib.no/files/2139613) — PRMEDISIN
+- [2019 opg 177.png](https://mitt.uib.no/files/2139614) — PRMEDISIN
+- [2019 opg 33.png](https://mitt.uib.no/files/2139592) — PRMEDISIN
+- [2019 opg 42.png](https://mitt.uib.no/files/2139593) — PRMEDISIN
+- [2019 opg 45-2.png](https://mitt.uib.no/files/2139595) — PRMEDISIN
+- [2019 opg 45-3.png](https://mitt.uib.no/files/2139596) — PRMEDISIN
+- [2019 opg 45-4.png](https://mitt.uib.no/files/2139597) — PRMEDISIN
+- [2019 opg 45.png](https://mitt.uib.no/files/2139594) — PRMEDISIN
+- [2019 opg 68-1.png](https://mitt.uib.no/files/2139598) — PRMEDISIN
+- [2019 opg 68-2.png](https://mitt.uib.no/files/2139599) — PRMEDISIN
+- [2019 opg 69.png](https://mitt.uib.no/files/2139600) — PRMEDISIN
+- [2019 opg 86-1.png](https://mitt.uib.no/files/2139601) — PRMEDISIN
+- [2019 opg 86-2.png](https://mitt.uib.no/files/2139602) — PRMEDISIN
+- [2019 opg 87.png](https://mitt.uib.no/files/2139603) — PRMEDISIN
+- [2019 opg 88.png](https://mitt.uib.no/files/2139604) — PRMEDISIN
+- [2019 opg 91.png](https://mitt.uib.no/files/2139605) — PRMEDISIN
+- [2019 opg 94.png](https://mitt.uib.no/files/2139606) — PRMEDISIN
+- [2019 opg 95.png](https://mitt.uib.no/files/2139607) — PRMEDISIN
+- [20210121_EXPO2020DUBAI_Pres_UIB.pdf](https://mitt.uib.no/files/3253611) — HF
+- [2022 InfoPoster.pdf](https://mitt.uib.no/files/3973718) — PRMEDISIN
+- [2022_10_10MEDSU-referat.pdf](https://mitt.uib.no/files/4546638) — STUDENTUTVALG-MO
+- [2023_10_09_MEDSU_konstituerende_mote - Referat.pdf](https://mitt.uib.no/files/5402638) — STUDENTUTVALG-MO
+- [20230111_184030-1.gif](https://mitt.uib.no/files/7815011) — DIGI101
+- [2024_01_10_referat_MEDSU_desember.docx](https://mitt.uib.no/files/5643191) — STUDENTUTVALG-MO
+- [2024_04_07_Referat_Mars.docx](https://mitt.uib.no/files/6747768) — STUDENTUTVALG-MO
+- [2024_10_11_referat_styremøte_okt.pdf](https://mitt.uib.no/files/6275667) — STUDENTUTVALG-MO
+- [2025_02_14_referat_styremøte_nov_2024.pdf](https://mitt.uib.no/files/6610757) — STUDENTUTVALG-MO
+- [2025_03_04_referat_februar.docx](https://mitt.uib.no/files/6661248) — STUDENTUTVALG-MO
+- [2025_09_04_referat_april_25.docx](https://mitt.uib.no/files/7053994) — STUDENTUTVALG-MO
+- [2026_Utlysning_studentmentor_Medisin.pdf](https://mitt.uib.no/files/7581396) — PRMEDISIN
+- [2026-08-26 Bibliotekkurs MEDOD1.pdf](https://mitt.uib.no/files/7995018) — MEDOD1
+- [20260219_095839.jpg](https://mitt.uib.no/files/7516851) — STUDENTUTVALG-HF
+- [20260219_112030.jpg](https://mitt.uib.no/files/7517108) — STUDENTUTVALG-HF
+- [20260319_092302.jpg](https://mitt.uib.no/files/7597779) — STUDENTUTVALG-HF
+- [230614 Stasjon 1 Sensor endelig_1.docx](https://mitt.uib.no/files/7787381) — MED
+- [230614 Stasjon 1 skuespiller endelig_1.docx](https://mitt.uib.no/files/7787382) — MED
+- [230614 Stasjon 1 student endelig_1.docx](https://mitt.uib.no/files/7787380) — MED
+- [230614 Stasjon 2 sensor_1.docx](https://mitt.uib.no/files/7787390) — MED
+- [230614 Stasjon 2 student_1.docx](https://mitt.uib.no/files/7787391) — MED
+- [230614 Stasjon 3AB Sensor_1.docx](https://mitt.uib.no/files/7787385) — MED
+- [230614 Stasjon 3AB Student_1.docx](https://mitt.uib.no/files/7787386) — MED
+- [230614 Stasjon 3B skuespiller_1.docx](https://mitt.uib.no/files/7787387) — MED
+- [230614 Stasjon 4 skuespiller og sensor.docx](https://mitt.uib.no/files/7787395) — MED
+- [230614 Stasjon 4 student.docx](https://mitt.uib.no/files/7787396) — MED
+- [230614 Stasjon 5A Student_1.docx](https://mitt.uib.no/files/7787392) — MED
+- [230614 Stasjon 5B Sensor_1.docx](https://mitt.uib.no/files/7787393) — MED
+- [250520OSKE12Juni25EKGtilKardiologi.pdf](https://mitt.uib.no/files/6996871) — MED
+- [250520OSKE12Juni25KardiologiHjerteinfarktEndelig.docx](https://mitt.uib.no/files/6996870) — MED
+- [250520OSKE12Juni25LungeAstmaEndelig.docx](https://mitt.uib.no/files/6996872) — MED
+- [250521OSKE12Juni25AllmennTykktarmskreftEndelig.docx](https://mitt.uib.no/files/6996873) — MED
+- [250521OSKE12Juni25FysmedRehabSlagrehabiliteringEndelig.docx](https://mitt.uib.no/files/6996874) — MED
+- [250521OSKE12Juni25RadiologiLungeemboliEndelig.docx](https://mitt.uib.no/files/6996875) — MED
+- [250522OSKE12Juni25 NKIRsvulst_endelig.docx](https://mitt.uib.no/files/6996876) — MED
+- [250522OSKE12Juni25PediatriDehydreringEndelig.docx](https://mitt.uib.no/files/6996878) — MED
+- [250602OSKE12Juni25AllmennSkuldersmerterEndelig.docx](https://mitt.uib.no/files/6996879) — MED
+- [250602OSKE12Juni25PKIRHåndskadeEndelig.docx](https://mitt.uib.no/files/6996880) — MED
+- [260825_MEDOD1_Forebyggende_helsearbeid.pdf](https://mitt.uib.no/files/7980770) — MEDOD1
+- [29.05.19.Endo_Hypertyreose (1).docx](https://mitt.uib.no/files/3191864) — PRMEDISIN
+- [29.05.19.Endo_Hypertyreose (1).docx](https://mitt.uib.no/files/3192890) — MED
+- [4_OSKE_MED12_øyesykdommer_2026_ensidigsynstap_endelig1.docx](https://mitt.uib.no/files/7847398) — MED
+- [4_patologi cervix uteri_revidert.docx](https://mitt.uib.no/files/7875347) — MED
+- [4AT norsk versjon.pdf](https://mitt.uib.no/files/5560016) — MED
+- [5_OSKE geriatri vår 26_260526.docx](https://mitt.uib.no/files/7875348) — MED
+- [5_OSKEMed12_vår26_Urologi_UretersteinInf_endelig.docx](https://mitt.uib.no/files/7847399) — MED
+- [59442426_2433563710011433_2206848101849759744_o.jpg](https://mitt.uib.no/files/7815055) — DIGI101 — LOCKED
+- [7_Kneundersøkelse-Skade-Inderhaug_revidert mars 29_EIDU.docx](https://mitt.uib.no/files/7875349) — MED
+- [7_OSKE12_V26_allmenn_brystsmerter_endelig.docx](https://mitt.uib.no/files/7847400) — MED
+- [8_EKG tolkning og klinikk med fasit.docx](https://mitt.uib.no/files/7875353) — MED
+- [8_OSKE12_V26_allmenn_nakke_endelig.docx](https://mitt.uib.no/files/7847401) — MED
+- [8. semester-1.jpg](https://mitt.uib.no/files/7521100) — PRMEDISIN
+- [Abdomen 2019H- Undersøkelse av abdomen rev2.pdf](https://mitt.uib.no/files/4184129) — MED
+- [Agenda for møte med MEDSU Våren 2026.docx](https://mitt.uib.no/files/7675541) — STUDENTUTVALG-MO
+- [Akutt artritt-knepunksjon.pdf](https://mitt.uib.no/files/4204390) — MED
+- [Akuttmedisinsk fagdag.jpg](https://mitt.uib.no/files/541621) — PRMEDISIN
+- [Akuttmedisinsk torg.pdf](https://mitt.uib.no/files/8018505) — MEDOD1
+- [Alle kortsvaroppgaver med svar Konte H23.pdf](https://mitt.uib.no/files/5408896) — MED
+- [Allmenn 2016.pdf](https://mitt.uib.no/files/276398) — MED
+- [Allmenn 2017.pdf](https://mitt.uib.no/files/395331) — MED
+- [Allmenn 2018.pdf](https://mitt.uib.no/files/1636517) — MED
+- [Allmenn 2021.pdf](https://mitt.uib.no/files/4183186) — MED
+- [ALLMENN 2024 uten bilder.pdf](https://mitt.uib.no/files/6851258) — MED
+- [Allmenn eksamen 2021 OD3ALM med sensorveiledning.pdf](https://mitt.uib.no/files/4205750) — MED
+- [Allmenn eksamen 2024 tannlege endeleg med sensorrettleiing.pdf](https://mitt.uib.no/files/6855327) — MED
+- [Allmenn eksamen OD3ALM  2022 med sensor-rettleiing.pdf](https://mitt.uib.no/files/5069376) — MED
+- [Allmenneksamen tannlege 2023 endeleg med sensorrettleiing (002).pdf](https://mitt.uib.no/files/5940367) — MED
+- [Allmennmedisin - lav ferritin .docx](https://mitt.uib.no/files/4289459) — MED
+- [Allmennmedisin - legemiddelgjennomgang hos eldre.docx](https://mitt.uib.no/files/4289460) — MED
+- [Allmennmedisin Forebygging av hyppig ukomplisert cystitt, kvinne i fertil alder.docx](https://mitt.uib.no/files/3952890) — MED
+- [Allmennmedisin-vanedannende midler.docx](https://mitt.uib.no/files/3952891) — MED
+- [Allmennsensorveiledning2016.pdf](https://mitt.uib.no/files/287873) — MED
+- [Allmøte 2019(Referat).pdf](https://mitt.uib.no/files/3670986) — STUDENTUTVALG-MO
+- [Allmøte 2019(Saksliste).pdf](https://mitt.uib.no/files/1547087) — STUDENTUTVALG-MO
+- [Allmøte 2020(Innkalling).pdf](https://mitt.uib.no/files/2304274) — STUDENTUTVALG-MO
+- [Allmøte 2020(Referat).pdf](https://mitt.uib.no/files/3670730) — STUDENTUTVALG-MO
+- [Allmøte 2020(Vedlegg1).pdf](https://mitt.uib.no/files/2304275) — STUDENTUTVALG-MO
+- [Allmøte 2021(Innkalling).docx](https://mitt.uib.no/files/3232868) — STUDENTUTVALG-MO
+- [Allmøte 2021(Referat).docx](https://mitt.uib.no/files/3268231) — STUDENTUTVALG-MO
+- [Allmøte 2022 (Referat).pdf](https://mitt.uib.no/files/5020984) — STUDENTUTVALG-MO
+- [Allmøte 2022(Innkalling).pdf](https://mitt.uib.no/files/5020981) — STUDENTUTVALG-MO
+- [Allmøte 2024 (Innkalling).docx](https://mitt.uib.no/files/5896636) — STUDENTUTVALG-MO
+- [Allmøte 2024 (Referat).docx](https://mitt.uib.no/files/5908990) — STUDENTUTVALG-MO
+- [Allmøte 2025 (Innkalling).docx](https://mitt.uib.no/files/6800128) — STUDENTUTVALG-MO
+- [Allmøte 2026 (Innkalling).docx](https://mitt.uib.no/files/7675791) — STUDENTUTVALG-MO
+- [Allmøte v2017. Saksliste.pdf](https://mitt.uib.no/files/338143) — STUDENTUTVALG-HF
+- [ALM_OSKE12-diabetes pårørende 190502.docx](https://mitt.uib.no/files/3191865) — PRMEDISIN
+- [ALM_OSKE12-diabetes pårørende 190502.docx](https://mitt.uib.no/files/3192891) — MED
+- [ALM_Prevensjonsveiledning_190301.docx](https://mitt.uib.no/files/3191866) — PRMEDISIN
+- [ALM_Prevensjonsveiledning_190301.docx](https://mitt.uib.no/files/3192892) — MED
+- [Almenmedisin.docx](https://mitt.uib.no/files/4227111) — MED
+- [aminosyrenes struktur v25.pdf](https://mitt.uib.no/files/8211293) — MEDOD1
+- [Aminosyrer - vedlegg til eksamenssett FARM150 (generelt).pdf](https://mitt.uib.no/files/1576468) — MED
+- [ANEST_AHLR protokoll_1904019.docx](https://mitt.uib.no/files/3191867) — PRMEDISIN
+- [ANEST_AHLR protokoll_1904019.docx](https://mitt.uib.no/files/3192893) — MED
+- [Answers to Exam Questions 2015_QL.docx](https://mitt.uib.no/files/1924569) — MED
+- [Antall plasser psykiatri.doc](https://mitt.uib.no/files/20401) — PRMEDISIN
+- [Anvendt etikk (Fossheim ExPhil MO UiB 15.10.2026).pdf](https://mitt.uib.no/files/8142383) — EXPHIL-MOSEM
+- [Arqus teaching assistants Call Final_NVN.docx](https://mitt.uib.no/files/3594383) — HF
+- [ÅRsaker_til_studentene_H2024.pdf](https://mitt.uib.no/files/7794067) — MEDOD1
+- [Årsaksforklaringer_fra Øversveen_og_Rydland.pdf](https://mitt.uib.no/files/7794182) — MEDOD1
+- [Årsmelding-Husstyret-Gade-H19.pdf](https://mitt.uib.no/files/2116260) — MED
+- [Artikkel-Cohort-exam- lawn_tuberculosis.pdf](https://mitt.uib.no/files/273177) — MED
+- [Arvemønster_OSKEoppgave_Genetikk_2019høst_Endelig.pdf](https://mitt.uib.no/files/4184130) — MED
+- [Avtale MEDSU og fakultetet jan 26, signert.pdf](https://mitt.uib.no/files/7675600) — STUDENTUTVALG-MO
+- [AVTALE OM FAGLIG VEILEDNING UNDER SOMMERSTIPEND vår 2026.pdf](https://mitt.uib.no/files/7482058) — PRMEDISIN
+- [AVTALE OM FAGLIG VEILEDNING UNDER SOMMERSTIPEND.docx](https://mitt.uib.no/files/6622005) — PRMEDISIN
+- [Avtaleinfo - Aug 2026.pdf](https://mitt.uib.no/files/7943904) — PRMEDISIN
+- [Avtaleinformasjon - 5. Juni 2026.pdf](https://mitt.uib.no/files/7806003) — PRMEDISIN
+- [Avtaleinformasjon - Juni 2026.pdf](https://mitt.uib.no/files/7805779) — PRMEDISIN
+- [Bekreftelse på gjennomført sommerforskning 2026.pdf](https://mitt.uib.no/files/7482143) — PRMEDISIN
+- [Bekreftelse på gjennomført sommerforskning.docx](https://mitt.uib.no/files/6622006) — PRMEDISIN
+- [BergenAbstract1.pdf](https://mitt.uib.no/files/8772) — PRMEDISIN
+- [BergenAbstract2.pdf](https://mitt.uib.no/files/8773) — PRMEDISIN
+- [Berørt område.pdf](https://mitt.uib.no/files/8044649) — MED
+- [Bevisstløs pasient OSKE6-24 v5.docx](https://mitt.uib.no/files/6023473) — MED
+- [Bevisstløshet.pdf](https://mitt.uib.no/files/7794042) — MEDOD1
+- [Bild_35.png](https://mitt.uib.no/files/280085) — MEDOD1
+- [Bilde til forsiden-10.12.15-mindre.jpg](https://mitt.uib.no/files/1598) — Institutt for biomedisin
+- [Bilde til forsiden-10.12.15-minst.jpg](https://mitt.uib.no/files/1599) — Institutt for biomedisin
+- [Bilde til forsiden-10.12.15.jpg](https://mitt.uib.no/files/1597) — Institutt for biomedisin
+- [Biomat 2017.pdf](https://mitt.uib.no/files/1631531) — MED
+- [Biomat 2018.pdf](https://mitt.uib.no/files/1631538) — MED
+- [Biomat 2019.pdf](https://mitt.uib.no/files/2539696) — MED
+- [Biomat 2020.pdf](https://mitt.uib.no/files/3411505) — MED
+- [Biomat 2021 korrigert.pdf](https://mitt.uib.no/files/5978473) — MED
+- [Biomat Mitt UiB 2016.pdf](https://mitt.uib.no/files/322798) — MED
+- [Biomat_2013.pdf](https://mitt.uib.no/files/17229) — MED
+- [Biomat_2014.pdf](https://mitt.uib.no/files/17230) — MED
+- [Biomedisin - Identifisering av muskelceller i et histologisk preparat -  oppdatert 26.7.pdf](https://mitt.uib.no/files/4227116) — MED
+- [Biomedisin - Identifisering av muskelceller i et histologisk preparat -  oppdatert 26.7.pdf](https://mitt.uib.no/files/4838857) — MED
+- [Bjørnestad_-_Resusitering_av_gravide_og_nyfødte_-_Akuttmedisinsk_fagdag13.pdf](https://mitt.uib.no/files/24343) — PRMEDISIN
+- [Blod- Kortsvarsoppgave-H 19 (med fasit).docx](https://mitt.uib.no/files/2051699) — MED
+- [Blod-Kortsvarsoppgave  H 19 (uten fasit).docx](https://mitt.uib.no/files/2051700) — MED
+- [BM-NUTR230 H19-Eksamen med fasit.pdf](https://mitt.uib.no/files/2034149) — MED
+- [BM-NUTR230 H19-Eksamen uten fasit.pdf](https://mitt.uib.no/files/2034148) — MED
+- [BMED251_h2010_bm.doc](https://mitt.uib.no/files/17036) — MED
+- [BMED252_h2010_bm.doc](https://mitt.uib.no/files/17135) — MED
+- [BMED252_h2011_bm.pdf](https://mitt.uib.no/files/17136) — MED
+- [BMED330  v2017 - uten svar.pdf](https://mitt.uib.no/files/1533547) — MED
+- [BMED330 (ny) v2017 - uten svar.pdf](https://mitt.uib.no/files/1533546) — MED
+- [BMED330 (ny) v2017 med svar.pdf](https://mitt.uib.no/files/739561) — MED
+- [BMED330 (ny) v2018  - uten svar.pdf](https://mitt.uib.no/files/4068345) — MED
+- [BMED330 (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/4068346) — MED
+- [BMED330 v2017 med svar.pdf](https://mitt.uib.no/files/739562) — MED
+- [BMED330 v2018 - med svar.pdf](https://mitt.uib.no/files/4068347) — MED
+- [BMED330 v2018 - uten svar.pdf](https://mitt.uib.no/files/4068348) — MED
+- [BMED330 v2019 - med svar.pdf](https://mitt.uib.no/files/2243820) — MED
+- [BMED330 v2019 - uten svar.pdf](https://mitt.uib.no/files/2243822) — MED
+- [BMED330 v2021 - med svar.pdf](https://mitt.uib.no/files/3264800) — MED
+- [BMED330 v2021 - uten svar.pdf](https://mitt.uib.no/files/3264799) — MED
+- [BMED330 v2022 - med svar.pdf](https://mitt.uib.no/files/4174099) — MED
+- [BMED330 v2022 - uten svar.pdf](https://mitt.uib.no/files/4174098) — MED
+- [BMED330_(ny)_v2011_eng.pdf](https://mitt.uib.no/files/17073) — MED
+- [BMED330_v2011_eng.pdf](https://mitt.uib.no/files/17074) — MED
+- [BMED331 v2019 - med svar.pdf](https://mitt.uib.no/files/2600815) — MED
+- [BMED331 v2019 - uten svar.pdf](https://mitt.uib.no/files/2600814) — MED
+- [BMED331__ny__v2011_eng.pdf](https://mitt.uib.no/files/17084) — MED
+- [BMED331_(ny)_v2012.docx](https://mitt.uib.no/files/17085) — MED
+- [BMED331_v2011_eng.pdf](https://mitt.uib.no/files/17083) — MED
+- [BMEDFYS (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/7258088) — MED
+- [BMEDFYS (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/7258087) — MED
+- [BMEDFYS h2024 - med svar.pdf](https://mitt.uib.no/files/7258079) — MED
+- [BMEDFYS h2024 - uten svar.pdf](https://mitt.uib.no/files/7258080) — MED
+- [BMEDFYS h2025 - med svar.pdf](https://mitt.uib.no/files/7373325) — MED
+- [BMEDFYS h2025 - uten svar.pdf](https://mitt.uib.no/files/7373326) — MED
+- [BMEDKRO (ny) h2025 - med svar.pdf](https://mitt.uib.no/files/7740580) — MED
+- [BMEDKRO (ny) h2025 - uten svar.pdf](https://mitt.uib.no/files/7740581) — MED
+- [BMEDKRO (ny) h2026 - med svar.pdf](https://mitt.uib.no/files/8060381) — MED
+- [BMEDKRO (ny) h2026 - uten svar.pdf](https://mitt.uib.no/files/8060380) — MED
+- [BMEDKRO v2025 - med svar.pdf](https://mitt.uib.no/files/7740539) — MED
+- [BMEDKRO v2025 - uten svar.pdf](https://mitt.uib.no/files/7740540) — MED
+- [Bo Eide - Flickr-1.jpg](https://mitt.uib.no/files/7815025) — DIGI101
+- [bøker4.png](https://mitt.uib.no/files/7793896) — MEDOD1
+- [bokmål2016.pdf](https://mitt.uib.no/files/295985) — MED
+- [Booke rom ved Ferdighetssenteret.pdf](https://mitt.uib.no/files/20399) — PRMEDISIN
+- [Boston_Bergen_Panels_Fall2021 (003).pdf](https://mitt.uib.no/files/3737739) — Institutt for filosofi og førstesemesterstudier
+- [Brannskade Ambulanseforum Høst 2015.pdf](https://mitt.uib.no/files/7793860) — MEDOD1
+- [Brannskade Den akutt syke pasient.pdf](https://mitt.uib.no/files/7793852) — MEDOD1
+- [Brannskade OSKE_NL0608.AArli AB.docx](https://mitt.uib.no/files/7366963) — MED
+- [Brukerveiledning.jpg](https://mitt.uib.no/files/7901904) — EXPHIL-MOSEM
+- [BUP Kortsvarsoppgave konte med fasit MED7 2021.docx](https://mitt.uib.no/files/4246362) — MED
+- [BUP Kortsvarsoppgave MED7 ht 21 ADHD fra Maj-Britt.docx](https://mitt.uib.no/files/4231716) — MED
+- [by-1.png](https://mitt.uib.no/files/7815010) — DIGI101
+- [by-nc-1.png](https://mitt.uib.no/files/7815026) — DIGI101
+- [by-sa-1.png](https://mitt.uib.no/files/7815008) — DIGI101
+- [Cairo How charts lie.jpg](https://mitt.uib.no/files/7815027) — DIGI101
+- [Call for applications.docx](https://mitt.uib.no/files/7488581) — PRMEDISIN
+- [CELLE1__forelesing 2 celebiologi_MSB_2.pdf](https://mitt.uib.no/files/7982915) — MEDOD1
+- [CELLE1_forelesing 1 celebiologi_intro_AW.pdf](https://mitt.uib.no/files/7982916) — MEDOD1
+- [CELLE1_forelesing 3 MEDOD1 Cellebiologi Aug26_AW.pdf](https://mitt.uib.no/files/7982914) — MEDOD1
+- [Chir.minor-Kortsvaroppgave bokmål H 19 (med fasit).docx](https://mitt.uib.no/files/2051702) — MED
+- [Chir.minor-Kortsvaroppgave bokmål H 19 (uten fasit).docx](https://mitt.uib.no/files/2051703) — MED
+- [Colloquium primum.pdf](https://mitt.uib.no/files/8063664) — MEDOD1
+- [Colloquium quartum.pdf](https://mitt.uib.no/files/8200050) — MEDOD1
+- [Colloquium quintum et ultimum.pdf](https://mitt.uib.no/files/8208371) — MEDOD1
+- [Colloquium secundum.pdf](https://mitt.uib.no/files/8087323) — MEDOD1
+- [Colloquium tertium.pdf](https://mitt.uib.no/files/8135336) — MEDOD1
+- [COLOURBOX42960045-1.jpg](https://mitt.uib.no/files/6766024) — PRMEDISIN
+- [Complete INTH315 exam H2021_published.pdf](https://mitt.uib.no/files/4039697) — MED
+- [Complete set with answers](https://mitt.uib.no/files/7869530) — MED
+- [Complete set with answers.pdf](https://mitt.uib.no/files/6473392) — MED
+- [Complete set with answers.pdf](https://mitt.uib.no/files/7688716) — MED
+- [Complete set with answers.pdf](https://mitt.uib.no/files/7689055) — MED
+- [Complete set without answers](https://mitt.uib.no/files/7869531) — MED
+- [Complete set without answers.pdf](https://mitt.uib.no/files/6473393) — MED
+- [Complete set without answers.pdf](https://mitt.uib.no/files/7688720) — MED
+- [Complete set without answers.pdf](https://mitt.uib.no/files/7689056) — MED
+- [content_image_1399411_22277575.jpg](https://mitt.uib.no/files/747336) — MED
+- [content_image_1399411_22277622.gif](https://mitt.uib.no/files/747337) — MED
+- [content_image_1399411_22319440.jpg](https://mitt.uib.no/files/747333) — MED
+- [content_image_1399411_22333641.jpg](https://mitt.uib.no/files/747338) — MED
+- [content_image_1399411_24090394.jpg](https://mitt.uib.no/files/747334) — MED
+- [content_image_1399411_28963957.jpg](https://mitt.uib.no/files/1190291) — MED
+- [content_image_1399411_28963961.jpg](https://mitt.uib.no/files/1190292) — MED
+- [content_image_1399411_28963965.jpg](https://mitt.uib.no/files/1190295) — MED
+- [content_image_1399411_28963968.jpg](https://mitt.uib.no/files/1190296) — MED
+- [content_image_1399411_28963976.jpg](https://mitt.uib.no/files/1190297) — MED
+- [content_image_1399411_28963979.jpg](https://mitt.uib.no/files/1190298) — MED
+- [content_image_1399411_28963989.jpg](https://mitt.uib.no/files/1190300) — MED
+- [content_image_1399411_28963991.jpg](https://mitt.uib.no/files/1190301) — MED
+- [content_image_1399411_28963995.jpg](https://mitt.uib.no/files/1190280) — MED
+- [content_image_1399411_28963997.jpg](https://mitt.uib.no/files/1190281) — MED
+- [content_image_1399411_28964002.jpg](https://mitt.uib.no/files/1190282) — MED
+- [content_image_1399411_28964004.jpg](https://mitt.uib.no/files/1190283) — MED
+- [content_image_1399411_28964082.jpg](https://mitt.uib.no/files/1190284) — MED
+- [content_image_1399411_28964084.jpg](https://mitt.uib.no/files/1190285) — MED
+- [content_image_1399411_28964132.jpg](https://mitt.uib.no/files/1190286) — MED
+- [content_image_1399411_28964134.jpg](https://mitt.uib.no/files/1190287) — MED
+- [content_url_1399411_28655614.pdf](https://mitt.uib.no/files/1190312) — MED
+- [content_url_1399411_28655721.pdf](https://mitt.uib.no/files/1190303) — MED
+- [content_url_1399411_28655731.pdf](https://mitt.uib.no/files/1190304) — MED
+- [content_url_1399411_28655875.pdf](https://mitt.uib.no/files/1190305) — MED
+- [content_url_1399411_28655889.pdf](https://mitt.uib.no/files/1190306) — MED
+- [content_url_1399411_28655893.pdf](https://mitt.uib.no/files/1190307) — MED
+- [content_url_1399411_28656021.pdf](https://mitt.uib.no/files/1190308) — MED
+- [content_url_1399411_28656029.pdf](https://mitt.uib.no/files/1190309) — MED
+- [content_url_1399411_28656043.pdf](https://mitt.uib.no/files/1190310) — MED
+- [content_url_1399411_28656047.pdf](https://mitt.uib.no/files/1190311) — MED
+- [content_url_1399411_28656054.pdf](https://mitt.uib.no/files/1190302) — MED
+- [content_url_1399411_28978164.pdf](https://mitt.uib.no/files/1190288) — MED
+- [content_url_1399411_28979571.pdf](https://mitt.uib.no/files/1190278) — MED
+- [content_url_1399411_28980319.pdf](https://mitt.uib.no/files/1190279) — MED
+- [content_url_1399411_28980337.pdf](https://mitt.uib.no/files/1190290) — MED
+- [Copilot.JPG](https://mitt.uib.no/files/7931929) — DIGI101
+- [copy_of_hva-forelesning-1-2025.pdf](https://mitt.uib.no/files/8002186) — MEDOD1
+- [copy_of_hva-forelesning-2-2025.pdf](https://mitt.uib.no/files/8023010) — MEDOD1
+- [dagbladet-1.jpg](https://mitt.uib.no/files/7815047) — DIGI101
+- [dagbladet-sammensatt-1.jpg](https://mitt.uib.no/files/7815051) — DIGI101
+- [dagbladet-stappfult-3-1.JPG](https://mitt.uib.no/files/7815031) — DIGI101
+- [DELER AV EKSAMEN I OD3END-K4 vår 17.docx.pdf](https://mitt.uib.no/files/771756) — MED
+- [Deler av eksamen vår 17.pdf](https://mitt.uib.no/files/771769) — MED
+- [Deltid Risikovurdering Personprodukt.pdf](https://mitt.uib.no/files/2166062) — PRMEDISIN
+- [Demyeliniserende sykdom-Torkildsen.docx](https://mitt.uib.no/files/5515813) — MED
+- [Design thinking 24jan2020.pdf](https://mitt.uib.no/files/2217428) — PRMEDISIN
+- [Det akutt syke barnet MED1 150922 Mette Engan.pdf](https://mitt.uib.no/files/7793849) — MEDOD1
+- [Det norske helsevesen høsten 2026 1. semester BFL .pdf](https://mitt.uib.no/files/7962759) — MEDOD1
+- [det periodiske system v25.pdf](https://mitt.uib.no/files/8211294) — MEDOD1
+- [Diaz diskriinering.pdf](https://mitt.uib.no/files/8103280) — MEDOD1
+- [Dickstein_-_EKG_course_acute_-_Akuttmedisinsk_fagdag13.pdf](https://mitt.uib.no/files/24344) — PRMEDISIN
+- [Digitalt allmøte - en guidebok fra spuib (002).pdf](https://mitt.uib.no/files/2456810) — MED
+- [Diskusjonsspørsmål Årsak og virkning.docx](https://mitt.uib.no/files/8164115) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Diskusjonsspørsmål Konsekvensialisme.docx](https://mitt.uib.no/files/8070719) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Disseksjonssaler.JPG](https://mitt.uib.no/files/4137221) — Institutt for biomedisin
+- [Dreiebok for studentene introkurset H26.pdf](https://mitt.uib.no/files/7942665) — MEDOD1
+- [DSC01542.JPG](https://mitt.uib.no/files/7815059) — DIGI101 — LOCKED
+- [dumhet idioter.png](https://mitt.uib.no/files/7815018) — DIGI101
+- [Durer - figurtekst-1.JPG](https://mitt.uib.no/files/7815014) — DIGI101
+- [Ebook - Durer-1.JPG](https://mitt.uib.no/files/7815012) — DIGI101
+- [EKG til OSKE vår 2026 Allmennmedisin Brystsmerter.pdf](https://mitt.uib.no/files/8214389) — MED
+- [EKG tolkning .pdf](https://mitt.uib.no/files/4204391) — MED
+- [EKG- OKSE6 V25.docx](https://mitt.uib.no/files/7049636) — MED
+- [Eks kortsvar MED7 ØNH des  2025 bokmål fasit.pdf](https://mitt.uib.no/files/7434733) — MED
+- [Eksamen 15.12.2017_Bokmål_complete.pdf](https://mitt.uib.no/files/654000) — MED
+- [Eksamen 17H oppgaver og fasit Sirkulasjon 2 inkludert kortsvarsoppgaver.pdf](https://mitt.uib.no/files/694315) — MED
+- [Eksamen 2016 med sensorveiledning.pdf](https://mitt.uib.no/files/514541) — MED
+- [Eksamen 2018 med sensorveiledning.pdf](https://mitt.uib.no/files/3664735) — MED
+- [EKSAMEN ALLMENN TPBAALM 2021 med sensorrettleiing.pdf](https://mitt.uib.no/files/4205749) — MED
+- [Eksamen FARM293 V25 m.svar.pdf](https://mitt.uib.no/files/7518968) — MED
+- [Eksamen FARM293 vår 2018_ med sensorveiledning.pdf](https://mitt.uib.no/files/893663) — MED
+- [Eksamen FARM293Endeleg.docx](https://mitt.uib.no/files/1763847) — MED
+- [Eksamen FARM295 - høst 2019.pdf](https://mitt.uib.no/files/2305348) — MED
+- [Eksamen H 17 Bokmål  med fasit MED5 Femte semester medisinstudiet.pdf](https://mitt.uib.no/files/694361) — MED
+- [Eksamen H 17 Nynorsk med fasit MED5 Femte semester medisinstudiet_korrigert.pdf](https://mitt.uib.no/files/3982384) — MED
+- [Eksamen H22 kortsvar fasit.pdf](https://mitt.uib.no/files/5478657) — MED
+- [Eksamen høst 2017 med svar.pdf](https://mitt.uib.no/files/1325550) — MED
+- [Eksamen høst 2017 uten svar.pdf](https://mitt.uib.no/files/1325554) — MED
+- [Eksamen høst 2020 med sensorveiledning.pdf](https://mitt.uib.no/files/3661086) — MED
+- [Eksamen høst 2022 MED7 KORTSVARSOPPGAVE PSYKIATRI NR 1_BOKMÅL_og_NYNORSK.docx](https://mitt.uib.no/files/4781635) — MED
+- [Eksamen i allmennodontologi kario med sensorveiledning utan kliniske bilete.pdf](https://mitt.uib.no/files/2438501) — MED
+- [Eksamen i allmennodontologi tannleger 2019 med sensorrettleiing.pdf](https://mitt.uib.no/files/3380620) — MED
+- [Eksamen i periodonti kull 4 vår 2019 bokmål uten flervalgsoppgaver og kliniske foto.docx](https://mitt.uib.no/files/2475508) — MED
+- [Eksamen juni 2018 med svar.pdf](https://mitt.uib.no/files/1324599) — MED
+- [Eksamen juni 2018 uten svar.pdf](https://mitt.uib.no/files/1324585) — MED
+- [Eksamen kariologi kull 4 haust 2021 sensorveiledning oppgave 1-2.pdf](https://mitt.uib.no/files/4694773) — MED
+- [Eksamen konte 16.febr 2018 bilde oppg 20.pdf](https://mitt.uib.no/files/1325547) — MED
+- [Eksamen Konte 16.febr 2018 MED svar.pdf](https://mitt.uib.no/files/1310559) — MED
+- [Eksamen Konte 16.febr 2018 uten svar.pdf](https://mitt.uib.no/files/1310675) — MED
+- [Eksamen konte 24.sept 2018.pdf](https://mitt.uib.no/files/1325207) — MED
+- [Eksamen konte MED SVAR 24.sept 2018.pdf](https://mitt.uib.no/files/1325208) — MED
+- [Eksamen med fasit 2017.docx](https://mitt.uib.no/files/533383) — MED
+- [Eksamen med fasit NUTR203 H19.pdf](https://mitt.uib.no/files/2225704) — MED
+- [Eksamen med fasit NUTR203 H20 Del 1.pdf](https://mitt.uib.no/files/3389911) — MED
+- [Eksamen med fasit NUTR245 H19.pdf](https://mitt.uib.no/files/2226489) — MED
+- [EKSAMEN MED5 Høst 2017 uten fasit.pdf](https://mitt.uib.no/files/730422) — MED
+- [Eksamen MED5 KONT Vår 2018 med svar.pdf](https://mitt.uib.no/files/1002843) — MED
+- [Eksamen MED5 KONT Vår 2018 uten fasit.pdf](https://mitt.uib.no/files/1002844) — MED
+- [Eksamen MED8 h17 Sensorveiledning Blod.docx](https://mitt.uib.no/files/544618) — MED
+- [Eksamen MED8 h17 Sensorveiledning Endokrin.docx](https://mitt.uib.no/files/544621) — MED
+- [Eksamen MED8 h17 Sensorveiledning Hud.docx](https://mitt.uib.no/files/544623) — MED
+- [Eksamen MED8 h17 Sensorveiledning Nefrologi.docx](https://mitt.uib.no/files/544624) — MED
+- [Eksamen MED8 h17 Sensorveiledning Plastikk- og småkirurgi.docx](https://mitt.uib.no/files/544626) — MED
+- [Eksamen MED8 høst 2017 BM.pdf](https://mitt.uib.no/files/544610) — MED
+- [Eksamen MED8 høst 2017 NN.pdf](https://mitt.uib.no/files/544613) — MED
+- [Eksamen MED8 v17 Sensorveiledning Blod.pdf](https://mitt.uib.no/files/382393) — MED
+- [Eksamen MED8 v17 Sensorveiledning Endokrinologi.pdf](https://mitt.uib.no/files/382394) — MED
+- [Eksamen MED8 v17 Sensorveiledning Hud.pdf](https://mitt.uib.no/files/382395) — MED
+- [Eksamen MED8 v17 Sensorveiledning Nefrologi.pdf](https://mitt.uib.no/files/382396) — MED
+- [Eksamen MED8 v17 Sensorveiledning Plastikk og småkirurgi.pdf](https://mitt.uib.no/files/481629) — MED
+- [Eksamen MED8 v17 Sensorveiledning Reseptlære.pdf](https://mitt.uib.no/files/382398) — MED
+- [Eksamen MED8 v17 Sensorveiledning Urologi.pdf](https://mitt.uib.no/files/382399) — MED
+- [Eksamen MED8 vår 2017 BM.pdf](https://mitt.uib.no/files/373356) — MED
+- [Eksamen MED8 vår 2017 NN.pdf](https://mitt.uib.no/files/373357) — MED
+- [Eksamen MED8 vår 2018-Blod-sensorveiledning.docx](https://mitt.uib.no/files/813112) — MED
+- [Eksamen MED8 vår 2018-Endo-sensorveiledning.docx](https://mitt.uib.no/files/813115) — MED
+- [Eksamen MED8 vår 2018-Hud-sensorveiledning.docx](https://mitt.uib.no/files/813116) — MED
+- [Eksamen MED8 vår 2018-Nefro-sensorveiledning.docx](https://mitt.uib.no/files/813117) — MED
+- [Eksamen MED8 vår 2018-Pl-Småkir- sensorveiledning.docx](https://mitt.uib.no/files/813118) — MED
+- [Eksamen MED8 våren 2019 - uten patologi-med svar.pdf](https://mitt.uib.no/files/1705467) — MED
+- [Eksamen MED8 våren 2019- med patologi- med svar.pdf](https://mitt.uib.no/files/1705468) — MED
+- [Eksamen MED8 våren 2019- med patologi- uten svar.pdf](https://mitt.uib.no/files/1705469) — MED
+- [Eksamen MED8 våren 2019- uten patologi-uten svar.pdf](https://mitt.uib.no/files/1705470) — MED
+- [Eksamen MED8-konte 07.09.2018-uten svar.pdf](https://mitt.uib.no/files/1181176) — MED
+- [Eksamen NUCLI351 H19.pdf](https://mitt.uib.no/files/2077441) — MED
+- [Eksamen NUCLI351 H20.pdf](https://mitt.uib.no/files/2994822) — MED
+- [Eksamen NUCLI351 H21.pdf](https://mitt.uib.no/files/3798338) — MED
+- [Eksamen NUCLI351 H22.pdf](https://mitt.uib.no/files/4632081) — MED
+- [Eksamen NUCLI352 V19.pdf](https://mitt.uib.no/files/6684611) — MED
+- [Eksamen NUCLI352 V20.pdf](https://mitt.uib.no/files/2467659) — MED
+- [Eksamen NUCLI352 V21.pdf](https://mitt.uib.no/files/6714430) — MED
+- [Eksamen NUCLI352 V22.pdf](https://mitt.uib.no/files/4216433) — MED
+- [Eksamen NUCLI352 V23.pdf](https://mitt.uib.no/files/6684523) — MED
+- [Eksamen NUCLI352 V24-med fasit.pdf](https://mitt.uib.no/files/6684566) — MED
+- [Eksamen NUCLI352 V24-uten fasit.pdf](https://mitt.uib.no/files/6684567) — MED
+- [Eksamen NUCLI352 V25-med fasit.pdf](https://mitt.uib.no/files/6782209) — MED
+- [Eksamen NUCLI352 V25-uten fasit.pdf](https://mitt.uib.no/files/6782210) — MED
+- [Eksamen NUCLI352 V26-med fasit.pdf](https://mitt.uib.no/files/7676713) — MED
+- [Eksamen NUCLI352 V26-uten fasit.pdf](https://mitt.uib.no/files/7676714) — MED
+- [Eksamen NUCLI352-V18.pdf](https://mitt.uib.no/files/754568) — MED
+- [Eksamen NUCLI353 H20.pdf](https://mitt.uib.no/files/3060770) — MED
+- [Eksamen NUCLI353 H21.pdf](https://mitt.uib.no/files/3952772) — MED
+- [Eksamen NUCLI353 H22-med fasit.pdf](https://mitt.uib.no/files/4808768) — MED
+- [Eksamen NUCLI353 H22-uten fasit.pdf](https://mitt.uib.no/files/4808769) — MED
+- [Eksamen NUCLI357 H25-med fasit.pdf](https://mitt.uib.no/files/7427970) — MED
+- [Eksamen NUCLI357 H25-uten fasit.pdf](https://mitt.uib.no/files/7427971) — MED
+- [Eksamen NUCLI357 med sensorveiledning H24.pdf](https://mitt.uib.no/files/6724111) — MED
+- [Eksamen NUR150 V24-med fasit.pdf](https://mitt.uib.no/files/7795231) — MED
+- [Eksamen NUTR100 V20.pdf](https://mitt.uib.no/files/2529925) — MED
+- [Eksamen NUTR100 V21.pdf](https://mitt.uib.no/files/3365457) — MED
+- [Eksamen NUTR100 V22-med fasit.pdf](https://mitt.uib.no/files/4301156) — MED
+- [Eksamen NUTR100 V22-uten fasit.pdf](https://mitt.uib.no/files/4301157) — MED
+- [Eksamen NUTR100 V23-med fasit.pdf](https://mitt.uib.no/files/5179565) — MED
+- [Eksamen NUTR100 V23-uten fasit.pdf](https://mitt.uib.no/files/5179566) — MED
+- [Eksamen NUTR100 V24-med fasit.pdf](https://mitt.uib.no/files/7734503) — MED
+- [Eksamen NUTR100 V24-uten fasit.pdf](https://mitt.uib.no/files/7734504) — MED
+- [Eksamen NUTR100 V25-med fasit.pdf](https://mitt.uib.no/files/7734673) — MED
+- [Eksamen NUTR100 V25-uten fasit.pdf](https://mitt.uib.no/files/7734674) — MED
+- [Eksamen NUTR100 V26-med fasit.pdf](https://mitt.uib.no/files/7811556) — MED
+- [Eksamen NUTR100 V26-uten fasit.pdf](https://mitt.uib.no/files/7811558) — MED
+- [Eksamen NUTR115 V20 med fasit.pdf](https://mitt.uib.no/files/2564702) — MED
+- [Eksamen NUTR115 V20 uten fasit.pdf](https://mitt.uib.no/files/2564703) — MED
+- [Eksamen NUTR115 V22-med fasit.pdf](https://mitt.uib.no/files/4301136) — MED
+- [Eksamen NUTR115 V22-uten fasit.pdf](https://mitt.uib.no/files/4301137) — MED
+- [Eksamen NUTR115 V23-med fasit.pdf](https://mitt.uib.no/files/5179351) — MED
+- [Eksamen NUTR115 V23-uten fasit.pdf](https://mitt.uib.no/files/5179352) — MED
+- [Eksamen NUTR115 V24-med fasit.pdf](https://mitt.uib.no/files/7794919) — MED
+- [Eksamen NUTR115 V24-uten fasit.pdf](https://mitt.uib.no/files/7794920) — MED
+- [Eksamen NUTR115 V25-med fasit.pdf](https://mitt.uib.no/files/6915322) — MED
+- [Eksamen NUTR115 V25-uten fasit.pdf](https://mitt.uib.no/files/6915323) — MED
+- [Eksamen NUTR115 V26-med fasit.pdf](https://mitt.uib.no/files/7850580) — MED
+- [Eksamen NUTR115 V26-uten fasit.pdf](https://mitt.uib.no/files/7850581) — MED
+- [Eksamen NUTR150 V23-med fasit.pdf](https://mitt.uib.no/files/5727093) — MED
+- [Eksamen NUTR150 V23-uten fasit.pdf](https://mitt.uib.no/files/5727094) — MED
+- [Eksamen NUTR150 V24-uten fasit.pdf](https://mitt.uib.no/files/7795232) — MED
+- [Eksamen NUTR150 V25-med fasit.pdf](https://mitt.uib.no/files/6895366) — MED
+- [Eksamen NUTR150 V25-uten fasit.pdf](https://mitt.uib.no/files/6895367) — MED
+- [Eksamen NUTR203 H20 Del 2.pdf](https://mitt.uib.no/files/3389918) — MED
+- [Eksamen NUTR203 H21-med fasit.pdf](https://mitt.uib.no/files/3965010) — MED
+- [Eksamen NUTR203 H21-uten fasit.pdf](https://mitt.uib.no/files/3965011) — MED
+- [Eksamen NUTR203 H22-med fasit.pdf](https://mitt.uib.no/files/4800093) — MED
+- [Eksamen NUTR203 H22-uten fasit.pdf](https://mitt.uib.no/files/4800094) — MED
+- [Eksamen NUTR203 H23-med fasit.pdf](https://mitt.uib.no/files/5664618) — MED
+- [Eksamen NUTR203 H23-uten fasit.pdf](https://mitt.uib.no/files/5664619) — MED
+- [Eksamen NUTR203 H24-med fasit.pdf](https://mitt.uib.no/files/7345616) — MED
+- [Eksamen NUTR203 H24-uten fasit.pdf](https://mitt.uib.no/files/7345617) — MED
+- [Eksamen NUTR204 V22-med fasit.pdf](https://mitt.uib.no/files/4320123) — MED
+- [Eksamen NUTR204 V22-uten fasit.pdf](https://mitt.uib.no/files/4320124) — MED
+- [Eksamen NUTR204 V23-med fasit.pdf](https://mitt.uib.no/files/5074228) — MED
+- [Eksamen NUTR204 V23-uten fasit.pdf](https://mitt.uib.no/files/5074229) — MED
+- [Eksamen NUTR204 V25-med fasit.pdf](https://mitt.uib.no/files/6915523) — MED
+- [Eksamen NUTR204 V25-uten fasit.pdf](https://mitt.uib.no/files/6915524) — MED
+- [Eksamen NUTR230 H20-med fasit.pdf](https://mitt.uib.no/files/2867551) — MED
+- [Eksamen NUTR230 H20-uten fasit.pdf](https://mitt.uib.no/files/2867550) — MED
+- [Eksamen NUTR230 H21-med fasit.pdf](https://mitt.uib.no/files/3736809) — MED
+- [Eksamen NUTR230 H21-uten fasit.pdf](https://mitt.uib.no/files/3736813) — MED
+- [Eksamen NUTR230 H22-med fasit.pdf](https://mitt.uib.no/files/5288755) — MED
+- [Eksamen NUTR230 H22-uten fasit.pdf](https://mitt.uib.no/files/5288756) — MED
+- [Eksamen NUTR230 H23-med fasit.pdf](https://mitt.uib.no/files/5376268) — MED
+- [Eksamen NUTR230 H23-uten fasit.pdf](https://mitt.uib.no/files/5376269) — MED
+- [Eksamen NUTR240 V18-Med MCQ-svar.pdf](https://mitt.uib.no/files/1165839) — MED
+- [Eksamen NUTR240 V18-Sensorveiledning.docx](https://mitt.uib.no/files/1165840) — MED
+- [Eksamen NUTR240 V18-Uten MCQ-svar.pdf](https://mitt.uib.no/files/1165838) — MED
+- [Eksamen NUTR244 H22-med fasit.pdf](https://mitt.uib.no/files/4731969) — MED
+- [Eksamen NUTR244 H22-uten fasit.pdf](https://mitt.uib.no/files/4731970) — MED
+- [Eksamen NUTR244 H23-med fasit.pdf](https://mitt.uib.no/files/5574517) — MED
+- [Eksamen NUTR244 H23-uten fasit.pdf](https://mitt.uib.no/files/5574518) — MED
+- [Eksamen NUTR244 H25-med fasit.pdf](https://mitt.uib.no/files/7419910) — MED
+- [Eksamen NUTR244 H25-uten fasit.pdf](https://mitt.uib.no/files/7419911) — MED
+- [Eksamen NUTR245 H20-med fasit.pdf](https://mitt.uib.no/files/3049003) — MED
+- [Eksamen NUTR245 H20-uten fasit.pdf](https://mitt.uib.no/files/3049002) — MED
+- [Eksamen NUTR245 H21-med fasit.pdf](https://mitt.uib.no/files/3980288) — MED
+- [Eksamen NUTR245 H21-uten fasit.pdf](https://mitt.uib.no/files/3980289) — MED
+- [Eksamen OD2RØN H2020_sensorveiledning.pdf](https://mitt.uib.no/files/3824882) — MED
+- [Eksamen tpl 2019 allmenn med sensorveiledning.pdf](https://mitt.uib.no/files/3433361) — MED
+- [Eksamen uten fasit NUTR203 H19.pdf](https://mitt.uib.no/files/2225705) — MED
+- [Eksamen uten fasit NUTR203 H20 Del 1.pdf](https://mitt.uib.no/files/3389912) — MED
+- [Eksamen uten fasit NUTR245 H19.pdf](https://mitt.uib.no/files/2226490) — MED
+- [Eksamen_05.pdf](https://mitt.uib.no/files/17321) — MED
+- [Eksamen_host_06medsvar.pdf](https://mitt.uib.no/files/17324) — MED
+- [Eksamen_host_07medsvar.pdf](https://mitt.uib.no/files/17326) — MED
+- [Eksamen_host_08medsvar.pdf](https://mitt.uib.no/files/17329) — MED
+- [Eksamen_host_09medsvar.pdf](https://mitt.uib.no/files/17333) — MED
+- [Eksamen_INTH321A_Artikkel.pdf](https://mitt.uib.no/files/16990) — MED
+- [Eksamen_INTH321A_Vedlegg.pdf](https://mitt.uib.no/files/16991) — MED
+- [Eksamen_MED7_høst2016_BM.pdf](https://mitt.uib.no/files/357417) — MED
+- [Eksamen_MED7_høst2016_NN.pdf](https://mitt.uib.no/files/357418) — MED
+- [Eksamen_NUCLI351_2012_ferdig_bokmaal.doc](https://mitt.uib.no/files/17131) — MED
+- [Eksamen_NUCLI351_H_2013_med_sensorveiledning.doc](https://mitt.uib.no/files/17133) — MED
+- [Eksamen_NUTR115_Nynorsk_og_Bokmaal.docx](https://mitt.uib.no/files/16794) — MED
+- [Eksamen_TL_Bokmaal_(sensorvelidening)_2013_mi_side.pdf](https://mitt.uib.no/files/17260) — MED
+- [EKSAMEN_TPBAROEN_2014_bokmaal_bilder.pdf](https://mitt.uib.no/files/16922) — MED
+- [Eksamen_vaar_07medsvar.pdf](https://mitt.uib.no/files/17327) — MED
+- [Eksamen_vaar_08medsvar.pdf](https://mitt.uib.no/files/17330) — MED
+- [Eksamen_vaar_09medsvar.pdf](https://mitt.uib.no/files/17334) — MED
+- [Eksamen2024bokmål.pdf](https://mitt.uib.no/files/6844860) — MED
+- [EksamenFARM293 - V2024_Final.pdf](https://mitt.uib.no/files/6029640) — MED
+- [EksamenFARM2932022_Final_BokmålmedFasit_Retta.pdf](https://mitt.uib.no/files/4318747) — MED
+- [EksamenFARM293v_2023final_Fasit.pdf](https://mitt.uib.no/files/5152618) — MED
+- [Eksamenogsensorveiledningvår21.docx](https://mitt.uib.no/files/4678682) — MED
+- [Eksamensensorveiledningvår22.docx](https://mitt.uib.no/files/4678684) — MED
+- [Eksamensett m bilder til slutt i filen og rett svar H2018.pdf](https://mitt.uib.no/files/1589643) — MED
+- [Eksamensett med bilder til slutt i filen og m rett svar H2018 NYNORSK.pdf](https://mitt.uib.no/files/1589642) — MED
+- [Eksamensoppg 2023 med sensorveildening TPBARØN 2utg.pdf](https://mitt.uib.no/files/7190200) — MED
+- [Eksamensoppgave - konte  2018H.pdf](https://mitt.uib.no/files/1179880) — MED
+- [Eksamensoppgave Anstesiologi Overdose OSKE6-24 utsatt prøve.docx](https://mitt.uib.no/files/6826596) — MED
+- [Eksamensoppgave FARM290 H2023.pdf](https://mitt.uib.no/files/5581252) — MED
+- [Eksamensoppgave FARM290_høst 2025](https://mitt.uib.no/files/7489491) — MED
+- [Eksamensoppgave H 2018-bokmål.pdf](https://mitt.uib.no/files/1333164) — MED
+- [Eksamensoppgave Med12 Bevisstløs pasient V-24.docx](https://mitt.uib.no/files/6015827) — MED
+- [Eksamensoppgave_vaaren2014.pdf](https://mitt.uib.no/files/17460) — MED
+- [Eksamensoppgave-hosten2011-nynorsk.pdf](https://mitt.uib.no/files/17456) — MED
+- [Eksamensoppgaver 2015 m FASIT 2.pdf](https://mitt.uib.no/files/461960) — MED
+- [Eksamensoppgåver Farm 290 med sensorveiledning.pdf](https://mitt.uib.no/files/655348) — MED
+- [Eksamensoppgåver FARM290 H22.pdf](https://mitt.uib.no/files/4748535) — MED
+- [Eksamensoppgåver FARM290 Haust 2021 - med sensorveiledning.pdf](https://mitt.uib.no/files/3941890) — MED
+- [Eksamensoppgaver FARM290_H_2024. Med løsningsforslag. docx](https://mitt.uib.no/files/6526688) — MED
+- [Eksamensoppgaver H2018-MEDsvar.pdf](https://mitt.uib.no/files/1355584) — MED
+- [Eksamensoppgaver konte høst 2018 med svar_.pdf](https://mitt.uib.no/files/1669738) — MED
+- [Eksamensoppgaver med sensorveiledning h2018.pdf](https://mitt.uib.no/files/1440356) — MED
+- [Eksamensoppgaver TPBAALM 2020 med sensorrettleiing.pdf](https://mitt.uib.no/files/3433360) — MED
+- [Eksamensoppgaver v18 med fasit ](https://mitt.uib.no/files/1554905) — MED
+- [Eksamensoppgaver v18 uten fasit.pdf](https://mitt.uib.no/files/1059622) — MED
+- [Eksamensoppgaver_2013.pdf](https://mitt.uib.no/files/16891) — MED
+- [Eksamensoppgaver_2018_sensorveiledning.docx](https://mitt.uib.no/files/1440464) — MED
+- [eksamensoppgaver-INTH360-2012.doc](https://mitt.uib.no/files/17001) — MED
+- [Eksamenssett med svar.pdf](https://mitt.uib.no/files/1793480) — MED
+- [Eksamenssett uten svar.pdf](https://mitt.uib.no/files/1793481) — MED
+- [Eksamensspørsmål-muskelsykdom.docx](https://mitt.uib.no/files/5515814) — MED
+- [Eksempeloppgave_patenter.pdf](https://mitt.uib.no/files/8047625) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Eksempeloppgave_Screening.pdf](https://mitt.uib.no/files/8047502) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Eksempeloppgave_tannhelse.pdf](https://mitt.uib.no/files/8047486) — 26H - EXPHIL-MOSEM / Seminar 1
+- [eksKrBF022004.pdf](https://mitt.uib.no/files/17379) — MED
+- [eksKrBF082004.pdf](https://mitt.uib.no/files/17380) — MED
+- [Ekstraordinært allmøte v22.pdf](https://mitt.uib.no/files/4246613) — STUDENTUTVALG-HF
+- [elektro (1).pdf](https://mitt.uib.no/files/7793974) — MEDOD1
+- [EMIL7858_1280-1.jpg](https://mitt.uib.no/files/81449) — HF
+- [EMIL7858_1280.jpg](https://mitt.uib.no/files/81421) — HF
+- [Endelig innkalling allmøte Høsten24.pdf](https://mitt.uib.no/files/6225361) — STUDENTUTVALG-HF
+- [Endelig innkalling allmøte v22.pdf](https://mitt.uib.no/files/4244153) — STUDENTUTVALG-HF
+- [Endelig innkalling ekstraordinært allmøte V24.pdf](https://mitt.uib.no/files/5671729) — STUDENTUTVALG-HF
+- [Endelig innkalling ekstraordinært allmøte V24.pdf](https://mitt.uib.no/files/5671731) — STUDENTUTVALG-HF
+- [Endelig innkalling høstallmøte HSU 2023 med endringsforslag.pdf](https://mitt.uib.no/files/5278151) — STUDENTUTVALG-HF
+- [Endelig innkalling høstallmøte HSU 2023 med endringsforslag.pdf](https://mitt.uib.no/files/5280672) — STUDENTUTVALG-HF
+- [Endelig innkalling SU #2 16-17.pdf](https://mitt.uib.no/files/143913) — STUDENTUTVALG-HF
+- [Endelig innkalling SU 01-16-17 - Copy.pdf](https://mitt.uib.no/files/143914) — STUDENTUTVALG-HF
+- [Endelig innkalling til Allmøte vår 2021 - med vedtektsendringsforslag.pdf](https://mitt.uib.no/files/3285036) — STUDENTUTVALG-HF
+- [Endelig innkalling til Allmøte vår 2023.pdf](https://mitt.uib.no/files/5013090) — STUDENTUTVALG-HF
+- [Endelig innkalling til Høstallmøte for Humanistisk Studentutvalg-1.docx](https://mitt.uib.no/files/8049292) — STUDENTUTVALG-HF
+- [Endelig innkalling til HSUs høstallmøte 2021.pdf](https://mitt.uib.no/files/3564454) — STUDENTUTVALG-HF
+- [Endelig innkalling til SU03, 16-17.pdf](https://mitt.uib.no/files/143912) — STUDENTUTVALG-HF
+- [Endelig innkalling til SU04, 16-17.pdf](https://mitt.uib.no/files/149259) — STUDENTUTVALG-HF
+- [Endelig innkalling vårallmøte v2024 m vedlegg.pdf](https://mitt.uib.no/files/5880408) — STUDENTUTVALG-HF
+- [Endelig innkalling vårallmøte v2024 m vedlegg.pdf](https://mitt.uib.no/files/5880425) — STUDENTUTVALG-HF
+- [Endo 2015.pdf](https://mitt.uib.no/files/17975) — MED
+- [Endo 2016 Mitt UiB utlegg.pdf](https://mitt.uib.no/files/314895) — MED
+- [Endo 2019.pdf](https://mitt.uib.no/files/2289537) — MED
+- [Endo 2020.pdf](https://mitt.uib.no/files/3306322) — MED
+- [Endo 2021.pdf](https://mitt.uib.no/files/4772624) — MED
+- [Endo 2022.pdf](https://mitt.uib.no/files/4772625) — MED
+- [endo 2023.pdf](https://mitt.uib.no/files/6316639) — MED
+- [Endo høst 2024 kun langsvar uten bilder.pdf](https://mitt.uib.no/files/7265536) — MED
+- [Endo_2013.pdf](https://mitt.uib.no/files/17265) — MED
+- [Endo_2014miside.pdf](https://mitt.uib.no/files/17266) — MED
+- [Endo-Kortsvarsoppgave H 19 (med fasit).docx](https://mitt.uib.no/files/2051704) — MED
+- [Endo-Kortsvarsoppgave H 19 (uten fasit).docx](https://mitt.uib.no/files/2051707) — MED
+- [Endopodden.pdf](https://mitt.uib.no/files/3565263) — PRMEDISIN
+- [Endoprøvevår2020.pdf](https://mitt.uib.no/files/3846022) — MED
+- [Endoprøvevår2021.pdf](https://mitt.uib.no/files/3846023) — MED
+- [Endoprøvevår22.pdf](https://mitt.uib.no/files/5125939) — MED
+- [ENG-NUTR230 H19-Exam with solutions.pdf](https://mitt.uib.no/files/2034152) — MED
+- [ENG-NUTR230 H19-Exam without solutions.pdf](https://mitt.uib.no/files/2034150) — MED
+- [ENZYM_2026_1.pdf](https://mitt.uib.no/files/8215494) — MEDOD1
+- [Epidemiology School Exam Questions and Answer Guide_2023.pdf](https://mitt.uib.no/files/6458672) — MED
+- [Etablering av intravenøs tilgang .pdf](https://mitt.uib.no/files/4204387) — MED
+- [Exam 2013 Observational epidemiology.pdf](https://mitt.uib.no/files/273187) — MED
+- [Exam 2020 with philosophy of science qual epidemilology stat_final with corrected points.pdf](https://mitt.uib.no/files/3048779) — MED
+- [Exam NUTR150 V23-with solutions.pdf](https://mitt.uib.no/files/5727096) — MED
+- [Exam NUTR150 V23-without solutions.pdf](https://mitt.uib.no/files/5727097) — MED
+- [Exam NUTR150 V25-with solutions.pdf](https://mitt.uib.no/files/6895368) — MED
+- [Exam NUTR150 V25-without solutions.pdf](https://mitt.uib.no/files/6895369) — MED
+- [Exam NUTR150 V26-with solutions.pdf](https://mitt.uib.no/files/7821045) — MED
+- [Exam NUTR150 V26-without solutions.pdf](https://mitt.uib.no/files/7821046) — MED
+- [Exam NUTR203 H20 Part 2.pdf](https://mitt.uib.no/files/3389919) — MED
+- [Exam Nutr203 H2018_sensorveiledning.pdf](https://mitt.uib.no/files/1530400) — MED
+- [Exam NUTR203 H21-with solutions.pdf](https://mitt.uib.no/files/3965012) — MED
+- [Exam NUTR203 H21-without solutions.pdf](https://mitt.uib.no/files/3965013) — MED
+- [Exam NUTR203 H22-with solutions.pdf](https://mitt.uib.no/files/4800095) — MED
+- [Exam NUTR203 H22-without solutions.pdf](https://mitt.uib.no/files/4800096) — MED
+- [Exam NUTR203 H23-with solutions.pdf](https://mitt.uib.no/files/5664620) — MED
+- [Exam NUTR203 H23-without solutions.pdf](https://mitt.uib.no/files/5664621) — MED
+- [Exam NUTR203 H24-with solutions.pdf](https://mitt.uib.no/files/7345618) — MED
+- [Exam NUTR203 H24-without solutions.pdf](https://mitt.uib.no/files/7345619) — MED
+- [Exam NUTR203 H25-with solutions.pdf](https://mitt.uib.no/files/7432221) — MED
+- [Exam NUTR203 H25-without solutions.pdf](https://mitt.uib.no/files/7432222) — MED
+- [Exam NUTR204 V22-with solutions.pdf](https://mitt.uib.no/files/4320125) — MED
+- [Exam NUTR204 V22-without solutions.pdf](https://mitt.uib.no/files/4320126) — MED
+- [Exam NUTR204 V23-with solutions.pdf](https://mitt.uib.no/files/5074230) — MED
+- [Exam NUTR204 V23-without solutions.pdf](https://mitt.uib.no/files/5074231) — MED
+- [Exam NUTR204 V24-with solutions.pdf](https://mitt.uib.no/files/7817784) — MED
+- [Exam NUTR204 V24-without solutions.pdf](https://mitt.uib.no/files/7817785) — MED
+- [Exam NUTR204 V26-with solutions.pdf](https://mitt.uib.no/files/7877102) — MED
+- [Exam NUTR204 V26-without solutions.pdf](https://mitt.uib.no/files/7877104) — MED
+- [Exam NUTR230 H20-with solutions.pdf](https://mitt.uib.no/files/2867554) — MED
+- [Exam NUTR230 H20-without solutions.pdf](https://mitt.uib.no/files/2867552) — MED
+- [Exam NUTR230 H21-with solutions.pdf](https://mitt.uib.no/files/3736815) — MED
+- [Exam NUTR230 H21-without solutions.pdf](https://mitt.uib.no/files/3798236) — MED
+- [Exam NUTR230 H22-with solutions.pdf](https://mitt.uib.no/files/5288757) — MED
+- [Exam NUTR230 H22-without solutions.pdf](https://mitt.uib.no/files/5288758) — MED
+- [Exam NUTR230 H23-with solutions.pdf](https://mitt.uib.no/files/5376270) — MED
+- [Exam NUTR230 H23-without solutions.pdf](https://mitt.uib.no/files/5376271) — MED
+- [Exam NUTR230 H25-with solutions.pdf](https://mitt.uib.no/files/7157615) — MED
+- [Exam NUTR230 H25-without solutions.pdf](https://mitt.uib.no/files/7157616) — MED
+- [Exam NUTR230 H26-with solutions.pdf](https://mitt.uib.no/files/8137973) — MED
+- [Exam NUTR230 H26-without solutions.pdf](https://mitt.uib.no/files/8137975) — MED
+- [Exam NUTR245 H21-with solutions.pdf](https://mitt.uib.no/files/3980290) — MED
+- [Exam NUTR245 H21-without solutions.pdf](https://mitt.uib.no/files/3980291) — MED
+- [Exam Observational epidemiology_2013_re-sit.doc](https://mitt.uib.no/files/273195) — MED
+- [Exam questions 2022_with answers.docx](https://mitt.uib.no/files/5805578) — MED
+- [Exam questions INTH 316.docx](https://mitt.uib.no/files/524179) — MED
+- [Exam with solutions NUTR203 H19.pdf](https://mitt.uib.no/files/2225706) — MED
+- [Exam with solutions NUTR203 H20 Part 1.pdf](https://mitt.uib.no/files/3389914) — MED
+- [Exam with solutions NUTR245 H19.pdf](https://mitt.uib.no/files/2226491) — MED
+- [Exam without solutions NUTR203 H19.pdf](https://mitt.uib.no/files/2225707) — MED
+- [Exam without solutions NUTR203 H20 Part 1.pdf](https://mitt.uib.no/files/3389915) — MED
+- [Exam without solutions NUTR245 H19.pdf](https://mitt.uib.no/files/2226492) — MED
+- [Exam_in_BMED_330___answers,_v3.doc](https://mitt.uib.no/files/17075) — MED
+- [Exam_INTH301_2011.doc](https://mitt.uib.no/files/1115524) — MED
+- [Exam_INTH302_2018_med_fasit_og_poeng_final.pdf.pdf](https://mitt.uib.no/files/1221962) — MED
+- [Exam_INTH356_Spring_2017.docx](https://mitt.uib.no/files/700454) — MED
+- [Exam_INTH360_INTH360A_Spring_2022.pdf](https://mitt.uib.no/files/6792378) — MED
+- [Exam_INTH360_INTH360A_Spring_2023_with_answers.pdf](https://mitt.uib.no/files/5902481) — MED
+- [Exam_INTH360_INTH360A_Spring_2023.pdf](https://mitt.uib.no/files/5860132) — MED
+- [Exam_INTH360_INTH360A_Spring_2025.pdf](https://mitt.uib.no/files/7591539) — MED
+- [Exam_INTH360_Spring_2017.pdf](https://mitt.uib.no/files/1683500) — MED
+- [Exam_INTH360_Spring_2018.pdf](https://mitt.uib.no/files/1683501) — MED
+- [Exam_INTH360_Spring_2019.pdf](https://mitt.uib.no/files/5860133) — MED
+- [Exam_INTH360_Spring_2020_with_answers.pdf](https://mitt.uib.no/files/5902492) — MED
+- [Exam_INTH360_Spring_2020.pdf](https://mitt.uib.no/files/5860125) — MED
+- [Exam_INTH360_Spring_2021_with_answers.pdf](https://mitt.uib.no/files/5902495) — MED
+- [Exam_INTH360_Spring_2021.pdf](https://mitt.uib.no/files/5860126) — MED
+- [Exam_MED9_Kortsvar_vår_2026_HR_2.pdf](https://mitt.uib.no/files/7869604) — MED
+- [Exam_MED9_Kortsvar_vår_2026_OH.pdf](https://mitt.uib.no/files/7869605) — MED
+- [Exam_observational_2012.doc](https://mitt.uib.no/files/16999) — MED
+- [Exam_questions_INTH_316-final.docx](https://mitt.uib.no/files/524182) — MED
+- [Exam_questions_INTH304_Major_Global_Health_problems1309.doc](https://mitt.uib.no/files/16980) — MED
+- [Exam_questions_INTH356_Spring_2018.pdf](https://mitt.uib.no/files/2363811) — MED
+- [Exam_questions_Major_Global_Health_problems02.doc](https://mitt.uib.no/files/16981) — MED
+- [Exam_questions_Major_Global_Health_problems0312.doc](https://mitt.uib.no/files/16982) — MED
+- [Exam_questions_Major_Global_Health_problems0411.doc](https://mitt.uib.no/files/16983) — MED
+- [Exam_questions_Major_Global_Health_problems0809.doc](https://mitt.uib.no/files/16984) — MED
+- [Exam_questions_SDG303_Autumn20.pdf](https://mitt.uib.no/files/2932981) — MED
+- [Examiner's Guidelines (free text questions), BMED322 h2025.docx](https://mitt.uib.no/files/7406157) — MED
+- [Examiner's guidelines (open questions), BMED330 (ny) v2024.docx](https://mitt.uib.no/files/6018293) — MED
+- [Examiner's guidelines (open questions), BMED330 v24.docx](https://mitt.uib.no/files/5902512) — MED
+- [Examiner's guidelines (open questions), BMED331 (ny) h2024.docx](https://mitt.uib.no/files/6255463) — MED
+- [Examiner's Guidelines (open questions), BMED331 v2024.docx](https://mitt.uib.no/files/5988793) — MED
+- [Examiner's Guidelines (open questions), BMED331 v2025.docx](https://mitt.uib.no/files/6840854) — MED
+- [Examiner's Guidelines (open text questions) BMED330 (ny) v2025.docx](https://mitt.uib.no/files/6929887) — MED
+- [Examiner's Guidelines (open text questions) BMED330 v2025.docx](https://mitt.uib.no/files/6696942) — MED
+- [Examiner's Guidelines (open text questions), BMED201 h2024.docx](https://mitt.uib.no/files/6483152) — MED
+- [Examiner's Guidelines (open text questions), BMED330 v2026.docx](https://mitt.uib.no/files/7653330) — MED
+- [Examiner's guidelines (open text questions), BMED331 v2026.docx](https://mitt.uib.no/files/7795692) — MED
+- [Examiner's Guidelines, BMED320 Home Exam h2023.docx](https://mitt.uib.no/files/5471463) — MED
+- [Examiner's guidelines, BMED330 spring 2023.pdf](https://mitt.uib.no/files/4971457) — MED
+- [Examiner's Guidelines, BMED340 (ny) h2022.pdf](https://mitt.uib.no/files/8099014) — MED
+- [Examiner's Guidelines, BMED340 (ny) h2025.pdf](https://mitt.uib.no/files/8099007) — MED
+- [Examiner's Guidelines, BMED340 (ny) h2026.pdf](https://mitt.uib.no/files/8098836) — MED
+- [Examiner's Guidelines, BMED340 h2022.pdf](https://mitt.uib.no/files/8099015) — MED
+- [Examiner's Guidelines, BMED340 v2024.pdf](https://mitt.uib.no/files/5948265) — MED
+- [Examiner's Guidelines, BMED340 v2025.docx.pdf](https://mitt.uib.no/files/6814871) — MED
+- [Examiner's Guidelines, BMED340 v2026.pdf](https://mitt.uib.no/files/7740766) — MED
+- [ExamINTH356-2016 (2).docx](https://mitt.uib.no/files/273175) — MED
+- [ExpEpitest2013.doc](https://mitt.uib.no/files/16992) — MED
+- [f_logo_RGB-Blue_100.png](https://mitt.uib.no/files/7815063) — DIGI101 — LOCKED
+- [F+rste_utgave_av_Regionale_veileder_for_aksidentell_hypotermi_i_Helse_Nord_v_13-01-14_(1).pdf](https://mitt.uib.no/files/24332) — PRMEDISIN
+- [FAARM295 V23 NY u.svar.pdf](https://mitt.uib.no/files/5509351) — MED
+- [Faddergrupper Medisin, campus Bergen H26.xlsx](https://mitt.uib.no/files/7945531) — PRMEDISIN / KULL 2026 HØST
+- [Faddergrupper Medisin, campus Førde H26.xlsx](https://mitt.uib.no/files/7930707) — PRMEDISIN / KULL 2026 HØST
+- [Faddergrupper Medisin, campus Førde H26.xlsx](https://mitt.uib.no/files/7939080) — PRMEDISIN / KULL 2026 HØST / MED26-FØR
+- [Faddergrupper Medisin, campus Haugesund H26.xlsx](https://mitt.uib.no/files/7930706) — PRMEDISIN / KULL 2026 HØST
+- [Faddergrupper Medisin, campus Stavanger H26.xlsx](https://mitt.uib.no/files/7930705) — PRMEDISIN / KULL 2026 HØST
+- [Fagartikkel_2_TRIAGE.pdf](https://mitt.uib.no/files/7793859) — MEDOD1
+- [Faglig-retningslinje-for-håndtering-av-aksidentell-hypotermi.pdf](https://mitt.uib.no/files/7793863) — MEDOD1
+- [Faglitteratur banner DIGI101.png](https://mitt.uib.no/files/7815020) — DIGI101
+- [fakta-boks om samene i norge canvas 4.0-1.jpg](https://mitt.uib.no/files/7794008) — MEDOD1
+- [fakta-boks om samene i norge canvas 4.0.pdf](https://mitt.uib.no/files/7794010) — MEDOD1
+- [Farm 2018.pdf](https://mitt.uib.no/files/1875143) — MED
+- [Farm 2019 med sensorveiledning.pdf](https://mitt.uib.no/files/2564137) — MED
+- [Farm 2019.pdf](https://mitt.uib.no/files/2710541) — MED
+- [farm 2020.pdf](https://mitt.uib.no/files/3359299) — MED
+- [Farm 2020.pdf](https://mitt.uib.no/files/3660905) — MED
+- [farm 2021.pdf](https://mitt.uib.no/files/4293557) — MED
+- [farm 2021.pdf](https://mitt.uib.no/files/4451478) — MED
+- [FARM 295 – Pharmaceutical Formulation_2015.pdf](https://mitt.uib.no/files/1924571) — MED
+- [FARM 295 – Pharmaceutical Technology_2015.pdf](https://mitt.uib.no/files/1924575) — MED
+- [Farm_2013.pdf](https://mitt.uib.no/files/16841) — MED
+- [FARM150 (del 1) h2020 - med svar.pdf](https://mitt.uib.no/files/3792257) — MED
+- [FARM150 (del 1) h2020 - uten svar.pdf](https://mitt.uib.no/files/3792258) — MED
+- [FARM150 (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/1091774) — MED
+- [FARM150 (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/1091775) — MED
+- [FARM150 (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/1576553) — MED
+- [FARM150 (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/1576462) — MED
+- [FARM150 (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599784) — MED
+- [FARM150 (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599783) — MED
+- [FARM150 (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/4122270) — MED
+- [FARM150 (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/4122269) — MED
+- [FARM150 (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/5553077) — MED
+- [FARM150 (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/5553078) — MED
+- [FARM150 (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/7215062) — MED
+- [FARM150 (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/7286427) — MED
+- [FARM150 (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/7215061) — MED
+- [FARM150 (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/7215105) — MED
+- [FARM150 (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/7215095) — MED
+- [FARM150 (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/7286441) — MED
+- [FARM150 (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/7215092) — MED
+- [FARM150 (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/7215096) — MED
+- [FARM150 (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7689484) — MED
+- [FARM150 (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7689483) — MED
+- [FARM150 h2017 - med svar.pdf](https://mitt.uib.no/files/1091795) — MED
+- [FARM150 h2017 - uten svar.pdf](https://mitt.uib.no/files/1091796) — MED
+- [FARM150 h2018 - med svar.pdf](https://mitt.uib.no/files/1427788) — MED
+- [FARM150 h2018 - uten svar.pdf](https://mitt.uib.no/files/1427787) — MED
+- [FARM150 h2019 - med svar.pdf](https://mitt.uib.no/files/2175928) — MED
+- [FARM150 h2019 - uten svar.pdf](https://mitt.uib.no/files/2175929) — MED
+- [FARM150 h2021 - med svar.pdf](https://mitt.uib.no/files/3916231) — MED
+- [FARM150 h2021 - uten svar.pdf](https://mitt.uib.no/files/3916230) — MED
+- [FARM150 h2022 - med svar.pdf](https://mitt.uib.no/files/4741176) — MED
+- [FARM150 h2022 - uten svar.pdf](https://mitt.uib.no/files/4741172) — MED
+- [FARM150 h2023 - med svar.pdf](https://mitt.uib.no/files/5636482) — MED
+- [FARM150 h2023 - uten svar.pdf](https://mitt.uib.no/files/5636481) — MED
+- [FARM150 h2024 - med svar.pdf](https://mitt.uib.no/files/7215044) — MED
+- [FARM150 h2024 - med svar.pdf](https://mitt.uib.no/files/7215106) — MED
+- [FARM150 h2024 - uten svar.pdf](https://mitt.uib.no/files/7215043) — MED
+- [FARM150 h2024 - uten svar.pdf](https://mitt.uib.no/files/7215107) — MED
+- [FARM150 h2025 - med svar.pdf](https://mitt.uib.no/files/7371903) — MED
+- [FARM150 h2025 - med svar.pdf](https://mitt.uib.no/files/7371907) — MED
+- [FARM150 h2025 - uten svar.pdf](https://mitt.uib.no/files/7371901) — MED
+- [FARM150 h2025 - uten svar.pdf](https://mitt.uib.no/files/7371904) — MED
+- [FARM150_(ny)_av_12._desember_2008_bokmaal.pdf](https://mitt.uib.no/files/17331) — MED
+- [FARM150_(ny)_v2011.doc](https://mitt.uib.no/files/17339) — MED
+- [FARM150_av_06._mai_2009_-_Bokmaal.pdf](https://mitt.uib.no/files/17335) — MED
+- [Farm150_av_06.09.06_bm._versjon.doc](https://mitt.uib.no/files/17325) — MED
+- [Farm150_av_10.05.07_bm.versj.doc](https://mitt.uib.no/files/17328) — MED
+- [FARM150_av_8_mai_2008_bm.versj.PDF](https://mitt.uib.no/files/17332) — MED
+- [FARM150_h010_bm.doc](https://mitt.uib.no/files/17337) — MED
+- [FARM150_h2009_bm-2.pdf](https://mitt.uib.no/files/17336) — MED
+- [FARM150_h2011_Sensorveiledning.doc](https://mitt.uib.no/files/16765) — MED
+- [FARM150_h2012_bm.doc](https://mitt.uib.no/files/17341) — MED
+- [FARM150_med_sensorveiledning_h2012.doc](https://mitt.uib.no/files/16766) — MED
+- [FARM150_med_sensorveiledning_h2012.doc](https://mitt.uib.no/files/17342) — MED
+- [FARM150Eksamen_des_2011masterfil.doc](https://mitt.uib.no/files/17338) — MED
+- [FARM150eksamen14.09.2005_bokm_l.doc](https://mitt.uib.no/files/17322) — MED
+- [Farm2015.pdf](https://mitt.uib.no/files/16843) — MED
+- [Farm2016.pdf](https://mitt.uib.no/files/395332) — MED
+- [Farm2017.pdf](https://mitt.uib.no/files/1128712) — MED
+- [FARM260 (ny) h2017 - med svar.pdf](https://mitt.uib.no/files/4435697) — MED
+- [FARM260 (ny) h2017 - med svar.pdf](https://mitt.uib.no/files/4435701) — MED
+- [FARM260 (ny) h2017 - uten svar.pdf](https://mitt.uib.no/files/4435696) — MED
+- [FARM260 (ny) h2017 - uten svar.pdf](https://mitt.uib.no/files/4435700) — MED
+- [FARM260 (ny) h2019 - med svar.pdf](https://mitt.uib.no/files/2435957) — MED
+- [FARM260 (ny) h2019 - med svar.pdf](https://mitt.uib.no/files/4435717) — MED
+- [FARM260 (ny) h2019 - uten svar.pdf](https://mitt.uib.no/files/2435958) — MED
+- [FARM260 (ny) h2019 - uten svar.pdf](https://mitt.uib.no/files/4435718) — MED
+- [FARM260 (ny) h2020 - med svar.pdf](https://mitt.uib.no/files/4435822) — MED
+- [FARM260 (ny) h2020 - med svar.pdf](https://mitt.uib.no/files/4435824) — MED
+- [FARM260 (ny) h2020 - uten svar.pdf](https://mitt.uib.no/files/4435821) — MED
+- [FARM260 (ny) h2020 - uten svar.pdf](https://mitt.uib.no/files/4435823) — MED
+- [FARM260 (ny) h2021 - med svar.pdf](https://mitt.uib.no/files/4435829) — MED
+- [FARM260 (ny) h2021 - med svar.pdf](https://mitt.uib.no/files/4435831) — MED
+- [FARM260 (ny) h2021 - uten svar.pdf](https://mitt.uib.no/files/4435830) — MED
+- [FARM260 (ny) h2021 - uten svar.pdf](https://mitt.uib.no/files/4435832) — MED
+- [FARM260 (ny) h2022 - med svar.pdf](https://mitt.uib.no/files/4607402) — MED
+- [FARM260 (ny) h2022 - med svar.pdf](https://mitt.uib.no/files/5057957) — MED
+- [FARM260 (ny) h2022 - uten svar.pdf](https://mitt.uib.no/files/4607403) — MED
+- [FARM260 (ny) h2022 - uten svar.pdf](https://mitt.uib.no/files/5057956) — MED
+- [FARM260 (ny) h2024 - med svar.pdf](https://mitt.uib.no/files/6315569) — MED
+- [FARM260 (ny) h2024 - med svar.pdf](https://mitt.uib.no/files/6746930) — MED
+- [FARM260 (ny) h2024 - uten svar.pdf](https://mitt.uib.no/files/6315568) — MED
+- [FARM260 (ny) h2024 - uten svar.pdf](https://mitt.uib.no/files/6746929) — MED
+- [FARM260 (ny) h2026 - med svar.pdf](https://mitt.uib.no/files/7230495) — MED
+- [FARM260 (ny) h2026 - med svar.pdf](https://mitt.uib.no/files/7230499) — MED
+- [FARM260 (ny) h2026 - med svar.pdf](https://mitt.uib.no/files/8201761) — MED
+- [FARM260 (ny) h2026 - uten svar.pdf](https://mitt.uib.no/files/7230494) — MED
+- [FARM260 (ny) h2026 - uten svar.pdf](https://mitt.uib.no/files/7230498) — MED
+- [FARM260 (ny) h2026 - uten svar.pdf](https://mitt.uib.no/files/8201762) — MED
+- [FARM260 v2017 - med svar.pdf](https://mitt.uib.no/files/4435682) — MED
+- [FARM260 v2017 - med svar.pdf](https://mitt.uib.no/files/4435684) — MED
+- [FARM260 v2017 - uten svar.pdf](https://mitt.uib.no/files/4435681) — MED
+- [FARM260 v2017 - uten svar.pdf](https://mitt.uib.no/files/4435683) — MED
+- [FARM260 v2018 - med svar.pdf](https://mitt.uib.no/files/4435709) — MED
+- [FARM260 v2018 - med svar.pdf](https://mitt.uib.no/files/4435715) — MED
+- [FARM260 v2018 - uten svar.pdf](https://mitt.uib.no/files/4435708) — MED
+- [FARM260 v2018 - uten svar.pdf](https://mitt.uib.no/files/4435714) — MED
+- [FARM260 v2019 - med svar.pdf](https://mitt.uib.no/files/2435959) — MED
+- [FARM260 v2019 - med svar.pdf](https://mitt.uib.no/files/4435719) — MED
+- [FARM260 v2019 - uten svar.pdf](https://mitt.uib.no/files/2435960) — MED
+- [FARM260 v2019 - uten svar.pdf](https://mitt.uib.no/files/4435720) — MED
+- [FARM260 v2020 - med svar.pdf](https://mitt.uib.no/files/4435770) — MED
+- [FARM260 v2020 - med svar.pdf](https://mitt.uib.no/files/4435780) — MED
+- [FARM260 v2020 - uten svar.pdf](https://mitt.uib.no/files/4435769) — MED
+- [FARM260 v2020 - uten svar.pdf](https://mitt.uib.no/files/4435777) — MED
+- [FARM260 v2021 - med svar.pdf](https://mitt.uib.no/files/4435836) — MED
+- [FARM260 v2021 - med svar.pdf](https://mitt.uib.no/files/4435838) — MED
+- [FARM260 v2021 - uten svar.pdf](https://mitt.uib.no/files/4435835) — MED
+- [FARM260 v2021 - uten svar.pdf](https://mitt.uib.no/files/4435837) — MED
+- [FARM260 v2022 - med svar.pdf](https://mitt.uib.no/files/4435861) — MED
+- [FARM260 v2022 - med svar.pdf](https://mitt.uib.no/files/4435865) — MED
+- [FARM260 v2022 - uten svar.pdf](https://mitt.uib.no/files/4435862) — MED
+- [FARM260 v2022 - uten svar.pdf](https://mitt.uib.no/files/4435866) — MED
+- [FARM260 v2024 - med svar.pdf](https://mitt.uib.no/files/6315577) — MED
+- [FARM260 v2024 - med svar.pdf](https://mitt.uib.no/files/6746931) — MED
+- [FARM260 v2024 - uten svar.pdf](https://mitt.uib.no/files/6315576) — MED
+- [FARM260 v2024 - uten svar.pdf](https://mitt.uib.no/files/6746936) — MED
+- [FARM260 v2025 - med svar.pdf](https://mitt.uib.no/files/6838595) — MED
+- [FARM260 v2025 - med svar.pdf](https://mitt.uib.no/files/6838597) — MED
+- [FARM260 v2025 - uten svar.pdf](https://mitt.uib.no/files/6838594) — MED
+- [FARM260 v2025 - uten svar.pdf](https://mitt.uib.no/files/6838596) — MED
+- [FARM260 v2026 - med svar.pdf](https://mitt.uib.no/files/7740543) — MED
+- [FARM260 v2026 - uten svar.pdf](https://mitt.uib.no/files/7740544) — MED
+- [FARM260_(ny)_h2012.docx](https://mitt.uib.no/files/16772) — MED
+- [FARM260_host_2011_sensorveiledning.pdf](https://mitt.uib.no/files/16773) — MED
+- [FARM270 eksamen H23 kortsvar.pdf](https://mitt.uib.no/files/6267717) — MED
+- [FARM270 H17 m.fasit.pdf](https://mitt.uib.no/files/5467348) — MED
+- [FARM270 H17 u.fasit.pdf](https://mitt.uib.no/files/5467349) — MED
+- [FARM270 H19 m.fasit.pdf](https://mitt.uib.no/files/5467428) — MED
+- [FARM270 H19 u.fasit.pdf](https://mitt.uib.no/files/5467429) — MED
+- [FARM270 H20 m.fasit.pdf](https://mitt.uib.no/files/5467445) — MED
+- [FARM270 H20 u.fasit.pdf](https://mitt.uib.no/files/5467446) — MED
+- [FARM270 h2018 m fasit.pdf](https://mitt.uib.no/files/4672848) — MED
+- [FARM270 h2018.pdf](https://mitt.uib.no/files/4672823) — MED
+- [FARM270 H21 m.fasit.pdf](https://mitt.uib.no/files/5467466) — MED
+- [FARM270 H21 u.fasit.pdf](https://mitt.uib.no/files/5467467) — MED
+- [FARM270 H23.pdf](https://mitt.uib.no/files/6267716) — MED
+- [FARM270 H24 m.fasit](https://mitt.uib.no/files/8211362) — MED
+- [FARM270 H24 u.fasit](https://mitt.uib.no/files/8211363) — MED
+- [FARM270 Konte V24.pdf](https://mitt.uib.no/files/6267720) — MED
+- [FARM270 oppgavesett H22 m.svar.pdf](https://mitt.uib.no/files/4961820) — MED
+- [FARM270 oppgavesett H22 u.svar.pdf](https://mitt.uib.no/files/4955206) — MED
+- [FARM279 NY V19 m.svar.pdf](https://mitt.uib.no/files/5495221) — MED
+- [FARM280 (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/1427810) — MED
+- [FARM280 (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/1427809) — MED
+- [FARM280 (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/1576607) — MED
+- [FARM280 (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/1576606) — MED
+- [FARM280 (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599696) — MED
+- [FARM280 (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599697) — MED
+- [FARM280 (ny) v2021 - med svar.pdf](https://mitt.uib.no/files/3296827) — MED
+- [FARM280 (ny) v2021 - uten svar.pdf](https://mitt.uib.no/files/3296826) — MED
+- [FARM280 (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/4155382) — MED
+- [FARM280 (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/4155381) — MED
+- [FARM280 (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/6423412) — MED
+- [FARM280 (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/6423413) — MED
+- [FARM280 (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/6315316) — MED
+- [FARM280 (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/6315317) — MED
+- [FARM280 (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7613201) — MED
+- [FARM280 (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7613200) — MED
+- [FARM280 ekstra eksamen v2021 - med svar.pdf](https://mitt.uib.no/files/3365606) — MED
+- [FARM280 ekstra eksamen v2021 - uten svar.pdf](https://mitt.uib.no/files/3365605) — MED
+- [FARM280 h2017 - med svar.pdf](https://mitt.uib.no/files/2118288) — MED
+- [FARM280 h2017 - uten svar.pdf](https://mitt.uib.no/files/2118287) — MED
+- [FARM280 h2018 - med svar.pdf](https://mitt.uib.no/files/1427808) — MED
+- [FARM280 h2018 - uten svar.pdf](https://mitt.uib.no/files/1427807) — MED
+- [FARM280 h2019 - med svar.pdf](https://mitt.uib.no/files/2179757) — MED
+- [FARM280 h2019 - uten svar.pdf](https://mitt.uib.no/files/2179756) — MED
+- [FARM280 h2020 - med svar.pdf](https://mitt.uib.no/files/3017827) — MED
+- [FARM280 h2020 - uten svar.pdf](https://mitt.uib.no/files/3017828) — MED
+- [FARM280 h2021 - med svar.pdf](https://mitt.uib.no/files/3917876) — MED
+- [FARM280 h2021 - uten svar.pdf](https://mitt.uib.no/files/3917875) — MED
+- [FARM280 h2022 - med svar.pdf](https://mitt.uib.no/files/6440348) — MED
+- [FARM280 h2022 - uten svar.pdf](https://mitt.uib.no/files/6440347) — MED
+- [FARM280 h2023 - med svar.pdf](https://mitt.uib.no/files/6315222) — MED
+- [FARM280 h2023 - uten svar.pdf](https://mitt.uib.no/files/6315223) — MED
+- [FARM280 h2024 - med svar.pdf](https://mitt.uib.no/files/6474888) — MED
+- [FARM280 h2024 - uten svar.pdf](https://mitt.uib.no/files/6474887) — MED
+- [FARM280 h2025 - med svar.pdf](https://mitt.uib.no/files/7373334) — MED
+- [FARM280 h2025 - uten svar.pdf](https://mitt.uib.no/files/7373335) — MED
+- [FARM280 Sensorveiledning langsoppgaver h2018.pdf](https://mitt.uib.no/files/1427806) — MED
+- [FARM280____HUB211__av_11.februar_2008_bm._versj.pdf](https://mitt.uib.no/files/17386) — MED
+- [FARM280_(ny)_v2011_bm.doc](https://mitt.uib.no/files/17390) — MED
+- [FARM280_av_11_juni_2007_bm._versj.doc](https://mitt.uib.no/files/17384) — MED
+- [FARM280_av_8._desember_2008_bokmaal..pdf](https://mitt.uib.no/files/17385) — MED
+- [FARM280_eksamen_21.02.06_bokmaal_versj.doc](https://mitt.uib.no/files/17382) — MED
+- [FARM280_h2009_bm.pdf](https://mitt.uib.no/files/17387) — MED
+- [FARM280_h2010_bm.doc](https://mitt.uib.no/files/17388) — MED
+- [FARM280_h2011_bm.pdf](https://mitt.uib.no/files/17391) — MED
+- [FARM280_v2010_ny_bm.pdf](https://mitt.uib.no/files/17389) — MED
+- [FARM293 eksamenssett - konte 2019.pdf](https://mitt.uib.no/files/1962504) — MED
+- [FARM295 - Eksamensoppgaver 2020 - konte spm og svar - BOKMÅL vedlegg.pdf](https://mitt.uib.no/files/4732546) — MED
+- [FARM295 - Eksamensoppgaver 2020 Konte spm og svar - BOKMÅL.pdf](https://mitt.uib.no/files/4732547) — MED
+- [FARM295 - Eksamensoppgaver 4 og 5, 2021 Konte spm og svar - BOKMÅL.pdf](https://mitt.uib.no/files/6296374) — MED
+- [FARM295 H2024 SKRIFTLIG EKSAMEN-kopi.pdf](https://mitt.uib.no/files/7317517) — MED
+- [FARM295 H22 m.svar.pdf](https://mitt.uib.no/files/5509350) — MED
+- [FARM295 H22 u.svar.pdf](https://mitt.uib.no/files/5509349) — MED
+- [FARM295 H23 oppgavesett u.fasit.pdf](https://mitt.uib.no/files/6310917) — MED
+- [FARM295 høst 2020 fasiten.pdf](https://mitt.uib.no/files/3840348) — MED
+- [FARM295 høst2018 ordinær.pdf](https://mitt.uib.no/files/2162358) — MED
+- [farm295 V2025 skriftlig eksamen konte.pdf](https://mitt.uib.no/files/7317527) — MED
+- [FARM295 V22 NY m.svar.pdf](https://mitt.uib.no/files/5518990) — MED
+- [FARM295 V22 NY u.svar.pdf](https://mitt.uib.no/files/5518989) — MED
+- [FARM295 V23 NY m.svar.pdf](https://mitt.uib.no/files/5509352) — MED
+- [FARM295_2016_Sensorveiledning.pdf](https://mitt.uib.no/files/1924574) — MED
+- [Farm295_23V_Sensorveileding_med langsvar.docx](https://mitt.uib.no/files/6431568) — MED
+- [FARM295_Exam 20 Des 2018 sensorveiledning.pdf](https://mitt.uib.no/files/2162360) — MED
+- [FARM295_Sensurveiledning_konte_exam_26_februar2021.pdf](https://mitt.uib.no/files/4732548) — MED
+- [FARM295_Spørsmål_Bokmaal_2016.pdf](https://mitt.uib.no/files/1924573) — MED
+- [FARM295_Spørsmål_Bokmaal.pdf](https://mitt.uib.no/files/1924577) — MED
+- [FARM395_eksamen_H2019_løsningsforslag.pdf](https://mitt.uib.no/files/2157111) — MED
+- [Fasit eksamen Høst 2020.pdf](https://mitt.uib.no/files/3532474) — MED
+- [Fasit eksamen Vår 2020.pdf](https://mitt.uib.no/files/3532460) — MED
+- [Fasit eksamen Vår 2021.pdf](https://mitt.uib.no/files/3532475) — MED
+- [Fasit eksamen vår 2025.pdf](https://mitt.uib.no/files/6784668) — MED
+- [Fasit eksamen vår2022-riktig svarBM.pdf](https://mitt.uib.no/files/4311656) — MED
+- [Fasit eksamen vår2022-riktig svarNN.pdf](https://mitt.uib.no/files/4311657) — MED
+- [Fasit eksamen vår2022-uten svarBM.pdf](https://mitt.uib.no/files/4311655) — MED
+- [Fasit eksamen vår2022-uten svarNN.pdf](https://mitt.uib.no/files/4311658) — MED
+- [Fasit Endokrin.pdf](https://mitt.uib.no/files/1221644) — MED
+- [Fasit konteeksamen Høst 2020.pdf](https://mitt.uib.no/files/3532473) — MED
+- [Fasit konteeksamen Vår 2021.pdf](https://mitt.uib.no/files/3532476) — MED
+- [Fasit kortsvar Eksamen FARM270 H21.pdf](https://mitt.uib.no/files/5478658) — MED
+- [Fasit Kortsvar oppgaver-18V.pdf](https://mitt.uib.no/files/1277594) — MED
+- [Fasit MCQ-oppgaver Eksamen MED8 høst 2017.pdf](https://mitt.uib.no/files/544615) — MED
+- [Fasit MCQ-oppgaver konteeksamen MED8 vår 2018.pdf](https://mitt.uib.no/files/783336) — MED
+- [FASIT MED7 Eks ØNH kortsvar febr 2022 versjon II.doc](https://mitt.uib.no/files/4231717) — MED
+- [Fasit MED7 ØNH kortsvar ordinær eksamen høst 2022.docx](https://mitt.uib.no/files/4781631) — MED
+- [fasit_medsta.pdf](https://mitt.uib.no/files/17461) — MED
+- [fasit_OD1FYS_kontinuasjonseksamen_.doc](https://mitt.uib.no/files/17200) — MED
+- [fasit_OD1FYS_og_FARM280_kontinuasjonseksamen_.doc](https://mitt.uib.no/files/17393) — MED
+- [FASIT- Blod.docx](https://mitt.uib.no/files/1705231) — MED
+- [Fasit-Endo- kortsvar 2019.docx](https://mitt.uib.no/files/1705239) — MED
+- [FASIT-oppgavesett1-2026-ny.docx](https://mitt.uib.no/files/8047288) — MEDOD1
+- [FASIT-oppgavesett1-2026ny-1.pdf](https://mitt.uib.no/files/8047271) — MEDOD1
+- [Fasit-Plastikk-Småkirurgi.docx](https://mitt.uib.no/files/1705242) — MED
+- [Fasit-Vår 2019 - Kortsvarsoppgave urologieksamen bokmål.docx](https://mitt.uib.no/files/1705243) — MED
+- [Feil i fasitsvar - MED5 vår 2019 - oppgave 151.pdf](https://mitt.uib.no/files/2149304) — MED
+- [Ferdighetsliste april 2018.pdf](https://mitt.uib.no/files/829086) — PRMEDISIN
+- [FIL218_kand_140_Ole Martin og Simo.pdf](https://mitt.uib.no/files/1829117) — Institutt for filosofi og førstesemesterstudier
+- [Filter bubble-1.jpg](https://mitt.uib.no/files/7815039) — DIGI101
+- [final summons spring general assembly 2024 ENGLISH.pdf](https://mitt.uib.no/files/5880426) — STUDENTUTVALG-HF
+- [fl+ot.pdf](https://mitt.uib.no/files/7793975) — MEDOD1
+- [Flerkulturelt helsearbeid  -med spesielt fokus på samisk helse - Kalstad.pdf](https://mitt.uib.no/files/8107977) — MEDOD1
+- [Flervalgsoppgaver med riktig svar](https://mitt.uib.no/files/7942522) — MED
+- [Flervalgsoppgaver uten riktig svar](https://mitt.uib.no/files/7942521) — MED
+- [Følgetekst til oppgave 1 (1 av 4)](https://mitt.uib.no/files/7965065) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 1 (2 av 4)](https://mitt.uib.no/files/7965072) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 1 (3 av 4)](https://mitt.uib.no/files/7965073) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 1 (4 av 4)](https://mitt.uib.no/files/7965077) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 10 (1 av 3)](https://mitt.uib.no/files/7965264) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 10 (2 av 3)](https://mitt.uib.no/files/7965265) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 10 (3 av 3).pdf](https://mitt.uib.no/files/7901932) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 11 (1 av 3).pdf](https://mitt.uib.no/files/7901959) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 11 (2 av 3).pdf](https://mitt.uib.no/files/7901961) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 11 (3 av 3)](https://mitt.uib.no/files/7965270) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 2 (1 av 3)](https://mitt.uib.no/files/7964897) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 2 (2 av 3).pdf](https://mitt.uib.no/files/7901925) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 2 (3 av 3)](https://mitt.uib.no/files/7964898) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 3 (1 av 2)](https://mitt.uib.no/files/7964881) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 3 (2 av 2)](https://mitt.uib.no/files/7964883) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 4 (1 av 3)](https://mitt.uib.no/files/7965685) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 4 (2 av 3)](https://mitt.uib.no/files/7965687) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 4 (3 av 3).pdf](https://mitt.uib.no/files/7901940) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 5 (1 av 3).pdf](https://mitt.uib.no/files/7901950) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 5 (2 av 3).pdf](https://mitt.uib.no/files/7901944) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 5 (3 av 3).pdf](https://mitt.uib.no/files/7901919) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 6 (1 av 2).pdf](https://mitt.uib.no/files/7901935) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 6 (2 av 2)](https://mitt.uib.no/files/7984820) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 7 (1 av 3).pdf](https://mitt.uib.no/files/7901909) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 7 (2 av 3).pdf](https://mitt.uib.no/files/7901907) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 7 (3 av 3).pdf](https://mitt.uib.no/files/7901906) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 8 (1 av 3).pdf](https://mitt.uib.no/files/7901951) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 8 (2 av 3)](https://mitt.uib.no/files/7964906) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 8 (3 av 3).pdf](https://mitt.uib.no/files/7901927) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 9 (1 av 3)](https://mitt.uib.no/files/7965204) — EXPHIL-MOSEM
+- [Følgetekst til oppgave 9 (2 av 3)](https://mitt.uib.no/files/7965724) — EXPHIL-MOSEM
+- [Følgetekst til Oppgave 9 (3 av 3)](https://mitt.uib.no/files/7967985) — EXPHIL-MOSEM
+- [Folkehelse og helseforvaltningen 2026-08-24.pdf](https://mitt.uib.no/files/7967627) — MEDOD1
+- [forelesning-4-2026.pdf](https://mitt.uib.no/files/8041090) — MEDOD1
+- [forelesning1-2026.pdf](https://mitt.uib.no/files/7993417) — MEDOD1
+- [forelesning2-2026.pdf](https://mitt.uib.no/files/7998527) — MEDOD1
+- [forelesning3-del0-2025.pdf](https://mitt.uib.no/files/7794114) — MEDOD1
+- [forelesning3-del1-3-2026.pdf](https://mitt.uib.no/files/8030911) — MEDOD1
+- [forelesning5-del1-2024-13-14.pdf](https://mitt.uib.no/files/7794043) — MEDOD1
+- [forelesning5-del1-2026.pdf](https://mitt.uib.no/files/8063675) — MEDOD1
+- [forelesning5-del2-2026-1.pdf](https://mitt.uib.no/files/8069233) — MEDOD1
+- [Forelesningsnotater 12.-13.10.docx](https://mitt.uib.no/files/8135335) — MEDOD1
+- [Forelesningsnotater 14.-15.09.docx](https://mitt.uib.no/files/8057318) — MEDOD1
+- [Forelesningsnotater 2.-3.11.docx](https://mitt.uib.no/files/8206051) — MEDOD1
+- [Forelesningsnotater 21.-22.09.docx](https://mitt.uib.no/files/8063659) — MEDOD1
+- [Forelesningsnotater 26.-27.10.docx](https://mitt.uib.no/files/8200048) — MEDOD1
+- [Forelesningsnotater 28.-29.09.docx](https://mitt.uib.no/files/8165359) — MEDOD1
+- [Foreløpig innkalling til Allmøte vår 2021.pdf](https://mitt.uib.no/files/3269392) — STUDENTUTVALG-HF
+- [Foreløpig innkalling til HSUs høstallmøte 2021.pdf](https://mitt.uib.no/files/3549706) — STUDENTUTVALG-HF
+- [Forklaringer og årsaker (Fossheim ExPhil UiB 22.10.2026).pdf](https://mitt.uib.no/files/8164719) — EXPHIL-MOSEM
+- [formelhefte.pdf](https://mitt.uib.no/files/7793986) — MEDOD1
+- [Forslag til besvarelse_2024 des_Kortsvarsoppgave_MED9 medisinsk genetikk_final.pdf](https://mitt.uib.no/files/6473396) — MED
+- [Forslag til besvarelse_2026 juni_Kortsvarsoppgaver_Medisinsk genetikk_MED9 eksamen_final.pdf](https://mitt.uib.no/files/7869533) — MED
+- [Første mentormøte H26.pdf](https://mitt.uib.no/files/8007276) — MENTOR-MED
+- [Forverring av Ulcerøs kolitt OSKE6 konte2023_Finale.docx](https://mitt.uib.no/files/5848754) — MED
+- [Fundusfoto-OSKE-12semester-V2026.pdf](https://mitt.uib.no/files/8214374) — MED
+- [fysern.pdf](https://mitt.uib.no/files/16844) — MED
+- [Fysiologieksamen_med_sensorveiledning_hosten_2012.pdf](https://mitt.uib.no/files/16800) — MED
+- [Fysiologieksamen_med_sensorveiledning_hosten_2012.pdf](https://mitt.uib.no/files/17138) — MED
+- [Fysiologieksamen_med_sensorveiledning_hosten_2012.pdf](https://mitt.uib.no/files/17201) — MED
+- [Fysiologieksamen_med_sensorveiledning_hosten_2012.pdf](https://mitt.uib.no/files/17394) — MED
+- [Fysiologisaler.JPG](https://mitt.uib.no/files/2605765) — Institutt for biomedisin
+- [Fysisk funksjonstest-Geriatri.pdf](https://mitt.uib.no/files/4184131) — MED
+- [FysMed OSKE6 korsrygg 2023_Finale.docx](https://mitt.uib.no/files/5848755) — MED
+- [Gastro - lever.docx](https://mitt.uib.no/files/4289461) — MED
+- [Generell kjemi.pdf](https://mitt.uib.no/files/7794006) — MEDOD1
+- [Genetikk_Arv – endelig.docx](https://mitt.uib.no/files/6023474) — MED
+- [Geriatri_ Legmidler og fall_2024_06_13.docx](https://mitt.uib.no/files/6023475) — MED
+- [Geriatri- OSKE MED6 V 25.docx](https://mitt.uib.no/files/7049643) — MED
+- [Geriatri- Testing av fysisk funksjon hos eldre  - oppdatert  26.7.pdf](https://mitt.uib.no/files/4184124) — MED
+- [Geriatri-cfs_norsk_horisontal_2021.pdf](https://mitt.uib.no/files/6826593) — MED
+- [Gjeldende vedtekter for Humanistisk Studentutvalg.pdf](https://mitt.uib.no/files/5354418) — STUDENTUTVALG-HF
+- [glyph-logo_May2016.png](https://mitt.uib.no/files/7815064) — DIGI101 — LOCKED
+- [google-bing.png](https://mitt.uib.no/files/7815007) — DIGI101
+- [google-duck-no-3.png](https://mitt.uib.no/files/7815041) — DIGI101
+- [googlebooks.png](https://mitt.uib.no/files/7815015) — DIGI101
+- [Green student mobility project - Call for applications.pdf](https://mitt.uib.no/files/4619226) — HF
+- [Grunnlaget for velferdsstaten Kaarbøe .pdf](https://mitt.uib.no/files/7959358) — MEDOD1
+- [gruppediskusjon2.png](https://mitt.uib.no/files/7793904) — MEDOD1
+- [Gruppegjennomgang_miljømedisin_oppgave 1 og 3.pdf](https://mitt.uib.no/files/8075691) — MEDOD1
+- [Gruppeinndeling u37 - Odontologi.pdf](https://mitt.uib.no/files/8011919) — MEDOD1
+- [Gruppeinndeling.pdf](https://mitt.uib.no/files/8012432) — MEDOD1
+- [Gruppeoppgave anvendt etikk_H26.docx](https://mitt.uib.no/files/8136924) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Gruppeoppgave etikk.docx](https://mitt.uib.no/files/8094349) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Gruppeoppgaver sykdomsbegrepet.docx](https://mitt.uib.no/files/8118313) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Gruppeoppgaver_helsejus_2026.docx](https://mitt.uib.no/files/8161297) — MEDOD1
+- [Gyn Short questions.docx](https://mitt.uib.no/files/5116008) — MED
+- [Gyn_Kortsvar konte fra høst-24.docx](https://mitt.uib.no/files/7688726) — MED
+- [Gynekologi og obstetrikk Tidlig svangerskap og magesmerter.docx](https://mitt.uib.no/files/3952892) — MED
+- [Halsband - plast - fig4_Side_08-1.jpg](https://mitt.uib.no/files/7815049) — DIGI101
+- [Header, facebook.png](https://mitt.uib.no/files/6562896) — STUDENTUTVALG-HF
+- [header.png](https://mitt.uib.no/files/6939371) — MED
+- [Helgeland - Lars - MED5-2017-FVOpatologi - korrigert svar av 011220.pdf](https://mitt.uib.no/files/2973664) — MED
+- [Helseberedskap 2026-09-02.pdf](https://mitt.uib.no/files/7995662) — MEDOD1
+- [Helserett – Andrea Melberg.pdf](https://mitt.uib.no/files/7974868) — MEDOD1
+- [Hema_Med8-Forslag til eksamensoppgave høsten 2021-hr_toa.pdf](https://mitt.uib.no/files/5845166) — MED
+- [HF2018 Styringsgruppens anbefalinger .pdf](https://mitt.uib.no/files/170068) — STUDENTUTVALG-HF
+- [Histologisaler.JPG](https://mitt.uib.no/files/2605766) — Institutt for biomedisin
+- [hjerneslag.docx](https://mitt.uib.no/files/4781626) — MED
+- [HLR protokoll-1.pdf](https://mitt.uib.no/files/4839839) — MED
+- [HLR protokoll-1.pdf](https://mitt.uib.no/files/4839852) — MED
+- [Hodeskade OSKE6- V2025.docx](https://mitt.uib.no/files/7049363) — MED
+- [holbergdebatt_programfolder.pdf](https://mitt.uib.no/files/205700) — HF
+- [HØST 2017  NEV sensorveiledning f](https://mitt.uib.no/files/1376937) — MED
+- [HØST 2017  ØNH sensorv/4.21 og 4.22 utgår fra eks.settet](https://mitt.uib.no/files/1376932) — MED
+- [HØST 2017 ØYE sensorveiledning.pdf](https://mitt.uib.no/files/1376942) — MED
+- [Høst 2017 PSY sensorveiledning.pdf](https://mitt.uib.no/files/1376934) — MED
+- [Høst 2018 - Innkalling til Allmøte ved HF.docx](https://mitt.uib.no/files/1017444) — STUDENTUTVALG-HF
+- [Høst 2018 Rev_OSCE-6_Abdominalundersøkelse 2.docx](https://mitt.uib.no/files/4839687) — MED
+- [Høst 2018 Rev_OSCE-6_Fysisk funksjonstest.docx](https://mitt.uib.no/files/4839741) — MED
+- [Høst 2021 skriftlig eksamen.pdf](https://mitt.uib.no/files/3952075) — MED
+- [Høst 2022_ØYE kortsvar_bokmål.docx](https://mitt.uib.no/files/4781638) — MED
+- [Høst 2022_ØYE kortsvar_nynorsk.docx](https://mitt.uib.no/files/4781639) — MED
+- [Høst 2022_ØYE kortsvar_sensorveiledning.docx](https://mitt.uib.no/files/4781640) — MED
+- [Høst-20 med fasit.pdf](https://mitt.uib.no/files/3666152) — MED
+- [Høst-20 uten fasit.pdf](https://mitt.uib.no/files/3666150) — MED
+- [Høstallmøte for HF.docx](https://mitt.uib.no/files/4457479) — STUDENTUTVALG-HF
+- [Høstallmøte for Humanistisk Studentutvalg 2023.pdf](https://mitt.uib.no/files/5261479) — STUDENTUTVALG-HF
+- [Hovedoppgave skrivekurs.ppt](https://mitt.uib.no/files/6139163) — PRMEDISIN
+- [HSU gjeldende vedtekter h2021.pdf](https://mitt.uib.no/files/5278096) — STUDENTUTVALG-HF
+- [HSU060224 Referat.pdf](https://mitt.uib.no/files/5762822) — STUDENTUTVALG-HF
+- [HSUs vedtekter til vårallmøtet 2021.pdf](https://mitt.uib.no/files/3269393) — STUDENTUTVALG-HF
+- [HUB210-211_og_FARM280_av_11.12.06_bm._versj.doc](https://mitt.uib.no/files/17383) — MED
+- [HUD Kortsvaroppgåve haust-22. Sensorversjon.pdf](https://mitt.uib.no/files/4974844) — MED
+- [Hud_Ordinær V21.pdf](https://mitt.uib.no/files/4029105) — MED
+- [Hud-Kortsvar H 19 (med fasit).doc](https://mitt.uib.no/files/2051708) — MED
+- [Hud-Kortsvar H 19 (uten fasit).doc](https://mitt.uib.no/files/2051711) — MED
+- [Hud-Sensorveiledning-kull15A_vår2019.docx](https://mitt.uib.no/files/1705241) — MED
+- [HUDKortsvarsoppgave_høst 2023_kull 19B (1).pdf](https://mitt.uib.no/files/5848769) — MED
+- [Hva er kunnskap (Fossheim ExPhil MO 03.09.2026).pdf](https://mitt.uib.no/files/8003646) — EXPHIL-MOSEM
+- [Hva er vitenskap (Fossheim ExPhil MO UiB 29.10.2026).pdf](https://mitt.uib.no/files/8189461) — EXPHIL-MOSEM
+- [hva-forelesning-1-2025.pdf](https://mitt.uib.no/files/7794096) — MEDOD1
+- [Hvem og hva er MFU.pdf](https://mitt.uib.no/files/3604440) — PRMEDISIN
+- [Hvilke grupper kommenterer hva.pdf](https://mitt.uib.no/files/7975084) — MEDOD1 — LOCKED
+- [Hvordan få refusjon etter praksis.pdf](https://mitt.uib.no/files/7554682) — PRMEDISIN
+- [Hvordan oppnå fri luftvei.pdf](https://mitt.uib.no/files/7793862) — MEDOD1
+- [Hvordan skrive essay (Fossheim MO forelesning 17.09.2026).pdf](https://mitt.uib.no/files/8048693) — EXPHIL-MOSEM
+- [Hvordan skrive essay_MO_26.pptx](https://mitt.uib.no/files/8047633) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Hvordan sosiale ulikheter i barneårene bidrar til ulikheter - Elling Ulvestad.pdf](https://mitt.uib.no/files/8107291) — MEDOD1
+- [Hybelrom (vaktrom) i Haukelandsbakken 49](https://mitt.uib.no/files/20398) — PRMEDISIN
+- [hybrid-ladning.pdf](https://mitt.uib.no/files/8002180) — MEDOD1
+- [hyperventilering.pdf](https://mitt.uib.no/files/7794027) — MEDOD1
+- [Hypotermi 2022.pdf](https://mitt.uib.no/files/7794050) — MEDOD1
+- [hypotermi_2024_studmed – Kopi.pdf](https://mitt.uib.no/files/7793850) — MEDOD1
+- [IKKE LENGER GYLDIG - Utfyllende reglement ved Det medisinske fakultet t.o.m. 2023.pdf](https://mitt.uib.no/files/6556286) — MED
+- [image_right_21.jpg](https://mitt.uib.no/files/1611) — Institutt for biomedisin
+- [image-1.png](https://mitt.uib.no/files/7918434) — DIGI101
+- [image-187690ea-78e4-4cfa-bdf5-3a9f45860e88.png](https://mitt.uib.no/files/7975890) — MEDOD1
+- [image-1bf053d4-cc4b-4152-8817-852aef8f6979.png](https://mitt.uib.no/files/7975953) — MEDOD1
+- [image-2.png](https://mitt.uib.no/files/7934053) — EXPHIL-MOSEM
+- [image-2.png](https://mitt.uib.no/files/7057677) — MEDOD1
+- [image-2.png](https://mitt.uib.no/files/5936792) — PRMEDISIN
+- [image-3.png](https://mitt.uib.no/files/7057701) — MEDOD1
+- [image-6.png](https://mitt.uib.no/files/7034644) — MEDOD1
+- [image.png](https://mitt.uib.no/files/7916068) — DIGI101
+- [IMG_0794-1.JPG](https://mitt.uib.no/files/511608) — Institutt for biomedisin
+- [IMG_0794.JPG](https://mitt.uib.no/files/511598) — Institutt for biomedisin
+- [IMG_4023.jpeg](https://mitt.uib.no/files/7087000) — STUDENTUTVALG-HF
+- [IMG_4158.JPG](https://mitt.uib.no/files/511615) — Institutt for biomedisin
+- [Immunologi- Autoimmun Sykdom.pdf](https://mitt.uib.no/files/4204392) — MED
+- [Indremedisin og kirurgi.pdf](https://mitt.uib.no/files/316661) — PRMEDISIN
+- [Infection control slide for teaching sessions.pptx](https://mitt.uib.no/files/2655453) — Institutt for biomedisin
+- [Infeksjon_2024_UVI NY versjon.docx](https://mitt.uib.no/files/6023476) — MED
+- [Influensavaksinering alle studenter.pdf](https://mitt.uib.no/files/4643638) — MED
+- [Infomøte om utveksling HF.pdf](https://mitt.uib.no/files/58194) — HF
+- [Informasjonsmøte aug 24  - hvordan søke om utveksling.pdf](https://mitt.uib.no/files/6130650) — HF
+- [Informasjonspresentasjon hovedoppgave høst 2024.pdf](https://mitt.uib.no/files/6139183) — PRMEDISIN
+- [Informasjonsskriv til studentene.docx](https://mitt.uib.no/files/283540) — HF
+- [Informasjonsskriv_utplassering Uganda.pdf](https://mitt.uib.no/files/2069561) — PRMEDISIN
+- [Informasjonsskriv_utplassering Uganda1.pdf](https://mitt.uib.no/files/4783191) — PRMEDISIN
+- [Ingrid E  Hildrum_utjevna (2)WEB.jpg](https://mitt.uib.no/files/40159) — PRMEDISIN
+- [Innhold_i_BUP_uken_under_praksis_.doc](https://mitt.uib.no/files/20402) — PRMEDISIN
+- [Innkalling HSU020424.pdf](https://mitt.uib.no/files/5830776) — STUDENTUTVALG-HF
+- [Innkalling HSU050324.pdf](https://mitt.uib.no/files/5755415) — STUDENTUTVALG-HF
+- [Innkalling HSU060224.pdf](https://mitt.uib.no/files/5680785) — STUDENTUTVALG-HF
+- [Innkalling HSU170124 m vedlegg.pdf](https://mitt.uib.no/files/5643130) — STUDENTUTVALG-HF
+- [Innkalling HSU220524.pdf](https://mitt.uib.no/files/5952190) — STUDENTUTVALG-HF
+- [Innkalling styremøte april 25.docx](https://mitt.uib.no/files/7675595) — STUDENTUTVALG-MO
+- [Innkalling styremøte april 26.docx](https://mitt.uib.no/files/7675545) — STUDENTUTVALG-MO
+- [Innkalling styremøte feb. 25.docx](https://mitt.uib.no/files/7675598) — STUDENTUTVALG-MO
+- [Innkalling styremøte feb. 26.docx](https://mitt.uib.no/files/7675540) — STUDENTUTVALG-MO
+- [Innkalling styremøte mai 25.docx](https://mitt.uib.no/files/7675593) — STUDENTUTVALG-MO
+- [Innkalling styremøte mars 25.docx](https://mitt.uib.no/files/7675596) — STUDENTUTVALG-MO
+- [Innkalling styremøte nov. 25.docx](https://mitt.uib.no/files/7675588) — STUDENTUTVALG-MO
+- [Innkalling styremøte okt. 25.docx](https://mitt.uib.no/files/7675590) — STUDENTUTVALG-MO
+- [Innkalling styremøte sept. 24.docx](https://mitt.uib.no/files/6157962) — STUDENTUTVALG-MO
+- [Innkalling styremøte sept. 25.docx](https://mitt.uib.no/files/7675592) — STUDENTUTVALG-MO
+- [Innkalling SU2 2020-2021.pdf](https://mitt.uib.no/files/3059590) — STUDENTUTVALG-HF
+- [Innkalling SU3 2020-2021.pdf](https://mitt.uib.no/files/3059591) — STUDENTUTVALG-HF
+- [Innkalling SU4 2020-2021.pdf](https://mitt.uib.no/files/3059592) — STUDENTUTVALG-HF
+- [Innkalling SU5 2020-2021.pdf](https://mitt.uib.no/files/3059593) — STUDENTUTVALG-HF
+- [Innkalling SU6 2020-2021.pdf](https://mitt.uib.no/files/3230492) — STUDENTUTVALG-HF
+- [Innkalling SU7 2020-2021.pdf](https://mitt.uib.no/files/3230565) — STUDENTUTVALG-HF
+- [Innkalling SU8 2020-2021.pdf](https://mitt.uib.no/files/3436730) — STUDENTUTVALG-HF
+- [Innkalling-Allmøte-for-HF-Vår-2018.pdf](https://mitt.uib.no/files/822984) — STUDENTUTVALG-HF
+- [Innkalling,allmøte HSU.pdf](https://mitt.uib.no/files/69639) — STUDENTUTVALG-HF
+- [Innkalling,allmøte HSU.pdf](https://mitt.uib.no/files/69640) — STUDENTUTVALG-HF
+- [Innleverte gruppeoppgaver H2026 MEDOD1.pdf](https://mitt.uib.no/files/8100891) — MEDOD1
+- [Innlogging til Zoom som UiB bruker.pdf](https://mitt.uib.no/files/2738438) — Institutt for biomedisin
+- [InsperaAssessment_1627049529_c24bd77e-ccbb-4e36-9314-ed1184869e27.pdf](https://mitt.uib.no/files/1603502) — MED
+- [InsperaAssessmentMED8patoH2020.pdf](https://mitt.uib.no/files/4158767) — MED
+- [INTH 316 2014.pdf](https://mitt.uib.no/files/524181) — MED
+- [INTH301 Basic course in research tools and theory.pdf](https://mitt.uib.no/files/1059871) — MED
+- [INTH301_autumn_2018.pdf](https://mitt.uib.no/files/1878260) — MED
+- [INTH302 eksamen og sensorveiledning 2020.pdf](https://mitt.uib.no/files/3849476) — MED
+- [INTH302 Epidemiolgy Autumn 2025 exam with answers.pdf](https://mitt.uib.no/files/7409646) — MED
+- [INTH302 Epidemiology 2017.pdf](https://mitt.uib.no/files/1059866) — MED
+- [INTH302 H2023 part 2.pdf](https://mitt.uib.no/files/6458673) — MED
+- [INTH302_autumn 2020_paper_nested case control study.pdf](https://mitt.uib.no/files/4686923) — MED
+- [INTH302_autumn 2020_paper_Walkng and periodontitis.pdf](https://mitt.uib.no/files/4686924) — MED
+- [INTH302_autumn 2021_paper Child caries management.pdf](https://mitt.uib.no/files/4686921) — MED
+- [INTH302_autumn 2021_paper_periodontitis and COVID.pdf](https://mitt.uib.no/files/4686922) — MED
+- [INTH302_autumn_2017.pdf](https://mitt.uib.no/files/3837868) — MED
+- [INTH302_autumn_2018.pdf](https://mitt.uib.no/files/1878262) — MED
+- [INTH302_autumn_2018.pdf](https://mitt.uib.no/files/3837869) — MED
+- [INTH302_autumn_2019.pdf](https://mitt.uib.no/files/3837870) — MED
+- [INTH302_autumn_2024.pdf](https://mitt.uib.no/files/7309182) — MED
+- [INTH302_course_test_2012_resit.doc](https://mitt.uib.no/files/16977) — MED
+- [INTH302_course_test_2013.doc](https://mitt.uib.no/files/16978) — MED
+- [INTH302_course_test_2014.doc](https://mitt.uib.no/files/16979) — MED
+- [INTH302A_course_re-sit_test_2010.doc](https://mitt.uib.no/files/16973) — MED
+- [INTH302A_course_test_2010.doc](https://mitt.uib.no/files/16974) — MED
+- [INTH304 Major Global Health Problems 2017.pdf](https://mitt.uib.no/files/1059721) — MED
+- [INTH304_120914.doc](https://mitt.uib.no/files/16987) — MED
+- [INTH304_2010.doc](https://mitt.uib.no/files/16988) — MED
+- [INTH304_autumn_2016.pdf](https://mitt.uib.no/files/452512) — MED
+- [INTH304_autumn_2018.pdf](https://mitt.uib.no/files/1878264) — MED
+- [INTH304-host2012-Exam_questions_Major_Global_Health_problems1209.doc](https://mitt.uib.no/files/16985) — MED
+- [INTH304Exam_questions_Major_Global_Health_problems0909.doc](https://mitt.uib.no/files/16986) — MED
+- [INTH310_V13.pdf](https://mitt.uib.no/files/16989) — MED
+- [INTH315 Autumn 2025 exam with answers.pdf](https://mitt.uib.no/files/7409629) — MED
+- [INTH315 H2022_with answers.pdf](https://mitt.uib.no/files/4790300) — MED
+- [INTH315 H2024 with model answers.pdf](https://mitt.uib.no/files/6537963) — MED
+- [INTH315_autumn_2019.pdf](https://mitt.uib.no/files/2830631) — MED
+- [INTH315_autumn_2023.pdf](https://mitt.uib.no/files/5663988) — MED
+- [INTH316 Health systems 2017.pdf](https://mitt.uib.no/files/1059868) — MED
+- [INTH316_Autumn_2018.pdf](https://mitt.uib.no/files/1878268) — MED
+- [INTH321_-_ExpEpitest2011.doc](https://mitt.uib.no/files/16995) — MED
+- [INTH321A_Course_Test_2014.doc](https://mitt.uib.no/files/16994) — MED
+- [INTH321A_INTH921_spring_2016.pdf](https://mitt.uib.no/files/1561007) — MED
+- [INTH321A_INTH921_spring_2017.pdf](https://mitt.uib.no/files/1561004) — MED
+- [INTH321A_INTH921_V22.pdf](https://mitt.uib.no/files/4868453) — MED
+- [INTH321A_INTH921_V25.pdf](https://mitt.uib.no/files/7507862) — MED
+- [INTH321A_spring_18.pdf](https://mitt.uib.no/files/3162699) — MED
+- [INTH321A_spring_19.pdf](https://mitt.uib.no/files/3162701) — MED
+- [INTH321A_spring_20.pdf](https://mitt.uib.no/files/3162705) — MED
+- [INTH321A_spring_2021.pdf](https://mitt.uib.no/files/3999152) — MED
+- [INTH321A_V23.pdf](https://mitt.uib.no/files/6598385) — MED
+- [INTH321A_V24.pdf](https://mitt.uib.no/files/6598389) — MED
+- [INTH321A-ExpEpitest2012_Final.doc](https://mitt.uib.no/files/16993) — MED
+- [INTH331_Exam2013.pdf](https://mitt.uib.no/files/16996) — MED
+- [INTH332-test2013.pdf](https://mitt.uib.no/files/16997) — MED
+- [INTH334-test2013.pdf](https://mitt.uib.no/files/16998) — MED
+- [INTH356_INTH956_Spring_2025.pdf](https://mitt.uib.no/files/7591532) — MED
+- [INTH356_INTH956_Spring_2026.pdf](https://mitt.uib.no/files/8164770) — MED
+- [INTH356_Spring_2019.pdf](https://mitt.uib.no/files/3061662) — MED
+- [INTH356_Spring_2020.pdf](https://mitt.uib.no/files/3061659) — MED
+- [INTH356_Spring_2021.pdf](https://mitt.uib.no/files/4123054) — MED
+- [INTH356_Spring_2022.pdf](https://mitt.uib.no/files/4941938) — MED
+- [INTH356_Spring_2023.pdf](https://mitt.uib.no/files/6616369) — MED
+- [INTH356_Spring_2024.pdf](https://mitt.uib.no/files/6616371) — MED
+- [INTH356-Exam_Observational_epidemiology_2011.pdf](https://mitt.uib.no/files/17000) — MED
+- [INTH360_course_test_2010.doc](https://mitt.uib.no/files/17003) — MED
+- [INTH360_Course_test_2013.docx](https://mitt.uib.no/files/17004) — MED
+- [INTH360_Course_test_September_2014.docx](https://mitt.uib.no/files/17005) — MED
+- [INTH360_exam_2011.doc](https://mitt.uib.no/files/17006) — MED
+- [INTH360_INTH360A_Spring_2024.pdf](https://mitt.uib.no/files/6598413) — MED
+- [INTH360Exam_questions_Global_Nutrition0909.doc](https://mitt.uib.no/files/17002) — MED
+- [INTH921_spring_18.pdf](https://mitt.uib.no/files/3162704) — MED
+- [INTH921_V19.pdf](https://mitt.uib.no/files/3162755) — MED
+- [INTH921_V20.pdf](https://mitt.uib.no/files/3162759) — MED
+- [INTH921_V21.pdf](https://mitt.uib.no/files/4012175) — MED
+- [INTH921_V23.pdf](https://mitt.uib.no/files/6598391) — MED
+- [INTH921_V24.pdf](https://mitt.uib.no/files/6598387) — MED
+- [INTH956_spring_18.pdf](https://mitt.uib.no/files/3162907) — MED
+- [INTH956_spring_19.pdf](https://mitt.uib.no/files/3162906) — MED
+- [INTH956_spring_20.pdf](https://mitt.uib.no/files/3162905) — MED
+- [INTH956_Spring_2023.pdf](https://mitt.uib.no/files/6616370) — MED
+- [INTH956_Spring_2024.pdf](https://mitt.uib.no/files/6616372) — MED
+- [Intro forelesning.pdf](https://mitt.uib.no/files/7794102) — MEDOD1
+- [Intro sosial ulikhet i helse handout V3.pdf](https://mitt.uib.no/files/7983038) — MEDOD1
+- [Intro studieplan odontologi.pdf](https://mitt.uib.no/files/7941353) — MEDOD1
+- [intro-celle1-2026.pdf](https://mitt.uib.no/files/7976046) — MEDOD1
+- [Introduksjonsforelesning ExPhil MO 27.08.2026 (Fossheim).pdf](https://mitt.uib.no/files/7983517) — EXPHIL-MOSEM
+- [Introforelesning miljømedisin_MEDOD1_H-26.pdf](https://mitt.uib.no/files/7998839) — MEDOD1
+- [Invitasjon Haukeland 26. september FINAL.pdf](https://mitt.uib.no/files/467164) — PRMEDISIN
+- [Juni 2021 - Oppgavesett m-fasit.pdf](https://mitt.uib.no/files/3467459) — MED
+- [Juni 2021 - Oppgavesett u-fasit.pdf](https://mitt.uib.no/files/3467458) — MED
+- [jur-1.jpg](https://mitt.uib.no/files/7815061) — DIGI101 — LOCKED
+- [K-OSCE-6_Kneundersøkelse_meniskskade_konte25_endelig versjon.docx](https://mitt.uib.no/files/7366972) — MED
+- [kahoot4.png](https://mitt.uib.no/files/7793898) — MEDOD1
+- [Kameratskap slippfest.png](https://mitt.uib.no/files/7086938) — STUDENTUTVALG-HF
+- [Kants etikk (Fossheim exphil MO UiB 01.10.2026).pdf](https://mitt.uib.no/files/8093027) — EXPHIL-MOSEM
+- [Karbohydrater_oppgaver.pdf](https://mitt.uib.no/files/8155388) — MEDOD1
+- [Kardiologi-Måling av blodtrykk_ 2024_.docx](https://mitt.uib.no/files/6023477) — MED
+- [Kario 2015.pdf](https://mitt.uib.no/files/485740) — MED
+- [Kario 2016.pdf](https://mitt.uib.no/files/3826836) — MED
+- [kario 2017 Mitt Uib utlegg.pdf](https://mitt.uib.no/files/1103785) — MED
+- [kario 2017.pdf](https://mitt.uib.no/files/1965168) — MED
+- [kario 2018.pdf](https://mitt.uib.no/files/1964962) — MED
+- [Kario 2019.pdf](https://mitt.uib.no/files/2944000) — MED
+- [Kario 2020.pdf](https://mitt.uib.no/files/3826840) — MED
+- [Kario 2021.pdf](https://mitt.uib.no/files/4672668) — MED
+- [Kario 2022.pdf](https://mitt.uib.no/files/6836140) — MED
+- [Kario 2022.pdf](https://mitt.uib.no/files/7799453) — MED
+- [kario endo 2017.pdf](https://mitt.uib.no/files/1711130) — MED
+- [Kario Endo Mi Side utgave 2015.pdf](https://mitt.uib.no/files/17997) — MED
+- [Kario vår 2018.pdf](https://mitt.uib.no/files/3944097) — MED
+- [Kario vår 2019.pdf](https://mitt.uib.no/files/3944100) — MED
+- [Kario vår 2020.pdf](https://mitt.uib.no/files/3944101) — MED
+- [Kario vår 2021.pdf](https://mitt.uib.no/files/3944102) — MED
+- [Kario vår 2023.pdf](https://mitt.uib.no/files/7760222) — MED
+- [Kario vår 2025.pdf](https://mitt.uib.no/files/7744216) — MED
+- [Kario vår 2025.pdf](https://mitt.uib.no/files/7757648) — MED
+- [Kario_2014_Mi_side_utlegg.pdf](https://mitt.uib.no/files/17268) — MED
+- [Kario2013.pdf](https://mitt.uib.no/files/17267) — MED
+- [Kario2016.pdf](https://mitt.uib.no/files/1299834) — MED
+- [karioend2013.pdf](https://mitt.uib.no/files/16858) — MED
+- [Karioend2014.pdf](https://mitt.uib.no/files/16859) — MED
+- [Karioend2016inspera.pdf](https://mitt.uib.no/files/1446920) — MED
+- [Karioendny2016.pdf](https://mitt.uib.no/files/1988696) — MED
+- [karioendony18.pdf](https://mitt.uib.no/files/1964982) — MED
+- [Kart Sentralblokka - HUS.pdf](https://mitt.uib.no/files/7982531) — MEDOD1
+- [Kasus kull 4 2019 sensorveiledning_.pdf](https://mitt.uib.no/files/2944047) — MED
+- [Kateteravlastning øvre-nedre urinveier.docx](https://mitt.uib.no/files/3952893) — MED
+- [Ketil2-OSCE-6 Inflammatorisk tarm-2023-Finale.docx](https://mitt.uib.no/files/5848756) — MED
+- [KI-1.png](https://mitt.uib.no/files/7815037) — DIGI101
+- [KI-Etikk.JPG](https://mitt.uib.no/files/7815052) — DIGI101
+- [KI-system-1.png](https://mitt.uib.no/files/7815023) — DIGI101
+- [Kje 2015.pdf](https://mitt.uib.no/files/17977) — MED
+- [Kje 2016.pdf](https://mitt.uib.no/files/310103) — MED
+- [Kje 2017.pdf](https://mitt.uib.no/files/384863) — MED
+- [Kje 2018.pdf](https://mitt.uib.no/files/1640527) — MED
+- [Kje 2019.pdf](https://mitt.uib.no/files/2229449) — MED
+- [Kje 2020.pdf](https://mitt.uib.no/files/3328628) — MED
+- [Kje_2013.pdf](https://mitt.uib.no/files/17277) — MED
+- [Kje_2014.pdf](https://mitt.uib.no/files/17278) — MED
+- [Kjemisaler.JPG](https://mitt.uib.no/files/2605767) — Institutt for biomedisin
+- [Kjeve 2016.pdf](https://mitt.uib.no/files/1461129) — MED
+- [Kjeve 2017.pdf](https://mitt.uib.no/files/384876) — MED
+- [Kjeve 2018.pdf](https://mitt.uib.no/files/1461130) — MED
+- [Kjeve 2019.pdf](https://mitt.uib.no/files/3749073) — MED
+- [Kjeve 2020.pdf](https://mitt.uib.no/files/3749075) — MED
+- [Kjeve 2021.pdf](https://mitt.uib.no/files/3749076) — MED
+- [Kjeve_2013.pdf](https://mitt.uib.no/files/16870) — MED
+- [Kjeve_2014.pdf](https://mitt.uib.no/files/16871) — MED
+- [Kjeve_2015.pdf](https://mitt.uib.no/files/16872) — MED
+- [Klinikktøy s.pdf](https://mitt.uib.no/files/7793845) — MEDOD1
+- [Kollaps på tannlegekontoret.pdf](https://mitt.uib.no/files/8018910) — MEDOD1
+- [kollasj1.2.jpg](https://mitt.uib.no/files/7794011) — MEDOD1
+- [Kollokvie organisk kjemi MEDOD1 Løsningsforslag 2024.doc](https://mitt.uib.no/files/8157258) — MEDOD1
+- [kollokvieoppgaver-Enzymologi og enzym 2025.pdf](https://mitt.uib.no/files/7794057) — MEDOD1
+- [Kollokvier organisk kjemi.pdf](https://mitt.uib.no/files/7794158) — MEDOD1
+- [Kollokvium1-2026.pdf](https://mitt.uib.no/files/8066247) — MEDOD1
+- [Kollokvium1-Løsningsforslag-2026.pdf](https://mitt.uib.no/files/8121960) — MEDOD1
+- [Kolonileus ved cancer sigmoideum CT abdomen OSKE 6 - OBS filen må lastes ned for å kunne se videoen.pptx](https://mitt.uib.no/files/4645575) — MED
+- [Kolonileus ved cancer sigmoideum; tolkning av CT abdomen.pdf](https://mitt.uib.no/files/4204389) — MED
+- [Kommentarer til eksamen, høst 2019.txt](https://mitt.uib.no/files/2179747) — MED
+- [Kommentarer til eksamen, høst 2019.txt](https://mitt.uib.no/files/2179754) — MED
+- [Kommentarer til eksamen, høst 2019.txt](https://mitt.uib.no/files/2179771) — MED
+- [Kommentarer til eksamenssett, MEDOD1 (ny) v2020.txt](https://mitt.uib.no/files/2347517) — MED
+- [Kommentarer til sensur, MED3 h2022.docx](https://mitt.uib.no/files/4812886) — MED
+- [Konsekvensialisme (Fosshem exphil MO UiB 24.09.2026) .pdf](https://mitt.uib.no/files/8071043) — EXPHIL-MOSEM
+- [Kontaktinformasjon_samarb.sykeshus_2024.pdf](https://mitt.uib.no/files/6000129) — PRMEDISIN
+- [Kontaktpersoner samarb sykehus_jan21.doc](https://mitt.uib.no/files/3076431) — PRMEDISIN
+- [Konte Eksamen 15.03.2017 med sensorveiledning.pdf](https://mitt.uib.no/files/816862) — MED
+- [Konte Eksamen 15.03.2018 med sensorveiledning.pdf](https://mitt.uib.no/files/1409444) — MED
+- [Konte Eksamen 2018- 15.03.2018 med sensorveiledning.pdf](https://mitt.uib.no/files/1409327) — MED
+- [Konte eksamen med sensorveiledning h 2019.pdf](https://mitt.uib.no/files/1993004) — MED
+- [Konte eksamen uten fasit.pdf](https://mitt.uib.no/files/2015298) — MED
+- [Konte FARM270 V24 kortsvar.pdf](https://mitt.uib.no/files/6267721) — MED
+- [konte kortsvar_NEVRO.docx](https://mitt.uib.no/files/4231710) — MED
+- [KONTE Nevro høst med fasit 2021.docx](https://mitt.uib.no/files/4246363) — MED
+- [Konteeksamen FARM290V2025.docx](https://mitt.uib.no/files/6848795) — MED
+- [Konteeksamen med fasit NUTR203 V20.pdf](https://mitt.uib.no/files/2380853) — MED
+- [Konteeksamen MED7 sept. 17 med fasit MCQ.pdf](https://mitt.uib.no/files/570924) — MED
+- [Konteeksamen MED7 sept. 17 sensorveil. kortsvar.pdf](https://mitt.uib.no/files/570976) — MED
+- [Konteeksamen MED8 vår 18 - Sensorveiledning endokrin.docx](https://mitt.uib.no/files/783410) — MED
+- [Konteeksamen MED8 vår 18 -Sensorveiledning Blod.docx](https://mitt.uib.no/files/783411) — MED
+- [Konteeksamen MED8 vår 18-Sensorveiledning Hud. 2018.docx](https://mitt.uib.no/files/783412) — MED
+- [Konteeksamen MED8 vår 18-Sensorveiledning Plastikk og småkirurgi.docx](https://mitt.uib.no/files/783413) — MED
+- [Konteeksamen MED8 vår 2018-Sensorveiledning Nefrologi og Urologi.docx](https://mitt.uib.no/files/783415) — MED
+- [Konteeksamen MED8 vår 2018.pdf](https://mitt.uib.no/files/783334) — MED
+- [Konteeksamen NUTR203 V22-med fasit.pdf](https://mitt.uib.no/files/4299352) — MED
+- [Konteeksamen NUTR203 V22-uten fasit.pdf](https://mitt.uib.no/files/4299353) — MED
+- [Konteeksamen NUTR203 V23-med fasit.pdf](https://mitt.uib.no/files/4937098) — MED
+- [Konteeksamen NUTR203 V23-uten fasit.pdf](https://mitt.uib.no/files/4937099) — MED
+- [Konteeksamen NUTR245 V22-med fasit.pdf](https://mitt.uib.no/files/4165645) — MED
+- [Konteeksamen NUTR245 V22-uten fasit.pdf](https://mitt.uib.no/files/4165646) — MED
+- [Konteeksamen uten fasit NUTR203 V20.pdf](https://mitt.uib.no/files/2380854) — MED
+- [Konteeksamen uten fasit.pdf](https://mitt.uib.no/files/5408917) — MED
+- [Kontorreglement MEDSU -- styremøte Mai 28.pdf](https://mitt.uib.no/files/6085380) — STUDENTUTVALG-MO
+- [Kontorreglement MEDSU.docx](https://mitt.uib.no/files/8002525) — STUDENTUTVALG-MO
+- [Korreksjoner til eksamensett, MED3 h2021.docx](https://mitt.uib.no/files/3918202) — MED
+- [Kortsavrsoppgave 18H og fasit.pdf](https://mitt.uib.no/files/1606318) — MED
+- [Kortsvar BUP MED7 ht 2022.docx](https://mitt.uib.no/files/4781636) — MED
+- [Kortsvar Eks ØNHMED7 des 2022 bokmål.docx](https://mitt.uib.no/files/4781632) — MED
+- [Kortsvar Eks ØNHMED7 des 2022 nynorsk.docx](https://mitt.uib.no/files/4781633) — MED
+- [Kortsvar eksamen Med 9 Gyn + obst.docx](https://mitt.uib.no/files/7869532) — MED
+- [Kortsvar Eksamen ØNH august 2021 - Bokmål.doc](https://mitt.uib.no/files/4246366) — MED
+- [Kortsvar konteoppgave epilepsi 2022.docx](https://mitt.uib.no/files/5515815) — MED
+- [Kortsvar med fasit Ordinær V21.pdf](https://mitt.uib.no/files/4029099) — MED
+- [Kortsvar oppgaver Konte MED8 H25 med fasit.pdf](https://mitt.uib.no/files/7128429) — MED
+- [Kortsvar oppgaver Konte MED8 H25 uten fasit.pdf](https://mitt.uib.no/files/7128431) — MED
+- [Kortsvar oppgaver ordinær med fasit MED8 H25.pdf](https://mitt.uib.no/files/7280236) — MED
+- [Kortsvar oppgaver ordinær uten fasit MED8 H25.pdf](https://mitt.uib.no/files/7280317) — MED
+- [Kortsvar_fasit_MED7 konteV22.docx](https://mitt.uib.no/files/4231718) — MED
+- [KortsvarGynVår-23.docx](https://mitt.uib.no/files/5133585) — MED
+- [Kortsvaroppgavene MED9 V24 med fasit.pdf](https://mitt.uib.no/files/6000888) — MED
+- [Kortsvarsoppgave 19V og fasit.pdf](https://mitt.uib.no/files/1606317) — MED
+- [Kortsvarsoppgave nr. 2_høst 2022_MED 7_fasit_ketil.docx](https://mitt.uib.no/files/4781637) — MED
+- [Kortsvarsoppgaver vår2026 ET.pdf](https://mitt.uib.no/files/7869606) — MED
+- [Kortsvarsoppgaver_2025 mars_Medisinsk genetikk_MED9 konte_final.docx](https://mitt.uib.no/files/7688728) — MED
+- [Kortsvarsoppgaver_Medisinsk genetikk_MED9 konteeksamen_10 mars 2023_inkl besvarelse.pdf](https://mitt.uib.no/files/5116009) — MED
+- [KOS eksamen vår 21.pdf](https://mitt.uib.no/files/4183191) — MED
+- [KOS vår 2015.pdf](https://mitt.uib.no/files/17984) — MED
+- [KOS vår 2016 sensorveiledning.pdf](https://mitt.uib.no/files/313450) — MED
+- [KOS vår 2016.pdf](https://mitt.uib.no/files/276402) — MED
+- [KOS vår 2017.pdf](https://mitt.uib.no/files/1634968) — MED
+- [KOS vår 2018.pdf](https://mitt.uib.no/files/1634969) — MED
+- [kos2020.pdf](https://mitt.uib.no/files/3374090) — MED
+- [KOSeksamen vår 2019.pdf](https://mitt.uib.no/files/1804110) — MED
+- [kosprøvevår22.pdf](https://mitt.uib.no/files/4716724) — MED
+- [KOSVÅR22.pdf](https://mitt.uib.no/files/4977067) — MED
+- [Kriterier for utdanningsprisene.pdf](https://mitt.uib.no/files/282770) — MED
+- [KS-FysMedRehab Nakkeus OSKE_2020_RUNDE2.docx](https://mitt.uib.no/files/4197508) — MED
+- [KS-OSCE-6_EKG-21_revidert.docx](https://mitt.uib.no/files/4197512) — MED
+- [KS-OSCE-6_Kneundersøkelse_meniskskade_endelig.docx](https://mitt.uib.no/files/4197507) — MED
+- [KS-OSKE hoste og spirometri vår2021.docx](https://mitt.uib.no/files/4197506) — MED
+- [KS-OSKE MED6 ADL intervju-2021 290421 (1).docx](https://mitt.uib.no/files/4197505) — MED
+- [KS-OSKE_6_Genetikk_ArveRP_2021_Final26032021.docx](https://mitt.uib.no/files/4197725) — MED
+- [KS-OSKE_Organisk_2020-MEDOD1_Runde_FINALE.docx](https://mitt.uib.no/files/4197511) — MED
+- [KS-OSKE-6_knepunksjon_2021.docx](https://mitt.uib.no/files/4197510) — MED
+- [KS-OSKE-6_Ultralyd_abd_pancreas_final.docx](https://mitt.uib.no/files/4197509) — MED
+- [KS-OSKE-6-Anestesi intensiv-Traumatologi-2021.docx](https://mitt.uib.no/files/4197503) — MED
+- [KS-OSKE-6-Radiologi-Thoraxradiologi traumatisk pneumothorax-2020-Finale revidert mars 2021.docx](https://mitt.uib.no/files/4197502) — MED
+- [KS-OSKE6 appendisitt ES8.docx](https://mitt.uib.no/files/4197504) — MED
+- [kunngjD.pdf](https://mitt.uib.no/files/263192) — STUDENTUTVALG-HF
+- [Kunngjering av dekan og prodekan-val ved HF 2017 - 2021.pdf](https://mitt.uib.no/files/263046) — STUDENTUTVALG-HF
+- [Kunngjøring studentfasilitator 2022.docx](https://mitt.uib.no/files/4365143) — MED
+- [Kunstig intelligens banner DIGI101.png](https://mitt.uib.no/files/7815021) — DIGI101
+- [Kvinne eller mann med høy feber etter cellegiftbehandling.docx](https://mitt.uib.no/files/3952894) — MED
+- [Labhefte MEDOD1_262109.pdf](https://mitt.uib.no/files/8060302) — MEDOD1
+- [LABORATORIEKURS DNA Vår 2019.pdf](https://mitt.uib.no/files/1569043) — Institutt for biomedisin
+- [laringsutbytte2.png](https://mitt.uib.no/files/7793903) — MEDOD1
+- [LAS301 H2020.docx](https://mitt.uib.no/files/2853578) — MED
+- [Lectio prima.pptx](https://mitt.uib.no/files/8048207) — MEDOD1
+- [Leddstatus OSKE12 060624_ferdig.docx](https://mitt.uib.no/files/6015828) — MED
+- [Lesesal BB-1.jpg](https://mitt.uib.no/files/7620212) — MED
+- [Lesesalsregler masterlesesal.pdf](https://mitt.uib.no/files/1417256) — STUDENTUTVALG-HF
+- [libpic-tables-caroline.jpg](https://mitt.uib.no/files/7815060) — DIGI101 — LOCKED
+- [Løsningsforslag på Medod 1 Eksamen 2018 Høst Laget av Khattab Ahmad-1.pdf](https://mitt.uib.no/files/7793991) — MEDOD1
+- [Luftforurensning i bymiljø_2026.pdf](https://mitt.uib.no/files/7977192) — MEDOD1
+- [Luftveishåndtering-1.pdf](https://mitt.uib.no/files/4183750) — MED
+- [Lunge - Klinisk undersøkelse av lungenespirometri- oppdatert 26.7.pdf](https://mitt.uib.no/files/4227118) — MED
+- [Lungemedisin Vena cava superior syndrom.docx](https://mitt.uib.no/files/3952895) — MED
+- [Lungeoppgave pneumoni OSKE6_juni24_bba (003).docx](https://mitt.uib.no/files/6023478) — MED
+- [Lungeundersøkelse_ 2019_08_Finale.pdf](https://mitt.uib.no/files/4184132) — MED
+- [Lysbilde1.2-3.jpeg](https://mitt.uib.no/files/7794009) — MEDOD1
+- [lystløgner-1.png](https://mitt.uib.no/files/7815024) — DIGI101
+- [Makroillustrasjon.pdf](https://mitt.uib.no/files/4204402) — MED
+- [Makroskopisk anatomi - Leverpreparat.pdf](https://mitt.uib.no/files/4204388) — MED
+- [Mal til søknadsskjema studentledet undervisning -oppdatert epost.docx](https://mitt.uib.no/files/5296624) — PRMEDISIN
+- [Master exams 2017.pdf](https://mitt.uib.no/files/379932) — Institutt for biomedisin
+- [Mat 2015.pdf](https://mitt.uib.no/files/18000) — MED
+- [Mat 2016.pdf](https://mitt.uib.no/files/395334) — MED
+- [Mat 2017.pdf](https://mitt.uib.no/files/395335) — MED
+- [Mat 2018.docx](https://mitt.uib.no/files/2249207) — MED
+- [Mat 2019.pdf](https://mitt.uib.no/files/2249208) — MED
+- [mat_2013.pdf](https://mitt.uib.no/files/16883) — MED
+- [mat_2014.pdf](https://mitt.uib.no/files/16884) — MED
+- [Matallergi HUS august 2026 (1).pdf](https://mitt.uib.no/files/7977177) — MEDOD1
+- [MCQ oppgaver Konte MED8 H25 med fasit.pdf](https://mitt.uib.no/files/7128575) — MED
+- [MCQ oppgaver Konte MED8 H25 uten fasit.pdf](https://mitt.uib.no/files/7128576) — MED
+- [MCQ oppgaver Konte MED8 V26 med fasit.pdf](https://mitt.uib.no/files/7669269) — MED
+- [MCQ oppgaver Konte MED8 V26 uten fasit.pdf](https://mitt.uib.no/files/7669268) — MED
+- [MCQ oppgaver ordinær MED8 H25 med fasit.pdf](https://mitt.uib.no/files/7669263) — MED
+- [MCQ oppgaver ordinær MED8 H25 uten fasit.pdf](https://mitt.uib.no/files/7669264) — MED
+- [MCQ oppgaver Ordinær MED8 V26 med fasit.pdf](https://mitt.uib.no/files/7799586) — MED
+- [MCQ oppgaver Ordinær MED8 V26 uten fasit.pdf](https://mitt.uib.no/files/7799585) — MED
+- [MCQ-fasit.pdf](https://mitt.uib.no/files/5408897) — MED
+- [med (2).jpg](https://mitt.uib.no/files/7815057) — DIGI101 — LOCKED
+- [MED 7 desember 2018 UTEN SVAR.pdf](https://mitt.uib.no/files/1667983) — MED
+- [med12 HØST 2020 flervalg uten fasit.pdf](https://mitt.uib.no/files/3145384) — MED
+- [MED12 høst 2020 oppgavesett med fasit.pdf](https://mitt.uib.no/files/3031566) — MED
+- [MED12 skriftlig høst 2019 uten fasit.pdf](https://mitt.uib.no/files/2643312) — MED
+- [MED12 skritflig våren 2020 uten fasit.pdf](https://mitt.uib.no/files/2643316) — MED
+- [MED1NEVRO_eksamen_h2011_m_sensorveiledning.docx](https://mitt.uib.no/files/17037) — MED
+- [MED1NEVRO_og_BMED251_h2012_bm_sensorveiledning_docx.pdf](https://mitt.uib.no/files/17038) — MED
+- [MED2 (ny) h2016 - uten svar.pdf](https://mitt.uib.no/files/904444) — MED
+- [MED2 (ny) h2018 - med svar.pdf](https://mitt.uib.no/files/1720017) — MED
+- [MED2 (ny) h2018 - uten svar.pdf](https://mitt.uib.no/files/1720016) — MED
+- [MED2 (ny) h2019 - med svar.pdf](https://mitt.uib.no/files/2484221) — MED
+- [MED2 (ny) h2019 - uten svar.pdf](https://mitt.uib.no/files/2484225) — MED
+- [MED2 (ny) h2020 - med svar.pdf](https://mitt.uib.no/files/2950085) — MED
+- [MED2 (ny) h2020 - uten svar.pdf](https://mitt.uib.no/files/2950086) — MED
+- [MED2 (ny) h2022 - med svar.pdf](https://mitt.uib.no/files/4607392) — MED
+- [MED2 (ny) h2022 - uten svar.pdf](https://mitt.uib.no/files/4607390) — MED
+- [MED2 (ny) h2023 - med svar.pdf](https://mitt.uib.no/files/8209286) — MED
+- [MED2 (ny) h2023 - uten svar.pdf](https://mitt.uib.no/files/8209287) — MED
+- [MED2 (ny) h2024 - med svar.pdf](https://mitt.uib.no/files/8209281) — MED
+- [MED2 (ny) h2024 - uten svar.pdf](https://mitt.uib.no/files/8209282) — MED
+- [MED2 (ny) h2025 - med svar.pdf](https://mitt.uib.no/files/8209155) — MED
+- [MED2 (ny) h2025 - uten svar.pdf](https://mitt.uib.no/files/8209156) — MED
+- [MED2 (ny) h2026 - med svar.pdf](https://mitt.uib.no/files/8045309) — MED
+- [MED2 (ny) h2026 - uten svar.pdf](https://mitt.uib.no/files/8045312) — MED
+- [MED2 v2016 - uten svar.pdf](https://mitt.uib.no/files/904445) — MED
+- [MED2 v2017 - uten svar.pdf](https://mitt.uib.no/files/904443) — MED
+- [MED2 v2018 - med svar.pdf](https://mitt.uib.no/files/1720013) — MED
+- [MED2 v2018 - uten svar.pdf](https://mitt.uib.no/files/1720012) — MED
+- [MED2 v2019 - med svar.pdf](https://mitt.uib.no/files/1864661) — MED
+- [MED2 v2019 - uten svar.pdf](https://mitt.uib.no/files/1864662) — MED
+- [MED2 v2020 - med svar.pdf](https://mitt.uib.no/files/2600828) — MED
+- [MED2 v2020 - uten svar.pdf](https://mitt.uib.no/files/2600827) — MED
+- [MED2 v2021 (med svar).pdf](https://mitt.uib.no/files/3482052) — MED
+- [MED2 v2021 (uten svar).pdf](https://mitt.uib.no/files/3482051) — MED
+- [MED2 v2022 - med svar.pdf](https://mitt.uib.no/files/5086293) — MED
+- [MED2 v2022 - uten svar.pdf](https://mitt.uib.no/files/5086294) — MED
+- [MED2 v2023 - med svar.pdf](https://mitt.uib.no/files/5194533) — MED
+- [MED2 v2023 - uten svar.pdf](https://mitt.uib.no/files/5194532) — MED
+- [MED2 v2024 - med svar.pdf](https://mitt.uib.no/files/6822538) — MED
+- [MED2 v2024 - uten svar.pdf](https://mitt.uib.no/files/6822539) — MED
+- [MED2 v2025 - med svar.pdf](https://mitt.uib.no/files/6943629) — MED
+- [MED2 v2025 - uten svar.pdf](https://mitt.uib.no/files/6943628) — MED
+- [MED2 v2026 - med svar.pdf](https://mitt.uib.no/files/7826207) — MED
+- [MED2 v2026 - uten svar.pdf](https://mitt.uib.no/files/7826208) — MED
+- [MED3 (med fasit) h2016.pdf](https://mitt.uib.no/files/1042800) — MED
+- [MED3 (med fasit) h2017.pdf](https://mitt.uib.no/files/1042801) — MED
+- [MED3 (ny) (med fasit) v2017.pdf](https://mitt.uib.no/files/1042802) — MED
+- [MED3 (ny) (uten fasit) v2017.pdf](https://mitt.uib.no/files/1042804) — MED
+- [MED3 (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/2199990) — MED
+- [MED3 (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/2199989) — MED
+- [MED3 (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/1889911) — MED
+- [MED3 (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/1889910) — MED
+- [MED3 (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599766) — MED
+- [MED3 (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599767) — MED
+- [MED3 (ny) v2021 - med svar.pdf](https://mitt.uib.no/files/3296958) — MED
+- [MED3 (ny) v2021 - uten svar.pdf](https://mitt.uib.no/files/3296957) — MED
+- [MED3 (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/4172173) — MED
+- [MED3 (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/4172172) — MED
+- [MED3 (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/5269258) — MED
+- [MED3 (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/5021330) — MED
+- [MED3 (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/5897483) — MED
+- [MED3 (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/5897482) — MED
+- [MED3 (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/6721038) — MED
+- [MED3 (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/6721037) — MED
+- [MED3 (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7568664) — MED
+- [MED3 (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7568667) — MED
+- [MED3 (uten fasit) h2016.pdf](https://mitt.uib.no/files/1042806) — MED
+- [MED3 (uten fasit) h2017.pdf](https://mitt.uib.no/files/1042807) — MED
+- [MED3 h2018 - med svar.pdf](https://mitt.uib.no/files/2199992) — MED
+- [MED3 h2018 - uten svar.pdf](https://mitt.uib.no/files/2199991) — MED
+- [MED3 h2019 - kommentarer til eksamenssettet.txt](https://mitt.uib.no/files/2208100) — MED
+- [MED3 h2019 - med svar.pdf](https://mitt.uib.no/files/2208098) — MED
+- [MED3 h2019 - uten svar.pdf](https://mitt.uib.no/files/2208099) — MED
+- [MED3 h2020 - med svar.pdf](https://mitt.uib.no/files/3763394) — MED
+- [MED3 h2020 - uten svar.pdf](https://mitt.uib.no/files/3792249) — MED
+- [MED3 h2021 - med svar.pdf](https://mitt.uib.no/files/3918068) — MED
+- [MED3 h2021 - uten svar.pdf](https://mitt.uib.no/files/3918067) — MED
+- [MED3 h2022 - med svar.pdf](https://mitt.uib.no/files/4812899) — MED
+- [MED3 h2022 - uten svar.pdf](https://mitt.uib.no/files/4812898) — MED
+- [MED3 h2023 - med svar.pdf](https://mitt.uib.no/files/5672748) — MED
+- [MED3 h2023 - uten svar.pdf](https://mitt.uib.no/files/5672749) — MED
+- [MED3 h2024-med svar.pdf](https://mitt.uib.no/files/6485276) — MED
+- [MED3 h2024-uten svar.pdf](https://mitt.uib.no/files/6485277) — MED
+- [MED3 h2025 - med fasit.pdf](https://mitt.uib.no/files/7369218) — MED
+- [MED3 h2025 - uten fasit.pdf](https://mitt.uib.no/files/7369219) — MED
+- [MED4 (ny) h2018 - med  svar.pdf](https://mitt.uib.no/files/1691780) — MED
+- [MED4 (ny) h2018 - uten svar.pdf](https://mitt.uib.no/files/1691779) — MED
+- [MED4 (ny) h2019 med svar.pdf](https://mitt.uib.no/files/5132020) — MED
+- [MED4 (ny) h2019 uten svar.pdf](https://mitt.uib.no/files/5132016) — MED
+- [MED4 (ny) h2020 - med svar.pdf](https://mitt.uib.no/files/4250784) — MED
+- [MED4 (ny) h2020 - uten svar.pdf](https://mitt.uib.no/files/4127383) — MED
+- [MED4 (ny) h2021 uten svar.pdf](https://mitt.uib.no/files/5132021) — MED
+- [MED4 (ny) h2022 - med svar.pdf](https://mitt.uib.no/files/4607367) — MED
+- [MED4 (ny) h2022 - uten svar.pdf](https://mitt.uib.no/files/4607368) — MED
+- [MED4 (ny) h2023 - med svar.pdf](https://mitt.uib.no/files/5432068) — MED
+- [MED4 (ny) h2023 - uten svar.pdf](https://mitt.uib.no/files/5432069) — MED
+- [MED4 (ny) h2024 - med svar.pdf](https://mitt.uib.no/files/6653709) — MED
+- [MED4 (ny) h2024 - uten svar.pdf](https://mitt.uib.no/files/6653710) — MED
+- [MED4 (ny) h2025 - med svar.pdf](https://mitt.uib.no/files/7245283) — MED
+- [MED4 (ny) h2025 - uten svar.pdf](https://mitt.uib.no/files/7245276) — MED
+- [MED4 (NY) høst 2017 med fasit.pdf](https://mitt.uib.no/files/3430833) — MED
+- [MED4 (NY) høst 2017.pdf](https://mitt.uib.no/files/3430834) — MED
+- [MED4 (ny) høst2021 med svar.pdf](https://mitt.uib.no/files/5132023) — MED
+- [MED4 v 2017 Vedlegg til oppgavesett.pdf](https://mitt.uib.no/files/1693551) — MED
+- [MED4 v2017 - med svar.pdf](https://mitt.uib.no/files/4478800) — MED
+- [MED4 v2017 - uten svar.pdf](https://mitt.uib.no/files/4478801) — MED
+- [MED4 v2018 - med svar.pdf](https://mitt.uib.no/files/4478878) — MED
+- [MED4 v2018 - uten svar.pdf](https://mitt.uib.no/files/4478877) — MED
+- [MED4 v2019 - med svar.pdf](https://mitt.uib.no/files/3441473) — MED
+- [MED4 v2019 - uten svar.pdf](https://mitt.uib.no/files/3441474) — MED
+- [MED4 v2020 - med svar.pdf](https://mitt.uib.no/files/4250779) — MED
+- [MED4 v2020 - uten svar.pdf](https://mitt.uib.no/files/4127079) — MED
+- [MED4 v2021 - med svar.pdf](https://mitt.uib.no/files/3560638) — MED
+- [MED4 v2021 - uten svar.pdf](https://mitt.uib.no/files/3560637) — MED
+- [MED4 v2022 med svar.pdf](https://mitt.uib.no/files/5112356) — MED
+- [MED4 v2022 uten svar.pdf](https://mitt.uib.no/files/5112358) — MED
+- [MED4 v2023 - med svar.pdf](https://mitt.uib.no/files/5194676) — MED
+- [MED4 v2023 - uten svar.pdf](https://mitt.uib.no/files/5194675) — MED
+- [MED4 v2024 - med svar.pdf](https://mitt.uib.no/files/6023065) — MED
+- [MED4 v2024 - uten svar.pdf](https://mitt.uib.no/files/6023064) — MED
+- [MED4 v2025 - med svar.pdf](https://mitt.uib.no/files/6938548) — MED
+- [MED4 v2025 - uten svar.pdf](https://mitt.uib.no/files/6938549) — MED
+- [MED4 v2026 - med svar.pdf](https://mitt.uib.no/files/7837954) — MED
+- [MED4 v2026 - uten svar.pdf](https://mitt.uib.no/files/7837953) — MED
+- [MED5 - eksamenssett høsten 2019 med fasit.pdf](https://mitt.uib.no/files/2178110) — MED
+- [MED5 - eksamenssett høsten 2019 uten fasit (002).pdf](https://mitt.uib.no/files/2178103) — MED
+- [MED5 H22 konte med fasit.pdf](https://mitt.uib.no/files/5299305) — MED
+- [MED5 H22 konte uten fasit.pdf](https://mitt.uib.no/files/5299306) — MED
+- [MED5 H23 m.fasit.pdf](https://mitt.uib.no/files/5553677) — MED
+- [MED5 H23 NY med fasit.pdf](https://mitt.uib.no/files/8063919) — MED
+- [MED5 H23 NY uten fasit.pdf](https://mitt.uib.no/files/8063917) — MED
+- [MED5 H24 Fasit.pdf](https://mitt.uib.no/files/7132259) — MED
+- [MED5 H24 NY med fasit.pdf](https://mitt.uib.no/files/8063419) — MED
+- [MED5 H24 NY uten fasit.pdf](https://mitt.uib.no/files/8063423) — MED
+- [MED5 H24 Oppgaver.pdf](https://mitt.uib.no/files/7132261) — MED
+- [MED5 H25 NY med fasit.pdf](https://mitt.uib.no/files/8063991) — MED
+- [MED5 H25 NY uten fasit.pdf](https://mitt.uib.no/files/8063986) — MED
+- [MED5 prøve H23 u.fasit.pdf](https://mitt.uib.no/files/5553676) — MED
+- [MED5 prøve med svar H22.pdf](https://mitt.uib.no/files/5297120) — MED
+- [MED5 prøve uten svar H22.pdf](https://mitt.uib.no/files/5297101) — MED
+- [MED5- eksamen 140319 - uten fasit.pdf](https://mitt.uib.no/files/1670223) — MED
+- [MED5-eksamen 131218 uten fasit.pdf](https://mitt.uib.no/files/1670129) — MED
+- [MED6 2024 konte med riktige svar til han som absolutt måtte ha det.pdf](https://mitt.uib.no/files/6858635) — MED
+- [MED6 2024 konte u svar.pdf](https://mitt.uib.no/files/6858634) — MED
+- [MED6 2025 HØST-N Eksamensoppgaver.pdf](https://mitt.uib.no/files/7507174) — MED
+- [MED6 2025 VÅR Eksamensoppgaver.pdf](https://mitt.uib.no/files/7501078) — MED
+- [MED6 h18 - konte-2019 uten fasit.pdf](https://mitt.uib.no/files/2113479) — MED
+- [MED6 H19-Konte med fasit.pdf](https://mitt.uib.no/files/2113370) — MED
+- [MED6 h2023 konte med fasit-komplett.pdf](https://mitt.uib.no/files/5901267) — MED
+- [MED6 konte h2021 - uten fasit.pdf](https://mitt.uib.no/files/4203198) — MED
+- [MED6 konte h2021 med fasit.pdf](https://mitt.uib.no/files/4203201) — MED
+- [MED6 og MED7.jpg](https://mitt.uib.no/files/8047213) — PRMEDISIN
+- [MED6 V19-2019-06-18 (1).pdf](https://mitt.uib.no/files/1778370) — MED
+- [MED6 v2019 uten fasit.pdf](https://mitt.uib.no/files/2113345) — MED
+- [MED6 v2020 uten fasit.pdf](https://mitt.uib.no/files/4237904) — MED
+- [MED6 v2021 med fasit-bokmål.pdf](https://mitt.uib.no/files/5073076) — MED
+- [MED6_v25 bokmål med riktige svar.pdf](https://mitt.uib.no/files/7018478) — MED
+- [MED6_v25 nynorsk med riktige svar.pdf](https://mitt.uib.no/files/7018474) — MED
+- [MED6- h2025 bokmål med riktige svar.pdf.pdf](https://mitt.uib.no/files/7366974) — MED
+- [MED6- h2025 nynorsk med riktige svar.pdf](https://mitt.uib.no/files/7366975) — MED
+- [MED7 2024 HØST-N Eksamensoppgaver.pdf](https://mitt.uib.no/files/7542675) — MED
+- [MED7 2025 HØST S Eksamensoppgaver.pdf](https://mitt.uib.no/files/7350947) — MED
+- [MED7 2025 HØST-N S Eksamensoppgaver.pdf](https://mitt.uib.no/files/7094458) — MED
+- [MED7 2025 VÅR S Eksamensoppgaver.pdf](https://mitt.uib.no/files/7094564) — MED
+- [MED7 2025 VÅR-N S Eksamensoppgaver.pdf](https://mitt.uib.no/files/7094595) — MED
+- [MED7 2026 HØST-N S Eksamenssett.pdf](https://mitt.uib.no/files/8091002) — MED
+- [MED7 2026 VÅR Eksamensoppgaver (riktig svar fvo).pdf](https://mitt.uib.no/files/7814190) — MED
+- [MED7 2026 VÅR Eksamensoppgaver.pdf](https://mitt.uib.no/files/7814189) — MED
+- [MED7 2026 VÅR-NY Eksamensoppgaver.pdf](https://mitt.uib.no/files/7609202) — MED
+- [MED7 des 2018 MED SVAR.pdf](https://mitt.uib.no/files/1667982) — MED
+- [MED7 Eks ØNH kortsvar febr 2022.doc](https://mitt.uib.no/files/4231711) — MED
+- [MED7 eksaemn vår 2021.pdf](https://mitt.uib.no/files/3748841) — MED
+- [MED7 eksamen høst 2020.pdf](https://mitt.uib.no/files/3748842) — MED
+- [MED7 eksamen konte mars 2019 UTEN SVAR.pdf](https://mitt.uib.no/files/1667973) — MED
+- [MED7 eksamen V2023 - BUP kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491411) — MED
+- [MED7 eksamen V2023 - NEVRO kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491412) — MED
+- [MED7 eksamen V2023 - ØNH kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491413) — MED
+- [MED7 eksamen V2023 - ØYE kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491414) — MED
+- [MED7 eksamen V2023 - VOP kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491415) — MED
+- [MED7 eksamen vår 2020.pdf](https://mitt.uib.no/files/3748843) — MED
+- [MED7 H2022 Eksamen konte med fasit.pdf](https://mitt.uib.no/files/5361419) — MED
+- [MED7 H2022 Eksamen konte.pdf](https://mitt.uib.no/files/5361420) — MED
+- [MED7 H24 Oppagavesett med fasit.pdf](https://mitt.uib.no/files/6468033) — MED
+- [MED7 H24 Oppagavesett uten fasit.pdf](https://mitt.uib.no/files/6468035) — MED
+- [MED7 Høst 22 med riktige svar.pdf](https://mitt.uib.no/files/4780796) — MED
+- [MED7 Høst 22.pdf](https://mitt.uib.no/files/4780803) — MED
+- [MED7 Konte H2023 kortsvar bokmål fasit.pdf](https://mitt.uib.no/files/5961730) — MED
+- [MED7 Konte H23 (med FVO fasit).pdf](https://mitt.uib.no/files/5466194) — MED
+- [MED7 Konte H23.pdf](https://mitt.uib.no/files/5466193) — MED
+- [MED7 konte høst 2020.pdf](https://mitt.uib.no/files/3748844) — MED
+- [MED7 konte høst 2021.pdf](https://mitt.uib.no/files/3748845) — MED
+- [MED7 konte mars 2019 MED SVAR.pdf](https://mitt.uib.no/files/1667971) — MED
+- [MED7 konte med fasit.pdf](https://mitt.uib.no/files/4246691) — MED
+- [MED7 konte uten fasit.pdf](https://mitt.uib.no/files/4246695) — MED
+- [MED7 konte vår 2020 - med svar.pdf](https://mitt.uib.no/files/2325313) — MED
+- [MED7 konte vår 2020 - uten svar.pdf](https://mitt.uib.no/files/2325312) — MED
+- [MED7 konte vår 2021.pdf](https://mitt.uib.no/files/3748846) — MED
+- [MED7 konteeksamen sept. 17 BM.pdf](https://mitt.uib.no/files/570949) — MED
+- [MED7 konteeksamen V2023 - BUP kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491455) — MED
+- [MED7 konteeksamen V2023 - NEVRO Epilepsi kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491456) — MED
+- [MED7 konteeksamen V2023 - ØNH kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491459) — MED
+- [MED7 konteeksamen V2023 - ØYE kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491465) — MED
+- [MED7 konteeksamen V2023 - ØYE kortsvar oppgaver.docx](https://mitt.uib.no/files/5491466) — MED
+- [MED7 konteeksamen V2023 - VOP 1 kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491457) — MED
+- [MED7 konteeksamen V2023 - VOP 2 kortsvar med sensorveiledning.docx](https://mitt.uib.no/files/5491458) — MED
+- [MED7 mcq med svar h23 (2).pdf](https://mitt.uib.no/files/5639371) — MED
+- [MED7 mcq uten svar h23 (1).pdf](https://mitt.uib.no/files/5639370) — MED
+- [MED7 sensorveileder h23.pdf](https://mitt.uib.no/files/5639373) — MED
+- [MED7 Sensorveiledning kortsvar konte Høst 2021.docx](https://mitt.uib.no/files/4246374) — MED
+- [MED7 Sensorveiledning.pdf](https://mitt.uib.no/files/4029089) — MED
+- [MED7 skriftlig H21 BM med fasit.pdf](https://mitt.uib.no/files/4246476) — MED
+- [MED7 skriftlig H21 BM uten fasit.pdf](https://mitt.uib.no/files/4246477) — MED
+- [MED7 skriftlig H21 NN med fasit.pdf](https://mitt.uib.no/files/4246478) — MED
+- [MED7 skriftlig H21 NN uten fasit.pdf](https://mitt.uib.no/files/4246479) — MED
+- [MED7 V2023 Eksamen (med FVO fasit).pdf](https://mitt.uib.no/files/5361407) — MED
+- [MED7 V2023 Eksamen.pdf](https://mitt.uib.no/files/5361408) — MED
+- [MED7 vår 2017 Fasit MCQ.pdf](https://mitt.uib.no/files/394390) — MED
+- [MED7 vår 2020-2020-07-01.pdf](https://mitt.uib.no/files/2587601) — MED
+- [MED7 vår2023 konte FVO.pdf](https://mitt.uib.no/files/5515864) — MED
+- [MED7 våren 2024 MCQ med riktigste svar.pdf](https://mitt.uib.no/files/6000667) — MED
+- [MED7 våren 2024 MCQ uten svar.pdf](https://mitt.uib.no/files/6000685) — MED
+- [MED7_sensorveiledninger4_10-des_2018.a](https://mitt.uib.no/files/1667984) — MED
+- [MED7_vår2017_BM.pdf](https://mitt.uib.no/files/394388) — MED
+- [MED7_vår2017_NN.pdf](https://mitt.uib.no/files/394389) — MED
+- [MED7-høst2019-med svar.pdf](https://mitt.uib.no/files/2158432) — MED
+- [MED7-høst2019-uten svar.pdf](https://mitt.uib.no/files/2158431) — MED
+- [MED7-konte med svar.pdf](https://mitt.uib.no/files/2108760) — MED
+- [MED7-konte uten svar.pdf](https://mitt.uib.no/files/2108761) — MED
+- [MED7-PSY høst2019 med svar.pdf](https://mitt.uib.no/files/2264493) — MED
+- [MED7-PSY høst2019 uten svar.pdf.pdf](https://mitt.uib.no/files/2264494) — MED
+- [MED7-skriftilig-konte_med fasit.pdf](https://mitt.uib.no/files/4231707) — MED
+- [MED7-skriftilig-konte-uten fasit.pdf](https://mitt.uib.no/files/4231706) — MED
+- [MED7H22 hjerneslag-Nynorsk.docx](https://mitt.uib.no/files/4781623) — MED
+- [MED7H22 OBT-Kortsvarsoppgave-Nynorsk.docx](https://mitt.uib.no/files/4781624) — MED
+- [MED7H22 SW-eksamensoppgave-Nynorsk.docx](https://mitt.uib.no/files/4781625) — MED
+- [MED8 BM m fasit.pdf](https://mitt.uib.no/files/5788757) — MED
+- [MED8 BM u fasit.pdf](https://mitt.uib.no/files/5788758) — MED
+- [MED8 Eksamensset NN V24 u fasit.pdf](https://mitt.uib.no/files/6000686) — MED
+- [MED8 eksamenssett BM H24 med fasit.pdf](https://mitt.uib.no/files/6455410) — MED
+- [MED8 eksamenssett BM H24 uten fasit.pdf](https://mitt.uib.no/files/6455411) — MED
+- [MED8 eksamenssett BM Konte V25 med fasit.pdf](https://mitt.uib.no/files/6873639) — MED
+- [MED8 eksamenssett BM Konte V25 uten fasit.pdf](https://mitt.uib.no/files/7128590) — MED
+- [MED8 eksamenssett BM O V25 med fasit.pdf](https://mitt.uib.no/files/6863136) — MED
+- [MED8 eksamenssett BM O V25 uten fasit.pdf](https://mitt.uib.no/files/6863137) — MED
+- [MED8 Eksamenssett BM V24 m fasit.pdf](https://mitt.uib.no/files/6000689) — MED
+- [MED8 Eksamenssett BM V24 u fasit.pdf](https://mitt.uib.no/files/6000687) — MED
+- [MED8 eksamenssett NN H24 med fasit.pdf](https://mitt.uib.no/files/6455412) — MED
+- [MED8 eksamenssett NN H24 uten fasit.pdf](https://mitt.uib.no/files/6455413) — MED
+- [MED8 eksamenssett NN O V25 med fasit.pdf](https://mitt.uib.no/files/6863138) — MED
+- [MED8 eksamenssett NN O V25 uten fasit.pdf](https://mitt.uib.no/files/6863139) — MED
+- [MED8 Eksamenssett V24 NN m fasit.pdf](https://mitt.uib.no/files/6000688) — MED
+- [MED8 H19-med svar.pdf](https://mitt.uib.no/files/2051687) — MED
+- [MED8 H19-uten patologi med svar.pdf](https://mitt.uib.no/files/2051695) — MED
+- [MED8 H19-uten patologi uten svar.pdf](https://mitt.uib.no/files/2051697) — MED
+- [MED8 H19-uten svar.pdf](https://mitt.uib.no/files/2051692) — MED
+- [MED8 H20 BM - uten fasit.pdf](https://mitt.uib.no/files/3256330) — MED
+- [MED8 H20 BM med fasit.pdf](https://mitt.uib.no/files/4541633) — MED
+- [MED8 H20 NN - med fasit.pdf](https://mitt.uib.no/files/4541634) — MED
+- [MED8 H20 NN - uten fasit.pdf](https://mitt.uib.no/files/3256329) — MED
+- [MED8 H2019 med patologi.pdf](https://mitt.uib.no/files/4158638) — MED
+- [MED8 H21 BM.pdf](https://mitt.uib.no/files/4541724) — MED
+- [MED8 H21 Bokmål u. fasit.pdf](https://mitt.uib.no/files/4029290) — MED
+- [MED8 H21 NN - med fasit.pdf](https://mitt.uib.no/files/4541726) — MED
+- [MED8 H21 Nynorsk u. fasit.pdf](https://mitt.uib.no/files/4029292) — MED
+- [MED8 H22 uten svar.pdf](https://mitt.uib.no/files/4914086) — MED
+- [MED8 H22.pdf](https://mitt.uib.no/files/4914087) — MED
+- [MED8 NN H22.pdf](https://mitt.uib.no/files/4914088) — MED
+- [MED8 NN m fasit.pdf](https://mitt.uib.no/files/5788759) — MED
+- [MED8 NN u fasit.pdf](https://mitt.uib.no/files/5788760) — MED
+- [MED8 NN uten svar.pdf](https://mitt.uib.no/files/4914089) — MED
+- [MED8 ordinær V25 fasit.pdf](https://mitt.uib.no/files/6863127) — MED
+- [MED8 Sensorveiledning V23.pdf](https://mitt.uib.no/files/5302450) — MED
+- [MED8 sensorveiledning.pdf](https://mitt.uib.no/files/2870899) — MED
+- [MED8 skriftlig V22 BM med fasit.pdf](https://mitt.uib.no/files/4209675) — MED
+- [MED8 skriftlig V22 BM uten fasit.pdf](https://mitt.uib.no/files/4209677) — MED
+- [MED8 skriftlig V22 NN med fasit.pdf](https://mitt.uib.no/files/4209674) — MED
+- [MED8 skriftlig V22 NN uten fasit.pdf](https://mitt.uib.no/files/4209676) — MED
+- [MED8 V20 BM - m fasit.pdf](https://mitt.uib.no/files/4549581) — MED
+- [MED8 V20 BM - u fasit.pdf](https://mitt.uib.no/files/4549582) — MED
+- [MED8 V20 NN - m fasit.pdf](https://mitt.uib.no/files/4549583) — MED
+- [MED8 V20 NN - u fasit.pdf](https://mitt.uib.no/files/4549584) — MED
+- [MED8 V21 BM - med fasit.pdf](https://mitt.uib.no/files/4541717) — MED
+- [MED8 V21 bokmål uten fasit.pdf](https://mitt.uib.no/files/3303839) — MED
+- [MED8 V21 NN - med fasit.pdf](https://mitt.uib.no/files/4541718) — MED
+- [MED8 V21 nynorsk uten fasit.pdf](https://mitt.uib.no/files/3303838) — MED
+- [MED8 V23 BM med svar.pdf](https://mitt.uib.no/files/5302444) — MED
+- [MED8 V23 BM uten svar.pdf](https://mitt.uib.no/files/5302445) — MED
+- [MED8 V23 NN med svar.pdf](https://mitt.uib.no/files/5302446) — MED
+- [MED8 V23 NN uten svar.pdf](https://mitt.uib.no/files/5302448) — MED
+- [MED8 V25 konte kortsvar fasit.pdf](https://mitt.uib.no/files/6873635) — MED
+- [MED8- Ordinær eksamen Vår 2018 - uten fasit.pdf](https://mitt.uib.no/files/1574376) — MED
+- [MED8- Ordinær eksamen Vår 2018-med riktig fasit.pdf](https://mitt.uib.no/files/1607031) — MED
+- [MED9 FVO.png](https://mitt.uib.no/files/7726806) — PRMEDISIN
+- [MED9 H25 complete set without answers](https://mitt.uib.no/files/7730487) — MED
+- [MED9 H25 Kortsvarsoppgaver (1).pdf](https://mitt.uib.no/files/7689111) — MED
+- [MED9 H25 MCQ fasit (1).pdf](https://mitt.uib.no/files/7689112) — MED
+- [MED9 kontinuasjon 10.03.23-2023-05-30.pdf](https://mitt.uib.no/files/5112244) — MED
+- [MED9 Sensorveiledning kortsvar.pdf](https://mitt.uib.no/files/7689057) — MED
+- [MED9 Uganda H23.pdf](https://mitt.uib.no/files/6204824) — PRMEDISIN
+- [Medborgerstipend 2019.pdf](https://mitt.uib.no/files/1725800) — HF
+- [MEDGEN9_v2023_fasit.docx](https://mitt.uib.no/files/5133586) — MED
+- [Medisin_Informasjonsmøte 14. august 2026.pdf](https://mitt.uib.no/files/7953213) — PRMEDISIN / KULL 2026 HØST
+- [Medisin_Student på 123_2026.pdf](https://mitt.uib.no/files/7935125) — PRMEDISIN / KULL 2026 HØST
+- [Medisinsk historie - Vollset - Levekårsutviklingen i Norge h2026.pdf](https://mitt.uib.no/files/7968274) — MEDOD1
+- [MEDOD1 (ny) v2016 - med svar.pdf](https://mitt.uib.no/files/455763) — MED
+- [MEDOD1 (ny) v2016 - uten svar.pdf](https://mitt.uib.no/files/578337) — MED
+- [MEDOD1 (ny) v2017 - med svar.pdf](https://mitt.uib.no/files/862603) — MED
+- [MEDOD1 (ny) v2017 - uten svar.pdf](https://mitt.uib.no/files/525813) — MED
+- [MEDOD1 (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/1194843) — MED
+- [MEDOD1 (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/1418111) — MED
+- [MEDOD1 (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/2098874) — MED
+- [MEDOD1 (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/2098873) — MED
+- [MEDOD1 (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2347516) — MED
+- [MEDOD1 (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2347515) — MED
+- [MEDOD1 (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/5194537) — MED
+- [MEDOD1 (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/5194538) — MED
+- [MEDOD1 (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/5897534) — MED
+- [MEDOD1 (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/5897535) — MED
+- [MEDOD1 (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/7269873) — MED
+- [MEDOD1 (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/7269872) — MED
+- [MEDOD1 (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7644066) — MED
+- [MEDOD1 (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7644067) — MED
+- [MEDOD1 h2015 - med svar.pdf](https://mitt.uib.no/files/455761) — MED
+- [MEDOD1 h2015 - uten svar.pdf](https://mitt.uib.no/files/525812) — MED
+- [MEDOD1 h2016 - med svar.pdf](https://mitt.uib.no/files/1419947) — MED
+- [MEDOD1 h2016 - uten svar.pdf](https://mitt.uib.no/files/1419946) — MED
+- [MEDOD1 h2017 - med svar .pdf](https://mitt.uib.no/files/705807) — MED
+- [MEDOD1 h2017 - uten svar.pdf](https://mitt.uib.no/files/705806) — MED
+- [MEDOD1 h2018 - med svar.pdf](https://mitt.uib.no/files/2098434) — MED
+- [MEDOD1 h2018 - uten svar.pdf](https://mitt.uib.no/files/2098438) — MED
+- [MEDOD1 h2019 - med svar.pdf](https://mitt.uib.no/files/2205960) — MED
+- [MEDOD1 h2019 - uten svar.pdf](https://mitt.uib.no/files/2205959) — MED
+- [MEDOD1 h2020 - med svar.pdf](https://mitt.uib.no/files/3792252) — MED
+- [MEDOD1 h2020 - uten svar.pdf](https://mitt.uib.no/files/3792253) — MED
+- [MEDOD1 h2021 - med svar.pdf](https://mitt.uib.no/files/3944361) — MED
+- [MEDOD1 h2021 - uten svar.pdf](https://mitt.uib.no/files/3944360) — MED
+- [MEDOD1 h2022 - med svar.pdf](https://mitt.uib.no/files/4750110) — MED
+- [MEDOD1 h2022 - uten svar.pdf](https://mitt.uib.no/files/4750109) — MED
+- [MEDOD1 h2023 - med svar.pdf](https://mitt.uib.no/files/5670979) — MED
+- [MEDOD1 h2023 - uten svar.pdf](https://mitt.uib.no/files/5670978) — MED
+- [MEDOD1 h2024 - med svar.pdf](https://mitt.uib.no/files/7298977) — MED
+- [MEDOD1 h2024 - uten svar.pdf](https://mitt.uib.no/files/7298976) — MED
+- [MEDOD1 h2025 - med svar.pdf](https://mitt.uib.no/files/7447077) — MED
+- [MEDOD1 h2025 - uten svar.pdf](https://mitt.uib.no/files/7447076) — MED
+- [MEDOD1 Introduksjon grupper og rom v2026.pdf](https://mitt.uib.no/files/7942642) — MEDOD1
+- [MEDOD1 Spyttkjertel sekret 15.10.2026Kettunen.pdf](https://mitt.uib.no/files/8135437) — MEDOD1
+- [MEDOD1 Spyttkjertel sekret 16.10.2025Kettunen.pdf](https://mitt.uib.no/files/7794153) — MEDOD1
+- [MEDOD1-H26-Helseplager tilskrevet miljøfaktorer_pdf versjon.pdf](https://mitt.uib.no/files/7998560) — MEDOD1
+- [MEDOD1-H26-ROS abc_pdf.pdf](https://mitt.uib.no/files/7998559) — MEDOD1
+- [MEDOD1-H26-velkommen dag 2.pdf](https://mitt.uib.no/files/7967628) — MEDOD1
+- [MEDOD2  v2021 - med svar.pdf](https://mitt.uib.no/files/3419280) — MED
+- [MEDOD2 (ny) h2016 - med svar.pdf](https://mitt.uib.no/files/1684163) — MED
+- [MEDOD2 (ny) h2016 - uten svar.pdf](https://mitt.uib.no/files/696905) — MED
+- [MEDOD2 (ny) h2017 - med svar.pdf](https://mitt.uib.no/files/862624) — MED
+- [MEDOD2 (ny) h2017 - uten svar .pdf](https://mitt.uib.no/files/686604) — MED
+- [MEDOD2 (ny) h2018 - med svar.pdf](https://mitt.uib.no/files/1677307) — MED
+- [MEDOD2 (ny) h2018 - uten svar.pdf](https://mitt.uib.no/files/1677308) — MED
+- [MEDOD2 (ny) h2019 - med svar.pdf](https://mitt.uib.no/files/2350219) — MED
+- [MEDOD2 (ny) h2019 - uten svar.pdf](https://mitt.uib.no/files/2350223) — MED
+- [MEDOD2 (ny) h2020 - med svar.pdf](https://mitt.uib.no/files/8208612) — MED
+- [MEDOD2 (ny) h2020 - uten svar.pdf](https://mitt.uib.no/files/8208617) — MED
+- [MEDOD2 (ny) h2021 - med svar.pdf](https://mitt.uib.no/files/3884201) — MED
+- [MEDOD2 (ny) h2021 - uten svar.pdf](https://mitt.uib.no/files/3884202) — MED
+- [MEDOD2 (ny) h2022 - med svar.pdf](https://mitt.uib.no/files/4607383) — MED
+- [MEDOD2 (ny) h2022 - uten svar.pdf](https://mitt.uib.no/files/4607382) — MED
+- [MEDOD2 (ny) h2023 - med svar.pdf](https://mitt.uib.no/files/5431779) — MED
+- [MEDOD2 (ny) h2023 - uten svar.pdf](https://mitt.uib.no/files/5431778) — MED
+- [MEDOD2 (ny) h2024 - med svar.pdf](https://mitt.uib.no/files/7684944) — MED
+- [MEDOD2 (ny) h2024 - uten svar.pdf](https://mitt.uib.no/files/7684945) — MED
+- [MEDOD2 (ny) h2025 - med svar.pdf](https://mitt.uib.no/files/7244342) — MED
+- [MEDOD2 (ny) h2025 - uten svar.pdf](https://mitt.uib.no/files/7244341) — MED
+- [MEDOD2 (ny) h2026 - med svar.pdf](https://mitt.uib.no/files/8082695) — MED
+- [MEDOD2 (ny) h2026 - uten svar.pdf](https://mitt.uib.no/files/8082696) — MED
+- [MEDOD2 (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/8068332) — MED
+- [MEDOD2 (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/8068333) — MED
+- [MEDOD2 v2016 - med svar.pdf](https://mitt.uib.no/files/455934) — MED
+- [MEDOD2 v2016 - uten svar.pdf](https://mitt.uib.no/files/696906) — MED
+- [MEDOD2 v2017 - med svar.pdf](https://mitt.uib.no/files/862614) — MED
+- [MEDOD2 v2017 - uten svar .pdf](https://mitt.uib.no/files/686606) — MED
+- [MEDOD2 v2018 - med svar.pdf](https://mitt.uib.no/files/1169706) — MED
+- [MEDOD2 v2018 - uten svar.pdf](https://mitt.uib.no/files/1556341) — MED
+- [MEDOD2 v2019 - med svar.pdf](https://mitt.uib.no/files/2350218) — MED
+- [MEDOD2 v2019 - uten svar.pdf](https://mitt.uib.no/files/2350222) — MED
+- [MEDOD2 v2020 - med svar.pdf](https://mitt.uib.no/files/2599690) — MED
+- [MEDOD2 v2020 - uten svar.pdf](https://mitt.uib.no/files/2599689) — MED
+- [MEDOD2 v2021 - uten svar.pdf](https://mitt.uib.no/files/3419277) — MED
+- [MEDOD2 v2022 - med svar.pdf](https://mitt.uib.no/files/5059302) — MED
+- [MEDOD2 v2022 - uten svar.pdf](https://mitt.uib.no/files/5059295) — MED
+- [MEDOD2 v2023 - med svar.pdf](https://mitt.uib.no/files/5194536) — MED
+- [MEDOD2 v2023 - uten svar.pdf](https://mitt.uib.no/files/5194535) — MED
+- [MEDOD2 v2024 - med svar.pdf](https://mitt.uib.no/files/5945914) — MED
+- [MEDOD2 v2024 - uten svar.pdf](https://mitt.uib.no/files/5945915) — MED
+- [MEDOD2 v2025 - med svar.pdf](https://mitt.uib.no/files/6815265) — MED
+- [MEDOD2 v2025 - uten svar.pdf](https://mitt.uib.no/files/6815266) — MED
+- [MEDOD2 v2026 - med svar.pdf](https://mitt.uib.no/files/7759896) — MED
+- [MEDOD2 v2026 - uten svar.pdf](https://mitt.uib.no/files/7759897) — MED
+- [MEDONT1  Sosial ulikhet  bruk av helstjenesten Høsten 2026 Øystein Hetlevik.pdf](https://mitt.uib.no/files/8091784) — MEDOD1
+- [MEDSTA_Eksamensoppgave_vaaren_2015_bokmaal__endelig_versjon.pdf](https://mitt.uib.no/files/17462) — MED
+- [MEDSTA_Eksamensoppgave_våren_2016_bokmål_ endelig versjon.pdf](https://mitt.uib.no/files/353726) — MED
+- [MEDSTA_Eksamensoppgave-vaaren2010nynorsk.doc](https://mitt.uib.no/files/17455) — MED
+- [MEDSTA_Eksamensoppgave-vaaren2013_v2_bokmaal.doc](https://mitt.uib.no/files/17459) — MED
+- [MEDSTA_EX_OPPG_V2012_3.doc](https://mitt.uib.no/files/17458) — MED
+- [medsta_fasit_2015.pdf](https://mitt.uib.no/files/17463) — MED
+- [MEDSTA_v11_-_bokmaal.pdf](https://mitt.uib.no/files/17457) — MED
+- [MEDSU ekstraordinært styremøte 04.12.22.docx](https://mitt.uib.no/files/5238443) — STUDENTUTVALG-MO
+- [MEDSU møte 27.02.23 - Referat.docx](https://mitt.uib.no/files/5238436) — STUDENTUTVALG-MO
+- [Midlertidig innkalling allmøte H25.docx](https://mitt.uib.no/files/7055498) — STUDENTUTVALG-HF
+- [midlertidig innkalling ekstraordinært allmøte H23 m vedlegg.pdf](https://mitt.uib.no/files/5457714) — STUDENTUTVALG-HF
+- [midlertidig innkalling ekstraordinært allmøte V24.pdf](https://mitt.uib.no/files/5658127) — STUDENTUTVALG-HF
+- [midlertidig innkalling ekstraordinært allmøte V24.pdf](https://mitt.uib.no/files/5658128) — STUDENTUTVALG-HF
+- [Midlertidig innkalling ekstraordinært allmøte V25-1.pdf](https://mitt.uib.no/files/6611341) — STUDENTUTVALG-HF
+- [Midlertidig innkalling til Høstallmøte for Humanistisk Studentutvalg (1) (1) (1) (1).pdf](https://mitt.uib.no/files/8027569) — STUDENTUTVALG-HF
+- [midlertidig innkalling vårallmøte 2024 ENGLISH.pdf](https://mitt.uib.no/files/5861663) — STUDENTUTVALG-HF
+- [midlertidig innkalling vårallmøte 2024.pdf](https://mitt.uib.no/files/5861660) — STUDENTUTVALG-HF
+- [midlertidig innkalling vårallmøte 2024.pdf](https://mitt.uib.no/files/5861665) — STUDENTUTVALG-HF
+- [Mikr 2019.pdf](https://mitt.uib.no/files/3652854) — MED
+- [Mikr 2020.pdf](https://mitt.uib.no/files/3652857) — MED
+- [Mikr2013.pdf](https://mitt.uib.no/files/17234) — MED
+- [Mikr2014.pdf](https://mitt.uib.no/files/17235) — MED
+- [Mikr2015.pdf](https://mitt.uib.no/files/17236) — MED
+- [Mikr2016.pdf](https://mitt.uib.no/files/312341) — MED
+- [Mikr2017.pdf](https://mitt.uib.no/files/3652810) — MED
+- [Mikro 2016.pdf](https://mitt.uib.no/files/395336) — MED
+- [Mikro 2017.pdf](https://mitt.uib.no/files/395337) — MED
+- [Mikro 2018.pdf](https://mitt.uib.no/files/2233991) — MED
+- [Mikro 2019.pdf](https://mitt.uib.no/files/2233992) — MED
+- [Mikro 2020 ny.pdf](https://mitt.uib.no/files/4438974) — MED
+- [Mikro 2020.pdf](https://mitt.uib.no/files/4438973) — MED
+- [Mikro 2021.pdf](https://mitt.uib.no/files/4438976) — MED
+- [Mikro 2022 ny.pdf](https://mitt.uib.no/files/4438978) — MED
+- [Mikro 2022.pdf](https://mitt.uib.no/files/4438977) — MED
+- [Mikro_2013.pdf](https://mitt.uib.no/files/16887) — MED
+- [Mikro_2014.pdf](https://mitt.uib.no/files/16888) — MED
+- [Mikro_2015.pdf](https://mitt.uib.no/files/16889) — MED
+- [Mikrobiologi_UVI_Proteus mirabilis_Grewal_Final (002).pdf](https://mitt.uib.no/files/4184133) — MED
+- [Mikroillustrasjon-lymfeknuter.pdf](https://mitt.uib.no/files/4197767) — MED
+- [Miljøstøy_2026_PDF.pdf](https://mitt.uib.no/files/7983228) — MEDOD1
+- [mini-fak-kmd_44.jpg](https://mitt.uib.no/files/7815058) — DIGI101 — LOCKED
+- [Moduloversikt forside NO.png](https://mitt.uib.no/files/7815028) — DIGI101
+- [MOSEM Gruppe 14 høsten 2026.pdf](https://mitt.uib.no/files/7996208) — EXPHIL-MOSEM
+- [Musk.jpg](https://mitt.uib.no/files/7815042) — DIGI101
+- [Muskel-skjelett radiologi distal radiusfraktur_2020_Finale.pdf](https://mitt.uib.no/files/4787213) — MED
+- [Nasjonal veileder helsetjenestens organisering på skadested IS 2536.pdf](https://mitt.uib.no/files/7793855) — MEDOD1
+- [Navnelapp til stasjon trykk-volum sløyfe.docx](https://mitt.uib.no/files/5848757) — MED
+- [Nefro -  Kortsvaroppgave H- 19 -(med fasit).docx](https://mitt.uib.no/files/2051712) — MED
+- [Nefro -  Kortsvaroppgave H- 19 -(uten fasit).docx](https://mitt.uib.no/files/2051713) — MED
+- [NEV sensorveilednflervalgvår 2018 (6).pdf](https://mitt.uib.no/files/1365601) — MED
+- [Nevrotraumer for førsteårs 2019_PDF Sundstrøm.pdf](https://mitt.uib.no/files/7793848) — MEDOD1
+- [NEWS.pdf](https://mitt.uib.no/files/7793861) — MEDOD1
+- [NOflagg.jpg](https://mitt.uib.no/files/7201) — Institutt for biomedisin
+- [NOM (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599725) — MED
+- [NOM (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599726) — MED
+- [NOM (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/5194596) — MED
+- [NOM (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/5194595) — MED
+- [NOM (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/6943633) — MED
+- [NOM (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/6943632) — MED
+- [NOM h2017 - med svar.pdf](https://mitt.uib.no/files/1424543) — MED
+- [NOM h2017 - uten svar.pdf](https://mitt.uib.no/files/1424544) — MED
+- [NOM h2018 - med svar.pdf](https://mitt.uib.no/files/2162530) — MED
+- [NOM h2018 - uten svar.pdf](https://mitt.uib.no/files/2162531) — MED
+- [NOM h2019 - med svar.pdf](https://mitt.uib.no/files/2599717) — MED
+- [NOM h2019 - uten svar.pdf](https://mitt.uib.no/files/2599718) — MED
+- [NOM h2021 - med svar.pdf](https://mitt.uib.no/files/5194592) — MED
+- [NOM h2021 - uten svar.pdf](https://mitt.uib.no/files/5194591) — MED
+- [NOM h2022 - med svar.pdf](https://mitt.uib.no/files/5194594) — MED
+- [NOM h2022 - uten svar.pdf](https://mitt.uib.no/files/5194593) — MED
+- [NOM h2024 - med svar.pdf](https://mitt.uib.no/files/6581664) — MED
+- [NOM h2024 - uten svar.pdf](https://mitt.uib.no/files/6581665) — MED
+- [NOM_-_Ny_eksamen_-_25._februar_2009_-_Bokmaal-2.pdf](https://mitt.uib.no/files/16786) — MED
+- [NOM_-_Ny_eksamen_-_25._februar_2009_-_Bokmaal-2.pdf](https://mitt.uib.no/files/17161) — MED
+- [NOM_(ny)_v2011_bm.pdf](https://mitt.uib.no/files/16790) — MED
+- [NOM_(ny)_v2011_bm.pdf](https://mitt.uib.no/files/17165) — MED
+- [NOM_(ny)_v2012.pdf](https://mitt.uib.no/files/16791) — MED
+- [NOM_(ny)_v2013_bm.pdf](https://mitt.uib.no/files/17168) — MED
+- [NOM_av_10.03.08_Bm.versj.PDF](https://mitt.uib.no/files/16784) — MED
+- [NOM_av_10.03.08_Bm.versj.PDF](https://mitt.uib.no/files/17159) — MED
+- [NOM_av_3.10.2008_Bokmaal_.PDF](https://mitt.uib.no/files/16785) — MED
+- [NOM_av_3.10.2008_Bokmaal_.PDF](https://mitt.uib.no/files/17160) — MED
+- [NOM_av_5.10.07_bm._versjon.PDF](https://mitt.uib.no/files/16783) — MED
+- [NOM_h2009_bm.pdf](https://mitt.uib.no/files/16787) — MED
+- [NOM_h2009_bm.pdf](https://mitt.uib.no/files/17162) — MED
+- [NOM_h2010_bm.pdf](https://mitt.uib.no/files/16788) — MED
+- [NOM_h2010_bm.pdf](https://mitt.uib.no/files/17163) — MED
+- [NOM_h2012_bm.pdf](https://mitt.uib.no/files/16792) — MED
+- [NOM_h2012_bm.pdf](https://mitt.uib.no/files/17166) — MED
+- [NOM_h2013_bm.pdf](https://mitt.uib.no/files/17169) — MED
+- [NOM_v2010_ny_bm.pdf](https://mitt.uib.no/files/16789) — MED
+- [NOM_v2010_ny_bm.pdf](https://mitt.uib.no/files/17164) — MED
+- [Norway_Programme HF Masterclass-final.pdf](https://mitt.uib.no/files/3954601) — PRMEDISIN
+- [Note 12 Oct 2026.pdf](https://mitt.uib.no/files/8161651) — MEDOD1
+- [NRR_Guidelines_2021_Basal_HLR_til_barn_oppdatert_januar_2023.pdf](https://mitt.uib.no/files/7794148) — MEDOD1
+- [NRR_Guidelines_2021_Grunnleggende_HLR_voksne_oppdatert_januar 2023.pdf](https://mitt.uib.no/files/7794149) — MEDOD1
+- [NRR_Guidelines_2021_Systemer_som_redder_liv.pdf](https://mitt.uib.no/files/7794150) — MEDOD1
+- [NRR_og_NFR_Guidelines_2021_Generell_forstehjelp.pdf](https://mitt.uib.no/files/7794151) — MEDOD1
+- [NUCLI 352 Eksamen 2013 bokmål.pdf](https://mitt.uib.no/files/19127) — MED
+- [Nucli_352_høst_12_Eksamen_bokmål_med_sensorveiledning.pdf](https://mitt.uib.no/files/19131) — MED
+- [NUCLI351_eksamen_bokmaal_H14.docx](https://mitt.uib.no/files/17134) — MED
+- [NUCLI352 h14 eksamen m vedlegg.pdf](https://mitt.uib.no/files/20370) — MED
+- [NUCLI352 Høst 2014 med sensorveiledning.doc](https://mitt.uib.no/files/22448) — MED
+- [NUCLI352 vår 2017 med Sensorveiledning.pdf](https://mitt.uib.no/files/514525) — MED
+- [NUCLI352_2013_vedlegg.pdf](https://mitt.uib.no/files/21024) — MED
+- [NUCLI352ny høst 2017 oppgavesett med fasit.pdf](https://mitt.uib.no/files/514516) — MED
+- [NUTR115_eksamensoppgaver_h14.docx](https://mitt.uib.no/files/16795) — MED
+- [NUTR150 Eksamen H19 med fasit.pdf](https://mitt.uib.no/files/2118315) — MED
+- [NUTR150 Eksamen H19 uten fasit.pdf](https://mitt.uib.no/files/2118316) — MED
+- [NUTR150 Eksamen H19-Sensorveiledning kortsvar.docx](https://mitt.uib.no/files/2118314) — MED
+- [NUTR150 eksamen sensorveileder Sept 2014 JRA.docx](https://mitt.uib.no/files/1640312) — MED
+- [NUTR150 Eksamen V19-Sensorveiledning kortsvar .docx](https://mitt.uib.no/files/1837994) — MED
+- [NUTR150 Eksamen V20 med fasit.pdf](https://mitt.uib.no/files/2564698) — MED
+- [NUTR150 Eksamen V20 uten fasit.pdf](https://mitt.uib.no/files/2564699) — MED
+- [NUTR150 Eksamen V20-Sensorveiledning kortsvar .pdf](https://mitt.uib.no/files/2564700) — MED
+- [NUTR150 Eksamen V21-med fasit.pdf](https://mitt.uib.no/files/3710041) — MED
+- [NUTR150 Eksamen V21-Sensorveiledning.pdf](https://mitt.uib.no/files/3560547) — MED
+- [NUTR150 Eksamen V21-uten fasit.pdf](https://mitt.uib.no/files/3560555) — MED
+- [NUTR150 Eksamen V22-med fasit.pdf](https://mitt.uib.no/files/4294516) — MED
+- [NUTR150 Eksamen V22-uten fasit.pdf](https://mitt.uib.no/files/4294517) — MED
+- [NUTR150 Eksamen vår 2014 bokmål.pdf](https://mitt.uib.no/files/34330) — MED
+- [NUTR150 Exam V21-with solutions.pdf](https://mitt.uib.no/files/3560556) — MED
+- [NUTR150 Exam V21-without solutions.pdf](https://mitt.uib.no/files/3560557) — MED
+- [NUTR150 Exam V22-with solutions.pdf](https://mitt.uib.no/files/4294518) — MED
+- [NUTR150 Exam V22-without solutions.pdf](https://mitt.uib.no/files/4294519) — MED
+- [NUTR150 Kontinuasjonseksamen høst 2014 bokmål.pdf](https://mitt.uib.no/files/34331) — MED
+- [NUTR150 Rapport V21-Sensorveiledning.pdf](https://mitt.uib.no/files/3560543) — MED
+- [NUTR150_Eksamen_vår2013_.pdf](https://mitt.uib.no/files/34329) — MED
+- [NUTR150_vår2015_bokmål.pdf](https://mitt.uib.no/files/34332) — MED
+- [NUTR230 H19-Sensorveiledning.pdf](https://mitt.uib.no/files/2034146) — MED
+- [NUTR230 Sensorveiledning H2024.pdf](https://mitt.uib.no/files/6289836) — MED
+- [NUTR240 eksamensoppgaver 2016.pdf](https://mitt.uib.no/files/613987) — MED
+- [NUTR240_EKSAMENSOPPG_2015_bokmål_utkast.doc](https://mitt.uib.no/files/613988) — MED
+- [NUTR240_EKSAMENSOPPG_høst2013_bokmål.doc](https://mitt.uib.no/files/613990) — MED
+- [NUTR240_EKSAMENSOPPG_vår2014_bokmål.doc](https://mitt.uib.no/files/613989) — MED
+- [NUTR244 H2024 sensor veiledning.pdf](https://mitt.uib.no/files/6538705) — MED
+- [NUTRANA (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/2148117) — MED
+- [NUTRANA (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/2148118) — MED
+- [NUTRANA_2012_veiledning.doc](https://mitt.uib.no/files/16796) — MED
+- [NUTRFYS (ny) v2016 bm.docx](https://mitt.uib.no/files/202086) — MED
+- [NUTRFYS (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/1576594) — MED
+- [NUTRFYS (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/1576593) — MED
+- [NUTRFYS (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599693) — MED
+- [NUTRFYS (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599694) — MED
+- [NUTRFYS (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/4155403) — MED
+- [NUTRFYS (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/4155404) — MED
+- [NUTRFYS (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/6423410) — MED
+- [NUTRFYS (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/6423411) — MED
+- [NUTRFYS (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/6315442) — MED
+- [NUTRFYS (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/6315443) — MED
+- [NUTRFYS (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/6943664) — MED
+- [NUTRFYS (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/6943663) — MED
+- [NUTRFYS (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7613198) — MED
+- [NUTRFYS (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7613197) — MED
+- [NUTRFYS ekstra eksamen v2021 - med svar.pdf](https://mitt.uib.no/files/3365610) — MED
+- [NUTRFYS ekstra eksamen v2021 - uten svar.pdf](https://mitt.uib.no/files/3365609) — MED
+- [NUTRFYS h2017 - med svar.pdf](https://mitt.uib.no/files/1288506) — MED
+- [NUTRFYS h2017 - uten svar.pdf](https://mitt.uib.no/files/1288507) — MED
+- [NUTRFYS h2018 - med svar.pdf](https://mitt.uib.no/files/1427803) — MED
+- [NUTRFYS h2018 - uten svar.pdf](https://mitt.uib.no/files/1427802) — MED
+- [NUTRFYS h2019 - med svar.pdf](https://mitt.uib.no/files/2179751) — MED
+- [NUTRFYS h2019 - uten svar.pdf](https://mitt.uib.no/files/2179752) — MED
+- [NUTRFYS h2020 - med svar.pdf](https://mitt.uib.no/files/3047907) — MED
+- [NUTRFYS h2020 - uten svar.pdf](https://mitt.uib.no/files/3047908) — MED
+- [NUTRFYS h2021 - med svar.pdf](https://mitt.uib.no/files/3917872) — MED
+- [NUTRFYS h2021 - uten svar.pdf](https://mitt.uib.no/files/3917871) — MED
+- [NUTRFYS h2022 - med svar.pdf](https://mitt.uib.no/files/6440344) — MED
+- [NUTRFYS h2022 - uten svar.pdf](https://mitt.uib.no/files/6440345) — MED
+- [NUTRFYS h2023 - med svar.pdf](https://mitt.uib.no/files/6315385) — MED
+- [NUTRFYS h2023 - uten svar.pdf](https://mitt.uib.no/files/6315386) — MED
+- [NUTRFYS h2024 - med svar.pdf](https://mitt.uib.no/files/6474880) — MED
+- [NUTRFYS h2024 - uten svar.pdf](https://mitt.uib.no/files/6474879) — MED
+- [NUTRFYS h2025 - med svar.pdf](https://mitt.uib.no/files/7373319) — MED
+- [NUTRFYS h2025 - uten svar.pdf](https://mitt.uib.no/files/7373320) — MED
+- [NUTRFYS Sensorveiledning langsvarsoppgaver h2018.pdf](https://mitt.uib.no/files/1427801) — MED
+- [Ny eksamen vår 2019 sensorveiledning.pdf](https://mitt.uib.no/files/4915545) — MED
+- [NY smågrupper til miljømedisin M7til M12.pdf](https://mitt.uib.no/files/7989137) — MEDOD1
+- [Nyhetsmedier banner DIGI101.png](https://mitt.uib.no/files/7815043) — DIGI101
+- [Nyrepreparat-1.pdf](https://mitt.uib.no/files/4183749) — MED
+- [Obst Konte MED 9 7th of March 2025.docx](https://mitt.uib.no/files/7688729) — MED
+- [Obst short questions.docx](https://mitt.uib.no/files/5116010) — MED
+- [OBT-Kortsvarsoppgave 291122.docx](https://mitt.uib.no/files/4781627) — MED
+- [OD1ANA (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/1165119) — MED
+- [OD1ANA (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/1168837) — MED
+- [OD1ANA (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/6445190) — MED
+- [OD1ANA (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/6445189) — MED
+- [OD1ANA h2017 - med svar.pdf](https://mitt.uib.no/files/1168869) — MED
+- [OD1ANA h2017 - uten svar.pdf](https://mitt.uib.no/files/1168870) — MED
+- [OD1ANA_(ny)_(skriftlig)_v2012_bm.doc](https://mitt.uib.no/files/17180) — MED
+- [OD1ANA_(ny)_skriftlig_v2011.doc](https://mitt.uib.no/files/17176) — MED
+- [OD1ANA_(skriftlig)_h2010_bm.doc](https://mitt.uib.no/files/17174) — MED
+- [OD1ANA_(skriftlig)_h2011_bm.doc](https://mitt.uib.no/files/17177) — MED
+- [OD1ANA_h2009_bm.pdf](https://mitt.uib.no/files/17172) — MED
+- [OD1ANA_praktisk_v2010_ny_bm.pdf](https://mitt.uib.no/files/17175) — MED
+- [OD1ANA_Skriftlig_11.02.09.pdf](https://mitt.uib.no/files/17173) — MED
+- [OD1ANA2012_skrift_veiledning7.1.13.doc](https://mitt.uib.no/files/17179) — MED
+- [OD1FYS (ny) v2016 bm.docx](https://mitt.uib.no/files/202088) — MED
+- [OD1FYS (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/1168857) — MED
+- [OD1FYS (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/1168858) — MED
+- [OD1FYS (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/1576567) — MED
+- [OD1FYS (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/1576568) — MED
+- [OD1FYS (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599691) — MED
+- [OD1FYS (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599692) — MED
+- [OD1FYS (ny) v2021 - med svar.pdf](https://mitt.uib.no/files/3488801) — MED
+- [OD1FYS (ny) v2021 - uten svar.pdf](https://mitt.uib.no/files/3488800) — MED
+- [OD1FYS h2016 bm.docx](https://mitt.uib.no/files/573581) — MED
+- [OD1FYS h2017 - med svar.pdf](https://mitt.uib.no/files/1168859) — MED
+- [OD1FYS h2017 - uten svar.pdf](https://mitt.uib.no/files/1168860) — MED
+- [OD1FYS h2018 - med svar.pdf](https://mitt.uib.no/files/1427791) — MED
+- [OD1FYS h2018 - uten svar.pdf](https://mitt.uib.no/files/1427790) — MED
+- [OD1FYS h2019 - med svar.pdf](https://mitt.uib.no/files/2179776) — MED
+- [OD1FYS h2019 - uten svar.pdf](https://mitt.uib.no/files/2179777) — MED
+- [OD1FYS h2020 - med svar.pdf](https://mitt.uib.no/files/3017824) — MED
+- [OD1FYS h2020 - uten svar.pdf](https://mitt.uib.no/files/3017825) — MED
+- [OD1FYS Sensorveiledning  langsvarsoppgaver h2018.pdf](https://mitt.uib.no/files/1427789) — MED
+- [OD1FYS___HUB210,_09._februar_2009_-_Bokmaal.pdf](https://mitt.uib.no/files/17194) — MED
+- [OD1FYS_(ny)_v2011_bm.doc](https://mitt.uib.no/files/17197) — MED
+- [OD1FYS_2008_bm.pdf](https://mitt.uib.no/files/17192) — MED
+- [OD1FYS_h2009_bm.pdf](https://mitt.uib.no/files/17193) — MED
+- [OD1FYS_h2010_bm.doc](https://mitt.uib.no/files/17195) — MED
+- [OD1FYS_h2011_bm.pdf](https://mitt.uib.no/files/17198) — MED
+- [OD1FYS_v2010_ny_bm.pdf](https://mitt.uib.no/files/17196) — MED
+- [OD1FYS,_Farm280,_BMED252_bokmaal_2012.doc](https://mitt.uib.no/files/17202) — MED
+- [OD1FYS,_Farm280,_BMED252_bokmaal_2012.doc](https://mitt.uib.no/files/17395) — MED
+- [OD1FYS05_-_fysiolog_av_20_februar_2007_bm._versj.doc](https://mitt.uib.no/files/17189) — MED
+- [OD1FYS05_-_fysiolog_av_bm._versj._11.12.06_.doc](https://mitt.uib.no/files/17187) — MED
+- [OD1FYS05_av_11_juni_2007_bm._versj.pdf](https://mitt.uib.no/files/17188) — MED
+- [OD1FYS06___HUB210_av_10.12.2007_bokmaal.pdf](https://mitt.uib.no/files/17190) — MED
+- [OD1FYS06_HUB210_av_11.02.08_bm._versj.pdf](https://mitt.uib.no/files/17191) — MED
+- [OD1KRO98Mfysiologi16082005.pdf](https://mitt.uib.no/files/17381) — MED
+- [OD1ORBI05_-_Ny_eksamen_av_06._juni_2007_-_Bokmaal.pdf](https://mitt.uib.no/files/17211) — MED
+- [OD1ORBI05_av_05._mars_2007_-_Bokmaal.pdf](https://mitt.uib.no/files/17212) — MED
+- [OD1ORBI2_-_Ny_eksamen_av_04.juni_2008_-_Bokmaal.PDF](https://mitt.uib.no/files/17213) — MED
+- [OD1ORBI2_-_vaar_09_av_2.3._2009_Bokmaal.pdf](https://mitt.uib.no/files/17216) — MED
+- [OD1ORBI2_(Ny_Eksamen)_av_15._juni_2009_-_Bokmaal.doc](https://mitt.uib.no/files/17215) — MED
+- [OD1ORBI2_(ny)_v2011_bm.doc](https://mitt.uib.no/files/17219) — MED
+- [OD1ORBI2_av_03._mars_2008_-_Bokmaal.pdf](https://mitt.uib.no/files/17214) — MED
+- [OD1ORBI2_v2010_bm.pdf](https://mitt.uib.no/files/17217) — MED
+- [OD1ORBI2_v2010_ny_bm.pdf](https://mitt.uib.no/files/17218) — MED
+- [OD1ORBI2_v2011_bm.doc](https://mitt.uib.no/files/17220) — MED
+- [OD1ORBI2_v2012_bm.pdf](https://mitt.uib.no/files/17221) — MED
+- [OD2ANA (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/6445186) — MED
+- [OD2ANA (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/6445185) — MED
+- [OD2ANA (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/6445188) — MED
+- [OD2ANA (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/6445187) — MED
+- [OD2ANA (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/6943648) — MED
+- [OD2ANA (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/6943647) — MED
+- [OD2ANA (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7685006) — MED
+- [OD2ANA (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7685007) — MED
+- [OD2ANA h2023 - med svar.pdf](https://mitt.uib.no/files/6445184) — MED
+- [OD2ANA h2023 - uten svar.pdf](https://mitt.uib.no/files/6445183) — MED
+- [OD2ANA h2024 - med svar.pdf](https://mitt.uib.no/files/6510881) — MED
+- [OD2ANA h2024 - uten svar.pdf](https://mitt.uib.no/files/6510880) — MED
+- [OD2ANA h2025 - med svar.pdf](https://mitt.uib.no/files/7347125) — MED
+- [OD2ANA h2025 - uten svar.pdf](https://mitt.uib.no/files/7347124) — MED
+- [od2bim vår 22.pdf](https://mitt.uib.no/files/4403234) — MED
+- [OD2BIM2015.pdf](https://mitt.uib.no/files/662732) — MED
+- [OD2BM VÅR 2022.pdf](https://mitt.uib.no/files/4403193) — MED
+- [OD2FYS (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/4155390) — MED
+- [OD2FYS (ny) v2022 - med svar.pdf](https://mitt.uib.no/files/4741438) — MED
+- [OD2FYS (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/4155389) — MED
+- [OD2FYS (ny) v2022 - uten svar.pdf](https://mitt.uib.no/files/4741428) — MED
+- [OD2FYS (ny) v2023 - med svar.pdf](https://mitt.uib.no/files/6423406) — MED
+- [OD2FYS (ny) v2023 - uten svar.pdf](https://mitt.uib.no/files/6423407) — MED
+- [OD2FYS (ny) v2024 - med svar.pdf](https://mitt.uib.no/files/6315439) — MED
+- [OD2FYS (ny) v2024 - uten svar.pdf](https://mitt.uib.no/files/6315440) — MED
+- [OD2FYS (ny) v2025 - med svar.pdf](https://mitt.uib.no/files/6943650) — MED
+- [OD2FYS (ny) v2025 - uten svar.pdf](https://mitt.uib.no/files/6943649) — MED
+- [OD2FYS (ny) v2026 - med svar.pdf](https://mitt.uib.no/files/7613205) — MED
+- [OD2FYS (ny) v2026 - uten svar.pdf](https://mitt.uib.no/files/7613204) — MED
+- [OD2FYS h2021 - med svar.pdf](https://mitt.uib.no/files/3917870) — MED
+- [OD2FYS h2021 - med svar.pdf](https://mitt.uib.no/files/4702581) — MED
+- [OD2FYS h2021 - uten svar.pdf](https://mitt.uib.no/files/3917869) — MED
+- [OD2FYS h2021 - uten svar.pdf](https://mitt.uib.no/files/4702588) — MED
+- [OD2FYS h2022 - med svar.pdf](https://mitt.uib.no/files/6440351) — MED
+- [OD2FYS h2022 - uten svar.pdf](https://mitt.uib.no/files/6440350) — MED
+- [OD2FYS h2023 - med svar.pdf](https://mitt.uib.no/files/6315390) — MED
+- [OD2FYS h2023 - uten svar.pdf](https://mitt.uib.no/files/6315391) — MED
+- [OD2FYS h2024 - med svar.pdf](https://mitt.uib.no/files/6510681) — MED
+- [OD2FYS h2024 - uten svar.pdf](https://mitt.uib.no/files/6510680) — MED
+- [OD2FYS h2025 - med svar.pdf](https://mitt.uib.no/files/7373328) — MED
+- [OD2FYS h2025 - uten svar.pdf](https://mitt.uib.no/files/7373329) — MED
+- [od2mikrh12.pdf](https://mitt.uib.no/files/17237) — MED
+- [OD2PATI 2016.pdf](https://mitt.uib.no/files/312343) — MED
+- [OD2PATI 2017.pdf](https://mitt.uib.no/files/384871) — MED
+- [OD2PATI 2018.pdf](https://mitt.uib.no/files/1592411) — MED
+- [OD2PATI 2020.pdf](https://mitt.uib.no/files/2711018) — MED
+- [OD2PATI NY HØST 21.pdf](https://mitt.uib.no/files/4107391) — MED
+- [OD2PATI vår 2021 nyorsk.pdf](https://mitt.uib.no/files/3403956) — MED
+- [OD2PATI vår 2021bokmå.pdf](https://mitt.uib.no/files/3403955) — MED
+- [OD2PATI_2014.pdf](https://mitt.uib.no/files/17244) — MED
+- [OD2PATI_2015.pdf](https://mitt.uib.no/files/17245) — MED
+- [OD2PATI2019.pdf](https://mitt.uib.no/files/2366732) — MED
+- [OD2PATIM eksamensoppgaver VÅR 23  med sensorveiledning_.pdf](https://mitt.uib.no/files/5321301) — MED
+- [OD2PATIM V23.pdf](https://mitt.uib.no/files/5297506) — MED
+- [OD2PATIM2022.pdf](https://mitt.uib.no/files/4920896) — MED
+- [OD2PATIMNYH22.pdf](https://mitt.uib.no/files/4920900) — MED
+- [OD2PATIny2018.pdf](https://mitt.uib.no/files/3215012) — MED
+- [od2patiny2019.pdf](https://mitt.uib.no/files/3215010) — MED
+- [OD2PATINYHØST2020.pdf](https://mitt.uib.no/files/2711019) — MED
+- [OD2RØN 2016_sensorveiledning (002).pdf](https://mitt.uib.no/files/2848745) — MED
+- [OD2RØN 2017_sensorveiledning.pdf](https://mitt.uib.no/files/2848746) — MED
+- [OD2RØN 2018_sensorveiledning (002).pdf](https://mitt.uib.no/files/2848747) — MED
+- [OD2RØN 2019_sensorveiledning (002).pdf](https://mitt.uib.no/files/2848749) — MED
+- [OD2RØN 2021_sensorveiledning.pdf](https://mitt.uib.no/files/5528053) — MED
+- [od2røn 2021.pdf](https://mitt.uib.no/files/4691979) — MED
+- [OD3ALM VÅR 20 med sensorveiledning.pdf](https://mitt.uib.no/files/3371313) — MED
+- [od3farma 2024.pdf](https://mitt.uib.no/files/7190619) — MED
+- [OD3FARMA HØST 2024.docx](https://mitt.uib.no/files/7309767) — MED
+- [OD3FARMA høst 2025 med fasit.docm](https://mitt.uib.no/files/7418778) — MED
+- [OD3FARMA NY 2023.pdf](https://mitt.uib.no/files/7482961) — MED
+- [OD3FARMA NY 2024.pdf](https://mitt.uib.no/files/7482963) — MED
+- [OD3FARMA NY 2025 MED FASIT.pdf](https://mitt.uib.no/files/7530318) — MED
+- [OD3FARMA NY 2025.pdf](https://mitt.uib.no/files/7482965) — MED
+- [OD3KARIO 2024.pdf](https://mitt.uib.no/files/6836138) — MED
+- [OD3KARIOVÅR23.pdf](https://mitt.uib.no/files/5878242) — MED
+- [OD3KJE VÅR 2021.pdf](https://mitt.uib.no/files/4772583) — MED
+- [OD3KJE VÅR 2022.pdf](https://mitt.uib.no/files/4772586) — MED
+- [od3kosv5vår23.pdf](https://mitt.uib.no/files/5877891) — MED
+- [OD3KOSVÅR24.pdf](https://mitt.uib.no/files/6267738) — MED
+- [OD3PERIO 2026.pdf](https://mitt.uib.no/files/7979200) — MED
+- [OD3PERIO 25 uten bilder uten oppgaver med bilder i.pdf](https://mitt.uib.no/files/7781302) — MED
+- [OD3PERIO23 utenbilder uten oppgaver med bilder i.pdf](https://mitt.uib.no/files/7781301) — MED
+- [OD3PERIOVÅR24.pdf](https://mitt.uib.no/files/6152405) — MED
+- [OD3PROT 2023.pdf](https://mitt.uib.no/files/7431470) — MED
+- [OD3PROT 2024.pdf](https://mitt.uib.no/files/7431471) — MED
+- [OD3PROT 2025.pdf](https://mitt.uib.no/files/7431472) — MED
+- [OD3RØNT 2023_sensorveiledning.pdf](https://mitt.uib.no/files/6359386) — MED
+- [OD3RØNT 2024_sensorveiledning_rev.pdf](https://mitt.uib.no/files/7323625) — MED
+- [OD3RØNT 2024.pdf](https://mitt.uib.no/files/7109389) — MED
+- [OD4BARN_vår2026_sensorveiledning.pdf](https://mitt.uib.no/files/7853019) — MED
+- [OD4ENDO H25 uten multiple choice oppgaver oppgaver.pdf](https://mitt.uib.no/files/8192974) — MED
+- [OD4KJEVE 2023.pdf](https://mitt.uib.no/files/8129149) — MED
+- [OD4KJEVE 2024.pdf](https://mitt.uib.no/files/8129150) — MED
+- [OD4KJEVE 2025.pdf](https://mitt.uib.no/files/8129155) — MED
+- [OD4KJEVE23.pdf](https://mitt.uib.no/files/6438343) — MED
+- [OD4PROT 2024.pdf](https://mitt.uib.no/files/8169100) — MED
+- [OD4PROT 2025.pdf](https://mitt.uib.no/files/8169107) — MED
+- [OD4PROTH23.pdf](https://mitt.uib.no/files/6249765) — MED
+- [OD5KOS 2025.Sensorveiledning.pdf](https://mitt.uib.no/files/7442132) — MED
+- [od5kos høst 24.pdf](https://mitt.uib.no/files/7186364) — MED
+- [OD5SAM HØST 24.pdf](https://mitt.uib.no/files/7323626) — MED
+- [OD5TEMA2025.pdf](https://mitt.uib.no/files/7653323) — MED
+- [Odontologi og samhandling.pdf](https://mitt.uib.no/files/7974015) — MEDOD1
+- [ODRØN3 sensurveiledning 2022.pdf](https://mitt.uib.no/files/5528054) — MED
+- [Om_aa_vaere_kulltillitsvalgt_paa_MOF.pdf](https://mitt.uib.no/files/21139) — MED
+- [Omtenta_BMED330_sensorv,_v2.doc](https://mitt.uib.no/files/17076) — MED
+- [ØNH - Akutt vertigo.docx](https://mitt.uib.no/files/4289467) — MED
+- [ØNH Eksamensoppgaver Kortsvar Kont Sept 2022.pdf](https://mitt.uib.no/files/5515807) — MED
+- [ØNH juni 2018 sensorveiledning](https://mitt.uib.no/files/1324582) — MED
+- [ØNH_Akutt vertigo190412.docx](https://mitt.uib.no/files/3191868) — PRMEDISIN
+- [ØNH_Akutt vertigo190412.docx](https://mitt.uib.no/files/3192894) — MED
+- [ONKO_Lymfom_endelig190418.docx](https://mitt.uib.no/files/3191869) — PRMEDISIN
+- [ONKO_Lymfom_endelig190418.docx](https://mitt.uib.no/files/3192895) — MED
+- [Oppgave 1 - kognitiv atferdsterapi .docx](https://mitt.uib.no/files/4780648) — MED
+- [Oppgave 1 allmennmedisin - ryggsmerter.docx](https://mitt.uib.no/files/5129514) — MED
+- [Oppgave 10 - nakkeundersøkelse.docx](https://mitt.uib.no/files/4780655) — MED
+- [Oppgave 10 allmennmedisin - livmorhalsprøve.docx](https://mitt.uib.no/files/5129521) — MED
+- [Oppgave 11 - hematologi - Dyp vene trombose.docx](https://mitt.uib.no/files/5129522) — MED
+- [Oppgave 11 - hoste.docx](https://mitt.uib.no/files/4780656) — MED
+- [Oppgave 2 - brystsmerter.docx](https://mitt.uib.no/files/4780649) — MED
+- [Oppgave 2 - infeksjon - feber og hodepine.docx](https://mitt.uib.no/files/5129515) — MED
+- [Oppgave 3 - bittskade.docx](https://mitt.uib.no/files/4780650) — MED
+- [Oppgave 3 - nevrologi - Multippel sklerose.docx](https://mitt.uib.no/files/5129516) — MED
+- [Oppgave 5 - anestesi - Postoperativ forverring på post.docx](https://mitt.uib.no/files/5129517) — MED
+- [Oppgave 5 - SAH .docx](https://mitt.uib.no/files/4780651) — MED
+- [Oppgave 6 - hud - urtikaria.docx](https://mitt.uib.no/files/5129518) — MED
+- [Oppgave 6- gallestein.docx](https://mitt.uib.no/files/4780652) — MED
+- [Oppgave 7 - ketoacidose.docx](https://mitt.uib.no/files/4780653) — MED
+- [Oppgave 7 - torakskirurgi - innlagt veneport og pneumothorax .docx](https://mitt.uib.no/files/5129519) — MED
+- [Oppgave 9 - psykiatri - alvorlig depresjon .docx](https://mitt.uib.no/files/5129520) — MED
+- [Oppgave 9 - utslett øyelokk.docx](https://mitt.uib.no/files/4780654) — MED
+- [Oppgave er levert av medstudent-1.docx](https://mitt.uib.no/files/8096339) — Personal files
+- [Oppgave er levert av medstudent.docx](https://mitt.uib.no/files/8060637) — Personal files
+- [Oppgavene MED9 H23 MCQ-fasit.pdf](https://mitt.uib.no/files/5581605) — MED
+- [Oppgavene MED9 H23 uten fasit.pdf](https://mitt.uib.no/files/5581614) — MED
+- [Oppgavene MED9 V24 med fasit.pdf](https://mitt.uib.no/files/6000887) — MED
+- [Oppgavene MED9 V24 uten fasit.pdf](https://mitt.uib.no/files/6000886) — MED
+- [Oppgaver eksamen INT302 H20211206.docx](https://mitt.uib.no/files/4686919) — MED
+- [Oppgaver konte h2023 131 oppgaver uten fasitpdf](https://mitt.uib.no/files/5945605) — MED
+- [Oppgaver_Aldehyder_og_Ketoner.pdf](https://mitt.uib.no/files/8156662) — MEDOD1
+- [Oppgaver_Alkoholer_Fenoler_Etere.pdf](https://mitt.uib.no/files/8156711) — MEDOD1
+- [Oppgaver_Karboksylsyrer_Estere_Amider.pdf](https://mitt.uib.no/files/8156716) — MEDOD1
+- [Oppgaver_SN1_SN2_E1_E2_med_losninger.pdf](https://mitt.uib.no/files/8122254) — MEDOD1
+- [Oppgaver_til_forlesning_OC1_IUPAC_Nomenklatur_Alkaner_Alkener_Alkiner.pdf](https://mitt.uib.no/files/8112302) — MEDOD1
+- [Oppgaver_til_forlesning_OC1_Organiske_Reaksjoner.pdf](https://mitt.uib.no/files/8112303) — MEDOD1
+- [Oppgavesett + Sensorveiledning, OD2ANA h2022.pdf](https://mitt.uib.no/files/4782030) — MED
+- [Oppgavesett 1-2026.pdf](https://mitt.uib.no/files/8017863) — MEDOD1
+- [Oppgavesett 4-2026.pdf](https://mitt.uib.no/files/8204427) — MEDOD1
+- [Oppgavesett 4-fasit-2026.pdf](https://mitt.uib.no/files/8204433) — MEDOD1
+- [Oppgavesett høst 2020 med fasit.pdf](https://mitt.uib.no/files/3344859) — MED
+- [Oppgavesett høst 2020 uten fasit.pdf](https://mitt.uib.no/files/3320575) — MED
+- [Oppgavesett konte h2022-med fasit.pdf](https://mitt.uib.no/files/4920489) — MED
+- [Oppgavesett konte h2022-uten fasit.pdf](https://mitt.uib.no/files/4920490) — MED
+- [Oppgavesett konte vår 2021.pdf](https://mitt.uib.no/files/4573501) — MED
+- [Oppgavesett med fasit h2021.pdf](https://mitt.uib.no/files/4573502) — MED
+- [Oppgavesett med fasit.pdf](https://mitt.uib.no/files/3942746) — MED
+- [Oppgavesett med fasit.pdf](https://mitt.uib.no/files/5133587) — MED
+- [Oppgavesett med svar (flervalgspørsmål) MED2 (ny) h2016.pdf](https://mitt.uib.no/files/862453) — MED
+- [Oppgavesett med svar (flervalgspørsmål) MED2 v2016.pdf](https://mitt.uib.no/files/862452) — MED
+- [Oppgavesett med svar (flervalgspørsmål) MED2 v2017.pdf](https://mitt.uib.no/files/862454) — MED
+- [Oppgavesett med svar.pdf](https://mitt.uib.no/files/5112245) — MED
+- [Oppgavesett MED12 vår 2020 - nynorsk.pdf](https://mitt.uib.no/files/2564607) — MED
+- [Oppgavesett MED7 høst 2021 med riktige svar.pdf](https://mitt.uib.no/files/4643034) — MED
+- [Oppgavesett MED7 vår 2020 med riktige svar.pdf](https://mitt.uib.no/files/4643032) — MED
+- [Oppgavesett NUCLI353 H19.pdf](https://mitt.uib.no/files/2204949) — MED
+- [Oppgavesett OD1ANA h2014 bm.docx](https://mitt.uib.no/files/573587) — MED
+- [Oppgavesett OD1FYS (ny) v2013 bm.docx](https://mitt.uib.no/files/573606) — MED
+- [Oppgavesett OD1FYS (ny) v2014 bm.docx](https://mitt.uib.no/files/573590) — MED
+- [Oppgavesett OD1FYS (ny) v2017 bm.docx](https://mitt.uib.no/files/573573) — MED
+- [Oppgavesett OD1FYS h2013 bm.docx](https://mitt.uib.no/files/573602) — MED
+- [Oppgavesett OD1FYS h2015 bm.docx](https://mitt.uib.no/files/577691) — MED
+- [oppgavesett OD2BM vår 23.pdf](https://mitt.uib.no/files/5973042) — MED
+- [Oppgavesett skriftlig skoleeksamen MED12 høst 2019.pdf](https://mitt.uib.no/files/2204932) — MED
+- [Oppgavesett uten fasit h2021.pdf](https://mitt.uib.no/files/4573503) — MED
+- [Oppgavesett uten fasit.pdf](https://mitt.uib.no/files/3942747) — MED
+- [Oppgavesett uten fasit.pdf](https://mitt.uib.no/files/5133588) — MED
+- [Oppgavesett v2020 med fasit.pdf](https://mitt.uib.no/files/2598737) — MED
+- [Oppgavesett v2020 uten fasit.pdf](https://mitt.uib.no/files/2598736) — MED
+- [Oppgavesett, OD1ANA (ny) v2019.pdf](https://mitt.uib.no/files/4614858) — MED
+- [Oppgavesett, OD1ANA (ny) v2021.pdf](https://mitt.uib.no/files/4614863) — MED
+- [Oppgavesett, OD1ANA h2019.pdf](https://mitt.uib.no/files/4614857) — MED
+- [Oppgavesett, OD2ANA (ny) v2022.pdf](https://mitt.uib.no/files/4614879) — MED
+- [Oppgavesett, OD2ANA h2021.pdf](https://mitt.uib.no/files/4614867) — MED
+- [oppgavesett2-2026-fasit.pdf](https://mitt.uib.no/files/8047656) — MEDOD1
+- [Oppgavesett2-2026.pdf](https://mitt.uib.no/files/8047637) — MEDOD1
+- [Oppgavesett3-2026-fasit.pdf](https://mitt.uib.no/files/8081616) — MEDOD1
+- [Oppgavesett3-2026.pdf](https://mitt.uib.no/files/8066331) — MEDOD1
+- [Oppstartsprogram_Medisin_August2026.pdf](https://mitt.uib.no/files/7896696) — MEDOD1
+- [Opptak_til_master_ved_HF.pptx](https://mitt.uib.no/files/310960) — HF
+- [Opptak_til_master_ved_HF.pptx](https://mitt.uib.no/files/311193) — HF
+- [Ordensregler for laboratoriet.pdf](https://mitt.uib.no/files/5240705) — MEDOD1
+- [Ordinæer H23 - kortsvar oppgavene med fasit.pdf](https://mitt.uib.no/files/5900070) — MED
+- [Ordinær - skriftlig eksamen med fasit.pdf](https://mitt.uib.no/files/4302491) — MED
+- [Ordinær - skriftlig eksamen uten fasit.pdf](https://mitt.uib.no/files/4302492) — MED
+- [Ordliste nomenklaturlære v25.pdf](https://mitt.uib.no/files/7794137) — MEDOD1
+- [Organic_Chemistry_Lecture_1.pdf](https://mitt.uib.no/files/8106129) — MEDOD1
+- [Organic_Chemistry_Lecture_2A_2.pdf](https://mitt.uib.no/files/8114132) — MEDOD1
+- [Organic_Chemistry_Lecture_2A_3.pdf](https://mitt.uib.no/files/8116857) — MEDOD1
+- [Organic_Chemistry_Lecture_2B_2.pdf](https://mitt.uib.no/files/8113994) — MEDOD1
+- [Organic_Chemistry_Lecture_2B_3.pdf](https://mitt.uib.no/files/8128218) — MEDOD1
+- [Organic_Chemistry_Lecture_3A.pdf](https://mitt.uib.no/files/8116858) — MEDOD1
+- [Organic_Chemistry_Lecture_3B.pdf](https://mitt.uib.no/files/8116859) — MEDOD1
+- [Organic_Chemistry_Lecture_4A_3.pdf](https://mitt.uib.no/files/8190320) — MEDOD1
+- [Organic_Chemistry_Lecture_4B.pdf](https://mitt.uib.no/files/8131296) — MEDOD1
+- [Organic_Chemistry_Lecture_5.pdf](https://mitt.uib.no/files/8135969) — MEDOD1
+- [Orientering MEDOD1 nov 2026.docx](https://mitt.uib.no/files/8161289) — MEDOD1
+- [Orienteringsmøte H2017_ferdig.pdf](https://mitt.uib.no/files/391770) — Institutt for filosofi og førstesemesterstudier
+- [ORT_Hoftebrudd-innkiltEndelig30.05.19.docx](https://mitt.uib.no/files/3191870) — PRMEDISIN
+- [ORT_Hoftebrudd-innkiltEndelig30.05.19.docx](https://mitt.uib.no/files/3192896) — MED
+- [Ortopedi - håndleddsbrudd .docx](https://mitt.uib.no/files/4289462) — MED
+- [Ortopedi_Kneundersøkelse_sekundær artrose 2024_sensorveiledning – Kopi.docx](https://mitt.uib.no/files/6023479) — MED
+- [Ortopedi_OSKE - Instabilitet_2023_05_08_Finale.docx](https://mitt.uib.no/files/5848758) — MED
+- [OSCE-6 Patologisk hjerte-2025.docx](https://mitt.uib.no/files/7366965) — MED
+- [OSCE-6 patologisk ventrikkel bilder (1).pptx](https://mitt.uib.no/files/4216121) — MED
+- [OSCE-6 Pediatri lengde og vekt.docx](https://mitt.uib.no/files/4839857) — MED
+- [OSCE-6_Delirium-kognitiv svikt-2018-04-26.docx](https://mitt.uib.no/files/4839663) — MED
+- [OSCE-6_EKG_tolkning-kotinuasjon_2023_03_01.docx](https://mitt.uib.no/files/5848759) — MED
+- [OSCE-6_Måling av blodtrykk.docx](https://mitt.uib.no/files/4839846) — MED
+- [OSCE-6_Revmatologi Leddstatus-2018-04-26-OK.docx](https://mitt.uib.no/files/4839669) — MED
+- [OSCE-6_Skulderus-OT-2018-04-26-OK.docx](https://mitt.uib.no/files/4839665) — MED
+- [OSCE-6_Tolkning av RYGGSTATUS_2018_høst.doc](https://mitt.uib.no/files/4839727) — MED
+- [OSKE 12 Leveropgave 71.pptx](https://mitt.uib.no/files/4289448) — MED
+- [OSKE 6  Nevrobiologi  presbyopi  2020_Finale.pdf](https://mitt.uib.no/files/4787214) — MED
+- [OSKE 6 - Mikrobiologi -  UVI Enterokokk.pdf](https://mitt.uib.no/files/4227119) — MED
+- [OSKE 6- Anestesi-Infusjon2021_Finale.pdf](https://mitt.uib.no/files/4787215) — MED
+- [OSKE 6- Ortopedi - Kneundersøkelse-Skade-Finale.pdf](https://mitt.uib.no/files/4838852) — MED
+- [OSKE 6-Ortopedi-Hofteundersøkelse-Sekvele lårhalsbrudd-2020_FINALE.docx](https://mitt.uib.no/files/6826595) — MED
+- [OSKE 6-Ortopedi-Hofteundersøkelse-Sekvele lårhalsbrudd-2020_FINALE.pdf](https://mitt.uib.no/files/4787216) — MED
+- [OSKE konte høst 2018_Trykk_Volum_Sløyfe.tif](https://mitt.uib.no/files/4920613) — MED
+- [OSKE LUNGE 2025 konte_endelig.docx](https://mitt.uib.no/files/7366966) — MED
+- [OSKE MED6 konte Geriatri H24 300724.docx](https://mitt.uib.no/files/6826594) — MED
+- [OSKE oppgave høst 2024 Anatomi.docx](https://mitt.uib.no/files/6826592) — MED
+- [OSKE OPPGAVE Konte 2025 Mikrobiologi_endelig.docx](https://mitt.uib.no/files/7366967) — MED
+- [OSKE vår 2025_Makroanotomi.docx](https://mitt.uib.no/files/7049709) — MED
+- [OSKE_6-2020. VURDERING AV AKUTT SYK BABY PÅ LEGEVAKTEN_Finale.pdf](https://mitt.uib.no/files/4787217) — MED
+- [OSKE_høst25_allmenn_kardiovaskrisiko_endelig.docx](https://mitt.uib.no/files/7373357) — MED
+- [OSKE_høst25_endo_tyreotoks_endelig.docx](https://mitt.uib.no/files/7373358) — MED
+- [OSKE_høst25_gynobs_hjemmefødsel_endelig.docx](https://mitt.uib.no/files/7373359) — MED
+- [OSKE_høst25_hemato_B12_endelig_.docx](https://mitt.uib.no/files/7373367) — MED
+- [OSKE_høst25_nyre_hyperkalemi_endelig.docx](https://mitt.uib.no/files/7373360) — MED
+- [OSKE_høst25_ØNH_peritonsAbsc_endelig.docx](https://mitt.uib.no/files/7373365) — MED
+- [OSKE_høst25_ort_radius_endelig.docx](https://mitt.uib.no/files/7373361) — MED
+- [OSKE_høst25_pato_melanom_endelig.docx](https://mitt.uib.no/files/7373362) — MED
+- [OSKE_høst25_pato_melanom_til_laminering.pptx](https://mitt.uib.no/files/7373363) — MED
+- [OSKE_høst25_toraks_hemotoraks_endelig.docx](https://mitt.uib.no/files/7373366) — MED
+- [OSKE_MED6_2024_INFEKSJONSMED_KONTE.docx](https://mitt.uib.no/files/6826591) — MED
+- [OSKE_MED6_2025_Infeksjon.docx](https://mitt.uib.no/files/7049646) — MED
+- [OSKE-12-allmenn-diabetes2-høst23_endelig_rev221123.docx](https://mitt.uib.no/files/5560017) — MED
+- [OSKE-12-gastrokirurgi-akutt-abdomen-inneklemt-lyskebrokk-høst23_endelig.docx](https://mitt.uib.no/files/5560019) — MED
+- [OSKE-12-geriatri-delir-høst23_endelig.docx](https://mitt.uib.no/files/5560018) — MED
+- [OSKE-12-høst24-Bryst-og-Endokrinkirurgi-tumor-mamma-eksamen_endelig.docx](https://mitt.uib.no/files/6475370) — MED
+- [OSKE-12-høst24-nevro-parkinson_endelig.docx](https://mitt.uib.no/files/6475372) — MED
+- [OSKE-12-høst24-onkologi-nøytropenfeber_endelig.docx](https://mitt.uib.no/files/6475373) — MED
+- [OSKE-12-høst24-psykiatri-demensutredning_endelig.docx](https://mitt.uib.no/files/6475374) — MED
+- [OSKE-12-høst24-småkirurgi-sårskade_endelig.docx](https://mitt.uib.no/files/6475375) — MED
+- [OSKE-12-Immunologi-Infeksjon-Influensavaksinering 22052024 (002)_ferdig.docx](https://mitt.uib.no/files/6015833) — MED
+- [OSKE-12-Immunologi-Infeksjon-Influensavaksinering-høst24-endelig.docx](https://mitt.uib.no/files/6475408) — MED
+- [OSKE-12-OT-humerusfraktur-høst23_endelig.docx](https://mitt.uib.no/files/5560022) — MED
+- [OSKE-12-pediatr-Vekstforstyrrelse-høst23_endelig.docx](https://mitt.uib.no/files/5560020) — MED
+- [OSKE-12-radiologi-hoftebrudd-høst23_endelig (1).docx](https://mitt.uib.no/files/5561213) — MED
+- [OSKE-12-Uro-hematuri-Høst23_endelig.docx](https://mitt.uib.no/files/5560023) — MED
+- [OSKE-12høst24-gastromed-blødning_endelig.docx](https://mitt.uib.no/files/6475371) — MED
+- [OSKE-6-hematologi-Høst-2025-Reikvam_endelig.docx](https://mitt.uib.no/files/7366970) — MED
+- [OSKE-6-Radiologi-pneumothorax_– ferdig med kommentarer av Lars Bø.docx](https://mitt.uib.no/files/6826585) — MED
+- [OSKE-6-Radiologi-Thoraxradiologi pneumoni-2023-Finale.docx](https://mitt.uib.no/files/5848764) — MED
+- [OSKE-konte_2025_MED6_Farmakologi_endelig.docx](https://mitt.uib.no/files/7366971) — MED
+- [OSKE-oppgave reflekser MED6-AT juni 2018 endelig.docx](https://mitt.uib.no/files/4839684) — MED
+- [OSKE-V2023  Hjernens blodforsyning.docx](https://mitt.uib.no/files/5179465) — MED
+- [OSKE-V2023 Hjernens blodforsyning.pptx](https://mitt.uib.no/files/5179466) — MED
+- [OSKE-V2025  Hjernens blodforsyning.docx](https://mitt.uib.no/files/7049698) — MED
+- [OSKE-V2025 Hjernens blodforsyning.pdf](https://mitt.uib.no/files/7049697) — MED
+- [OSKE12 Karkirurgi Kritisk iskemi og PAA_ferdig ny.docx](https://mitt.uib.no/files/6015829) — MED
+- [OSKE12_ALLMENN_skuldervondt borrelia_vår21_endelig.docx](https://mitt.uib.no/files/3472255) — MED
+- [OSKE12_ANESTESI_forverring-sengepost_vår21_endelig.docx](https://mitt.uib.no/files/3472256) — MED
+- [OSKE12_h24_depresjon_allmennmed_endelig.docx](https://mitt.uib.no/files/6475368) — MED
+- [OSKE12_Øye_Synsfeltutfall_240820_uten kommentarer_ferdigny.docx](https://mitt.uib.no/files/6015830) — MED
+- [OSKE12_tretthet_allmennmed_H24_endelig.docx](https://mitt.uib.no/files/6475369) — MED
+- [OSKE12-allennmedisin-TM til eksamenskommisjon_ferdig.docx](https://mitt.uib.no/files/6015831) — MED
+- [OSKE12-allmenn-FørsteSvangerskapskontroll_endelig_rev221123.docx](https://mitt.uib.no/files/5560024) — MED
+- [OSKE12-ALLMENN-rus-og-SOS_vår21_endelig.docx](https://mitt.uib.no/files/3472257) — MED
+- [OSKE12-Allmennmedisin-gastroenteritt_V24_ferdig.docx](https://mitt.uib.no/files/6015832) — MED
+- [OSKE12-FYSMEDREHAB-nevrorehabilitering_vår21_endelig2.docx](https://mitt.uib.no/files/3472258) — MED
+- [OSKE12-GEKIR-rektumcancer_vår21_endelig.docx](https://mitt.uib.no/files/3472259) — MED
+- [OSKE12-GERI_Skrøpelighetsvurdering _ vår21_endelig2.docx](https://mitt.uib.no/files/3472260) — MED
+- [OSKE12-HEMAT_Akutt dyspne_vår21_endelig.docx](https://mitt.uib.no/files/3472261) — MED
+- [OSKE12-NEVR_Klasehodepine_vår21_endelig.docx](https://mitt.uib.no/files/3472262) — MED
+- [OSKE12-ØNH-nesetetthet-høst23_endelig.docx](https://mitt.uib.no/files/5560025) — MED
+- [OSKE12-PED-Otitis media Omsorgssvikt_vår21_endelig_HR.docx](https://mitt.uib.no/files/3472263) — MED
+- [OSKE6 FysmedRehab V2025.docx](https://mitt.uib.no/files/7049685) — MED
+- [OSKE6 klin hjerteundersøkelse.docx](https://mitt.uib.no/files/7366968) — MED
+- [OSKE6 Makroskopisk nevroanatomi_2023_Finale.docx](https://mitt.uib.no/files/5848761) — MED
+- [OSKE6 Sirkulasjon. Ekkokardiografi-pericardvaeske  2020 Final.docx](https://mitt.uib.no/files/4840058) — MED
+- [OSKE6 vår 2025 MED6 Gastrokirurgi.docx](https://mitt.uib.no/files/7049650) — MED
+- [OSKE6_Genetikk_ArveHD_2024konte_innsendes.docx](https://mitt.uib.no/files/6826590) — MED
+- [OSKE6_Genetikk_V2025.docx](https://mitt.uib.no/files/7049652) — MED
+- [OSKE6_H24_konte Lunge Lungefibrose.docx](https://mitt.uib.no/files/6826589) — MED
+- [OSKE6_klinisk_undersøkelse_thorax_retake.docx](https://mitt.uib.no/files/6826597) — MED
+- [OSKE6_konteV25_magesmerter_diare_endelig.docx](https://mitt.uib.no/files/7366969) — MED
+- [OSKE6_Propedeutikk_Anamnese ved hjertesykdom_Finale.docx](https://mitt.uib.no/files/5848762) — MED
+- [OSKE6_V2025_Allmennmedisin.docx](https://mitt.uib.no/files/7049673) — MED
+- [OSKE6- 6 ukers kontroll på helsestasjon_Engan_Rev.docx](https://mitt.uib.no/files/4840042) — MED
+- [OSKE6-Allmennmed-sår_halsV24_ver2.docx](https://mitt.uib.no/files/6023480) — MED
+- [OSKE6-Allmennmedisin-gastroenteritt_V23konte.docx](https://mitt.uib.no/files/5848763) — MED
+- [Oske6-Anatomi-Makro-Lunge_2020_Finale.pdf](https://mitt.uib.no/files/4787218) — MED
+- [OSKE6-Ekkokardiografi-Hjerteoperert-Tungpust 2024.docx](https://mitt.uib.no/files/6826587) — MED
+- [OSKE6-FysmedRehab-Nakkesmerterepåkjørsel-2020_Finale.pdf](https://mitt.uib.no/files/4787219) — MED
+- [OSKE6-Immunologi-Autoimmunitet-Coeliaki-2020_Finale.pdf](https://mitt.uib.no/files/4787220) — MED
+- [OSKE6-PATOLOGI_LEVERCHIRROSE_2021_Finale.pdf](https://mitt.uib.no/files/4787221) — MED
+- [OSKE6-PATOLOGI_LEVERCHIRROSE_2024 Konte.docx](https://mitt.uib.no/files/6826586) — MED
+- [oversikt fagansvarlige 10.3.20.pdf](https://mitt.uib.no/files/2676787) — PRMEDISIN
+- [Oversikt MO forelesningsserie høst 2026.pdf](https://mitt.uib.no/files/7980289) — EXPHIL-MOSEM
+- [Oversiktskart BBB.pdf](https://mitt.uib.no/files/7794038) — MEDOD1
+- [ØYE Eksamensoppgaver Kortsvar Kont Sept 2022.pdf](https://mitt.uib.no/files/5515808) — MED
+- [ØYE Eksamensoppgaver kortsvar med fasitkont aug 21.docx](https://mitt.uib.no/files/4246367) — MED
+- [ØYE Fasit_Kortsvar_Konte-eksamen januar 22_final.docx](https://mitt.uib.no/files/4231720) — MED
+- [ØYE juni 2018 sensorveiledn](https://mitt.uib.no/files/1325143) — MED
+- [ØYE_Kortsva_Konte-eksamen januar 22_final.docx](https://mitt.uib.no/files/4231713) — MED
+- [Øye_SynsreduksjonKom_080519_JK.docx](https://mitt.uib.no/files/3191871) — PRMEDISIN
+- [Øye_SynsreduksjonKom_080519_JK.docx](https://mitt.uib.no/files/3192897) — MED
+- [Pat 2016.pdf](https://mitt.uib.no/files/312400) — MED
+- [Pat 2017.pdf](https://mitt.uib.no/files/384855) — MED
+- [Pat 2018.pdf](https://mitt.uib.no/files/1592546) — MED
+- [Pat 2020.pdf](https://mitt.uib.no/files/3413585) — MED
+- [Pat 2022.pdf](https://mitt.uib.no/files/4438987) — MED
+- [Pat 2023.pdf](https://mitt.uib.no/files/7740537) — MED
+- [Pat 2025.pdf](https://mitt.uib.no/files/7740538) — MED
+- [Pat 2026.pdf](https://mitt.uib.no/files/8107505) — MED
+- [PAT bilde oppgave 1.pdf](https://mitt.uib.no/files/4975348) — MED
+- [PAT bilde oppgave 2.pdf](https://mitt.uib.no/files/4975349) — MED
+- [PAT bilde oppgave 3.pdf](https://mitt.uib.no/files/4975350) — MED
+- [PAT bilde oppgave 6.pdf](https://mitt.uib.no/files/4975351) — MED
+- [PAT bilde oppgave 7.pdf](https://mitt.uib.no/files/4975352) — MED
+- [PAT bilde oppgave 8.pdf](https://mitt.uib.no/files/4975353) — MED
+- [PAT bilde oppgave 9.pdf](https://mitt.uib.no/files/4975354) — MED
+- [Pat_2014.pdf](https://mitt.uib.no/files/16892) — MED
+- [Pat_2015.pdf](https://mitt.uib.no/files/16893) — MED
+- [Patologi  - Hjerte.pdf](https://mitt.uib.no/files/4204393) — MED
+- [Patologi oppg 30.pdf](https://mitt.uib.no/files/1190255) — MED
+- [Patologi oppg 31.pdf](https://mitt.uib.no/files/1190256) — MED
+- [Patologi oppg 32.pdf](https://mitt.uib.no/files/1190246) — MED
+- [Patologi oppg 33.pdf](https://mitt.uib.no/files/1190247) — MED
+- [Patologi oppg 34.pdf](https://mitt.uib.no/files/1190248) — MED
+- [Patologi oppg 35.pdf](https://mitt.uib.no/files/1190249) — MED
+- [Patologi oppg 36.pdf](https://mitt.uib.no/files/1190237) — MED
+- [Patologi oppg 37.pdf](https://mitt.uib.no/files/1190238) — MED
+- [Patologi oppg 38.pdf](https://mitt.uib.no/files/1190239) — MED
+- [Patologi oppg 39.pdf](https://mitt.uib.no/files/1190245) — MED
+- [Patologi oppg 40.pdf](https://mitt.uib.no/files/1190240) — MED
+- [Patologi oppg 41.pdf](https://mitt.uib.no/files/1190232) — MED
+- [Patologi oppg 42.pdf](https://mitt.uib.no/files/1190231) — MED
+- [Patologi oppg 43.pdf](https://mitt.uib.no/files/1190230) — MED
+- [Patologi-Lungekreft juni-2024.docx](https://mitt.uib.no/files/6023481) — MED
+- [Patologiod2pati2013.pdf](https://mitt.uib.no/files/17243) — MED
+- [PED Kortsvarsoppg MED9-Vår2023.docx](https://mitt.uib.no/files/5133589) — MED
+- [PED Kortsvarsoppgaver med løsningsforslag-MED9-Konte-MAR2023.docx](https://mitt.uib.no/files/5116011) — MED
+- [Ped_kort_svar_konte_Mars_2025.docx](https://mitt.uib.no/files/7688730) — MED
+- [Pediatri - vekstforstyrrelser.docx](https://mitt.uib.no/files/4289463) — MED
+- [Pedo 2015.pdf](https://mitt.uib.no/files/17985) — MED
+- [Pedo 2016.pdf](https://mitt.uib.no/files/274005) — MED
+- [Pedo 2016.pdf](https://mitt.uib.no/files/312401) — MED
+- [Pedo 2017.pdf](https://mitt.uib.no/files/395342) — MED
+- [Pedo_2013.pdf](https://mitt.uib.no/files/16896) — MED
+- [Pedo_2013.pdf](https://mitt.uib.no/files/17290) — MED
+- [Pedo_2014.pdf](https://mitt.uib.no/files/17291) — MED
+- [Pedo_2015.pdf](https://mitt.uib.no/files/16898) — MED
+- [Pedodonti 2018.pdf](https://mitt.uib.no/files/1554682) — MED
+- [Pedodonti 2019.pdf](https://mitt.uib.no/files/2509759) — MED
+- [Pedodonti 2020.pdf](https://mitt.uib.no/files/3383855) — MED
+- [Pedodonti 2020.pdf](https://mitt.uib.no/files/3689090) — MED
+- [Pedodonti 2021.pdf](https://mitt.uib.no/files/4183183) — MED
+- [Pedodonti 2021.pdf](https://mitt.uib.no/files/4455809) — MED
+- [Pedodonti 2022.pdf](https://mitt.uib.no/files/5056857) — MED
+- [Pedodonti 2022.pdf](https://mitt.uib.no/files/5556358) — MED
+- [Pedodonti vår 23.pdf](https://mitt.uib.no/files/5905715) — MED
+- [Pedpsy 2022.pdf](https://mitt.uib.no/files/5272279) — MED
+- [Pedpsy høst 23.pdf](https://mitt.uib.no/files/6122373) — MED
+- [pEDPSY_2014.pdf](https://mitt.uib.no/files/16902) — MED
+- [Pedpsy2013.pdf](https://mitt.uib.no/files/16901) — MED
+- [Pedpsy2015.pdf](https://mitt.uib.no/files/16903) — MED
+- [Pedpsy2016.pdf](https://mitt.uib.no/files/395338) — MED
+- [Pedpsy2017.pdf](https://mitt.uib.no/files/1834522) — MED
+- [Pedpsy2018.pdf](https://mitt.uib.no/files/1834523) — MED
+- [Pedpsy2019.pdf](https://mitt.uib.no/files/3554519) — MED
+- [Pedpsy2020.pdf](https://mitt.uib.no/files/3554520) — MED
+- [Pedpsy2021.pdf](https://mitt.uib.no/files/4391224) — MED
+- [Perio 2016.pdf](https://mitt.uib.no/files/312403) — MED
+- [Perio 2017.pdf](https://mitt.uib.no/files/395339) — MED
+- [Perio 2018.pdf](https://mitt.uib.no/files/1489271) — MED
+- [Perio 2019.pdf](https://mitt.uib.no/files/2550167) — MED
+- [Perio 2020.pdf](https://mitt.uib.no/files/3306498) — MED
+- [Perio 2020.pdf](https://mitt.uib.no/files/3425615) — MED
+- [Perio 2021.pdf](https://mitt.uib.no/files/3960378) — MED
+- [Perio 2021.pdf](https://mitt.uib.no/files/4772602) — MED
+- [Perio 2022.pdf](https://mitt.uib.no/files/4772607) — MED
+- [Perio 2022.pdf](https://mitt.uib.no/files/5124742) — MED
+- [Perio 2023.pdf](https://mitt.uib.no/files/6789785) — MED
+- [Perio 2024.pdf](https://mitt.uib.no/files/6789786) — MED
+- [Perio Mi Side utgave 2015.pdf](https://mitt.uib.no/files/17986) — MED
+- [Perio_2013.pdf](https://mitt.uib.no/files/16906) — MED
+- [Perio_2014.pdf](https://mitt.uib.no/files/16907) — MED
+- [Perio_2015.pdf](https://mitt.uib.no/files/16908) — MED
+- [Perio20132.pdf](https://mitt.uib.no/files/17300) — MED
+- [Perio2014MiSide.pdf](https://mitt.uib.no/files/17301) — MED
+- [Perio2016MittUib.pdf](https://mitt.uib.no/files/324206) — MED
+- [Periomittuib2017.pdf](https://mitt.uib.no/files/394780) — MED
+- [Philips IntelliVue pasientmonitor.pdf](https://mitt.uib.no/files/7793856) — MEDOD1
+- [Piler 2-1.jpg](https://mitt.uib.no/files/7521104) — PRMEDISIN
+- [Pilot-ALM_Risikovurdering NORRISK 2 2018rev_1.docx](https://mitt.uib.no/files/3191841) — PRMEDISIN
+- [Pilot-ALM_Risikovurdering NORRISK 2 2018rev_1.docx](https://mitt.uib.no/files/3192883) — MED
+- [Pilot-ALM_Slapphet.docx](https://mitt.uib.no/files/3191842) — PRMEDISIN
+- [Pilot-ALM_Slapphet.docx](https://mitt.uib.no/files/3192882) — MED
+- [Pilot-GYN_Postmenopausalbl›dning.docx](https://mitt.uib.no/files/3191843) — PRMEDISIN
+- [Pilot-GYN_Postmenopausalbl›dning.docx](https://mitt.uib.no/files/3192881) — MED
+- [Pilot-HUD_Akne.docx](https://mitt.uib.no/files/3191844) — PRMEDISIN
+- [Pilot-HUD_Akne.docx](https://mitt.uib.no/files/3192884) — MED
+- [Pilot-INF_Importfeber.docx](https://mitt.uib.no/files/3191845) — PRMEDISIN
+- [Pilot-INF_Importfeber.docx](https://mitt.uib.no/files/3192885) — MED
+- [Pilot-LUNGE_KolsHj.docx](https://mitt.uib.no/files/3191846) — PRMEDISIN
+- [Pilot-LUNGE_KolsHj.docx](https://mitt.uib.no/files/3192886) — MED
+- [Pilot-NEVR_Klasehodepine.docx](https://mitt.uib.no/files/3191847) — PRMEDISIN
+- [Pilot-NEVR_Klasehodepine.docx](https://mitt.uib.no/files/3192887) — MED
+- [Pilot-SIRK_Brystsmerter.docx](https://mitt.uib.no/files/3191848) — PRMEDISIN
+- [Pilot-SIRK_Brystsmerter.docx](https://mitt.uib.no/files/3192888) — MED
+- [Pilot-UR_Akutt ureterstensanfall.docx](https://mitt.uib.no/files/3191849) — PRMEDISIN
+- [Pilot-UR_Akutt ureterstensanfall.docx](https://mitt.uib.no/files/3192889) — MED
+- [Plakat-klamydiadagen-NHH.pdf](https://mitt.uib.no/files/772273) — HF
+- [Plan underveistester høsten 2026-2.0.pdf](https://mitt.uib.no/files/7926133) — MEDOD1
+- [Plasthvalen - BA-1.JPG](https://mitt.uib.no/files/7815050) — DIGI101
+- [Plasthvalen - Google-1.JPG](https://mitt.uib.no/files/7815033) — DIGI101
+- [Plastikk - håndundersøkelse.docx](https://mitt.uib.no/files/4289464) — MED
+- [PodcastLogo-1.GIF](https://mitt.uib.no/files/7815046) — DIGI101
+- [Poem - OrganicMatchmaker.pdf](https://mitt.uib.no/files/7793955) — MEDOD1
+- [Potter - bra-1.jpg](https://mitt.uib.no/files/7815013) — DIGI101
+- [Potter - dårlig-1.jpg](https://mitt.uib.no/files/7815022) — DIGI101
+- [Potter - figurtekst-1.JPG](https://mitt.uib.no/files/7815032) — DIGI101
+- [PPL Poster.pdf](https://mitt.uib.no/files/4915023) — Institutt for filosofi og førstesemesterstudier
+- [Praksisutplassering i psykiatri - alternative plasser og særplass.docx](https://mitt.uib.no/files/32228) — PRMEDISIN
+- [Presentasjon_MEDOD1_JannickeIgland.pdf](https://mitt.uib.no/files/7959131) — MEDOD1
+- [Primærhelsetjenesten i fokus - Hansen.pdf](https://mitt.uib.no/files/7968135) — MEDOD1
+- [Proger 2016.pdf](https://mitt.uib.no/files/312406) — MED
+- [Proger 2017.pdf](https://mitt.uib.no/files/384858) — MED
+- [Proger 2018.pdf](https://mitt.uib.no/files/1684237) — MED
+- [Proger 2019.pdf](https://mitt.uib.no/files/2210525) — MED
+- [ProGer 2021.pdf](https://mitt.uib.no/files/3826743) — MED
+- [ProGer 2022.pdf](https://mitt.uib.no/files/4581189) — MED
+- [Proger 2025.pdf](https://mitt.uib.no/files/7611889) — MED
+- [proger ny 2025.pdf](https://mitt.uib.no/files/7611893) — MED
+- [ProGer_2013.pdf](https://mitt.uib.no/files/16912) — MED
+- [Proger_2014.pdf](https://mitt.uib.no/files/16913) — MED
+- [Proger_2015.pdf](https://mitt.uib.no/files/16914) — MED
+- [Proger2020.pdf](https://mitt.uib.no/files/3328622) — MED
+- [Program 27-28, kull 26 Førde.docx](https://mitt.uib.no/files/8155060) — PRMEDISIN / KULL 2026 HØST / MED26-FØR
+- [Program Studentkonferansen 181017.pdf](https://mitt.uib.no/files/491244) — PRMEDISIN
+- [Propedeutikk-klinisk undersøkelse av abdomen-endelig.docx](https://mitt.uib.no/files/6023482) — MED
+- [Proteiner 1 AM 2026.pdf](https://mitt.uib.no/files/8186375) — MEDOD1
+- [Proteiner 2 AM 2026.pdf](https://mitt.uib.no/files/8198447) — MEDOD1
+- [Proteiner 3 AM 2026.pdf](https://mitt.uib.no/files/8203206) — MEDOD1
+- [Protetikk 2018.pdf](https://mitt.uib.no/files/1722531) — MED
+- [Protetikk 2019.pdf](https://mitt.uib.no/files/2289502) — MED
+- [Protetikk 2020.pdf](https://mitt.uib.no/files/3427463) — MED
+- [Protetikk 2021.pdf](https://mitt.uib.no/files/4418351) — MED
+- [Protetikk 2022.pdf](https://mitt.uib.no/files/4418356) — MED
+- [Protetikk kull 3 vår 24.pdf](https://mitt.uib.no/files/6520698) — MED
+- [Protetikk_2013.pdf](https://mitt.uib.no/files/17308) — MED
+- [Protetikk2014ord.pdf](https://mitt.uib.no/files/17309) — MED
+- [Protetikk2015.pdf](https://mitt.uib.no/files/17988) — MED
+- [Protetikk2016Inspera.pdf](https://mitt.uib.no/files/312191) — MED
+- [Protetikk2017.pdf](https://mitt.uib.no/files/664063) — MED
+- [Protetikknyhøst18.pdf](https://mitt.uib.no/files/1763668) — MED
+- [Protetikkprøvev21.pdf](https://mitt.uib.no/files/4017941) — MED
+- [Protokoll allmøtet v2021 - signert og med vedtektsendringsforslag.pdf](https://mitt.uib.no/files/3436746) — STUDENTUTVALG-HF
+- [protokoll_ekstraordinært_allmøte_humanistisk_studentutvalg.pdf](https://mitt.uib.no/files/5688585) — STUDENTUTVALG-HF
+- [Prøve protetikk tpl 2019 bokmål og nynorsk HG.docx](https://mitt.uib.no/files/4017950) — MED
+- [Prøven i MED5 H25, m.svar.pdf](https://mitt.uib.no/files/7969570) — MED
+- [Prøven i MED5 H25, u.svar.pdf](https://mitt.uib.no/files/7969569) — MED
+- [PSY juni 2018 sensorveiledn.pdf](https://mitt.uib.no/files/1325167) — MED
+- [PSYK_Psykotisk depresjon_190421.docx](https://mitt.uib.no/files/3191872) — PRMEDISIN
+- [PSYK_Psykotisk depresjon_190421.docx](https://mitt.uib.no/files/3192898) — MED
+- [Psykiatri, panikkangst, ung kvinne  .docx](https://mitt.uib.no/files/3952896) — MED
+- [Psykiatripraksis i Uganda H2023.pdf](https://mitt.uib.no/files/6204776) — PRMEDISIN
+- [Psykiatripraksis i Uganda V2024.pdf](https://mitt.uib.no/files/6204780) — PRMEDISIN
+- [Psykiatripraksis i Uganda, Kampala - MED7 (H25).pdf](https://mitt.uib.no/files/7952233) — PRMEDISIN
+- [Pustevansker 2022.pdf](https://mitt.uib.no/files/7793851) — MEDOD1
+- [Question_150_Vedlegg S1.jpg](https://mitt.uib.no/files/1589647) — MED
+- [Question_152_Vedlegg S2.jpg](https://mitt.uib.no/files/1589646) — MED
+- [Question_153_Vedlegg S3.jpg](https://mitt.uib.no/files/1589650) — MED
+- [Question_156_Vedlegg S4.jpg](https://mitt.uib.no/files/1589648) — MED
+- [Question_156_Vedlegg S5.jpg](https://mitt.uib.no/files/1589649) — MED
+- [R_og_S_konfigurasjon_oppgaver_med_losninger.pdf](https://mitt.uib.no/files/8122255) — MEDOD1
+- [Radiologi - Sykkelulykke FAST UL på traumestue- oppdatert 26.8.pdf](https://mitt.uib.no/files/4838853) — MED
+- [Radiologi hjerneslag.docx](https://mitt.uib.no/files/4289465) — MED
+- [Radiologi oppg 1.jpg](https://mitt.uib.no/files/747348) — MED
+- [Radiologi oppg 16.jpg](https://mitt.uib.no/files/747344) — MED
+- [Radiologi oppg 17.jpg](https://mitt.uib.no/files/747346) — MED
+- [Radiologi oppg 2.jpg](https://mitt.uib.no/files/747350) — MED
+- [Radiologi oppg 4.jpg](https://mitt.uib.no/files/747340) — MED
+- [Radiologi oppg 6.jpg](https://mitt.uib.no/files/747342) — MED
+- [Radiologi- Muskel-skjelett radiologi, ankelfraktur–2024 endelig.docx](https://mitt.uib.no/files/6023483) — MED
+- [Radiologi- OSKE6 V2025 .docx](https://mitt.uib.no/files/7049368) — MED
+- [Rapport fra gruppeoppgave i introkurset.pdf](https://mitt.uib.no/files/7963844) — Personal files
+- [Rapport høsten 2018.pdf](https://mitt.uib.no/files/1423759) — PRMEDISIN
+- [Rapport høsten 2019.pdf](https://mitt.uib.no/files/2262163) — PRMEDISIN
+- [Rapport høsten 2019.pdf](https://mitt.uib.no/files/2264336) — PRMEDISIN
+- [Rapport høsten 2024 Med7](https://mitt.uib.no/files/7520440) — PRMEDISIN
+- [Rapport høsten 2025 - MED9](https://mitt.uib.no/files/7520439) — PRMEDISIN
+- [Rapport våren 2017 kull 13B](https://mitt.uib.no/files/405947) — PRMEDISIN
+- [Rapport våren 2018.pdf](https://mitt.uib.no/files/1111578) — PRMEDISIN
+- [Rapport våren 2019.pdf](https://mitt.uib.no/files/1845606) — PRMEDISIN
+- [Rapport våren 2019.pdf](https://mitt.uib.no/files/1863090) — PRMEDISIN
+- [Referat 14.11.2022 - MEDSU.pdf](https://mitt.uib.no/files/4689400) — STUDENTUTVALG-MO
+- [Referat fra SU05, 16-17.pdf](https://mitt.uib.no/files/255195) — STUDENTUTVALG-HF
+- [Referat HSU170124 m vedlegg.pdf](https://mitt.uib.no/files/5680501) — STUDENTUTVALG-HF
+- [Referat konstituerende møte sept. 26.docx](https://mitt.uib.no/files/8041034) — STUDENTUTVALG-MO
+- [Referat MEDSU styremøte 07.10.docx](https://mitt.uib.no/files/6269408) — STUDENTUTVALG-MO
+- [Referat MEDSU styremøte 07.10.docx](https://mitt.uib.no/files/7675619) — STUDENTUTVALG-MO
+- [Referat MEDSU styremøte 11.02.26.docx](https://mitt.uib.no/files/7675624) — STUDENTUTVALG-MO
+- [Referat MEDSU styremøte 13.10.docx](https://mitt.uib.no/files/7675620) — STUDENTUTVALG-MO
+- [Referat MEDSU styremøte 26.05.docx](https://mitt.uib.no/files/8002615) — STUDENTUTVALG-MO
+- [Referat styremøte april 26.docx](https://mitt.uib.no/files/7687380) — STUDENTUTVALG-MO
+- [Referat styremøte feb. 24.docx](https://mitt.uib.no/files/5696376) — STUDENTUTVALG-MO
+- [Referat styremøte mai 28.pdf](https://mitt.uib.no/files/6085379) — STUDENTUTVALG-MO
+- [Referat styremøte mars 11.docx](https://mitt.uib.no/files/5845216) — STUDENTUTVALG-MO
+- [Referat styremøte MEDSU - 05.12.2022 .pdf](https://mitt.uib.no/files/4717845) — STUDENTUTVALG-MO
+- [Referat styremøte MEDSU-11.04.23.pdf](https://mitt.uib.no/files/5300931) — STUDENTUTVALG-MO
+- [Referat styremøte nov. 25.docx](https://mitt.uib.no/files/7675621) — STUDENTUTVALG-MO
+- [Referat styremøte sept. 25.docx](https://mitt.uib.no/files/7675591) — STUDENTUTVALG-MO
+- [Referat styremøte september 11.pdf](https://mitt.uib.no/files/6200625) — STUDENTUTVALG-MO
+- [Referat SU01 - offentlig.pdf](https://mitt.uib.no/files/143905) — STUDENTUTVALG-HF
+- [Referat SU02 - offentlig.pdf](https://mitt.uib.no/files/143908) — STUDENTUTVALG-HF
+- [Referat SU03, 16-17.pdf](https://mitt.uib.no/files/143910) — STUDENTUTVALG-HF
+- [Referat SU04, 16-17- offentlig- Copy.pdf](https://mitt.uib.no/files/255190) — STUDENTUTVALG-HF
+- [Referat SU1 2020-2021.pdf](https://mitt.uib.no/files/3059595) — STUDENTUTVALG-HF
+- [Referat SU2 2020-2021.pdf](https://mitt.uib.no/files/3059594) — STUDENTUTVALG-HF
+- [Referat SU3 2020-2021.pdf](https://mitt.uib.no/files/3059596) — STUDENTUTVALG-HF
+- [Referat SU4 2020-2021.pdf](https://mitt.uib.no/files/3059597) — STUDENTUTVALG-HF
+- [Referat SU5 2020-2021.pdf](https://mitt.uib.no/files/3230490) — STUDENTUTVALG-HF
+- [Referat SU7 2020-2021.pdf](https://mitt.uib.no/files/3279648) — STUDENTUTVALG-HF
+- [Referat SU8 2020-2021.pdf](https://mitt.uib.no/files/3564541) — STUDENTUTVALG-HF
+- [Regjeringens strategi for å styrkje motstandskrafta-2.png](https://mitt.uib.no/files/7815045) — DIGI101
+- [Repeat exam FARM 295 – Pharmaceutical Formulation_2015.pdf](https://mitt.uib.no/files/1924576) — MED
+- [Repeat exam_FARM 295 _ Pharmaceutical Technology_2015.pdf](https://mitt.uib.no/files/1924570) — MED
+- [Repetisjonsspørsmål Akademisk medisin:alternativ medisin.docx](https://mitt.uib.no/files/8210826) — 26H - EXPHIL-MOSEM / Seminar 1
+- [Rev_OSCE-6_Auskultasjon-Hjerte.pdf](https://mitt.uib.no/files/4839855) — MED
+- [Rev_OSCE-6_Hjertepreparat_2018_06.docx](https://mitt.uib.no/files/4839654) — MED
+- [Rev_OSCE-6_HLR protokoll konte.pdf](https://mitt.uib.no/files/4838854) — MED
+- [Rev_OSCE-6_Hofteundersøkelse.docx](https://mitt.uib.no/files/4839753) — MED
+- [Rev_OSCE-6_Tolkning av PET-CT_2018_kontinuering.docx](https://mitt.uib.no/files/4839678) — MED
+- [Rev_OSCE-6_Tolkning av PET-CT_2018.docx](https://mitt.uib.no/files/4839652) — MED
+- [Rev_OSCE-6_Tolkning av PET-CT_2023.docx](https://mitt.uib.no/files/5848765) — MED
+- [Rev_OSCE-6_Trykk-volumsløyfe mars 2018.docx](https://mitt.uib.no/files/5848766) — MED
+- [Rev_OSCE-6_Trykk-volumsløyfe.docx.pdf](https://mitt.uib.no/files/4920614) — MED
+- [reVIDERT_oske2024_GYN_OBST_ferdig.docx](https://mitt.uib.no/files/6015834) — MED
+- [Reviderte vedtekter for Humanistisk studentutvalg, v16.pdf](https://mitt.uib.no/files/143920) — STUDENTUTVALG-HF
+- [Revma - akutt artritt og leddstatus.docx](https://mitt.uib.no/files/4289466) — MED
+- [Revmatologi_040919_Final_20pt (002) (1).pdf](https://mitt.uib.no/files/4838855) — MED
+- [Revmatologi. Leddstatus o.ex. Artritt og hudsymptomer.pdf](https://mitt.uib.no/files/4204409) — MED
+- [Risikovurdering av miljøfaktorer i samfunnet_UIB_august 2026_Revidert.pdf](https://mitt.uib.no/files/7994470) — MEDOD1
+- [Røn 2017.pdf](https://mitt.uib.no/files/1296514) — MED
+- [Røn 2017.pdf](https://mitt.uib.no/files/1296516) — MED
+- [Røn 2018.pdf](https://mitt.uib.no/files/1928990) — MED
+- [Røn 2019.pdf](https://mitt.uib.no/files/2848106) — MED
+- [Ron_2013.pdf](https://mitt.uib.no/files/16921) — MED
+- [Ron_2015.pdf](https://mitt.uib.no/files/16924) — MED
+- [Røntgen 2015.pdf](https://mitt.uib.no/files/17970) — MED
+- [Røntgen 2016.pdf](https://mitt.uib.no/files/395341) — MED
+- [Rulleringsplan for praktiske øvelser.pdf](https://mitt.uib.no/files/7982532) — MEDOD1
+- [Saksliste august 2017.docx](https://mitt.uib.no/files/426002) — Institutt for filosofi og førstesemesterstudier
+- [Saksliste for møte med Bibliotek for Medisin.docx](https://mitt.uib.no/files/7675597) — STUDENTUTVALG-MO
+- [Saksliste og innkalling til allmøte høst2017.pdf](https://mitt.uib.no/files/415886) — STUDENTUTVALG-HF
+- [Saksliste vaffelmøte.docx](https://mitt.uib.no/files/299045) — Institutt for filosofi og førstesemesterstudier
+- [salivas-kjemi-petri-2026.pdf](https://mitt.uib.no/files/8135438) — MEDOD1
+- [Salkart stor aud HUS MEDOD1 hø26.pdf](https://mitt.uib.no/files/8129985) — MEDOD1
+- [sam 2017.pdf](https://mitt.uib.no/files/1296132) — MED
+- [Sam 2020.pdf](https://mitt.uib.no/files/3865657) — MED
+- [Sam_2013.pdf](https://mitt.uib.no/files/17314) — MED
+- [Sam2013.pdf](https://mitt.uib.no/files/16927) — MED
+- [Sam2023.pdf](https://mitt.uib.no/files/6438160) — MED
+- [Samf 2018.pdf](https://mitt.uib.no/files/1928968) — MED
+- [samf 2020.pdf](https://mitt.uib.no/files/3278519) — MED
+- [Samf 2021.pdf](https://mitt.uib.no/files/4068075) — MED
+- [Samf 2022.pdf](https://mitt.uib.no/files/5547801) — MED
+- [sAMF_2014.pdf](https://mitt.uib.no/files/16928) — MED
+- [Samf_2014.pdf](https://mitt.uib.no/files/17315) — MED
+- [Samf2015.pdf](https://mitt.uib.no/files/17989) — MED
+- [Samf2016.pdf](https://mitt.uib.no/files/384847) — MED
+- [samf2021.pdf](https://mitt.uib.no/files/4708528) — MED
+- [Samhandling spesialisthelsetjenesten - Hansen.pdf](https://mitt.uib.no/files/7968136) — MEDOD1
+- [Samledokument kortsvar.pdf](https://mitt.uib.no/files/4029270) — MED
+- [sammensatt-tema-MS-2026-PK.pdf](https://mitt.uib.no/files/8214691) — MEDOD1
+- [Sápmi.png](https://mitt.uib.no/files/7793913) — MEDOD1
+- [Sår og brudd Damsgaard.pdf](https://mitt.uib.no/files/7793847) — MEDOD1
+- [Screenshot 2022-09-06 at 11.49.53.png](https://mitt.uib.no/files/7793927) — MEDOD1
+- [Screenshot 2022-09-06 at 11.51.50.png](https://mitt.uib.no/files/7793925) — MEDOD1
+- [Screenshot 2022-09-19 at 17.13.29.png](https://mitt.uib.no/files/7793938) — MEDOD1
+- [Screenshot 2022-09-19 at 17.13.52.png](https://mitt.uib.no/files/7793935) — MEDOD1
+- [Screenshot 2022-09-19 at 17.18.33.png](https://mitt.uib.no/files/7793937) — MEDOD1
+- [Screenshot_20250807_124608_Chrome.jpg](https://mitt.uib.no/files/7815009) — DIGI101
+- [SDG 303 2025 exam correct answers.pdf](https://mitt.uib.no/files/7299018) — MED
+- [SDG303__Exam_questions_autumn_2025.pdf](https://mitt.uib.no/files/7299017) — MED
+- [SDG303_2019_Correct_answers_exam.docx](https://mitt.uib.no/files/5007302) — MED
+- [SDG303_2022_Correct_answers_exam.docx](https://mitt.uib.no/files/5007296) — MED
+- [SDG303_2023_Correct_answers_exam.pdf](https://mitt.uib.no/files/5735573) — MED
+- [SDG303_Autumn_2019.pdf](https://mitt.uib.no/files/2714776) — MED
+- [SDG303_Correct_answers_exam_2020.pdf](https://mitt.uib.no/files/2932982) — MED
+- [SDG303_Exam_questions_autumn_2022.pdf](https://mitt.uib.no/files/4741862) — MED
+- [SDG303_Exam-Questions_autumn_2021.pdf](https://mitt.uib.no/files/4012159) — MED
+- [SDG303_H24.pdf](https://mitt.uib.no/files/7066502) — MED
+- [Selliten-1.png](https://mitt.uib.no/files/7815053) — DIGI101
+- [Seminaroppgaven MO H2026.pdf](https://mitt.uib.no/files/7978694) — EXPHIL-MOSEM
+- [sensor veiledning TPBARØN 2022.pdf](https://mitt.uib.no/files/6274166) — MED
+- [sensorrettleiing vår 2022.pdf](https://mitt.uib.no/files/4418357) — MED
+- [Sensorveielding_OD1ORBI2_(ny)_v2015.pdf](https://mitt.uib.no/files/17225) — MED
+- [sensorveieldning OD2BM vår 23.docx](https://mitt.uib.no/files/5973045) — MED
+- [Sensorveiled ØYE konte](https://mitt.uib.no/files/1390802) — MED
+- [Sensorveileding (langsvar) FARM150 (ny) v2022.pdf](https://mitt.uib.no/files/4122257) — MED
+- [Sensorveileding (langsvar) FARM150 (ny) v2022.pdf](https://mitt.uib.no/files/5194644) — MED
+- [Sensorveileding (langsvar) MED2 (ny) h2019.pdf.docx](https://mitt.uib.no/files/2484227) — MED
+- [Sensorveileding OD1ANA (ny) v2020.pdf](https://mitt.uib.no/files/2410506) — MED
+- [Sensorveileding stud TPBARØN nov 2025.pdf](https://mitt.uib.no/files/7349750) — MED
+- [Sensorveileding TP - allmenn 2016.docx.pdf](https://mitt.uib.no/files/318644) — MED
+- [Sensorveiledn NEV konte 16.febr 2018](https://mitt.uib.no/files/1324727) — MED
+- [Sensorveiledn ØNH konte 16.febr 2018.pdf](https://mitt.uib.no/files/1324738) — MED
+- [Sensorveiledn PSY konte 16.febr 2018.pdf](https://mitt.uib.no/files/1324781) — MED
+- [Sensorveiledning  (langsvar), FARM280 h2022.pdf](https://mitt.uib.no/files/4741408) — MED
+- [Sensorveiledning  (langsvar), NUTRFYS h2022.pdf](https://mitt.uib.no/files/4741410) — MED
+- [Sensorveiledning - kortsvarsoppgaver.pdf](https://mitt.uib.no/files/3760334) — MED
+- [Sensorveiledning - OD3PRO-K4 - Eksamen vår 2023.docx](https://mitt.uib.no/files/5177058) — MED
+- [Sensorveiledning - OD3PRO-K4 - Eksamen vår 2023.pdf](https://mitt.uib.no/files/6247507) — MED
+- [Sensorveiledning (Examiner's Guidelines, open questions) BMED331 (ny) h2022.docx](https://mitt.uib.no/files/4607406) — MED
+- [Sensorveiledning (Examiner's guidelines, open questions) BMED331 v2020.docx](https://mitt.uib.no/files/2950110) — MED
+- [Sensorveiledning (Examiner's Guidelines, open questions) BMED331 v2022.docx](https://mitt.uib.no/files/4252925) — MED
+- [Sensorveiledning (Examiner's Guidelines, open questions) BMED331 v2023.docx](https://mitt.uib.no/files/5064438) — MED
+- [Sensorveiledning (Examiner's guidelines, open questions), BMED330 v2022.pdf](https://mitt.uib.no/files/4155408) — MED
+- [Sensorveiledning (Examiner's Guidelines, open questions), BMED331 v2021.docx](https://mitt.uib.no/files/3426416) — MED
+- [Sensorveiledning (langsvar og flervalg), TPBAANA v2022.docx](https://mitt.uib.no/files/4196807) — MED
+- [Sensorveiledning (langsvar, etikk) MEDOD2 v2022.docx](https://mitt.uib.no/files/5059293) — MED
+- [Sensorveiledning (langsvar, etikk), MEDOD2 (ny) h2022.pdf](https://mitt.uib.no/files/4639097) — MED
+- [Sensorveiledning (langsvar) BMED330 v2019.docx](https://mitt.uib.no/files/2243936) — MED
+- [Sensorveiledning (langsvar) BMEDFYS (ny) v2025.pdf](https://mitt.uib.no/files/6925656) — MED
+- [Sensorveiledning (langsvar) BMEDFYS h2024.pdf](https://mitt.uib.no/files/6925657) — MED
+- [Sensorveiledning (langsvar) BMEDKRO v2025.docx](https://mitt.uib.no/files/6929889) — MED
+- [Sensorveiledning (langsvar) FARM150 (ny) v2018.docx](https://mitt.uib.no/files/1355626) — MED
+- [Sensorveiledning (langsvar) FARM150 (ny) v2018.docx](https://mitt.uib.no/files/5194638) — MED
+- [Sensorveiledning (langsvar) FARM150 (ny) v2019.pdf](https://mitt.uib.no/files/1576453) — MED
+- [Sensorveiledning (langsvar) FARM150 h2017.docx](https://mitt.uib.no/files/644517) — MED
+- [Sensorveiledning (langsvar) FARM150 h2017.docx](https://mitt.uib.no/files/5194637) — MED
+- [Sensorveiledning (langsvar) FARM150 h2018.pdf](https://mitt.uib.no/files/1457495) — MED
+- [Sensorveiledning (langsvar) FARM150 h2018.pdf](https://mitt.uib.no/files/5194639) — MED
+- [Sensorveiledning (langsvar) FARM150 h2019.pdf](https://mitt.uib.no/files/2175930) — MED
+- [Sensorveiledning (langsvar) FARM150 h2019.pdf](https://mitt.uib.no/files/5194640) — MED
+- [Sensorveiledning (langsvar) FARM260 (ny) h2017.pdf](https://mitt.uib.no/files/2403870) — MED
+- [Sensorveiledning (langsvar) FARM260 (ny) h2017.pdf](https://mitt.uib.no/files/4435672) — MED
+- [Sensorveiledning (langsvar) FARM260 (ny) h2019.pdf](https://mitt.uib.no/files/2403891) — MED
+- [Sensorveiledning (langsvar) FARM260 (ny) h2019.pdf](https://mitt.uib.no/files/4435721) — MED
+- [Sensorveiledning (langsvar) FARM260 (ny) h2024.docx](https://mitt.uib.no/files/6315546) — MED
+- [Sensorveiledning (langsvar) FARM260 (ny) h2024.docx](https://mitt.uib.no/files/6746939) — MED
+- [Sensorveiledning (langsvar) FARM260 v2017.pdf](https://mitt.uib.no/files/4435673) — MED
+- [Sensorveiledning (langsvar) FARM260 v2017.pdf](https://mitt.uib.no/files/4435676) — MED
+- [Sensorveiledning (langsvar) FARM260 v2019.pdf](https://mitt.uib.no/files/2403892) — MED
+- [Sensorveiledning (langsvar) FARM260 v2019.pdf](https://mitt.uib.no/files/4435722) — MED
+- [Sensorveiledning (langsvar) FARM280 (ny) v2018.docx](https://mitt.uib.no/files/1427805) — MED
+- [Sensorveiledning (langsvar) FARM280 h2017.docx](https://mitt.uib.no/files/641608) — MED
+- [Sensorveiledning (langsvar) FARM280 h2021.pdf](https://mitt.uib.no/files/3917864) — MED
+- [Sensorveiledning (langsvar) MED2 v2018.docx](https://mitt.uib.no/files/1720015) — MED
+- [Sensorveiledning (langsvar) MED2 v2019.docx](https://mitt.uib.no/files/1864660) — MED
+- [Sensorveiledning (langsvar) MED3 (ny) v2021.docx](https://mitt.uib.no/files/3297236) — MED
+- [Sensorveiledning (langsvar) MED3 (ny) v2023.docx](https://mitt.uib.no/files/5269245) — MED
+- [sensorveiledning (Langsvar) MED3 H2021.pdf](https://mitt.uib.no/files/3919842) — MED
+- [Sensorveiledning (langsvar) MED4 (ny) h2017.docx](https://mitt.uib.no/files/913539) — MED
+- [Sensorveiledning (langsvar) MED4 (ny) h2018.docx](https://mitt.uib.no/files/1667690) — MED
+- [Sensorveiledning (langsvar) MED4 (ny) h2022.docx](https://mitt.uib.no/files/4658551) — MED
+- [Sensorveiledning (langsvar) MED4 (ny) h2024.pdf](https://mitt.uib.no/files/6241673) — MED
+- [Sensorveiledning (langsvar) MED4 (ny) h2025.pdf](https://mitt.uib.no/files/7245257) — MED
+- [Sensorveiledning (langsvar) MED4 v2017.docx](https://mitt.uib.no/files/396837) — MED
+- [Sensorveiledning (langsvar) MED4 v2024.pdf](https://mitt.uib.no/files/6072864) — MED
+- [Sensorveiledning (langsvar) MED4 v2025.pdf](https://mitt.uib.no/files/6938545) — MED
+- [Sensorveiledning (langsvar) MED4 v2026.docx](https://mitt.uib.no/files/7869764) — MED
+- [Sensorveiledning (langsvar) MEDOD1 (ny) v2023.docx](https://mitt.uib.no/files/4983361) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2016.docx](https://mitt.uib.no/files/377057) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2017.docx](https://mitt.uib.no/files/568528) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2018.pdf](https://mitt.uib.no/files/1677335) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2020.docx](https://mitt.uib.no/files/8208635) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2021.docx](https://mitt.uib.no/files/3884195) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2023.pdf](https://mitt.uib.no/files/5431918) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2024.pdf](https://mitt.uib.no/files/7688440) — MED
+- [Sensorveiledning (langsvar) MEDOD2 (ny) h2026.docx](https://mitt.uib.no/files/8082697) — MED
+- [Sensorveiledning (langsvar) MEDOD2 v2016.docx](https://mitt.uib.no/files/376472) — MED
+- [Sensorveiledning (langsvar) MEDOD2 v2017.docx](https://mitt.uib.no/files/372082) — MED
+- [Sensorveiledning (langsvar) MEDOD2 v2018.docx](https://mitt.uib.no/files/8208849) — MED
+- [Sensorveiledning (langsvar) NUTRFYS  h2021.pdf](https://mitt.uib.no/files/3917866) — MED
+- [Sensorveiledning (langsvar) OD1ANA h2017.doc](https://mitt.uib.no/files/641582) — MED
+- [Sensorveiledning (langsvar) OD1FYS og FARM280 (ny) v2018.docx](https://mitt.uib.no/files/1168865) — MED
+- [Sensorveiledning (langsvar) OD1FYS og NUTRFYS h2017.docx](https://mitt.uib.no/files/641587) — MED
+- [Sensorveiledning (langsvar) OD2ANA (ny) v2025.pdf](https://mitt.uib.no/files/6948559) — MED
+- [Sensorveiledning (langsvar) OD2FYS h2021.pdf](https://mitt.uib.no/files/3917865) — MED
+- [Sensorveiledning (langsvar) OD2FYS h2021.pdf](https://mitt.uib.no/files/3956119) — MED
+- [Sensorveiledning (langsvar) og MCQ med riktige svar, TPBAANA v2023.pdf](https://mitt.uib.no/files/4971176) — MED
+- [Sensorveiledning (langsvar) TPBAFYS (ny) h2017.pdf](https://mitt.uib.no/files/641609) — MED
+- [Sensorveiledning (langsvar) TPBAKBK høsten 2017.pdf](https://mitt.uib.no/files/641610) — MED
+- [Sensorveiledning (langsvar) TPBAKBK v2019.doc](https://mitt.uib.no/files/5296447) — MED
+- [Sensorveiledning (langsvar) TPBATANA h2025.docx](https://mitt.uib.no/files/7347059) — MED
+- [Sensorveiledning (langsvar), BMEDFYS h2025.docx](https://mitt.uib.no/files/7373327) — MED
+- [Sensorveiledning (langsvar), BMEDKRO (ny) h2025.pdf](https://mitt.uib.no/files/7740579) — MED
+- [Sensorveiledning (langsvar), FARM150 (ny) v2023.docx](https://mitt.uib.no/files/5194635) — MED
+- [Sensorveiledning (langsvar), FARM150 (ny) v2023.docx](https://mitt.uib.no/files/5194646) — MED
+- [Sensorveiledning (langsvar), FARM150 (ny) v2024.docx](https://mitt.uib.no/files/5897579) — MED
+- [Sensorveiledning (langsvar), FARM150 (ny) v2024.docx](https://mitt.uib.no/files/5897580) — MED
+- [Sensorveiledning (langsvar), FARM150 (ny) v2025.docx](https://mitt.uib.no/files/6713418) — MED
+- [Sensorveiledning (langsvar), FARM150 (ny) v2025.docx](https://mitt.uib.no/files/6943624) — MED
+- [Sensorveiledning (langsvar), FARM260 (ny) h2020.pdf](https://mitt.uib.no/files/4435739) — MED
+- [Sensorveiledning (langsvar), FARM260 (ny) h2020.pdf](https://mitt.uib.no/files/4435742) — MED
+- [Sensorveiledning (langsvar), FARM260 (ny) h2021.pdf](https://mitt.uib.no/files/4435813) — MED
+- [Sensorveiledning (langsvar), FARM260 (ny) h2021.pdf](https://mitt.uib.no/files/4435816) — MED
+- [Sensorveiledning (langsvar), FARM260 (ny) h2022.docx](https://mitt.uib.no/files/4584411) — MED
+- [Sensorveiledning (langsvar), FARM260 (ny) h2022.docx](https://mitt.uib.no/files/5057955) — MED
+- [Sensorveiledning (langsvar), FARM260 v2020.pdf](https://mitt.uib.no/files/4435740) — MED
+- [Sensorveiledning (langsvar), FARM260 v2020.pdf](https://mitt.uib.no/files/4435743) — MED
+- [Sensorveiledning (langsvar), FARM260 v2021.pdf](https://mitt.uib.no/files/4435812) — MED
+- [Sensorveiledning (langsvar), FARM260 v2021.pdf](https://mitt.uib.no/files/4435815) — MED
+- [Sensorveiledning (langsvar), FARM260 v2022.pdf](https://mitt.uib.no/files/4435863) — MED
+- [Sensorveiledning (langsvar), FARM260 v2022.pdf](https://mitt.uib.no/files/4435867) — MED
+- [Sensorveiledning (langsvar), FARM260 v2024.docx](https://mitt.uib.no/files/5946911) — MED
+- [Sensorveiledning (langsvar), FARM260 v2024.docx](https://mitt.uib.no/files/6746938) — MED
+- [Sensorveiledning (langsvar), FARM260 v2025.docx](https://mitt.uib.no/files/6838589) — MED
+- [Sensorveiledning (langsvar), FARM260 v2025.docx](https://mitt.uib.no/files/6838598) — MED
+- [Sensorveiledning (langsvar), FARM260 v2026.docx](https://mitt.uib.no/files/7740545) — MED
+- [Sensorveiledning (langsvar), FARM280 (ny) v2022.pdf](https://mitt.uib.no/files/4155376) — MED
+- [Sensorveiledning (langsvar), FARM280 (ny) v2025.pdf](https://mitt.uib.no/files/6710588) — MED
+- [Sensorveiledning (langsvar), FARM280 h2025.docx](https://mitt.uib.no/files/7373323) — MED
+- [Sensorveiledning (langsvar), MED2 (ny) h2022.docx](https://mitt.uib.no/files/4584408) — MED
+- [Sensorveiledning (langsvar), MED2 v2021.docx](https://mitt.uib.no/files/3486224) — MED
+- [Sensorveiledning (langsvar), MED2 v2022.pdf](https://mitt.uib.no/files/8209474) — MED
+- [Sensorveiledning (langsvar), MED3 (ny) v2022.pdf](https://mitt.uib.no/files/4173935) — MED
+- [Sensorveiledning (langsvar), MED3 h2022.docx](https://mitt.uib.no/files/4812881) — MED
+- [Sensorveiledning (langsvar), MED3 h2023.docx](https://mitt.uib.no/files/5672948) — MED
+- [Sensorveiledning (langsvar), MED3 høst 2025.docx](https://mitt.uib.no/files/7354829) — MED
+- [Sensorveiledning (langsvar), MED3 v2025.docx](https://mitt.uib.no/files/6732967) — MED
+- [Sensorveiledning (langsvar), MED4 (ny) h2021.pdf](https://mitt.uib.no/files/3791922) — MED
+- [Sensorveiledning (langsvar), MED4 (ny) h2023.pdf](https://mitt.uib.no/files/5432029) — MED
+- [Sensorveiledning (langsvar), MED4 v2021.pdf](https://mitt.uib.no/files/3481483) — MED
+- [Sensorveiledning (langsvar), MED4 v2022.pdf](https://mitt.uib.no/files/4481978) — MED
+- [Sensorveiledning (langsvar), MED4 v2023.pdf](https://mitt.uib.no/files/5194673) — MED
+- [Sensorveiledning (langsvar), MEDOD1 (ny) v2026.docx](https://mitt.uib.no/files/7644058) — MED
+- [Sensorveiledning (langsvar), MEDOD2 (ny) h2025.docx](https://mitt.uib.no/files/7254888) — MED
+- [Sensorveiledning (langsvar), MEDOD2 v2021.pdf](https://mitt.uib.no/files/3419279) — MED
+- [Sensorveiledning (langsvar), MEDOD2 v2026.docx](https://mitt.uib.no/files/7759898) — MED
+- [Sensorveiledning (langsvar), NUTRFYS (ny) v2022.pdf](https://mitt.uib.no/files/4155405) — MED
+- [Sensorveiledning (langsvar), NUTRFYS (ny) v2025.pdf](https://mitt.uib.no/files/6710551) — MED
+- [Sensorveiledning (langsvar), NUTRFYS h2025.docx](https://mitt.uib.no/files/7373313) — MED
+- [Sensorveiledning (langsvar), OD2FYS (ny) v2022.pdf](https://mitt.uib.no/files/4155387) — MED
+- [Sensorveiledning (langsvar), OD2FYS (ny) v2022.pdf](https://mitt.uib.no/files/4741455) — MED
+- [Sensorveiledning (langsvar), OD2FYS (ny) v2025.pdf](https://mitt.uib.no/files/6710545) — MED
+- [Sensorveiledning (langsvar), OD2FYS h2022.pdf](https://mitt.uib.no/files/4741394) — MED
+- [Sensorveiledning (langsvar), OD2FYS og NUTRFYS h2025.docx](https://mitt.uib.no/files/7454920) — MED
+- [Sensorveiledning (langsvar), TPBAANA (ny) v2024.docx](https://mitt.uib.no/files/6018292) — MED
+- [Sensorveiledning (langsvar), TPBAANA v2024.docx](https://mitt.uib.no/files/6018291) — MED
+- [Sensorveiledning (langsvar), TPBAFYS v2021.docx](https://mitt.uib.no/files/3482060) — MED
+- [Sensorveiledning (langsvar), TPBAFYS v2024.docx](https://mitt.uib.no/files/6032150) — MED
+- [Sensorveiledning (langsvarsoppgaver) BMED330 (ny) v2017.pdf](https://mitt.uib.no/files/1533564) — MED
+- [Sensorveiledning (langsvarsoppgaver) BMED330 (ny) v2018.pdf](https://mitt.uib.no/files/4068359) — MED
+- [Sensorveiledning (langsvarsoppgaver) BMED330 v2017.pdf](https://mitt.uib.no/files/1533565) — MED
+- [Sensorveiledning (langsvarsoppgaver) FARM150 (del 2) h2020.pdf](https://mitt.uib.no/files/3873711) — MED
+- [Sensorveiledning (langsvarsoppgaver) FARM150 (del 2) h2020.pdf](https://mitt.uib.no/files/5194641) — MED
+- [Sensorveiledning (langsvarsoppgaver) MED3 h2018.docx](https://mitt.uib.no/files/2157948) — MED
+- [Sensorveiledning (langsvarsoppgaver) MEDOD1 (ny) v2018.docx](https://mitt.uib.no/files/787693) — MED
+- [Sensorveiledning (langsvarsoppgaver) MEDOD1 (ny) v2025.docx](https://mitt.uib.no/files/7270029) — MED
+- [Sensorveiledning (langsvarsoppgaver) MEDOD2 v2019.docx](https://mitt.uib.no/files/2350220) — MED
+- [Sensorveiledning (langsvarsoppgaver) NUTRANA (ny) v2018.docx](https://mitt.uib.no/files/2148119) — MED
+- [Sensorveiledning (langsvarsoppgaver) OD1ANA (ny) v2018.docx](https://mitt.uib.no/files/1165113) — MED
+- [Sensorveiledning (langsvarsoppgaver) og MCQ med riktige svar, TPBAANA (ny) v2023 .docx](https://mitt.uib.no/files/5064437) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 (ny) v2020 ](https://mitt.uib.no/files/2599776) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 (ny) v2020.pdf](https://mitt.uib.no/files/5194642) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 (ny) v2026.docx](https://mitt.uib.no/files/7689478) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2021.pdf](https://mitt.uib.no/files/3968141) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2021.pdf](https://mitt.uib.no/files/5194643) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2022.pdf](https://mitt.uib.no/files/4741169) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2022.pdf](https://mitt.uib.no/files/5194645) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2023.pdf](https://mitt.uib.no/files/5666483) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2025.docx](https://mitt.uib.no/files/7371902) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM150 h2025.docx](https://mitt.uib.no/files/7371906) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM260 (ny) h2023.pdf](https://mitt.uib.no/files/5431693) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM260 (ny) h2023.pdf](https://mitt.uib.no/files/5750627) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM260 v2023.pdf](https://mitt.uib.no/files/5096494) — MED
+- [Sensorveiledning (langsvarsoppgaver), FARM260 v2023.pdf](https://mitt.uib.no/files/5096497) — MED
+- [Sensorveiledning (langsvarsoppgaver), MEDOD1 h2025.docx](https://mitt.uib.no/files/7454919) — MED
+- [Sensorveiledning (langsvarsoppgaver), NUTRANA og BMED201 h2025.docx](https://mitt.uib.no/files/7317668) — MED
+- [Sensorveiledning (langsvarsoppgaver), NUTRANA og BMED201 h2025.docx](https://mitt.uib.no/files/7317674) — MED
+- [Sensorveiledning (langsvarsoppgaver), OD2ANA (ny) v2026.pdf](https://mitt.uib.no/files/7685003) — MED
+- [Sensorveiledning (langsvarsoppgaver), OD2ANA h2025.docx](https://mitt.uib.no/files/7406156) — MED
+- [Sensorveiledning 2018 (002).docx](https://mitt.uib.no/files/1755547) — MED
+- [Sensorveiledning 2020.pdf](https://mitt.uib.no/files/3411621) — MED
+- [Sensorveiledning 2022_OD2BM_juni.pdf](https://mitt.uib.no/files/4403194) — MED
+- [Sensorveiledning Blod.docx](https://mitt.uib.no/files/1195972) — MED
+- [Sensorveiledning BMED252 (ny) v2016.pdf](https://mitt.uib.no/files/201634) — MED
+- [Sensorveiledning BMED330 (langsvarsoppgaver) v2018.pdf](https://mitt.uib.no/files/4068360) — MED
+- [Sensorveiledning BMED330 (ny) v2020.docx](https://mitt.uib.no/files/2599791) — MED
+- [Sensorveiledning BMED330 v2016.docx](https://mitt.uib.no/files/47781) — MED
+- [Sensorveiledning BMED330 v2020.docx](https://mitt.uib.no/files/2433218) — MED
+- [Sensorveiledning BMED331 (ny) h2016.docx](https://mitt.uib.no/files/182344) — MED
+- [Sensorveiledning BMED331 (ny) h2018.docx](https://mitt.uib.no/files/1568130) — MED
+- [Sensorveiledning BMED331 v2016.docx](https://mitt.uib.no/files/45133) — MED
+- [Sensorveiledning BMED331 v2017.docx](https://mitt.uib.no/files/375636) — MED
+- [Sensorveiledning BMED331 v2018.docx](https://mitt.uib.no/files/1083016) — MED
+- [Sensorveiledning BMED331 v2019 (langsvar).docx](https://mitt.uib.no/files/2600816) — MED
+- [Sensorveiledning BMED340 v2016.pdf](https://mitt.uib.no/files/321893) — MED
+- [Sensorveiledning BMED340 v2017.pdf](https://mitt.uib.no/files/372210) — MED
+- [Sensorveiledning BMED340 v2018.pdf](https://mitt.uib.no/files/1601295) — MED
+- [Sensorveiledning BMED340 v2019.pdf](https://mitt.uib.no/files/1670358) — MED
+- [Sensorveiledning BMED340 v2020.pdf](https://mitt.uib.no/files/3159905) — MED
+- [Sensorveiledning BMED340 v2021.pdf](https://mitt.uib.no/files/3425313) — MED
+- [Sensorveiledning BMED340 v2023.pdf](https://mitt.uib.no/files/5073569) — MED
+- [Sensorveiledning BMEDKRO (ny) h2026.docx](https://mitt.uib.no/files/8060352) — MED
+- [Sensorveiledning del 1 NUTR203 H20-med korreksjon.pdf](https://mitt.uib.no/files/3389920) — MED
+- [Sensorveiledning del 2 NUTR203 H20.pdf](https://mitt.uib.no/files/3389921) — MED
+- [Sensorveiledning del B 2017.pdf](https://mitt.uib.no/files/2074826) — MED
+- [Sensorveiledning del D Kasus 1 kario kull 4 2017.pdf](https://mitt.uib.no/files/2074827) — MED
+- [Sensorveiledning del D kasus 2 kariologi kull 4 2017endeleg.pdf](https://mitt.uib.no/files/2074828) — MED
+- [Sensorveiledning deler av eksamen kario 2017.docx.pdf](https://mitt.uib.no/files/900803) — MED
+- [Sensorveiledning eksamen Nucli 352 Høst 2013.pdf](https://mitt.uib.no/files/19128) — MED
+- [Sensorveiledning eksamen NUCLI357 H23.pdf](https://mitt.uib.no/files/5657828) — MED
+- [Sensorveiledning eksamen NUCLI357 H25.pdf](https://mitt.uib.no/files/7427972) — MED
+- [Sensorveiledning Eksamen NUTR100 V20.pdf](https://mitt.uib.no/files/2529932) — MED
+- [Sensorveiledning Eksamen NUTR100 V21.pdf](https://mitt.uib.no/files/3365460) — MED
+- [Sensorveiledning eksamen NUTR150 V25-engelsk.pdf](https://mitt.uib.no/files/6895370) — MED
+- [Sensorveiledning eksamen NUTR150 V25-norsk.pdf](https://mitt.uib.no/files/6895371) — MED
+- [Sensorveiledning eksamen NUTR150 V26.pdf](https://mitt.uib.no/files/7821044) — MED
+- [Sensorveiledning ENDO.docx](https://mitt.uib.no/files/1195973) — MED
+- [Sensorveiledning FARM150 (ny) v2015.docx](https://mitt.uib.no/files/17347) — MED
+- [Sensorveiledning FARM150 (ny) v2016.docx](https://mitt.uib.no/files/605465) — MED
+- [Sensorveiledning FARM150 h2015.docx](https://mitt.uib.no/files/605464) — MED
+- [Sensorveiledning FARM150 h2016.docx](https://mitt.uib.no/files/227125) — MED
+- [Sensorveiledning FARM150 h2016.docx](https://mitt.uib.no/files/261637) — MED
+- [Sensorveiledning FARM260 (ny) h2012.pdf](https://mitt.uib.no/files/4435638) — MED
+- [Sensorveiledning FARM260 (ny) h2013.pdf](https://mitt.uib.no/files/4435642) — MED
+- [Sensorveiledning FARM260 (ny) h2014.pdf](https://mitt.uib.no/files/4435648) — MED
+- [Sensorveiledning FARM260 (ny) h2016.docx](https://mitt.uib.no/files/681589) — MED
+- [Sensorveiledning FARM260 (ny) h2016.pdf](https://mitt.uib.no/files/4435667) — MED
+- [Sensorveiledning FARM260 (ny) h2018 (langsvar).pdf](https://mitt.uib.no/files/2403886) — MED
+- [Sensorveiledning FARM260 (ny) h2018 (langsvar).pdf](https://mitt.uib.no/files/4435686) — MED
+- [Sensorveiledning FARM260 (ny) h2025docx.docx](https://mitt.uib.no/files/7230470) — MED
+- [Sensorveiledning FARM260 (ny) h2025docx.docx](https://mitt.uib.no/files/7230500) — MED
+- [Sensorveiledning FARM260 h2011.pdf](https://mitt.uib.no/files/4435635) — MED
+- [Sensorveiledning FARM260 v2013.pdf](https://mitt.uib.no/files/4435641) — MED
+- [Sensorveiledning FARM260 v2014.pdf](https://mitt.uib.no/files/4435647) — MED
+- [Sensorveiledning FARM260 v2015.pdf](https://mitt.uib.no/files/4435652) — MED
+- [Sensorveiledning FARM260 v2016.docx](https://mitt.uib.no/files/681590) — MED
+- [Sensorveiledning FARM260 v2016.pdf](https://mitt.uib.no/files/4435666) — MED
+- [Sensorveiledning FARM260 v2018 (langsvar).pdf](https://mitt.uib.no/files/2403887) — MED
+- [Sensorveiledning FARM260 v2018 (langsvar).pdf](https://mitt.uib.no/files/4435687) — MED
+- [Sensorveiledning FARM280 (ny) v2016.pdf](https://mitt.uib.no/files/201633) — MED
+- [Sensorveiledning FARM280 (ny) v2017.pdf](https://mitt.uib.no/files/294611) — MED
+- [Sensorveiledning FARM280 (ny) v2020.pdf](https://mitt.uib.no/files/2373853) — MED
+- [Sensorveiledning FARM280 (ny) v2021.pdf](https://mitt.uib.no/files/3234966) — MED
+- [Sensorveiledning FARM280 h2016.pdf](https://mitt.uib.no/files/218221) — MED
+- [Sensorveiledning FARM280 h2019 .pdf](https://mitt.uib.no/files/2179758) — MED
+- [Sensorveiledning FARM280 h2020.pdf](https://mitt.uib.no/files/3017826) — MED
+- [Sensorveiledning FARM280, langsvar, ekstra eksamen v2021.pdf](https://mitt.uib.no/files/3365604) — MED
+- [Sensorveiledning flervalgsspørsmål, BMED331 (ny) h2017.pdf](https://mitt.uib.no/files/520935) — MED
+- [Sensorveiledning flervalgsspørsmål, NOM h2015.pdf](https://mitt.uib.no/files/536930) — MED
+- [Sensorveiledning flervalgsspørsmål, NOM h2016.pdf](https://mitt.uib.no/files/536931) — MED
+- [sensorveiledning for eksamen MED12 v2019.pdf](https://mitt.uib.no/files/4263899) — MED
+- [Sensorveiledning gero 2019.docx](https://mitt.uib.no/files/4246654) — MED
+- [Sensorveiledning gero delen 2025.pdf](https://mitt.uib.no/files/7661941) — MED
+- [Sensorveiledning gynobst H24.docx](https://mitt.uib.no/files/6473394) — MED
+- [Sensorveiledning h2020 kortsvar 51-52-78-79-81-83.pdf](https://mitt.uib.no/files/3713913) — MED
+- [Sensorveiledning h2020 kortsvar 66-67-70-75.pdf](https://mitt.uib.no/files/3344810) — MED
+- [Sensorveiledning høsten 2019.docx](https://mitt.uib.no/files/2158433) — MED
+- [Sensorveiledning innlevering NUCLI357 H23.pdf](https://mitt.uib.no/files/5467319) — MED
+- [Sensorveiledning Konte FARM293_2019.docx](https://mitt.uib.no/files/1962506) — MED
+- [Sensorveiledning kortsvar H24.pdf](https://mitt.uib.no/files/6454987) — MED
+- [Sensorveiledning kortsvar Konteeksamen NUTR203 V20.pdf](https://mitt.uib.no/files/2380502) — MED
+- [Sensorveiledning kortsvar MED7 H24.pdf](https://mitt.uib.no/files/6468029) — MED
+- [Sensorveiledning kortsvar MED7 v17.pdf](https://mitt.uib.no/files/394391) — MED
+- [Sensorveiledning kortsvar MED8 H23.pdf](https://mitt.uib.no/files/5788761) — MED
+- [Sensorveiledning kortsvar NUTR203 H19.pdf](https://mitt.uib.no/files/2225708) — MED
+- [Sensorveiledning kortsvar NUTR203 H22.pdf](https://mitt.uib.no/files/4800097) — MED
+- [Sensorveiledning kortsvar NUTR203 V22.pdf](https://mitt.uib.no/files/4299354) — MED
+- [Sensorveiledning kortsvar NUTR203 V23.pdf](https://mitt.uib.no/files/4937100) — MED
+- [Sensorveiledning kortsvar NUTR245 H19.pdf](https://mitt.uib.no/files/2226493) — MED
+- [Sensorveiledning kortsvar.pdf](https://mitt.uib.no/files/3943891) — MED
+- [Sensorveiledning kortsvarsoppgave farmakologi MED5 H17.pdf](https://mitt.uib.no/files/694314) — MED
+- [Sensorveiledning KOS 2016.pdf](https://mitt.uib.no/files/452345) — MED
+- [Sensorveiledning KOS eksamen 2017 ord.pdf](https://mitt.uib.no/files/1637416) — MED
+- [Sensorveiledning KOSX 20.pdf](https://mitt.uib.no/files/3378313) — MED
+- [Sensorveiledning KOSX 2018 histo.pdf](https://mitt.uib.no/files/1637419) — MED
+- [Sensorveiledning KOSX 2019 ord A.pdf](https://mitt.uib.no/files/1804090) — MED
+- [Sensorveiledning KOSX mai 2018 B.pdf](https://mitt.uib.no/files/1637420) — MED
+- [Sensorveiledning langsvarsoppgaver, BMED331 (ny) h2017.docx](https://mitt.uib.no/files/520934) — MED
+- [Sensorveiledning MED12  VÅR20 oppdatert.pdf](https://mitt.uib.no/files/5902169) — MED
+- [Sensorveiledning MED12 H22.pdf](https://mitt.uib.no/files/4699074) — MED
+- [Sensorveiledning MED12 H23 uten fasit.docx](https://mitt.uib.no/files/6161118) — MED
+- [Sensorveiledning MED12 H23.pdf](https://mitt.uib.no/files/5544391) — MED
+- [Sensorveiledning MED12 H25.pdf](https://mitt.uib.no/files/7373324) — MED
+- [Sensorveiledning MED12 høst 2020.pdf](https://mitt.uib.no/files/3031550) — MED
+- [Sensorveiledning MED12 HØST19.pdf](https://mitt.uib.no/files/2204933) — MED
+- [Sensorveiledning MED12 V22.pdf](https://mitt.uib.no/files/4281757) — MED
+- [Sensorveiledning MED12 V24_Uten fasit (begge målformer)docx.pdf](https://mitt.uib.no/files/7228507) — MED
+- [Sensorveiledning MED12 V24.pdf](https://mitt.uib.no/files/6002839) — MED
+- [Sensorveiledning MED12 V26.docx](https://mitt.uib.no/files/7847395) — MED
+- [Sensorveiledning MED2 (ny) h2020 (langsvar).docx](https://mitt.uib.no/files/2950088) — MED
+- [Sensorveiledning MED2 (pasientkontakt) v2016.docx](https://mitt.uib.no/files/376923) — MED
+- [Sensorveiledning MED2 (Pasientkontakt) v2017.docx](https://mitt.uib.no/files/396836) — MED
+- [Sensorveiledning MED2 v2020 (langsvar).docx](https://mitt.uib.no/files/2600826) — MED
+- [Sensorveiledning MED3 (langsvarsoppgaver) h2016.pdf](https://mitt.uib.no/files/287946) — MED
+- [Sensorveiledning MED3 (langsvarsoppgaver) h2017.docx](https://mitt.uib.no/files/673357) — MED
+- [Sensorveiledning MED3 (ny) (langsvarsoppgaver) v2017.pdf](https://mitt.uib.no/files/485725) — MED
+- [Sensorveiledning MED3 (ny) (langsvarsoppgaver) v2018.docx](https://mitt.uib.no/files/1380759) — MED
+- [Sensorveiledning MED3 (ny) v2020 (langsvar).docx](https://mitt.uib.no/files/2599760) — MED
+- [Sensorveiledning MED3 (ny) v2024.docx](https://mitt.uib.no/files/5897425) — MED
+- [Sensorveiledning MED3 h2019.docx](https://mitt.uib.no/files/2208097) — MED
+- [Sensorveiledning MED3 h2020 kortsvar](https://mitt.uib.no/files/3876387) — MED
+- [Sensorveiledning MED3 h2024.pdf](https://mitt.uib.no/files/6485278) — MED
+- [Sensorveiledning MED4 (ny) h2019.docx](https://mitt.uib.no/files/2098865) — MED
+- [Sensorveiledning MED4 (ny) h2020.docx](https://mitt.uib.no/files/2950112) — MED
+- [Sensorveiledning MED4 v2020.docx](https://mitt.uib.no/files/2599687) — MED
+- [Sensorveiledning MED7 konte vår2020](https://mitt.uib.no/files/2325302) — MED
+- [Sensorveiledning MED7 konte.docx](https://mitt.uib.no/files/2108762) — MED
+- [SENSORVEILEDNING MED7 SKRIFTLIG EKSAMEN VÅR 2019.docx](https://mitt.uib.no/files/1793482) — MED
+- [Sensorveiledning MED7 skriftlig eksamen vår 2022.pdf](https://mitt.uib.no/files/4311654) — MED
+- [Sensorveiledning MED7 vår.pdf](https://mitt.uib.no/files/6049712) — MED
+- [Sensorveiledning MED8 H22.pdf](https://mitt.uib.no/files/4914099) — MED
+- [Sensorveiledning MED8 kortsvar V22.pdf](https://mitt.uib.no/files/4209692) — MED
+- [Sensorveiledning MED8 V24.pdf](https://mitt.uib.no/files/6000690) — MED
+- [Sensorveiledning MED8_ V2020.docx](https://mitt.uib.no/files/2587589) — MED
+- [Sensorveiledning MEDOD1 (ny) v2019 (langsvar).docx](https://mitt.uib.no/files/2098884) — MED
+- [Sensorveiledning MEDOD2 (ny) h2019.docx](https://mitt.uib.no/files/2350221) — MED
+- [Sensorveiledning MEDOD2 v2020 (langsvar).docx](https://mitt.uib.no/files/2599686) — MED
+- [Sensorveiledning NOM (ny) v2013.pdf](https://mitt.uib.no/files/536941) — MED
+- [Sensorveiledning NOM (ny) v2014.docx](https://mitt.uib.no/files/536951) — MED
+- [Sensorveiledning NOM h2013.pdf](https://mitt.uib.no/files/536942) — MED
+- [Sensorveiledning NOM h2014.docx](https://mitt.uib.no/files/536952) — MED
+- [Sensorveiledning NUCLI351 H19.docx](https://mitt.uib.no/files/2077442) — MED
+- [Sensorveiledning NUCLI351 H20.pdf](https://mitt.uib.no/files/2994823) — MED
+- [Sensorveiledning NUCLI351 H21.pdf](https://mitt.uib.no/files/3798339) — MED
+- [Sensorveiledning NUCLI351 H22.pdf](https://mitt.uib.no/files/4632092) — MED
+- [Sensorveiledning NUCLI352 V20.docx](https://mitt.uib.no/files/2467660) — MED
+- [Sensorveiledning NUCLI352 V21.pdf](https://mitt.uib.no/files/6723688) — MED
+- [Sensorveiledning NUCLI352 V22.pdf](https://mitt.uib.no/files/4216440) — MED
+- [Sensorveiledning NUCLI352 V23.pdf](https://mitt.uib.no/files/6684537) — MED
+- [Sensorveiledning NUCLI352 V24.pdf](https://mitt.uib.no/files/6684535) — MED
+- [Sensorveiledning NUCLI352 V25.pdf](https://mitt.uib.no/files/6782211) — MED
+- [Sensorveiledning NUCLI352 V26.pdf](https://mitt.uib.no/files/7676715) — MED
+- [Sensorveiledning NUCLI352-V18.pdf](https://mitt.uib.no/files/754575) — MED
+- [Sensorveiledning NUCLI353 H19.docx](https://mitt.uib.no/files/2204950) — MED
+- [Sensorveiledning NUCLI353 H20.pdf](https://mitt.uib.no/files/3060771) — MED
+- [Sensorveiledning NUCLI353 H21.pdf](https://mitt.uib.no/files/3952773) — MED
+- [Sensorveiledning NUCLI353 H22.pdf](https://mitt.uib.no/files/4808770) — MED
+- [Sensorveiledning NUTR100 V22.pdf](https://mitt.uib.no/files/4313612) — MED
+- [Sensorveiledning NUTR100 V23.pdf](https://mitt.uib.no/files/5179567) — MED
+- [Sensorveiledning NUTR100 V25.pdf](https://mitt.uib.no/files/6859806) — MED
+- [Sensorveiledning NUTR100 V26.pdf](https://mitt.uib.no/files/7811557) — MED
+- [Sensorveiledning NUTR115 V20.pdf](https://mitt.uib.no/files/2564704) — MED
+- [Sensorveiledning NUTR115 V22.pdf](https://mitt.uib.no/files/4313515) — MED
+- [Sensorveiledning NUTR115 V23.pdf](https://mitt.uib.no/files/5179353) — MED
+- [Sensorveiledning NUTR115 V25.pdf](https://mitt.uib.no/files/6915324) — MED
+- [Sensorveiledning NUTR115 V26.pdf](https://mitt.uib.no/files/7877118) — MED
+- [Sensorveiledning NUTR203 H21.pdf](https://mitt.uib.no/files/3965014) — MED
+- [Sensorveiledning NUTR203 H23.pdf](https://mitt.uib.no/files/5664622) — MED
+- [Sensorveiledning NUTR203 H24.pdf](https://mitt.uib.no/files/7363740) — MED
+- [Sensorveiledning NUTR203 H25.pdf](https://mitt.uib.no/files/7432223) — MED
+- [Sensorveiledning NUTR204 V22.pdf](https://mitt.uib.no/files/4320127) — MED
+- [Sensorveiledning NUTR204 V23.pdf](https://mitt.uib.no/files/5074232) — MED
+- [Sensorveiledning NUTR204 V24.pdf](https://mitt.uib.no/files/7817786) — MED
+- [Sensorveiledning NUTR204 V25.pdf](https://mitt.uib.no/files/6915525) — MED
+- [Sensorveiledning NUTR204 V26.pdf](https://mitt.uib.no/files/7877103) — MED
+- [Sensorveiledning NUTR230 H20.pdf](https://mitt.uib.no/files/2867556) — MED
+- [Sensorveiledning NUTR230 H21.pdf](https://mitt.uib.no/files/3736817) — MED
+- [Sensorveiledning NUTR230 H22.pdf](https://mitt.uib.no/files/5288754) — MED
+- [Sensorveiledning NUTR230 H23.pdf](https://mitt.uib.no/files/5376272) — MED
+- [Sensorveiledning NUTR230 H25.pdf](https://mitt.uib.no/files/7157617) — MED
+- [Sensorveiledning NUTR230 H26.pdf](https://mitt.uib.no/files/8137976) — MED
+- [Sensorveiledning NUTR244 H22.pdf](https://mitt.uib.no/files/4731971) — MED
+- [Sensorveiledning NUTR244 H23.pdf](https://mitt.uib.no/files/5574516) — MED
+- [Sensorveiledning NUTR244 H25.pdf](https://mitt.uib.no/files/7354813) — MED
+- [Sensorveiledning NUTR245 H20.pdf](https://mitt.uib.no/files/3173121) — MED
+- [Sensorveiledning NUTR245 H21-engelsk.pdf](https://mitt.uib.no/files/4041544) — MED
+- [Sensorveiledning NUTR245 H21.pdf](https://mitt.uib.no/files/4041543) — MED
+- [Sensorveiledning NUTR245 V22.pdf](https://mitt.uib.no/files/4165648) — MED
+- [Sensorveiledning NUTRANA (langsvar) høsten 2017.docx](https://mitt.uib.no/files/681681) — MED
+- [Sensorveiledning NUTRANA (ny) v2016.docx](https://mitt.uib.no/files/184583) — MED
+- [Sensorveiledning NUTRANA (ny) v2017.docx](https://mitt.uib.no/files/303241) — MED
+- [Sensorveiledning NUTRANA (ny) v2019.docx](https://mitt.uib.no/files/2148124) — MED
+- [Sensorveiledning NUTRANA h2015.doc](https://mitt.uib.no/files/184589) — MED
+- [Sensorveiledning NUTRANA h2016 bm.docx](https://mitt.uib.no/files/227124) — MED
+- [Sensorveiledning NUTRANA h2018.docx](https://mitt.uib.no/files/2148120) — MED
+- [Sensorveiledning NUTRANA høst 2019.docx](https://mitt.uib.no/files/2179984) — MED
+- [Sensorveiledning NUTRFYS (ny) v2016.pdf](https://mitt.uib.no/files/201629) — MED
+- [Sensorveiledning NUTRFYS (ny) v2020.pdf](https://mitt.uib.no/files/2373851) — MED
+- [Sensorveiledning NUTRFYS h2016.pdf](https://mitt.uib.no/files/218219) — MED
+- [Sensorveiledning NUTRFYS h2019  .pdf](https://mitt.uib.no/files/2179748) — MED
+- [Sensorveiledning NUTRFYS h2020.pdf](https://mitt.uib.no/files/3017831) — MED
+- [Sensorveiledning NUTRFYS, langsvar, ekstra eksamen v2021.pdf](https://mitt.uib.no/files/3365608) — MED
+- [Sensorveiledning ny eksamen høst 2023.pdf](https://mitt.uib.no/files/6247509) — MED
+- [Sensorveiledning OD1ANA (ny) v2016.docx](https://mitt.uib.no/files/184568) — MED
+- [Sensorveiledning OD1ANA (ny) v2019.pdf](https://mitt.uib.no/files/1667854) — MED
+- [Sensorveiledning OD1ANA h2015.docx](https://mitt.uib.no/files/212032) — MED
+- [Sensorveiledning OD1ANA h2016.docx](https://mitt.uib.no/files/227123) — MED
+- [Sensorveiledning OD1ANA h2019.pdf](https://mitt.uib.no/files/2204918) — MED
+- [Sensorveiledning OD1ANA h2020.pdf](https://mitt.uib.no/files/3020583) — MED
+- [Sensorveiledning OD1ANA h2021.pdf](https://mitt.uib.no/files/3954112) — MED
+- [Sensorveiledning OD1FYS (ny) v2017.pdf](https://mitt.uib.no/files/294608) — MED
+- [Sensorveiledning OD1FYS (ny) v2020.pdf](https://mitt.uib.no/files/2373852) — MED
+- [Sensorveiledning OD1FYS (ny) v2021.pdf](https://mitt.uib.no/files/3234964) — MED
+- [Sensorveiledning OD1FYS h2016.pdf](https://mitt.uib.no/files/218220) — MED
+- [Sensorveiledning OD1FYS h2019 .pdf](https://mitt.uib.no/files/2179778) — MED
+- [Sensorveiledning OD1FYS h2020.pdf](https://mitt.uib.no/files/3017819) — MED
+- [Sensorveiledning OD1ORBI2 (ny) 2021.pdf](https://mitt.uib.no/files/3467546) — MED
+- [Sensorveiledning OD1ORBI2 (ny) v2017.pdf](https://mitt.uib.no/files/710792) — MED
+- [Sensorveiledning OD1ORBI2 (ny) v2020.pdf](https://mitt.uib.no/files/2620240) — MED
+- [Sensorveiledning OD1ORBI2 v2016.pdf](https://mitt.uib.no/files/262998) — MED
+- [Sensorveiledning OD1ORBI2 v2017.pdf](https://mitt.uib.no/files/686152) — MED
+- [Sensorveiledning OD1ORBI2 v2018.pdf](https://mitt.uib.no/files/791799) — MED
+- [Sensorveiledning OD1ORBI2 v2019.pdf](https://mitt.uib.no/files/1626006) — MED
+- [Sensorveiledning OD1ORBI2 v2020.pdf](https://mitt.uib.no/files/2436640) — MED
+- [Sensorveiledning OD1ORBI2 v2021.pdf](https://mitt.uib.no/files/3467545) — MED
+- [Sensorveiledning OD2ANA (ny) v2023.pdf](https://mitt.uib.no/files/5236816) — MED
+- [Sensorveiledning OD2ANA (ny) v2025.pdf](https://mitt.uib.no/files/7002765) — MED
+- [Sensorveiledning OD2ANA 2023 h2023](https://mitt.uib.no/files/6395612) — MED
+- [Sensorveiledning OD2BIM vår 2020-1.pdf](https://mitt.uib.no/files/3454193) — MED
+- [Sensorveiledning OD2BIM VÅR 22.pdf](https://mitt.uib.no/files/4403231) — MED
+- [Sensorveiledning OD2ORBI v2022.pdf](https://mitt.uib.no/files/4177776) — MED
+- [Sensorveiledning OD3RØNT 2025_til stud.pdf](https://mitt.uib.no/files/7555318) — MED
+- [Sensorveiledning OD4TEMA_2025_tekstoppgaver.pdf](https://mitt.uib.no/files/6871003) — MED
+- [Sensorveiledning oppg 4 2018.pdf](https://mitt.uib.no/files/2915050) — MED
+- [Sensorveiledning pediatri H24.docx](https://mitt.uib.no/files/6473395) — MED
+- [Sensorveiledning Plastikk og småkirurgi.docx](https://mitt.uib.no/files/1598619) — MED
+- [Sensorveiledning rapport NUTR150 V23.pdf](https://mitt.uib.no/files/5119057) — MED
+- [Sensorveiledning rapport NUTR150 V24.pdf](https://mitt.uib.no/files/7795233) — MED
+- [Sensorveiledning rapport NUTR150 V25.pdf](https://mitt.uib.no/files/6831706) — MED
+- [Sensorveiledning rapport NUTR150 V26.pdf](https://mitt.uib.no/files/7692096) — MED
+- [Sensorveiledning skriftlig eksamen MED12 V23 uten fasit.docx](https://mitt.uib.no/files/6161119) — MED
+- [Sensorveiledning skriftlig eksamen MED12 V23.pdf](https://mitt.uib.no/files/5113676) — MED
+- [Sensorveiledning Skriftlig eksamen MED12_V25 Uten fasit.pdf](https://mitt.uib.no/files/7228509) — MED
+- [Sensorveiledning Skriftlig eksamen MED12_V25.docx](https://mitt.uib.no/files/6903123) — MED
+- [Sensorveiledning stud_ TPBARØNnov 24.pdf](https://mitt.uib.no/files/7190201) — MED
+- [sensorveiledning tpbaalm 2022.pdf](https://mitt.uib.no/files/5098213) — MED
+- [Sensorveiledning TPBAANA (ny) h2016.pdf](https://mitt.uib.no/files/193970) — MED
+- [Sensorveiledning TPBAANA (ny) h2017.docx](https://mitt.uib.no/files/568049) — MED
+- [Sensorveiledning TPBAANA (ny) v2018 (langsvar).docx](https://mitt.uib.no/files/1603288) — MED
+- [Sensorveiledning TPBAANA (ny) v2019 (langsvar).docx](https://mitt.uib.no/files/1603847) — MED
+- [Sensorveiledning TPBAANA (ny) v2020.docx](https://mitt.uib.no/files/2599701) — MED
+- [Sensorveiledning TPBAANA h2019 (langsvar).docx](https://mitt.uib.no/files/2266199) — MED
+- [Sensorveiledning TPBAANA v2016.pdf](https://mitt.uib.no/files/128560) — MED
+- [Sensorveiledning TPBAANA v2018.pdf](https://mitt.uib.no/files/1603866) — MED
+- [Sensorveiledning TPBAANA v2020.docx](https://mitt.uib.no/files/2599702) — MED
+- [Sensorveiledning TPBAANA v2021.docx](https://mitt.uib.no/files/3296762) — MED
+- [Sensorveiledning TPBAFYS (langsvarsoppgave) v2018.docx](https://mitt.uib.no/files/1605780) — MED
+- [Sensorveiledning TPBAFYS (langsvarsoppgaver) v2017 .pdf](https://mitt.uib.no/files/391974) — MED
+- [Sensorveiledning TPBAFYS (ny) h2016.docx](https://mitt.uib.no/files/182337) — MED
+- [Sensorveiledning TPBAFYS v2016.pdf ](https://mitt.uib.no/files/54494) — MED
+- [Sensorveiledning TPBAFYS v2019.docx](https://mitt.uib.no/files/2072831) — MED
+- [Sensorveiledning TPBAFYS v2020 (langsvar).docx](https://mitt.uib.no/files/2600834) — MED
+- [Sensorveiledning TPBAKBK (langsvar) h2018.doc](https://mitt.uib.no/files/5296434) — MED
+- [Sensorveiledning TPBAKBK (ny) v2016.pdf](https://mitt.uib.no/files/227127) — MED
+- [Sensorveiledning TPBAKBK (ny) v2017.doc](https://mitt.uib.no/files/303207) — MED
+- [Sensorveiledning TPBAKBK (ny) v2018 (langsvaroppgaver).doc](https://mitt.uib.no/files/5296440) — MED
+- [Sensorveiledning TPBAKBK h2015.doc](https://mitt.uib.no/files/98706) — MED
+- [Sensorveiledning TPBAKBK h2016.pdf](https://mitt.uib.no/files/227122) — MED
+- [Sensorveiledning TPLBA KOSX høst 20.pdf](https://mitt.uib.no/files/3874865) — MED
+- [Sensorveiledning TPLKOS høst 15.pdf](https://mitt.uib.no/files/452342) — MED
+- [Sensorveiledning TPLKOS høst 17.pdf](https://mitt.uib.no/files/2133257) — MED
+- [Sensorveiledning Urologi.docx](https://mitt.uib.no/files/1598616) — MED
+- [Sensorveiledning_BMED252_(ny)_v2014_bm.pdf](https://mitt.uib.no/files/17140) — MED
+- [Sensorveiledning_BMED252_h2013.pdf](https://mitt.uib.no/files/17139) — MED
+- [Sensorveiledning_BMED252_h2014.pdf](https://mitt.uib.no/files/17141) — MED
+- [Sensorveiledning_BMED252_h2015_bm.pdf](https://mitt.uib.no/files/17142) — MED
+- [Sensorveiledning_BMED330_(ny)_v2013.docx](https://mitt.uib.no/files/17079) — MED
+- [Sensorveiledning_BMED330_(ny)_v2015.doc](https://mitt.uib.no/files/17081) — MED
+- [Sensorveiledning_BMED330_v2012.doc](https://mitt.uib.no/files/17077) — MED
+- [Sensorveiledning_BMED330_v2014_eng.docx](https://mitt.uib.no/files/17080) — MED
+- [Sensorveiledning_BMED330_v2015.docx](https://mitt.uib.no/files/17082) — MED
+- [Sensorveiledning_BMED331_(ny)_h2015.docx](https://mitt.uib.no/files/17089) — MED
+- [Sensorveiledning_BMED331_v2012.doc](https://mitt.uib.no/files/17086) — MED
+- [Sensorveiledning_BMED331_v2013.pdf](https://mitt.uib.no/files/17087) — MED
+- [Sensorveiledning_BMED331_v2014.docx](https://mitt.uib.no/files/17088) — MED
+- [Sensorveiledning_BMED331_v2015.docx](https://mitt.uib.no/files/17090) — MED
+- [sensorveiledning_Eksam_skriflig_OD1ANA_Vaar_2012inal_.doc](https://mitt.uib.no/files/17181) — MED
+- [Sensorveiledning_Eksamen 15.12.17.pdf](https://mitt.uib.no/files/654002) — MED
+- [Sensorveiledning_Eksamenssporsmaal_bokmaal_2012.docx](https://mitt.uib.no/files/17132) — MED
+- [Sensorveiledning_FARM150_(ny)_v2011.pdf](https://mitt.uib.no/files/16767) — MED
+- [Sensorveiledning_FARM150_(ny)_v2011.pdf](https://mitt.uib.no/files/17340) — MED
+- [Sensorveiledning_FARM150_(ny)_v2014.docx](https://mitt.uib.no/files/16768) — MED
+- [Sensorveiledning_FARM150_(ny)_v2014.docx](https://mitt.uib.no/files/17345) — MED
+- [Sensorveiledning_FARM150_h2013.docx](https://mitt.uib.no/files/16769) — MED
+- [Sensorveiledning_FARM150_h2013.docx](https://mitt.uib.no/files/17343) — MED
+- [Sensorveiledning_FARM150_h2014.docx](https://mitt.uib.no/files/17346) — MED
+- [Sensorveiledning_FARM150_v2013_(ny).docx](https://mitt.uib.no/files/16770) — MED
+- [Sensorveiledning_FARM150_v2013_(ny).docx](https://mitt.uib.no/files/17344) — MED
+- [Sensorveiledning_FARM150_v2015.docx](https://mitt.uib.no/files/16771) — MED
+- [Sensorveiledning_FARM260_(ny)_h2013.docx](https://mitt.uib.no/files/16774) — MED
+- [Sensorveiledning_FARM260_(ny)_h2014.docx](https://mitt.uib.no/files/16775) — MED
+- [Sensorveiledning_FARM260_v2013.docx](https://mitt.uib.no/files/16776) — MED
+- [Sensorveiledning_FARM260_v2014.docx](https://mitt.uib.no/files/16777) — MED
+- [Sensorveiledning_FARM260_v2015.docx](https://mitt.uib.no/files/16778) — MED
+- [Sensorveiledning_FARM280_(ny)_v2014_bm_sensorveiledning.pdf](https://mitt.uib.no/files/17397) — MED
+- [Sensorveiledning_FARM280_h2013.pdf](https://mitt.uib.no/files/17396) — MED
+- [Sensorveiledning_FARM280_h2014.pdf](https://mitt.uib.no/files/17398) — MED
+- [Sensorveiledning_FARM280_h2015_bm.pdf](https://mitt.uib.no/files/17399) — MED
+- [Sensorveiledning_for_kortsvar_MED6](https://mitt.uib.no/files/7942523) — MED
+- [Sensorveiledning_H24_HEH.docx](https://mitt.uib.no/files/6485114) — MED
+- [Sensorveiledning_i_fysiologi_OD1FYS,_NUTRKRO,_FARM280,_BMED252.doc](https://mitt.uib.no/files/17137) — MED
+- [Sensorveiledning_i_fysiologi_OD1FYS,_NUTRKRO,_FARM280,_BMED252.doc](https://mitt.uib.no/files/17199) — MED
+- [Sensorveiledning_i_fysiologi_OD1FYS,_NUTRKRO,_FARM280,_BMED252.doc](https://mitt.uib.no/files/17392) — MED
+- [Sensorveiledning_konte_MED7_24sept.pdf.pdf](https://mitt.uib.no/files/1325187) — MED
+- [Sensorveiledning_MED12 H24 BOKMÅL.pdf](https://mitt.uib.no/files/6479938) — MED
+- [Sensorveiledning_MED12 H24 Uten fasit.pdf](https://mitt.uib.no/files/6539191) — MED
+- [Sensorveiledning_MED7_h16.pdf](https://mitt.uib.no/files/357421) — MED
+- [Sensorveiledning_MED7_kontinuasjon_4mars.a](https://mitt.uib.no/files/1667969) — MED
+- [Sensorveiledning_NOM_(ny)_v2015.doc](https://mitt.uib.no/files/17171) — MED
+- [Sensorveiledning_NOM_h2013.pdf](https://mitt.uib.no/files/17170) — MED
+- [Sensorveiledning_NUCLI_351_host_2011.pdf](https://mitt.uib.no/files/17130) — MED
+- [Sensorveiledning_nucli351_h2010.pdf](https://mitt.uib.no/files/17129) — MED
+- [Sensorveiledning_NUTRANA_(ny)_v2014.docx](https://mitt.uib.no/files/16798) — MED
+- [Sensorveiledning_NUTRANA_h2013.docx](https://mitt.uib.no/files/16797) — MED
+- [Sensorveiledning_NUTRANA_h2014.docx](https://mitt.uib.no/files/16799) — MED
+- [Sensorveiledning_NUTRFYS_(ny)_v2014_bm_sensorveiledning.pdf](https://mitt.uib.no/files/16802) — MED
+- [Sensorveiledning_NUTRFYS_h2013.pdf](https://mitt.uib.no/files/16801) — MED
+- [Sensorveiledning_NUTRFYS_h2014.pdf](https://mitt.uib.no/files/16803) — MED
+- [Sensorveiledning_NUTRFYS_h2015_bm.pdf](https://mitt.uib.no/files/16804) — MED
+- [Sensorveiledning_OD1ANA_(ny)_v2013.pdf](https://mitt.uib.no/files/17182) — MED
+- [Sensorveiledning_OD1ANA_(ny)_v2014.docx](https://mitt.uib.no/files/17184) — MED
+- [Sensorveiledning_OD1ANA_(ny)_v2015.docx](https://mitt.uib.no/files/17186) — MED
+- [Sensorveiledning_OD1ANA_h2013.docx](https://mitt.uib.no/files/17183) — MED
+- [Sensorveiledning_OD1ANA_h2014_bm.docx](https://mitt.uib.no/files/17185) — MED
+- [Sensorveiledning_OD1FYS_(ny)_v2013.pdf](https://mitt.uib.no/files/17203) — MED
+- [Sensorveiledning_OD1FYS_(ny)_v2014_bm_sensorveiledning.pdf](https://mitt.uib.no/files/17205) — MED
+- [Sensorveiledning_OD1FYS_h2013.pdf](https://mitt.uib.no/files/17204) — MED
+- [Sensorveiledning_OD1FYS_h2014.pdf](https://mitt.uib.no/files/17206) — MED
+- [Sensorveiledning_OD1FYS_h2015_bm.pdf](https://mitt.uib.no/files/17207) — MED
+- [Sensorveiledning_OD1ORBI2_v2013.pdf](https://mitt.uib.no/files/17223) — MED
+- [Sensorveiledning_OD1ORBI2_v2014.pdf](https://mitt.uib.no/files/17224) — MED
+- [Sensorveiledning_OD1ORBI2_v2015.pdf](https://mitt.uib.no/files/17226) — MED
+- [Sensorveiledning_OD4BARN_2025_revidert.pdf](https://mitt.uib.no/files/6912826) — MED
+- [Sensorveiledning_TL_-_allmenneksamen_2014_-_mi_side.pdf](https://mitt.uib.no/files/17261) — MED
+- [Sensorveiledning_TP_-_allmenneksamen_2014_-_mi_side2.pdf](https://mitt.uib.no/files/16824) — MED
+- [Sensorveiledning_TPBAANA_(ny)_h2014.docx](https://mitt.uib.no/files/16835) — MED
+- [Sensorveiledning_TPBAANA_v2013.docx](https://mitt.uib.no/files/16834) — MED
+- [Sensorveiledning_TPBAANA_v2014.doc](https://mitt.uib.no/files/16836) — MED
+- [Sensorveiledning_TPBAFYS_(ny)_h2013.doc](https://mitt.uib.no/files/16848) — MED
+- [Sensorveiledning_TPBAFYS_(ny)_h2014.docx](https://mitt.uib.no/files/16852) — MED
+- [Sensorveiledning_TPBAFYS_2013_v2013.doc](https://mitt.uib.no/files/16849) — MED
+- [Sensorveiledning_TPBAFYS_v2012.doc](https://mitt.uib.no/files/16845) — MED
+- [Sensorveiledning_TPBAFYS_v2014.docx](https://mitt.uib.no/files/16853) — MED
+- [Sensorveiledning_TPBAFYS_v2015.docx](https://mitt.uib.no/files/16854) — MED
+- [Sensorveiledning_TPBAKBK_(ny)_v2013.pdf](https://mitt.uib.no/files/16863) — MED
+- [Sensorveiledning_TPBAKBK_(ny)_v2014.pdf](https://mitt.uib.no/files/16865) — MED
+- [Sensorveiledning_TPBAKBK_(ny)_v2015.pdf](https://mitt.uib.no/files/16867) — MED
+- [Sensorveiledning_TPBAKBK_h2013.pdf](https://mitt.uib.no/files/16864) — MED
+- [Sensorveiledning_TPBAKBK_h2014_bm.pdf](https://mitt.uib.no/files/16866) — MED
+- [Sensorveiledning-endo-2018.docx.pdf](https://mitt.uib.no/files/1360771) — MED
+- [Sensorveiledning-UR-.Småkir-Blod-Hud.docx](https://mitt.uib.no/files/1218480) — MED
+- [Sensorveiledning, BMED330 v2021.docx](https://mitt.uib.no/files/3264797) — MED
+- [Sensorveiledning, FARM150 h2024.docx](https://mitt.uib.no/files/6483000) — MED
+- [Sensorveiledning, FARM150 h2024.docx](https://mitt.uib.no/files/7215047) — MED
+- [Sensorveiledning, FARM260 (ny) h2026.docx](https://mitt.uib.no/files/8201755) — MED
+- [Sensorveiledning, FARM280 (ny) v2019.pdf](https://mitt.uib.no/files/1576605) — MED
+- [Sensorveiledning, FARM280 (ny) v2023.pdf](https://mitt.uib.no/files/4971177) — MED
+- [Sensorveiledning, FARM280 (ny) v2024.pdf](https://mitt.uib.no/files/5853813) — MED
+- [Sensorveiledning, FARM280 (ny) v2026.docx](https://mitt.uib.no/files/7613202) — MED
+- [Sensorveiledning, FARM280 h2023.pdf](https://mitt.uib.no/files/5586770) — MED
+- [Sensorveiledning, FARM280 h2024.pdf](https://mitt.uib.no/files/6474886) — MED
+- [Sensorveiledning, MEDOD1 (ny) v2020.docx](https://mitt.uib.no/files/2347518) — MED
+- [Sensorveiledning, MEDOD1 (ny) v2024.docx](https://mitt.uib.no/files/5897568) — MED
+- [Sensorveiledning, MEDOD1 (ny) vår 2016.docx](https://mitt.uib.no/files/8142860) — MED
+- [Sensorveiledning, NUTRANA (ny) v2022.pdf](https://mitt.uib.no/files/4115489) — MED
+- [Sensorveiledning, NUTRANA (ny) v2024.docx](https://mitt.uib.no/files/5897586) — MED
+- [Sensorveiledning, NUTRANA 2022.pdf](https://mitt.uib.no/files/4787404) — MED
+- [Sensorveiledning, NUTRANA h2020.pdf](https://mitt.uib.no/files/3020945) — MED
+- [Sensorveiledning, NUTRANA h2021.pdf](https://mitt.uib.no/files/3916228) — MED
+- [Sensorveiledning, NUTRANA h2023.docx](https://mitt.uib.no/files/5587517) — MED
+- [Sensorveiledning, NUTRANA h2024.docx](https://mitt.uib.no/files/6483147) — MED
+- [Sensorveiledning, NUTRFYS (ny) v2019.pdf](https://mitt.uib.no/files/1576592) — MED
+- [Sensorveiledning, NUTRFYS (ny) v2023.pdf](https://mitt.uib.no/files/4971123) — MED
+- [Sensorveiledning, NUTRFYS (ny) v2024.pdf](https://mitt.uib.no/files/6315417) — MED
+- [Sensorveiledning, NUTRFYS (ny) v2026.docx](https://mitt.uib.no/files/7613186) — MED
+- [Sensorveiledning, NUTRFYS h2023.pdf](https://mitt.uib.no/files/5586747) — MED
+- [Sensorveiledning, NUTRFYS h2024.pdf](https://mitt.uib.no/files/6474874) — MED
+- [Sensorveiledning, OD1ANA (ny) v2021.pdf](https://mitt.uib.no/files/3812211) — MED
+- [Sensorveiledning, OD1FYS (ny) v2019.pdf](https://mitt.uib.no/files/1576531) — MED
+- [Sensorveiledning, OD2ANA (ny) v2022.pdf](https://mitt.uib.no/files/4723788) — MED
+- [Sensorveiledning, OD2ANA (ny) v2024.pdf](https://mitt.uib.no/files/6420688) — MED
+- [Sensorveiledning, OD2ANA h2024.pdf](https://mitt.uib.no/files/6510552) — MED
+- [Sensorveiledning, OD2FYS (ny) v2023.pdf](https://mitt.uib.no/files/5194553) — MED
+- [Sensorveiledning, OD2FYS (ny) v2024.pdf](https://mitt.uib.no/files/5853811) — MED
+- [Sensorveiledning, OD2FYS (ny) v2026.docx](https://mitt.uib.no/files/7613206) — MED
+- [Sensorveiledning, OD2FYS h2023.pdf](https://mitt.uib.no/files/5586757) — MED
+- [Sensorveiledning, OD2FYS h2024.pdf](https://mitt.uib.no/files/6510682) — MED
+- [Sensorveiledning, OD2ORBI (ny) v2024.pdf](https://mitt.uib.no/files/6165077) — MED
+- [Sensorveiledning, OD2ORBI v2023.pdf](https://mitt.uib.no/files/5069897) — MED
+- [Sensorveiledning, OD2ORBI v2024.pdf](https://mitt.uib.no/files/5961066) — MED
+- [Sensorveiledning, OD2ORBI v2025.pdf](https://mitt.uib.no/files/6737187) — MED
+- [Sensorveiledning, OD2ORBI v2026.pdf](https://mitt.uib.no/files/7688350) — MED
+- [Sensorveiledning, TPBAFYS v2023.docx](https://mitt.uib.no/files/5197830) — MED
+- [Sensorveiledning, TPBATANA h2024.docx](https://mitt.uib.no/files/6486919) — MED
+- [Sensorveiledning,_BMED330_v2013.docx](https://mitt.uib.no/files/17078) — MED
+- [Sensorveiledning,_NOM_h2012.pdf](https://mitt.uib.no/files/16793) — MED
+- [Sensorveiledning,_NOM_h2012.pdf](https://mitt.uib.no/files/17167) — MED
+- [Sensorveiledning,_OD1ANA_h2011.doc](https://mitt.uib.no/files/17178) — MED
+- [Sensorveiledning,_OD1ORBI2_v2012.pdf](https://mitt.uib.no/files/17222) — MED
+- [Sensorveiledning,_TPBAKBK_h2012.pdf](https://mitt.uib.no/files/16861) — MED
+- [Sensorveiledning.pdf](https://mitt.uib.no/files/4241529) — MED
+- [Sensorveiledning(langsvar) MED3 (ny) vår 2026.docx](https://mitt.uib.no/files/7747804) — MED
+- [sensorveiledning12018.pdf](https://mitt.uib.no/files/1965093) — MED
+- [Sensorveiledning15.pdf](https://mitt.uib.no/files/3378464) — MED
+- [sensorveiledning2018.pdf](https://mitt.uib.no/files/1184740) — MED
+- [Sensorveiledning2018.pdf](https://mitt.uib.no/files/1385045) — MED
+- [Sensorveiledning2018.pdf](https://mitt.uib.no/files/2915049) — MED
+- [Sensorveiledning2019.pdf](https://mitt.uib.no/files/2289509) — MED
+- [Sensorveiledning2019.pdf](https://mitt.uib.no/files/2915051) — MED
+- [Sensorveiledning2020.docx](https://mitt.uib.no/files/3306499) — MED
+- [Sensorveiledning22018.pdf](https://mitt.uib.no/files/1965095) — MED
+- [Sensorveiledningv17.docx](https://mitt.uib.no/files/798550) — MED
+- [Sensorveiledningv17.docx](https://mitt.uib.no/files/798551) — MED
+- [Sensorveilednning TPBAKOS høst 18a.pdf](https://mitt.uib.no/files/2133256) — MED
+- [Sensorveileldning OD1FYS (ny) v2016.pdf](https://mitt.uib.no/files/201630) — MED
+- [Sensorveledning od3kje vår 18.docx](https://mitt.uib.no/files/1164652) — MED
+- [Sensorveledning TL - final 2015-mi side.pdf](https://mitt.uib.no/files/17974) — MED
+- [Sensoveiledning2018.docx](https://mitt.uib.no/files/1751031) — MED
+- [SENSURVEILEDNING FARM295 H2023 SKRIFTLIG EKSAMEN.pdf](https://mitt.uib.no/files/6296283) — MED
+- [Sensurveiledning MED8 K V26.pdf](https://mitt.uib.no/files/7669285) — MED
+- [Sensurveiledning MED8 O V26 med fasit.pdf](https://mitt.uib.no/files/7685421) — MED
+- [Sensurveiledning OD2BIM juni 18.docx](https://mitt.uib.no/files/1735247) — MED
+- [Sensurveiledning_BMED252_(ny)_v2015.pdf](https://mitt.uib.no/files/17143) — MED
+- [Sensurveiledning_FARM280_(ny)_v2015.pdf](https://mitt.uib.no/files/17400) — MED
+- [Sensurveiledning_FARM295_H2021_konteeksamen.pdf](https://mitt.uib.no/files/4731731) — MED
+- [Sensurveiledning_FARM295_H2021.docx](https://mitt.uib.no/files/4686687) — MED
+- [Sensurveiledning_NUTRFYS_(ny)_v2015.pdf](https://mitt.uib.no/files/16805) — MED
+- [Sensurveiledning_OD1FYS_(ny)_v2015.pdf](https://mitt.uib.no/files/17208) — MED
+- [Sensurveiledning.docx](https://mitt.uib.no/files/7317509) — MED
+- [Sepsis og NEWS.pdf](https://mitt.uib.no/files/7793857) — MEDOD1
+- [Short Q Obstetrics Med 9 V 23 FGR.docx](https://mitt.uib.no/files/5140757) — MED
+- [Sirkulasjonssvikt-med-stud-2020-21.pdf](https://mitt.uib.no/files/7793854) — MEDOD1
+- [Siva_-_Alvorlig_sykt_barn_-_Akuttmedisinsk_fagdag13.pdf](https://mitt.uib.no/files/24345) — PRMEDISIN
+- [SJonOSKE6_Genetikk_ArvParkinson_2023_final.docx](https://mitt.uib.no/files/5848767) — MED
+- [Skadested førsteår.pdf](https://mitt.uib.no/files/7794040) — MEDOD1
+- [Skjermbilde 2022-07-30 kl. 10.54.30.png](https://mitt.uib.no/files/7901915) — EXPHIL-MOSEM
+- [Skjermbilde 2026-09-21 kl. 16.42.33-1.png](https://mitt.uib.no/files/8061012) — Personal files
+- [Skjermbilde 2026-09-21 kl. 16.42.33-2.png](https://mitt.uib.no/files/8061013) — Personal files
+- [Skjermbilde 2026-09-21 kl. 16.42.33-3.png](https://mitt.uib.no/files/8061014) — Personal files
+- [Skjermbilde 2026-09-21 kl. 16.42.33.png](https://mitt.uib.no/files/8061009) — Personal files
+- [Skjermbilde 2026-09-28 kl. 15.07.35.png](https://mitt.uib.no/files/8084586) — Personal files
+- [Skjermbilde 2026-09-28 kl. 15.08.21.png](https://mitt.uib.no/files/8084588) — Personal files
+- [Skolemedisin og alternativ medisin (Fossheim ExPhil UiB 05.11.2026) Publisert.pdf](https://mitt.uib.no/files/8211844) — EXPHIL-MOSEM
+- [Skriflig eksamensett vår 2019 m riktigst svar på FVO (1).pdf](https://mitt.uib.no/files/2129588) — MED
+- [Skriflig eksamensett vår 2019.pdf](https://mitt.uib.no/files/2129589) — MED
+- [Skriftlig eksamen konte-uten fasit.pdf](https://mitt.uib.no/files/5905757) — MED
+- [Skriftlig eksamen konte-uten fasit.pdf](https://mitt.uib.no/files/5905764) — MED
+- [Skriftlig eksamen med fasit.pdf](https://mitt.uib.no/files/5179460) — MED
+- [Skriftlig eksamen u-fasit.pdf](https://mitt.uib.no/files/5179459) — MED
+- [Skriftlig eksamen v2020 med fasit.pdf](https://mitt.uib.no/files/4267158) — MED
+- [Skriftlig v2024-med fasit.pdf](https://mitt.uib.no/files/6023390) — MED
+- [Skriftlig v2024-uten fasit.pdf](https://mitt.uib.no/files/6023391) — MED
+- [SKULDER VÅR 25 OSKE6.docx](https://mitt.uib.no/files/7049682) — MED
+- [Slides sosial ulikhet i helse høst 2020_til_studentene.pdf](https://mitt.uib.no/files/7793900) — MEDOD1
+- [Smågrupper til miljømedisin OD og M1 til M6 h26.pdf](https://mitt.uib.no/files/7985079) — MEDOD1
+- [Smittevern intro 2025.pdf](https://mitt.uib.no/files/7793846) — MEDOD1
+- [Smitteverninfo til bruk i undevisningslokaler.pptx](https://mitt.uib.no/files/2655454) — Institutt for biomedisin
+- [sogs-flytdiagram.PNG](https://mitt.uib.no/files/7815040) — DIGI101
+- [søker foreleser til grunnmedisin.docx](https://mitt.uib.no/files/423944) — PRMEDISIN
+- [søknadsskjema minores.docx](https://mitt.uib.no/files/2757620) — MED
+- [Søknadsskjema studentledet undervisning -oppdatert 2024.docx](https://mitt.uib.no/files/6107158) — Institutt for biomedisin
+- [Søknadsskjema studentstipend (1).docx](https://mitt.uib.no/files/3343315) — PRMEDISIN
+- [Søknadsskljema minores.pdf](https://mitt.uib.no/files/214670) — PRMEDISIN
+- [Sosial ulikhet i helse - Mette Tollånes.pdf](https://mitt.uib.no/files/8092187) — MEDOD1
+- [Sosial ulikhet i helse En norsk kunnskapsoversikt. Hovedrapport.pdf](https://mitt.uib.no/files/7793919) — MEDOD1
+- [Sosial ulikhet og etikk H2026-Andrea Melberg.pdf](https://mitt.uib.no/files/8091775) — MEDOD1
+- [Sosiale medier banner DIGI101 (2).png](https://mitt.uib.no/files/7815048) — DIGI101
+- [søyle 2-2.jpg](https://mitt.uib.no/files/7521106) — PRMEDISIN
+- [SP1213.jpg](https://mitt.uib.no/files/53227) — Institutt for filosofi og førstesemesterstudier
+- [spørretime1-2026-v2.pdf](https://mitt.uib.no/files/8130558) — MEDOD1
+- [spørretime1-2026.pdf](https://mitt.uib.no/files/8121071) — MEDOD1
+- [Stasjon 1 - OSKE6-SIRK_Pneumothorax etter costafractur_2022_Finale.docx](https://mitt.uib.no/files/4785210) — MED
+- [Stasjon 1 150622 Sensor endelig.docx](https://mitt.uib.no/files/7787477) — MED
+- [Stasjon 1 150622 Skuespiller endelig.docx](https://mitt.uib.no/files/7787478) — MED
+- [Stasjon 1 150622 Student endelig.docx](https://mitt.uib.no/files/7787479) — MED
+- [Stasjon 1 A 2025 sensor.docx](https://mitt.uib.no/files/7787268) — MED
+- [Stasjon 1 B sensor 2025.docx](https://mitt.uib.no/files/7787284) — MED
+- [Stasjon 1 Egenomsorg 2024 Student.docx](https://mitt.uib.no/files/7787349) — MED
+- [Stasjon 1 Egenomsorg Student .docx](https://mitt.uib.no/files/7787265) — MED
+- [Stasjon 1 Egenomsorg Student .docx](https://mitt.uib.no/files/7787285) — MED
+- [Stasjon 1 Egenomsorg Student .pdf](https://mitt.uib.no/files/7852243) — MED
+- [Stasjon 1 forstoppelse sensor_2024 (1).docx](https://mitt.uib.no/files/7787739) — MED
+- [Stasjon 1 forstoppelse sensor_2024 (2).docx](https://mitt.uib.no/files/7787737) — MED
+- [Stasjon 1 forstoppelse sensor_2024 (3).docx](https://mitt.uib.no/files/7787738) — MED
+- [Stasjon 1 OSCE 6_ANESTESI_Anafylaksi_2022Final etter Marius.docx](https://mitt.uib.no/files/4302545) — MED
+- [Stasjon 1 Sensor 250822.docx](https://mitt.uib.no/files/7787445) — MED
+- [Stasjon 1 sensorveiledning OSKE H23 .docx](https://mitt.uib.no/files/7787414) — MED
+- [Stasjon 1 skuespiller 250822.docx](https://mitt.uib.no/files/7787446) — MED
+- [Stasjon 1 skuespiller OSKE H23.docx](https://mitt.uib.no/files/7787415) — MED
+- [Stasjon 1 student .docx](https://mitt.uib.no/files/7787416) — MED
+- [Stasjon 1 Student 250822.docx](https://mitt.uib.no/files/7787447) — MED
+- [Stasjon 1 vår 2024 sensor.docx](https://mitt.uib.no/files/7787350) — MED
+- [Stasjon 1 VÅr 2024 Skuespiller.docx](https://mitt.uib.no/files/7787351) — MED
+- [Stasjon 1 vår sensor 2026.pdf](https://mitt.uib.no/files/7852244) — MED
+- [Stasjon 1_A 2025 Skuespiller.docx](https://mitt.uib.no/files/7787269) — MED
+- [Stasjon 1_B 2025 Skuespiller.docx](https://mitt.uib.no/files/7787286) — MED
+- [Stasjon 1_vår 2026 Skuespiller.pdf](https://mitt.uib.no/files/7852245) — MED
+- [Stasjon 10 - Rev_OSCE-6_Tolkning av PET-CT_2022_Finale.docx](https://mitt.uib.no/files/4785211) — MED
+- [Stasjon 10 FysMed OSKE6 ryggcase 2022_Finale(0).docx](https://mitt.uib.no/files/4302552) — MED
+- [Stasjon 11 - OSKE6-oppgave hjerneoverflate anatomi og funksjon_Bramham_Finale.docx](https://mitt.uib.no/files/4785212) — MED
+- [Stasjon 12 OSCE-6_Skulderus_2022_Finale.docx](https://mitt.uib.no/files/4302553) — MED
+- [Stasjon 13 - OSCE_Mikroanatomi_Binyre.docx](https://mitt.uib.no/files/4785213) — MED
+- [Stasjon 13 OSKE6_Revmatologi_ akutt artritt_anamnese_2022_Finale.docx](https://mitt.uib.no/files/4302554) — MED
+- [Stasjon 14 - OSKE MED6 Geriatri ortostatiskBT_2022_Finale.docx](https://mitt.uib.no/files/4785214) — MED
+- [Stasjon 15 - OSCE-6_Kneundersøkelseogartrose-2022_Finale.docx](https://mitt.uib.no/files/4785215) — MED
+- [Stasjon 15 OSKE6_Propedeutikk_Klinisk hjerteundersøkelse_2022.docx](https://mitt.uib.no/files/4302555) — MED
+- [Stasjon 16 OSKE6_Genetikk_ArveHD_2022_Finale.docx](https://mitt.uib.no/files/4302556) — MED
+- [Stasjon 2 - Metacam SPC 250822.pdf](https://mitt.uib.no/files/7787448) — MED
+- [Stasjon 2 - OSKE-6 Radiologi Tynntarmsileus Haldorsen OBS filen må lastes ned for å se videoen.avi](https://mitt.uib.no/files/6001581) — MED
+- [Stasjon 2 - OSKE-6_Radiologi_Tynntarmsileus_Haldorsen_Finale.docx](https://mitt.uib.no/files/4785216) — MED
+- [Stasjon 2 OSKE-V2022  Pancreas-milt-duodenumpreparat_Finale.docx](https://mitt.uib.no/files/4302546) — MED
+- [Stasjon 2 sensor 250822.docx](https://mitt.uib.no/files/7787449) — MED
+- [Stasjon 2 Sensor høst.docx](https://mitt.uib.no/files/7787287) — MED
+- [Stasjon 2 sensor konte v1_UiB.docx](https://mitt.uib.no/files/7787417) — MED
+- [Stasjon 2 Sensor vår.docx](https://mitt.uib.no/files/7787271) — MED
+- [Stasjon 2 student 250822.docx](https://mitt.uib.no/files/7787450) — MED
+- [Stasjon 2 Student Høst (1).docx](https://mitt.uib.no/files/7787740) — MED
+- [Stasjon 2 Student Høst (2).docx](https://mitt.uib.no/files/7787741) — MED
+- [Stasjon 2 Student høst.docx](https://mitt.uib.no/files/7787288) — MED
+- [Stasjon 2 Student vår.docx](https://mitt.uib.no/files/7787272) — MED
+- [Stasjon 2 V26 sensorveiledning.pdf](https://mitt.uib.no/files/7852246) — MED
+- [Stasjon 2 V26 Student.pdf](https://mitt.uib.no/files/7852247) — MED
+- [Stasjon 2 vår 2024 sensor.docx](https://mitt.uib.no/files/7787354) — MED
+- [Stasjon 2 Veterinærmedisin 150622 sensor - endelig.docx](https://mitt.uib.no/files/7787480) — MED
+- [Stasjon 2 Veterinærmedisin 150622 student -endelig.docx](https://mitt.uib.no/files/7787481) — MED
+- [Stasjon 2_Nobligan_SPC.pdf](https://mitt.uib.no/files/7787482) — MED
+- [Stasjon 2_student_konte H23.docx](https://mitt.uib.no/files/7787418) — MED
+- [Stasjon 2_Tralieve vet.pdf](https://mitt.uib.no/files/7787463) — MED
+- [Stasjon 2vår 2024 student.docx](https://mitt.uib.no/files/7787357) — MED
+- [Stasjon 3 - OSKE6_Propedeutikk_Abdominalundersøkelse_appendicitt_2022_Finale.docx](https://mitt.uib.no/files/4785217) — MED
+- [Stasjon 3 OSKE-6-Allmennmedisin-overvektig-pasient 060522.docx](https://mitt.uib.no/files/4302547) — MED
+- [Stasjon 3 sensor høst 2024.docx](https://mitt.uib.no/files/7787731) — MED
+- [Stasjon 3A 15.06.22 Sensor endelig_r.docx](https://mitt.uib.no/files/7787465) — MED
+- [Stasjon 3A 15.06.22 Sensor endelig.docx](https://mitt.uib.no/files/7787464) — MED
+- [Stasjon 3A 15.06.22 Student endelig.docx](https://mitt.uib.no/files/7787466) — MED
+- [Stasjon 3A sensor 250822.docx](https://mitt.uib.no/files/7787432) — MED
+- [Stasjon 3A student 250822.docx](https://mitt.uib.no/files/7787433) — MED
+- [Stasjon 3AB -vår 2025 Student.docx](https://mitt.uib.no/files/7787276) — MED
+- [Stasjon 3AB høst 25 Sensor .docx](https://mitt.uib.no/files/7787291) — MED
+- [Stasjon 3AB høst2025 Student.docx](https://mitt.uib.no/files/7787292) — MED
+- [Stasjon 3AB Sensor_2308.docx](https://mitt.uib.no/files/7787408) — MED
+- [Stasjon 3AB Skuespiller_2308.docx](https://mitt.uib.no/files/7787409) — MED
+- [Stasjon 3AB Student_2308.docx](https://mitt.uib.no/files/7787410) — MED
+- [Stasjon 3AB Student, høst 2024.docx](https://mitt.uib.no/files/7787742) — MED
+- [Stasjon 3AB vår 2024 Sensor.docx](https://mitt.uib.no/files/7787364) — MED
+- [Stasjon 3AB VÅR 2024Studnet.docx](https://mitt.uib.no/files/7787362) — MED
+- [Stasjon 3AB vår 2026 Student.pdf](https://mitt.uib.no/files/7852249) — MED
+- [Stasjon 3AB VÅR 25 Sensor.docx](https://mitt.uib.no/files/7787273) — MED
+- [Stasjon 3AB vår 26 Sensor.pdf](https://mitt.uib.no/files/7852248) — MED
+- [Stasjon 3B 15.06.22 Sensor endelig.docx](https://mitt.uib.no/files/7787467) — MED
+- [Stasjon 3B 15.06.22 Student endelig .docx](https://mitt.uib.no/files/7787468) — MED
+- [Stasjon 3B Instruks lege høst25.docx](https://mitt.uib.no/files/7787290) — MED
+- [Stasjon 3B Instruks lege vår 25.docx](https://mitt.uib.no/files/7787274) — MED
+- [Stasjon 3B instruks til lege, høst 2024.docx](https://mitt.uib.no/files/7787743) — MED
+- [Stasjon 3B sensor 250822.docx](https://mitt.uib.no/files/7787434) — MED
+- [Stasjon 3B student 250822.docx](https://mitt.uib.no/files/7787435) — MED
+- [Stasjon 3B VÅR 2024 instruks til lege.docx](https://mitt.uib.no/files/7787363) — MED
+- [Stasjon 3B vår 2026 Instruks lege.pdf](https://mitt.uib.no/files/7852250) — MED
+- [Stasjon 4 15.06.2022 sensor endelig.docx](https://mitt.uib.no/files/7787469) — MED
+- [Stasjon 4 15.06.2022 student endelig.docx](https://mitt.uib.no/files/7787470) — MED
+- [Stasjon 4 H25 Sensor.docx](https://mitt.uib.no/files/7787315) — MED
+- [Stasjon 4 H25 Student.docx](https://mitt.uib.no/files/7787316) — MED
+- [Stasjon 4 Instruksjoner til sensor.docx](https://mitt.uib.no/files/7787733) — MED
+- [Stasjon 4 sensor OSKE H23.docx](https://mitt.uib.no/files/7787421) — MED
+- [Stasjon 4 Sensor.docx](https://mitt.uib.no/files/7787436) — MED
+- [Stasjon 4 skuespiller OSKE H23.docx](https://mitt.uib.no/files/7787419) — MED
+- [Stasjon 4 student.docx](https://mitt.uib.no/files/7787437) — MED
+- [Stasjon 4 student.docx](https://mitt.uib.no/files/7787732) — MED
+- [Stasjon 4 V25 Sesnorveiledning.docx](https://mitt.uib.no/files/7787277) — MED
+- [Stasjon 4 V25 Student V.2.docx](https://mitt.uib.no/files/7787278) — MED
+- [Stasjon 4 V26 Sensorveiledning.pdf](https://mitt.uib.no/files/7852251) — MED
+- [Stasjon 4 vår 2024 sensor - siste versjon med kommentarer.docx](https://mitt.uib.no/files/7787368) — MED
+- [Stasjon 4 vår 2024 student.docx](https://mitt.uib.no/files/7787369) — MED
+- [Stasjon 4 Vår 2026 Student.pdf](https://mitt.uib.no/files/7852252) — MED
+- [Stasjon 4_student_telefonresept.docx](https://mitt.uib.no/files/7787420) — MED
+- [Stasjon 5 - OSKE-oppgave Måling av blodsukker_Finale.docx](https://mitt.uib.no/files/4785218) — MED
+- [Stasjon 5 A 150622 Student endelig.docx](https://mitt.uib.no/files/7787471) — MED
+- [Stasjon 5 B Sensor 150622 endelig_r.docx](https://mitt.uib.no/files/7787473) — MED
+- [Stasjon 5 B Sensor 150622 endelig.docx](https://mitt.uib.no/files/7787472) — MED
+- [Stasjon 5 B Skuespiller 150622 endelig.docx](https://mitt.uib.no/files/7787474) — MED
+- [Stasjon 5 Yrkesastma OSKE6.docx](https://mitt.uib.no/files/4302548) — MED
+- [Stasjon 5_sensor H23.docx](https://mitt.uib.no/files/7787411) — MED
+- [Stasjon 5A Student 2024_B_v1..docx](https://mitt.uib.no/files/7787736) — MED
+- [Stasjon 5A Student 250822.docx](https://mitt.uib.no/files/7787438) — MED
+- [Stasjon 5A vår 2024 student.docx](https://mitt.uib.no/files/7787372) — MED
+- [Stasjon 5A_student_H23.docx](https://mitt.uib.no/files/7787412) — MED
+- [Stasjon 5AB Sensor V26.pdf](https://mitt.uib.no/files/7852253) — MED
+- [Stasjon 5AB Sensor.docx](https://mitt.uib.no/files/7787322) — MED
+- [Stasjon 5AB Sensor1.docx](https://mitt.uib.no/files/7787279) — MED
+- [Stasjon 5AB Skuespiller V26.pdf](https://mitt.uib.no/files/7852254) — MED
+- [Stasjon 5AB Skuespiller1.docx](https://mitt.uib.no/files/7787280) — MED
+- [Stasjon 5AB Skuespiller1.docx](https://mitt.uib.no/files/7787323) — MED
+- [Stasjon 5AB Student V26.pdf](https://mitt.uib.no/files/7852255) — MED
+- [Stasjon 5AB Student.docx](https://mitt.uib.no/files/7787281) — MED
+- [Stasjon 5AB Student1.docx](https://mitt.uib.no/files/7787324) — MED
+- [Stasjon 5B Cipralex Felleskatalogtekst 250822.pdf](https://mitt.uib.no/files/7787439) — MED
+- [Stasjon 5B Cipralex Orifarm pakningsvedlegg 250822.pdf](https://mitt.uib.no/files/7787440) — MED
+- [Stasjon 5B Omeprazol Felleskatalogtekst 250822.pdf](https://mitt.uib.no/files/7787441) — MED
+- [Stasjon 5B Omeprazol pakningsvedlegg 250822 (1).pdf](https://mitt.uib.no/files/7787442) — MED
+- [Stasjon 5B Sensor 250822.docx](https://mitt.uib.no/files/7787443) — MED
+- [Stasjon 5B Sensor vår 2024.docx](https://mitt.uib.no/files/7787370) — MED
+- [Stasjon 5B Sensor_2024_B_v3.docx](https://mitt.uib.no/files/7787734) — MED
+- [Stasjon 5B Skuespiller 250822.docx](https://mitt.uib.no/files/7787444) — MED
+- [Stasjon 5B Skuespiller_1.docx](https://mitt.uib.no/files/7787394) — MED
+- [Stasjon 5B Skuespiller, høst 2024.docx](https://mitt.uib.no/files/7787735) — MED
+- [Stasjon 5B vår 2024 Skuespiller.docx](https://mitt.uib.no/files/7787371) — MED
+- [Stasjon 5B_Aimovig Novartis - Felleskatalogen Pasientutgave.pdf](https://mitt.uib.no/files/7787475) — MED
+- [Stasjon 5B_Aimovig Novartis - Felleskatalogen.pdf](https://mitt.uib.no/files/7787476) — MED
+- [Stasjon 5B_skuespiller H23.docx](https://mitt.uib.no/files/7787413) — MED
+- [Stasjon 6 OSKE-6-Allmennmedisin-hoste legevakt_2022_Finale.docx](https://mitt.uib.no/files/4785219) — MED
+- [Stasjon 6 OSKE6-Ekkokardiografi-Brystkreft-Tungpust 2022_Finale.docx](https://mitt.uib.no/files/4302549) — MED
+- [Stasjon 7 - OSKE 6 -Anestesi-Intensiv-Hypotermi_2022_Finale.docx](https://mitt.uib.no/files/4785220) — MED
+- [Stasjon 7 OSKE 6.sem. El-sparkesykkelulykke FAST UL_Finale.docx](https://mitt.uib.no/files/4302550) — MED
+- [Stasjon 9 - OSKE-6 VIROLOGI stikkskade_2022_Finale.docx](https://mitt.uib.no/files/4785221) — MED
+- [Stasjon 9 2022 OSKE 6 Ordinær Gastrokirurgi_FINALE.docx](https://mitt.uib.no/files/4302551) — MED
+- [Stasjon1- Lungeoppgave OSKE6 V23_Finale.docx](https://mitt.uib.no/files/5179467) — MED
+- [Stasjon10 - OSKE-6 Radiologi Koloncancer med levermet OBS må lastes ned for å ses.avi](https://mitt.uib.no/files/6003528) — MED
+- [Stasjon10 - OSKE-6_Radiologi_Coloncancer med levermetastaser_Finale.docx](https://mitt.uib.no/files/5179468) — MED
+- [Stasjon12- Oppgave abscess_Infeksjonsmedisin_2023_Finale.docx](https://mitt.uib.no/files/5179470) — MED
+- [Stasjon13 - OSKE6-Allmennmed-tungpustV23__Finale.docx](https://mitt.uib.no/files/5179471) — MED
+- [Stasjon15 - Geriatri_ cfs_norsk_horisontal_2021.pdf](https://mitt.uib.no/files/5179472) — MED
+- [Stasjon15- OSKE MED6 Geriatri CFS skrøpelighetsvurdering_2023_03_20_Finale.docx](https://mitt.uib.no/files/5179473) — MED
+- [Stasjon16 - OSKE6_Propedeutikk_ Us_Lymfeknute_Hals_Finale.docx](https://mitt.uib.no/files/5179474) — MED
+- [Stasjon2 - OSKE-V2023  Anatomi Hjernens blodforsyning_Finale.docx](https://mitt.uib.no/files/5179475) — MED
+- [Stasjon2 - OSKE-V2023 Anatomi Hjernens blodforsyning.pptx](https://mitt.uib.no/files/5179476) — MED
+- [Stasjon3- OSKE 6 Ortopedi-Hofteundersøkelse 2023_Finale.docx](https://mitt.uib.no/files/5179477) — MED
+- [Stasjon5 - OSCE-6_EKG_tolkning-23-final Sirkulasjon.docx](https://mitt.uib.no/files/5179478) — MED
+- [Stasjon6 - Rev_OSCE-6_Patologisk aorta mars 2018.docx](https://mitt.uib.no/files/5179479) — MED
+- [Stasjon6 - Rev_OSCE-6_Patologisk aorta.pdf](https://mitt.uib.no/files/5179480) — MED
+- [Stasjon7- OSCE 6_ANESTESI_traumepasient-Finale.docx](https://mitt.uib.no/files/5179481) — MED
+- [Stasjon9- OSKE 6 gastroenteritt eller ileus MB 200223_Finale.docx](https://mitt.uib.no/files/5179482) — MED
+- [Stillingsbeskrivelse Prosector minor.docx.pdf](https://mitt.uib.no/files/214667) — PRMEDISIN
+- [Stillingsbeskrivelser.pdf](https://mitt.uib.no/files/325217) — STUDENTUTVALG-HF
+- [Student i CAFÉ3 2022.pdf](https://mitt.uib.no/files/4445104) — MED
+- [student1.png](https://mitt.uib.no/files/7793905) — MEDOD1
+- [Studentassistent - norske videoer.pdf](https://mitt.uib.no/files/7793992) — MEDOD1
+- [studenthack23 (2) (002).pdf](https://mitt.uib.no/files/5542457) — MED
+- [Studentmentor for førsteårsstudentar_Medisinstudiet.pdf](https://mitt.uib.no/files/6690110) — PRMEDISIN
+- [Studentrapport Argentina vår 2024.pdf](https://mitt.uib.no/files/7520610) — PRMEDISIN
+- [Studentseminar 160916.docx](https://mitt.uib.no/files/104527) — Institutt for filosofi og førstesemesterstudier
+- [Studentverv 2024-25.docx](https://mitt.uib.no/files/6209167) — STUDENTUTVALG-MO
+- [Studieveileders_time_2026.pdf](https://mitt.uib.no/files/8137456) — PRMEDISIN / KULL 2026 HØST
+- [Styremøte 08.11.2021 (Referat).pdf](https://mitt.uib.no/files/3944465) — STUDENTUTVALG-MO
+- [Styremøte 09.05.22(referat).pdf](https://mitt.uib.no/files/4252884) — STUDENTUTVALG-MO
+- [Styremøte 11.10.2021(Referat).pdf](https://mitt.uib.no/files/3764308) — STUDENTUTVALG-MO
+- [Styremøte 14.02.2022 (Referat).pdf](https://mitt.uib.no/files/4037104) — STUDENTUTVALG-MO
+- [Styremøte 14.03.2022 (Referat).pdf](https://mitt.uib.no/files/4252883) — STUDENTUTVALG-MO
+- [Styremøte 17.09.2018(Innkalling).pdf](https://mitt.uib.no/files/1078219) — STUDENTUTVALG-MO
+- [Styremøte 17.09.2018(Vedlegg 1).pdf](https://mitt.uib.no/files/1078220) — STUDENTUTVALG-MO
+- [Styremøte 19.11.2018(Innkalling).pdf](https://mitt.uib.no/files/1322798) — STUDENTUTVALG-MO
+- [Styremøte 19.11.2018(Referat).pdf](https://mitt.uib.no/files/1456810) — STUDENTUTVALG-MO
+- [Styremøte 21.01.2019(Innkalling).pdf](https://mitt.uib.no/files/1456812) — STUDENTUTVALG-MO
+- [Styremøte 21.01.2019(Vedlegg 1).pdf](https://mitt.uib.no/files/1456813) — STUDENTUTVALG-MO
+- [Styremøte 22.10.2018(Innkalling).pdf](https://mitt.uib.no/files/1322780) — STUDENTUTVALG-MO
+- [Styremøte 22.10.2018(Referat).pdf](https://mitt.uib.no/files/1322784) — STUDENTUTVALG-MO
+- [Styremøte 24.09.2021(Referat).pdf](https://mitt.uib.no/files/3671336) — STUDENTUTVALG-MO
+- [Styremøte 25.11.2021 (Referat).pdf](https://mitt.uib.no/files/3952911) — STUDENTUTVALG-MO
+- [Styremøte 28.01.2020(Innkalling).pdf](https://mitt.uib.no/files/2229556) — STUDENTUTVALG-MO
+- [Styremøte 28.01.2020(Vedlegg 1).pdf](https://mitt.uib.no/files/2229557) — STUDENTUTVALG-MO
+- [Styremøte-10.01.2022-Referat.pdf](https://mitt.uib.no/files/3960560) — STUDENTUTVALG-MO
+- [SV bibloteket.jpg](https://mitt.uib.no/files/7815056) — DIGI101 — LOCKED
+- [Svar på kortsvarsoppgaver H23 MED5 (1).pdf](https://mitt.uib.no/files/5553678) — MED
+- [Svar på MED7 kortsvar vår 2026.pdf](https://mitt.uib.no/files/7976365) — MED
+- [Svar_FARM295_Eksamen19. Desember2019.docx](https://mitt.uib.no/files/2305349) — MED
+- [SW-eksamensoppgave PPMS.docx](https://mitt.uib.no/files/4781628) — MED
+- [Sydneshaugen_skole_detalj.jpg](https://mitt.uib.no/files/202269) — HF
+- [Sykdomsbegrepet (Fossheim UiB 08.10.2026).pdf](https://mitt.uib.no/files/8118992) — EXPHIL-MOSEM
+- [Tannskader-kull1-2025.pdf](https://mitt.uib.no/files/7794171) — MEDOD1
+- [TBL ROS - Vollset & Møllerløkken (2026).pdf](https://mitt.uib.no/files/8151849) — MEDOD1
+- [TBL-oppgaver Helsejus-helsepersonelloven-forsvarlighet 21102026 1-semester.pdf](https://mitt.uib.no/files/8136478) — MEDOD1
+- [Terminplanlegger H26.docx](https://mitt.uib.no/files/7980491) — EXPHIL-MOSEM
+- [termo (1).pdf](https://mitt.uib.no/files/7793971) — MEDOD1
+- [Thailand H22.pdf](https://mitt.uib.no/files/6164818) — PRMEDISIN
+- [Thoraxtraume –  plauravæske.pdf](https://mitt.uib.no/files/4204412) — MED
+- [Thoraxtraume – sternumfractur .docx](https://mitt.uib.no/files/3952897) — MED
+- [Tidende, introuka 2026.pdf](https://mitt.uib.no/files/7941351) — MEDOD1
+- [Tidligere utfyllende reglement gjeldende t.o.m våren 2016.pdf](https://mitt.uib.no/files/6556283) — MED
+- [Timeplan - Medisin.pdf](https://mitt.uib.no/files/8011920) — MEDOD1
+- [Timeplan - Odontologi.pdf](https://mitt.uib.no/files/7982528) — MEDOD1
+- [titrering-fasit-2021.pdf](https://mitt.uib.no/files/7793988) — MEDOD1
+- [Titrering-revidert-Petri2020 (1)-1.pdf](https://mitt.uib.no/files/7794025) — MEDOD1
+- [titrering-tegninger.pdf](https://mitt.uib.no/files/7793987) — MEDOD1
+- [TJENESTEKORT_PSYKIATRI høst 2016-1.doc](https://mitt.uib.no/files/32229) — PRMEDISIN
+- [TL_Eksamensoppgaver2023.docx](https://mitt.uib.no/files/5696403) — MED
+- [tmp_daedbf58-e3e0-459d-9fbd-29e3933999c0.jpeg](https://mitt.uib.no/files/7561479) — STUDENTUTVALG-HF
+- [TP almenn2022.pdf](https://mitt.uib.no/files/5091288) — MED
+- [tp med sensur 2022.docx](https://mitt.uib.no/files/4284471) — MED
+- [TPallmenn2015.pdf](https://mitt.uib.no/files/373209) — MED
+- [TPallmenn2016.pdf](https://mitt.uib.no/files/312434) — MED
+- [TPallmenn2017.pdf](https://mitt.uib.no/files/395330) — MED
+- [TPallmenn2018.pdf](https://mitt.uib.no/files/1753770) — MED
+- [TPbaalm 2020.pdf](https://mitt.uib.no/files/3427473) — MED
+- [TPBAALM 2024 uten bilder.pdf](https://mitt.uib.no/files/6816469) — MED
+- [TPBAALM 2025.pdf](https://mitt.uib.no/files/7781146) — MED
+- [tpbaalm2019.pdf](https://mitt.uib.no/files/1769873) — MED
+- [TPBAALM2023utenbilder.pdf](https://mitt.uib.no/files/5967617) — MED
+- [TPBAANA (ny) v2018 - med svar.pdf](https://mitt.uib.no/files/1603812) — MED
+- [TPBAANA (ny) v2018 - uten svar.pdf](https://mitt.uib.no/files/1603813) — MED
+- [TPBAANA (ny) v2019 - med svar.pdf](https://mitt.uib.no/files/2266206) — MED
+- [TPBAANA (ny) v2019 - uten svar.pdf](https://mitt.uib.no/files/2266205) — MED
+- [TPBAANA (ny) v2020 - med svar.pdf](https://mitt.uib.no/files/2599703) — MED
+- [TPBAANA (ny) v2020 - uten svar.pdf](https://mitt.uib.no/files/2599704) — MED
+- [TPBAANA h2019 - med svar.pdf](https://mitt.uib.no/files/2266210) — MED
+- [TPBAANA h2019 - uten svar.pdf](https://mitt.uib.no/files/2266209) — MED
+- [TPBAANA v2018 - med svar.pdf](https://mitt.uib.no/files/1603869) — MED
+- [TPBAANA v2018 - uten svar.pdf](https://mitt.uib.no/files/1603870) — MED
+- [TPBAANA v2020 - med svar.pdf](https://mitt.uib.no/files/2599698) — MED
+- [TPBAANA v2020 - uten svar.pdf](https://mitt.uib.no/files/2599699) — MED
+- [TPBAANA v2021 - med svar.pdf](https://mitt.uib.no/files/3296942) — MED
+- [TPBAANA v2021 - uten svar.pdf](https://mitt.uib.no/files/3296941) — MED
+- [TPBAANA_av_18.04.2008_Bokmaal.pdf](https://mitt.uib.no/files/16827) — MED
+- [TPBAANA_av_30.09.2008_Bokmaal.PDF](https://mitt.uib.no/files/16828) — MED
+- [TPBAANA_bm.doc](https://mitt.uib.no/files/16831) — MED
+- [TPBAANA_sensorveiledning_v2011.doc](https://mitt.uib.no/files/16832) — MED
+- [TPBAANA_v2010_bm.doc](https://mitt.uib.no/files/16830) — MED
+- [TPBAANA_v2012_bm.doc](https://mitt.uib.no/files/16833) — MED
+- [TPBAANA,_17._april_2009_-_Bokmaal.pdf](https://mitt.uib.no/files/16829) — MED
+- [TPBAANA04_av_17.4.2007_Bokmaal.pdf](https://mitt.uib.no/files/16825) — MED
+- [TPBAFAR 2025.pdf](https://mitt.uib.no/files/7984831) — MED
+- [tpbafar høst 2022.pdf](https://mitt.uib.no/files/7066980) — MED
+- [TPBAFAR HØST 2023.pdf](https://mitt.uib.no/files/7096943) — MED
+- [TPBAFAR høst 24 m fasit.pdf](https://mitt.uib.no/files/7066978) — MED
+- [tpbafar sensorveiledning 2021.pdf](https://mitt.uib.no/files/4493601) — MED
+- [tpbafar_2014.pdf](https://mitt.uib.no/files/16842) — MED
+- [TPBAFYS (ny) h2018 - uten svar.pdf](https://mitt.uib.no/files/1605818) — MED
+- [TPBAFYS v2018 - med svar.pdf](https://mitt.uib.no/files/1722545) — MED
+- [TPBAFYS v2018 - uten svar.pdf](https://mitt.uib.no/files/1605779) — MED
+- [TPBAFYS v2019 - med svar.pdf](https://mitt.uib.no/files/2072841) — MED
+- [TPBAFYS v2019 - uten svar.pdf](https://mitt.uib.no/files/2072835) — MED
+- [TPBAFYS v2020 - med svar.pdf](https://mitt.uib.no/files/2600833) — MED
+- [TPBAFYS v2020 - uten svar.pdf](https://mitt.uib.no/files/2600832) — MED
+- [TPBAFYS v2021 (med svar).pdf](https://mitt.uib.no/files/3482063) — MED
+- [TPBAFYS v2021 (uten svar).pdf](https://mitt.uib.no/files/3482062) — MED
+- [TPBAFYS v2022 - med svar.pdf](https://mitt.uib.no/files/5194598) — MED
+- [TPBAFYS v2022 - uten svar.pdf](https://mitt.uib.no/files/5194597) — MED
+- [TPBAFYS v2023 - med svar.pdf](https://mitt.uib.no/files/5197832) — MED
+- [TPBAFYS v2023 - uten svar.pdf](https://mitt.uib.no/files/5197831) — MED
+- [TPBAFYS_(ny)_h2012_bm.doc](https://mitt.uib.no/files/16846) — MED
+- [TPBAFYS_(ny)_h2013_bm.doc](https://mitt.uib.no/files/16850) — MED
+- [TPBAFYS_v2012_bm.doc](https://mitt.uib.no/files/16847) — MED
+- [TPBAFYS_v2013_bm.doc](https://mitt.uib.no/files/16851) — MED
+- [TPBAINFIL 2021 HØST.pdf](https://mitt.uib.no/files/4527235) — MED
+- [TPBAINFIL HØST 2020.pdf](https://mitt.uib.no/files/4527232) — MED
+- [tpbakarend2022.pdf](https://mitt.uib.no/files/5111403) — MED
+- [TPBAKAREND2023.pdf](https://mitt.uib.no/files/5965497) — MED
+- [tpbakarendomfasitvår24.pdf](https://mitt.uib.no/files/6005205) — MED
+- [tpbakbk12ny.pdf](https://mitt.uib.no/files/16862) — MED
+- [tpbakbkh11.pdf](https://mitt.uib.no/files/16860) — MED
+- [TPBAKJE22.pdf](https://mitt.uib.no/files/7549260) — MED
+- [TPBAKJE23.pdf](https://mitt.uib.no/files/7549261) — MED
+- [TPBAKJE24.pdf](https://mitt.uib.no/files/7549262) — MED
+- [TPBAKJE25.pdf](https://mitt.uib.no/files/7549263) — MED
+- [TPBAKOS 2018 HØST.pdf](https://mitt.uib.no/files/4902485) — MED
+- [TPBAKOS 2019 HØST.pdf](https://mitt.uib.no/files/4902486) — MED
+- [TPBAKOS 2021 HØST.pdf](https://mitt.uib.no/files/4902487) — MED
+- [TPBAKOS 2022.pdf](https://mitt.uib.no/files/8201448) — MED
+- [TPBAKOS 2023.pdf](https://mitt.uib.no/files/8201451) — MED
+- [TPBAKOS 2024.pdf](https://mitt.uib.no/files/8201423) — MED
+- [TPBAKOS 2025.pdf](https://mitt.uib.no/files/8201427) — MED
+- [TPBAKOS18.pdf](https://mitt.uib.no/files/1928978) — MED
+- [TPBAKOSH19.pdf](https://mitt.uib.no/files/2815530) — MED
+- [TPBANA04_av_16.08.2007_Bokmaal.pdf](https://mitt.uib.no/files/16826) — MED
+- [TPBAPAT VÅR 2021.pdf](https://mitt.uib.no/files/4232785) — MED
+- [tpbapatvår 2024.pdf](https://mitt.uib.no/files/6792652) — MED
+- [tpbapatvår 24 ny.pdf](https://mitt.uib.no/files/6792654) — MED
+- [tpbapatvår19.pdf](https://mitt.uib.no/files/2483855) — MED
+- [TPBAPED 2024 uten kliniske bilder.pdf](https://mitt.uib.no/files/7236700) — MED
+- [TPBAPED høst 17.pdf](https://mitt.uib.no/files/1227594) — MED
+- [TPBAPED høst 18.pdf](https://mitt.uib.no/files/1908821) — MED
+- [TPBAPED høst 19.pdf](https://mitt.uib.no/files/2949309) — MED
+- [TPBAPED ny 2025 uten kliniske bilder.pdf](https://mitt.uib.no/files/7236703) — MED
+- [tpbaped_2014.pdf](https://mitt.uib.no/files/16897) — MED
+- [TPBAPED_fasit_publisert 2025.pdf](https://mitt.uib.no/files/7409046) — MED
+- [TPBAPEDHØST23.pdf](https://mitt.uib.no/files/6166553) — MED
+- [TPBAPEDPSY 2024.pdf](https://mitt.uib.no/files/7018989) — MED
+- [TPBAPROGER 2024.pdf](https://mitt.uib.no/files/6755495) — MED
+- [tpbaproger23.pdf](https://mitt.uib.no/files/5966536) — MED
+- [TPBARØN 2016_sensorveiledning (002).pdf](https://mitt.uib.no/files/2848756) — MED
+- [TPBARØN 2017_sensorveiledning.pdf](https://mitt.uib.no/files/2848758) — MED
+- [TPBARØN 2018_sensorveiledning (002).pdf](https://mitt.uib.no/files/2848759) — MED
+- [TPBARØN 2019_sensorveiledning.pdf](https://mitt.uib.no/files/2848942) — MED
+- [TPBARØN 2020.pdf](https://mitt.uib.no/files/4574266) — MED
+- [TPBARØN 2021.pdf](https://mitt.uib.no/files/4574267) — MED
+- [TPBARØN 2024.pdf](https://mitt.uib.no/files/7190216) — MED
+- [TPBARØN eksamen 2021 sensorveiledning.pdf](https://mitt.uib.no/files/7190199) — MED
+- [tpbaron_2014.pdf](https://mitt.uib.no/files/16923) — MED
+- [TPBARØN_Eksamen 2016_bokmål_bilder.pdf](https://mitt.uib.no/files/479186) — MED
+- [TPBARØN18.pdf](https://mitt.uib.no/files/1928986) — MED
+- [TPBARØNH23.pdf](https://mitt.uib.no/files/6274167) — MED
+- [tpbarønhøst19.pdf](https://mitt.uib.no/files/2472056) — MED
+- [TPBASAM 2016.pdf](https://mitt.uib.no/files/312407) — MED
+- [TPBASAM 2017.pdf](https://mitt.uib.no/files/384832) — MED
+- [TPBASAM 2018.pdf](https://mitt.uib.no/files/1615490) — MED
+- [TPBASAM 2019.pdf](https://mitt.uib.no/files/2210524) — MED
+- [tpbasam 2022.pdf](https://mitt.uib.no/files/4581191) — MED
+- [TPBASAM VÅR 2024.docx](https://mitt.uib.no/files/6540482) — MED
+- [TPBASAM_2015.pdf](https://mitt.uib.no/files/16929) — MED
+- [TPBASAMVÅR23.pdf](https://mitt.uib.no/files/5842251) — MED
+- [tpkarendny17.pdf](https://mitt.uib.no/files/1988695) — MED
+- [TPKOS 2020.pdf](https://mitt.uib.no/files/3804199) — MED
+- [TPKOS2015.pdf](https://mitt.uib.no/files/16880) — MED
+- [TPKOS2016.pdf](https://mitt.uib.no/files/395333) — MED
+- [TPKOS2017.pdf](https://mitt.uib.no/files/1346814) — MED
+- [Transfusjonsmedisinhematologi - Transfusjonsreaksjon.docx](https://mitt.uib.no/files/3952898) — MED
+- [Traumekompendium2014.pdf](https://mitt.uib.no/files/7793858) — MEDOD1
+- [traumer og sirkulasjon stud med 2021.pdf](https://mitt.uib.no/files/7794039) — MEDOD1
+- [Trykk_VolumSløyfe_Figur.pdf](https://mitt.uib.no/files/4955855) — MED
+- [Trykk_VolumSløyfe_Figur.pdf](https://mitt.uib.no/files/5848768) — MED
+- [Trykk-volumsløyfe-1.pdf](https://mitt.uib.no/files/4183712) — MED
+- [Tverrfaglig studentkveld om Alrek helseklynge 250918.pdf](https://mitt.uib.no/files/1099716) — PRMEDISIN
+- [Twitter_Logo_Blue.png](https://mitt.uib.no/files/7815065) — DIGI101 — LOCKED
+- [ubb-kk-n-180-002_lite-1.jpg](https://mitt.uib.no/files/7815036) — DIGI101
+- [UiB_Digitalisering_24aug2026_Jon-Torgeir Lunke.pdf](https://mitt.uib.no/files/7973931) — MEDOD1
+- [UiBChat.png](https://mitt.uib.no/files/7815044) — DIGI101
+- [UKflagg.jpg](https://mitt.uib.no/files/7205) — Institutt for biomedisin
+- [Ultralydundersøkelse av abdomen (6+).pdf](https://mitt.uib.no/files/4204382) — MED
+- [Universidad de Buenos Aires høst 19.pdf](https://mitt.uib.no/files/2418801) — PRMEDISIN
+- [Universidad de Buenos Aires vår 18 - MED9](https://mitt.uib.no/files/1111588) — PRMEDISIN
+- [unnamed (1).jpg](https://mitt.uib.no/files/7880557) — MEDOD1
+- [urfolk-faktaboks 7.jpg](https://mitt.uib.no/files/7794012) — MEDOD1
+- [Urologi_CT OSKE12 vår 2026.pdf](https://mitt.uib.no/files/8214375) — MED
+- [Utfyllende reglement med koronatillegg.pdf](https://mitt.uib.no/files/6556282) — MED
+- [Utfylt helsekort for gravide - OSKE 12.pdf](https://mitt.uib.no/files/5560026) — MED
+- [Utlysning av fakultetets priser 2025 forsknings-, innovasjons og utdanningsprisene.pdf](https://mitt.uib.no/files/7675542) — STUDENTUTVALG-MO
+- [Utlysning av sommerstipend 2021.docx](https://mitt.uib.no/files/3134309) — PRMEDISIN
+- [Utlysning av sommerstipend 2025.docx](https://mitt.uib.no/files/6622004) — PRMEDISIN
+- [Utlysning av sommerstipend 2026.pdf](https://mitt.uib.no/files/7482044) — PRMEDISIN
+- [Utlysning av studentleder undervisning ved IMB.pdf](https://mitt.uib.no/files/234405) — PRMEDISIN
+- [Utlysning_mentor_1_året.pdf](https://mitt.uib.no/files/4961787) — PRMEDISIN
+- [Utlysning_mentor_1. året](https://mitt.uib.no/files/5818737) — PRMEDISIN
+- [Utlysning_mentor_2_og_3_året.pdf](https://mitt.uib.no/files/4961786) — PRMEDISIN
+- [Utlysning_mentor_2. og 3. året](https://mitt.uib.no/files/5818738) — PRMEDISIN
+- [Utlysningstekst_Sommerskole i Nepal 2016.pdf](https://mitt.uib.no/files/10725) — PRMEDISIN
+- [Utlysningstekst_Sommerskole i Nepal for medisinstudenter2017.pdf](https://mitt.uib.no/files/253199) — PRMEDISIN
+- [Utsatt eksamen MED7 mars 2017 med sensorveiledning.pdf](https://mitt.uib.no/files/371426) — MED
+- [Utsatt eksamen MED7 mars 2017.pdf](https://mitt.uib.no/files/371425) — MED
+- [Utvalgte eksamensoppgaver første semester medisin- og odontologistudiet-Einar.pdf](https://mitt.uib.no/files/7793993) — MEDOD1
+- [V-21 konte uten fasit.pdf](https://mitt.uib.no/files/3666156) — MED
+- [V-21 med fasit.pdf](https://mitt.uib.no/files/3666157) — MED
+- [V2-OSCE12-V2024 Nefrologi-2_Nyresvikt_HPM_ferdig.docx](https://mitt.uib.no/files/6015835) — MED
+- [Valg av lederskap i HSU.pdf](https://mitt.uib.no/files/395967) — STUDENTUTVALG-HF
+- [Valg av lederskap i HSU.pdf](https://mitt.uib.no/files/413960) — STUDENTUTVALG-HF
+- [Valgreglement for studentrepresentanter ved det medisinske fakultet - UiB - Gyldige pr. 21.01.19.pdf](https://mitt.uib.no/files/1509239) — STUDENTUTVALG-MO
+- [Vår 20 (konte) Oppgavesett med fasit.pdf](https://mitt.uib.no/files/3889432) — MED
+- [Vår 20 (konte) Oppgavesett uten fasit.pdf](https://mitt.uib.no/files/3889433) — MED
+- [Vår 2021 skriftlig eksamen.docx](https://mitt.uib.no/files/3443724) — MED
+- [Vår 2024 konte - Flervalgsoppgaver med riktigst svar.pdf](https://mitt.uib.no/files/5846123) — MED
+- [Vår 2024 konte - Flervalgsoppgaver uten svar.pdf](https://mitt.uib.no/files/5846128) — MED
+- [Vår 2024 konte - Sensorveiledning.pdf](https://mitt.uib.no/files/5861309) — MED
+- [Vår 2026 (TH).pdf](https://mitt.uib.no/files/7869607) — MED
+- [vedlegg 1.pdf](https://mitt.uib.no/files/5755417) — STUDENTUTVALG-HF
+- [vedlegg 2.pdf](https://mitt.uib.no/files/5757065) — STUDENTUTVALG-HF
+- [vedlegg 3.pdf](https://mitt.uib.no/files/5757066) — STUDENTUTVALG-HF
+- [Vedlegg Eksamen NUTR230 H19.pdf](https://mitt.uib.no/files/2069691) — MED
+- [Vedlegg eksamen om behov, PAL og ernæringsdiagnoser.pdf](https://mitt.uib.no/files/6782212) — MED
+- [Vedlegg eksamen sondeløsninger barn LIS-avtale.pdf](https://mitt.uib.no/files/6782213) — MED
+- [Vedlegg eksamen vekstkurve IBD Kasper.pdf](https://mitt.uib.no/files/6782214) — MED
+- [Vedlegg Kasusoppgave 6.pdf](https://mitt.uib.no/files/7589492) — MED
+- [Vedlegg oppgave 11.pdf](https://mitt.uib.no/files/2867557) — MED
+- [Vedlegg oppgave 14.pdf](https://mitt.uib.no/files/2867558) — MED
+- [Vedlegg oppgave 5B, høst2018 ordinær.pdf](https://mitt.uib.no/files/2162359) — MED
+- [Vedlegg sensorveiledning NUTR100 V25.pdf](https://mitt.uib.no/files/7734675) — MED
+- [Vedlegg til eksamenssett vår 2021, oppgaver med feil og mangler.pdf](https://mitt.uib.no/files/3697890) — MED
+- [Vedlegg til oppgave 3-NUCLI352-V18.pdf](https://mitt.uib.no/files/754569) — MED
+- [Vedlegg til oppgave 4-NUCLI352-V18.pdf](https://mitt.uib.no/files/754572) — MED
+- [vedlegg_Eksamen_05.pdf](https://mitt.uib.no/files/17323) — MED
+- [Vedtektene for fagutvalget ved FOF (Word).docx](https://mitt.uib.no/files/426001) — Institutt for filosofi og førstesemesterstudier
+- [Vedtekter for Medisinsk studentutvalg - Gyldige pr. 17.04.23.docx](https://mitt.uib.no/files/8002515) — STUDENTUTVALG-MO
+- [Vedtekter HSU V24.pdf](https://mitt.uib.no/files/6186143) — STUDENTUTVALG-HF
+- [Vedtekter HSU V26.pdf](https://mitt.uib.no/files/7710245) — STUDENTUTVALG-HF
+- [Vedtekter MFU.pdf](https://mitt.uib.no/files/3604437) — PRMEDISIN
+- [Veiledning for prosjektbeskrivelse - 08022022.pdf](https://mitt.uib.no/files/4016211) — PRMEDISIN
+- [Vekstkurve tom.pdf](https://mitt.uib.no/files/4289449) — MED
+- [Velkommen til samfunnsmedisin 1 av 2.pdf](https://mitt.uib.no/files/7962911) — MEDOD1
+- [Velkommen_LUB5-3.jpg](https://mitt.uib.no/files/7794013) — MEDOD1
+- [Velkomstmøte med Bergen-Førde kull 26, 16.09.16 (1).pdf](https://mitt.uib.no/files/8041455) — PRMEDISIN / KULL 2026 HØST / MED26-FØR
+- [Venøs tilgang-10 cm 3 veiskran-1 (1).pdf](https://mitt.uib.no/files/4183710) — MED
+- [vl_nettside_2.png](https://mitt.uib.no/files/7872213) — PRMEDISIN / KULL 2026 HØST / MED26-FØR
+- [VOP konte_aug2021_250621_kortsvar_medfasit.docx](https://mitt.uib.no/files/4246364) — MED
+- [VOP Kortsvar H22 konte.pdf](https://mitt.uib.no/files/5515806) — MED
+- [VOP med7_konte_kortsvar_280122_med fasit.docx](https://mitt.uib.no/files/4231719) — MED
+- [VOP_med7_konte_kortsvar_280122_uten fasit.docx](https://mitt.uib.no/files/4231712) — MED
+- [vurdere2.png](https://mitt.uib.no/files/7793897) — MEDOD1
+- [Wang-1.PNG](https://mitt.uib.no/files/7815030) — DIGI101
+- [web_liten.jpg](https://mitt.uib.no/files/81467) — HF
+- [web_liten.jpg](https://mitt.uib.no/files/1004603) — HF
+- [Wetlesen_råd om essayskriving.docx](https://mitt.uib.no/files/8005602) — 26H - EXPHIL-MOSEM / Seminar 1
+- [WHO-Covid-19-Misinformation-Disinformation-1.gif](https://mitt.uib.no/files/7815035) — DIGI101
+- [Woman_Reading_(Kuroda_Seiki).jpeg](https://mitt.uib.no/files/7901930) — EXPHIL-MOSEM
+
+## Course pages
+
+- [Studentkonto, pålogging og tofaktorautentisering](https://mitt.uib.no/courses/59568/pages/studentkonto-palogging-og-tofaktorautentisering) — DIGI100
+- [Internett på campus](https://mitt.uib.no/courses/59568/pages/internett-pa-campus) — DIGI100
+- [Ledige stillinger og stipend](https://mitt.uib.no/courses/580/pages/ledige-stillinger-og-stipend) — HF
+- [En innføring i UiBs digitale tjenester og system](https://mitt.uib.no/courses/59568/pages/en-innforing-i-uibs-digitale-tjenester-og-system) — DIGI100
+- [Det humanistiske fakultet](https://mitt.uib.no/courses/580/pages/det-humanistiske-fakultet) — HF
+- [Nettkurs i digitale arbeidsmetoder og teknologi for læring](https://mitt.uib.no/courses/59568/pages/nettkurs-i-digitale-arbeidsmetoder-og-teknologi-for-laering) — DIGI100
+- [Office pakken ](https://mitt.uib.no/courses/59568/pages/office-pakken) — DIGI100
+- [Annen programvare](https://mitt.uib.no/courses/59568/pages/annen-programvare) — DIGI100
+- [Skrive ut](https://mitt.uib.no/courses/59568/pages/skrive-ut) — DIGI100
+- [VPN: Nå UiB hjemmefra](https://mitt.uib.no/courses/59568/pages/vpn-na-uib-hjemmefra) — DIGI100
+- [Kommunikasjon og hjelp](https://mitt.uib.no/courses/59568/pages/kommunikasjon-og-hjelp) — DIGI100
+- [Samskriving og samarbeid i OneDrive](https://mitt.uib.no/courses/59568/pages/samskriving-og-samarbeid-i-onedrive) — DIGI100
+- [Samarbeid: digitalt og på campus](https://mitt.uib.no/courses/59568/pages/samarbeid-digitalt-og-pa-campus) — DIGI100
+- [Problemløsning - hjelp til selvhjelp](https://mitt.uib.no/courses/59568/pages/problemlosning-hjelp-til-selvhjelp) — DIGI100
+- [Epost og sikkerhet på din PC](https://mitt.uib.no/courses/59568/pages/epost-og-sikkerhet-pa-din-pc) — DIGI100
+- [Finn fram på Campus - bruk Mazemap](https://mitt.uib.no/courses/59568/pages/finn-fram-pa-campus-bruk-mazemap) — DIGI100
+- [Universitetsbiblioteket: fysisk og digitalt](https://mitt.uib.no/courses/59568/pages/universitetsbiblioteket-fysisk-og-digitalt) — DIGI100
+- [Finne og bruke digitale kilder](https://mitt.uib.no/courses/59568/pages/finne-og-bruke-digitale-kilder) — DIGI100
+- [KI for studenter](https://mitt.uib.no/courses/59568/pages/ki-for-studenter) — DIGI100
+- [Praktisk bruk av KI](https://mitt.uib.no/courses/59568/pages/praktisk-bruk-av-ki) — DIGI100
+- [Oppsummering og avslutning](https://mitt.uib.no/courses/59568/pages/oppsummering-og-avslutning) — DIGI100
+- [An introduction to UiB's digital tools and services](https://mitt.uib.no/courses/59568/pages/an-introduction-to-uibs-digital-tools-and-services) — DIGI100
+- [Digital Student: Online course in digital tools, methods and technology to enhance learning](https://mitt.uib.no/courses/59568/pages/digital-student-online-course-in-digital-tools-methods-and-technology-to-enhance-learning) — DIGI100
+- [Internet on campus](https://mitt.uib.no/courses/59568/pages/internet-on-campus) — DIGI100
+- [Student account, login and multifactor authentication](https://mitt.uib.no/courses/59568/pages/student-account-login-and-multifactor-authentication) — DIGI100
+- [Communication and help](https://mitt.uib.no/courses/59568/pages/communication-and-help) — DIGI100
+- [E-mail and security on your PC](https://mitt.uib.no/courses/59568/pages/e-mail-and-security-on-your-pc) — DIGI100
+- [The Office-suite](https://mitt.uib.no/courses/59568/pages/the-office-suite) — DIGI100
+- [Other applications/software](https://mitt.uib.no/courses/59568/pages/other-applications-slash-software) — DIGI100
+- [Navigate on Campus - use Mazemap](https://mitt.uib.no/courses/59568/pages/navigate-on-campus-use-mazemap) — DIGI100
+- [VPN: Reach UiB from home](https://mitt.uib.no/courses/59568/pages/vpn-reach-uib-from-home) — DIGI100
+- [Printing](https://mitt.uib.no/courses/59568/pages/printing) — DIGI100
+- [Problemsolving - how to help yourself](https://mitt.uib.no/courses/59568/pages/problemsolving-how-to-help-yourself) — DIGI100
+- [Collaboration: Digital and on campus](https://mitt.uib.no/courses/59568/pages/collaboration-digital-and-on-campus) — DIGI100
+- [Collaborative writing and collaboration in OneDrive](https://mitt.uib.no/courses/59568/pages/collaborative-writing-and-collaboration-in-onedrive) — DIGI100
+- [The University of Bergen Library](https://mitt.uib.no/courses/59568/pages/the-university-of-bergen-library) — DIGI100
+- [Find and use digital literature](https://mitt.uib.no/courses/59568/pages/find-and-use-digital-literature) — DIGI100
+- [AI for students](https://mitt.uib.no/courses/59568/pages/ai-for-students) — DIGI100
+- [Summary, closing and evaluation](https://mitt.uib.no/courses/59568/pages/summary-closing-and-evaluation) — DIGI100
+- [Practical use of AI](https://mitt.uib.no/courses/59568/pages/practical-use-of-ai) — DIGI100
+- [Digital kildekritikk (DIGI101)](https://mitt.uib.no/courses/59707/pages/digital-kildekritikk-digi101) — DIGI101
+- [Hvordan reagerer du?](https://mitt.uib.no/courses/59707/pages/hvordan-reagerer-du) — DIGI101
+- [Vitenskap i sosiale medier](https://mitt.uib.no/courses/59707/pages/vitenskap-i-sosiale-medier) — DIGI101
+- [Samfunnssikkerhet og ditt redaktøransvar](https://mitt.uib.no/courses/59707/pages/samfunnssikkerhet-og-ditt-redaktoransvar) — DIGI101
+- [Feilinformasjon og desinformasjon](https://mitt.uib.no/courses/59707/pages/feilinformasjon-og-desinformasjon) — DIGI101
+- [Ikke bli en superspreder](https://mitt.uib.no/courses/59707/pages/ikke-bli-en-superspreder) — DIGI101
+- [Tverrles kildene - er de troverdige og relevante?](https://mitt.uib.no/courses/59707/pages/tverrles-kildene-er-de-troverdige-og-relevante) — DIGI101
+- [Vitenskap i redaksjonelle nyhetsmedier](https://mitt.uib.no/courses/59707/pages/vitenskap-i-redaksjonelle-nyhetsmedier) — DIGI101
+- [Skrekkulv eller skrekkeksempel?](https://mitt.uib.no/courses/59707/pages/skrekkulv-eller-skrekkeksempel) — DIGI101
+- [Tverrlesing og samfunnsdebatt](https://mitt.uib.no/courses/59707/pages/tverrlesing-og-samfunnsdebatt) — DIGI101
+- [Faktasjekkingens begrensninger](https://mitt.uib.no/courses/59707/pages/faktasjekkingens-begrensninger) — DIGI101
+- [Sammendrag ](https://mitt.uib.no/courses/59707/pages/sammendrag) — DIGI101
+- [Tillit og mistillit til medier](https://mitt.uib.no/courses/59707/pages/tillit-og-mistillit-til-medier) — DIGI101
+- [Villedende bilder - historiske eksempler](https://mitt.uib.no/courses/59707/pages/villedende-bilder-historiske-eksempler) — DIGI101
+- [Den gyldne middelvei mellom dumhet og idioti?](https://mitt.uib.no/courses/59707/pages/den-gyldne-middelvei-mellom-dumhet-og-idioti) — DIGI101
+- [Er det en falsk nyhet?](https://mitt.uib.no/courses/59707/pages/er-det-en-falsk-nyhet) — DIGI101
+- [Villedende bildebruk i dag](https://mitt.uib.no/courses/59707/pages/villedende-bildebruk-i-dag) — DIGI101
+- [Filterbobler og ekkokamre](https://mitt.uib.no/courses/59707/pages/filterbobler-og-ekkokamre) — DIGI101
+- [Datamanipulerte bilder](https://mitt.uib.no/courses/59707/pages/datamanipulerte-bilder) — DIGI101
+- [Gjetter KI-verktøy alltid riktig?](https://mitt.uib.no/courses/59707/pages/gjetter-ki-verktoy-alltid-riktig) — DIGI101
+- [Slik faktasjekker du bilder selv](https://mitt.uib.no/courses/59707/pages/slik-faktasjekker-du-bilder-selv) — DIGI101
+- [Sammendrag     ](https://mitt.uib.no/courses/59707/pages/sammendrag-2) — DIGI101
+- [Vitenskap i faglitteratur](https://mitt.uib.no/courses/59707/pages/vitenskap-i-faglitteratur) — DIGI101
+- [Gir grafer alltid et riktig bilde? ](https://mitt.uib.no/courses/59707/pages/gir-grafer-alltid-et-riktig-bilde) — DIGI101
+- [Hva kjennetegner faglitteratur?](https://mitt.uib.no/courses/59707/pages/hva-kjennetegner-faglitteratur) — DIGI101
+- [Hvilken funksjon har akademiske tekster?](https://mitt.uib.no/courses/59707/pages/hvilken-funksjon-har-akademiske-tekster) — DIGI101
+- [Sjekkliste for kildevurdering i oppgaveskriving](https://mitt.uib.no/courses/59707/pages/sjekkliste-for-kildevurdering-i-oppgaveskriving) — DIGI101
+- [Start jakten i Oria](https://mitt.uib.no/courses/59707/pages/start-jakten-i-oria) — DIGI101
+- [Hvordan leter vi etter informasjon?](https://mitt.uib.no/courses/59707/pages/hvordan-leter-vi-etter-informasjon) — DIGI101
+- [Hvordan finne fram i Oria](https://mitt.uib.no/courses/59707/pages/hvordan-finne-fram-i-oria) — DIGI101
+- [Effektive søk](https://mitt.uib.no/courses/59707/pages/effektive-sok) — DIGI101
+- [Teksten som samtale](https://mitt.uib.no/courses/59707/pages/teksten-som-samtale) — DIGI101
+- [Akademiske grunnverdier](https://mitt.uib.no/courses/59707/pages/akademiske-grunnverdier) — DIGI101
+- [Sitering, henvisning og referanseliste](https://mitt.uib.no/courses/59707/pages/sitering-henvisning-og-referanseliste) — DIGI101
+- [Slik unngår du plagiering](https://mitt.uib.no/courses/59707/pages/slik-unngar-du-plagiering) — DIGI101
+- [Ditt bibliotek - din fagside](https://mitt.uib.no/courses/59707/pages/ditt-bibliotek-din-fagside) — DIGI101
+- [Hva kan du om referering?](https://mitt.uib.no/courses/59707/pages/hva-kan-du-om-referering) — DIGI101
+- [Å gjenbruke bilder fra aviser og nettsider](https://mitt.uib.no/courses/59707/pages/a-gjenbruke-bilder-fra-aviser-og-nettsider) — DIGI101
+- [Opphavsrett til bilder og andre medier](https://mitt.uib.no/courses/59707/pages/opphavsrett-til-bilder-og-andre-medier) — DIGI101
+- [Gjenbruke bilder fra bøker og artikler](https://mitt.uib.no/courses/59707/pages/gjenbruke-bilder-fra-boker-og-artikler) — DIGI101
+- [Sammendrag          ](https://mitt.uib.no/courses/59707/pages/sammendrag-3) — DIGI101
+- [Løft bildekvaliteten](https://mitt.uib.no/courses/59707/pages/loft-bildekvaliteten) — DIGI101
+- [Vitenskap og kunstig intelligens (KI)](https://mitt.uib.no/courses/59707/pages/vitenskap-og-kunstig-intelligens-ki) — DIGI101
+- [Kunstig intelligens (KI) og store språkmodeller](https://mitt.uib.no/courses/59707/pages/kunstig-intelligens-ki-og-store-sprakmodeller) — DIGI101
+- [Hvordan språkmodeller trenes](https://mitt.uib.no/courses/59707/pages/hvordan-sprakmodeller-trenes) — DIGI101
+- [Er du en lystløgner, ChatGPT?](https://mitt.uib.no/courses/59707/pages/er-du-en-lystlogner-chatgpt) — DIGI101
+- [Noen utfordringer ved store språkmodeller](https://mitt.uib.no/courses/59707/pages/noen-utfordringer-ved-store-sprakmodeller) — DIGI101
+- [Fra ekspertsystem til nevrale nettverk](https://mitt.uib.no/courses/59707/pages/fra-ekspertsystem-til-nevrale-nettverk) — DIGI101
+- [Generative språkmodeller og skjevheter](https://mitt.uib.no/courses/59707/pages/generative-sprakmodeller-og-skjevheter) — DIGI101
+- [Kritisk bruk av tekstgenererende KI-verktøy](https://mitt.uib.no/courses/59707/pages/kritisk-bruk-av-tekstgenererende-ki-verktoy) — DIGI101
+- [Hvordan chatte med tekstgeneratorer](https://mitt.uib.no/courses/59707/pages/hvordan-chatte-med-tekstgeneratorer) — DIGI101
+- [Gode eller dårlige ledetekster?](https://mitt.uib.no/courses/59707/pages/gode-eller-darlige-ledetekster) — DIGI101
+- [Akademisk redelig bruk av KI i eget arbeid](https://mitt.uib.no/courses/59707/pages/akademisk-redelig-bruk-av-ki-i-eget-arbeid) — DIGI101
+- [KI-verktøy, personvern og lovlig deling av data](https://mitt.uib.no/courses/59707/pages/ki-verktoy-personvern-og-lovlig-deling-av-data) — DIGI101
+- [Kildekritikk av generert tekst](https://mitt.uib.no/courses/59707/pages/kildekritikk-av-generert-tekst) — DIGI101
+- [Dokumentere bruk av KI i eget arbeid](https://mitt.uib.no/courses/59707/pages/dokumentere-bruk-av-ki-i-eget-arbeid) — DIGI101
+- [Hvordan faktasjekke KI-genererte tekster](https://mitt.uib.no/courses/59707/pages/hvordan-faktasjekke-ki-genererte-tekster) — DIGI101
+- [Tekstgeneratorer og din egen læring](https://mitt.uib.no/courses/59707/pages/tekstgeneratorer-og-din-egen-laering) — DIGI101
+- [KI-verktøy i skriveprosessen](https://mitt.uib.no/courses/59707/pages/ki-verktoy-i-skriveprosessen) — DIGI101
+- [Emneevaluering ](https://mitt.uib.no/courses/59707/pages/emneevaluering) — DIGI101
+- [Sammendrag   ](https://mitt.uib.no/courses/59707/pages/sammendrag-4) — DIGI101
+- [Godt jobbet!](https://mitt.uib.no/courses/59707/pages/godt-jobbet) — DIGI101
+- [Ex Phil: Emnets struktur og oppbygning](https://mitt.uib.no/courses/59801/pages/ex-phil-emnets-struktur-og-oppbygning) — EXPHIL-MOSEM
+- [Lesing uke 1](https://mitt.uib.no/courses/59801/pages/lesing-uke-1) — EXPHIL-MOSEM
+- [Velkommen! ](https://mitt.uib.no/courses/59801/pages/velkommen) — EXPHIL-MOSEM
+- [Hva er Ex.Phil? Innhold](https://mitt.uib.no/courses/59801/pages/hva-er-ex-dot-phil-innhold) — EXPHIL-MOSEM
+- [Pensum: En oversikt](https://mitt.uib.no/courses/59801/pages/pensum-en-oversikt) — EXPHIL-MOSEM
+- [MittUiB: Brukerveiledning](https://mitt.uib.no/courses/59801/pages/mittuib-brukerveiledning) — EXPHIL-MOSEM
+- [Tema og ukens læringsmål, uke 2](https://mitt.uib.no/courses/59801/pages/tema-og-ukens-laeringsmal-uke-2) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 3](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-3) — EXPHIL-MOSEM
+- [Innhold læringsmodul 3 Hvordan skrive essay? ](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-3-hvordan-skrive-essay) — EXPHIL-MOSEM
+- [Essayskriving: Forelesning I](https://mitt.uib.no/courses/59801/pages/essayskriving-forelesning-i) — EXPHIL-MOSEM
+- [Innhold læringsmodul uke 2: Hva er kunnskap? ](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-uke-2-hva-er-kunnskap) — EXPHIL-MOSEM
+- [Essayskriving: Forelesning II](https://mitt.uib.no/courses/59801/pages/essayskriving-forelesning-ii) — EXPHIL-MOSEM
+- [Skriveressurser](https://mitt.uib.no/courses/59801/pages/skriveressurser) — EXPHIL-MOSEM
+- [Innhold læringsmodul uke 4: Etikk I](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-uke-4-etikk-i) — EXPHIL-MOSEM
+- [Tema og ukens læringsmål uke 4](https://mitt.uib.no/courses/59801/pages/tema-og-ukens-laeringsmal-uke-4) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 5](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-5-2) — EXPHIL-MOSEM
+- [Innhold læringsmodul 6 Hva er sykdom? ](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-6-hva-er-sykdom) — EXPHIL-MOSEM
+- [Innhold læringsmodul uke 5: Etikk II ](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-uke-5-etikk-ii) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 6 ](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-6) — EXPHIL-MOSEM
+- [Tema og ukens læringsmål uke 7](https://mitt.uib.no/courses/59801/pages/tema-og-ukens-laeringsmal-uke-7) — EXPHIL-MOSEM
+- [Innhold læringsmodul 7 Anvendt etikk](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-7-anvendt-etikk) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 8: Årsaker og forklaringer](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-8-arsaker-og-forklaringer) — EXPHIL-MOSEM
+- [Innhold læringsmodul 8 Hva er en årsak i medisinske forklaringer?](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-8-hva-er-en-arsak-i-medisinske-forklaringer) — EXPHIL-MOSEM
+- [Innhold læringsmodul uke 9: Hva er vitenskap? ](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-uke-9-hva-er-vitenskap) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 9](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-9) — EXPHIL-MOSEM
+- [Innhold læringsmodul 10 Skolemedisin og alternativ medisin](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-10-skolemedisin-og-alternativ-medisin) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 10](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-10) — EXPHIL-MOSEM
+- [Innhold læringsmodul uke 11 Hva er bevissthet? ](https://mitt.uib.no/courses/59801/pages/innhold-laeringsmodul-uke-11-hva-er-bevissthet) — EXPHIL-MOSEM
+- [Tema og læringsmål uke 11 Hva er bevissthet? ](https://mitt.uib.no/courses/59801/pages/tema-og-laeringsmal-uke-11-hva-er-bevissthet) — EXPHIL-MOSEM
+- [Padlet](https://mitt.uib.no/courses/589/pages/padlet) — Institutt for filosofi og førstesemesterstudier
+- [Institutt for filosofi og førstesemesterstudium](https://mitt.uib.no/courses/589/pages/institutt-for-filosofi-og-forstesemesterstudium) — Institutt for filosofi og førstesemesterstudier
+- [Humanistisk Studentutvalg](https://mitt.uib.no/courses/2833/pages/humanistisk-studentutvalg) — STUDENTUTVALG-HF
+- [Informasjon om studentmidler og refusjon](https://mitt.uib.no/courses/2835/pages/informasjon-om-studentmidler-og-refusjon) — STUDENTUTVALG-MO
+- [Salg av bokskap](https://mitt.uib.no/courses/2835/pages/salg-av-bokskap) — STUDENTUTVALG-MO
+- [Hva er MEDSU?](https://mitt.uib.no/courses/2835/pages/hva-er-medsu) — STUDENTUTVALG-MO
+- [Send inn refusjon her!](https://mitt.uib.no/courses/2835/pages/send-inn-refusjon-her) — STUDENTUTVALG-MO
+- [Skikkethet](https://mitt.uib.no/courses/2835/pages/skikkethet) — STUDENTUTVALG-MO
+- [Tillitsvalgtopplæring](https://mitt.uib.no/courses/2835/pages/tillitsvalgtopplaering) — STUDENTUTVALG-MO
+- [Velkommen som kulltillitsvalgt ved medisinstudiet!](https://mitt.uib.no/courses/2835/pages/velkommen-som-kulltillitsvalgt-ved-medisinstudiet) — STUDENTUTVALG-MO
+- [Greit å kjenne til som student](https://mitt.uib.no/courses/2835/pages/greit-a-kjenne-til-som-student) — STUDENTUTVALG-MO
+- [Kontaktinformasjon](https://mitt.uib.no/courses/2835/pages/kontaktinformasjon) — STUDENTUTVALG-MO
+- [Velkommen som kulltillitsvalgt ved tannpleiestudiet!](https://mitt.uib.no/courses/2835/pages/velkommen-som-kulltillitsvalgt-ved-tannpleiestudiet) — STUDENTUTVALG-MO
+- [Rollen som kulltillitsvalgt og kullstyrerepresentant](https://mitt.uib.no/courses/2835/pages/rollen-som-kulltillitsvalgt-og-kullstyrerepresentant) — STUDENTUTVALG-MO
+- [Programutvalg og semesterstyrer ved Medisinstudiet](https://mitt.uib.no/courses/2835/pages/programutvalg-og-semesterstyrer-ved-medisinstudiet) — STUDENTUTVALG-MO
+- [Tannpleie: Rollen som kulltillitsvalgt](https://mitt.uib.no/courses/2835/pages/tannpleie-rollen-som-kulltillitsvalgt) — STUDENTUTVALG-MO
+- [Tannpleie: Emner og oppbygging](https://mitt.uib.no/courses/2835/pages/tannpleie-emner-og-oppbygging) — STUDENTUTVALG-MO
+- [Tannpleie: Råd og utvalg](https://mitt.uib.no/courses/2835/pages/tannpleie-rad-og-utvalg) — STUDENTUTVALG-MO
+- [Tannpleie: Kontaktinformasjon](https://mitt.uib.no/courses/2835/pages/tannpleie-kontaktinformasjon) — STUDENTUTVALG-MO
+- [Velkommen som kulltillitsvalgt ved odontologistudiet! ](https://mitt.uib.no/courses/2835/pages/velkommen-som-kulltillitsvalgt-ved-odontologistudiet) — STUDENTUTVALG-MO
+- [Odontologi: Rollen som kulltillitsvalgt ](https://mitt.uib.no/courses/2835/pages/odontologi-rollen-som-kulltillitsvalgt) — STUDENTUTVALG-MO
+- [Odontologi: Kontaktinformasjon](https://mitt.uib.no/courses/2835/pages/odontologi-kontaktinformasjon) — STUDENTUTVALG-MO
+- [Odontologi: Råd og utvalg](https://mitt.uib.no/courses/2835/pages/odontologi-rad-og-utvalg) — STUDENTUTVALG-MO
+- [Odontologi: Emner og oppbygging av studiet](https://mitt.uib.no/courses/2835/pages/odontologi-emner-og-oppbygging-av-studiet) — STUDENTUTVALG-MO
+- [Ernæring: Rollen som kulltillitsvalgt ](https://mitt.uib.no/courses/2835/pages/ernaering-rollen-som-kulltillitsvalgt) — STUDENTUTVALG-MO
+- [Ernæring: Emner og oppbygging av studiet](https://mitt.uib.no/courses/2835/pages/ernaering-emner-og-oppbygging-av-studiet) — STUDENTUTVALG-MO
+- [Ernæring: Kontaktinformasjon ](https://mitt.uib.no/courses/2835/pages/ernaering-kontaktinformasjon) — STUDENTUTVALG-MO
+- [Ernæring: Råd og utvalg](https://mitt.uib.no/courses/2835/pages/ernaering-rad-og-utvalg) — STUDENTUTVALG-MO
+- [Velkommen som kulltillitsvalgt ved ernæringsstudiet! ](https://mitt.uib.no/courses/2835/pages/velkommen-som-kulltillitsvalgt-ved-ernaeringsstudiet) — STUDENTUTVALG-MO
+- [Velkommen som kulltillitsvalgt ved farmasistudiet! ](https://mitt.uib.no/courses/2835/pages/velkommen-som-kulltillitsvalgt-ved-farmasistudiet) — STUDENTUTVALG-MO
+- [Farmasi: Rollen som kulltillitsvalgt](https://mitt.uib.no/courses/2835/pages/farmasi-rollen-som-kulltillitsvalgt) — STUDENTUTVALG-MO
+- [Farmasi: Emner og oppbygging av studiet](https://mitt.uib.no/courses/2835/pages/farmasi-emner-og-oppbygging-av-studiet) — STUDENTUTVALG-MO
+- [Farmasi: Kontaktinformasjon ](https://mitt.uib.no/courses/2835/pages/farmasi-kontaktinformasjon) — STUDENTUTVALG-MO
+- [Farmasi: Råd og utvalg](https://mitt.uib.no/courses/2835/pages/farmasi-rad-og-utvalg) — STUDENTUTVALG-MO
+- [Velkommen som kulltillitsvalgt ved master i Biomedisin! / As a class representative for the master's program in Biomedical Science, welcome! ](https://mitt.uib.no/courses/2835/pages/velkommen-som-kulltillitsvalgt-ved-master-i-biomedisin-slash-as-a-class-representative-for-the-masters-program-in-biomedical-science-welcome) — STUDENTUTVALG-MO
+- [Rollen som kulltillitsvalgt / The role as class representative ](https://mitt.uib.no/courses/2835/pages/rollen-som-kulltillitsvalgt-slash-the-role-as-class-representative) — STUDENTUTVALG-MO
+- [Emner og oppbygging av studiet / Subjects and structure of the study](https://mitt.uib.no/courses/2835/pages/emner-og-oppbygging-av-studiet-slash-subjects-and-structure-of-the-study) — STUDENTUTVALG-MO
+- [Råd og utvalg / Councils and committees](https://mitt.uib.no/courses/2835/pages/rad-og-utvalg-slash-councils-and-committees) — STUDENTUTVALG-MO
+- [Kontaktinformasjon / Contact information](https://mitt.uib.no/courses/2835/pages/kontaktinformasjon-slash-contact-information) — STUDENTUTVALG-MO
+- [Velkommen som studentrepresentant ved masterprogram i Helse og samfunn! ](https://mitt.uib.no/courses/2835/pages/velkommen-som-studentrepresentant-ved-masterprogram-i-helse-og-samfunn) — STUDENTUTVALG-MO
+- [Helse og samfunn: Emner og oppbygging av studiet](https://mitt.uib.no/courses/2835/pages/helse-og-samfunn-emner-og-oppbygging-av-studiet) — STUDENTUTVALG-MO
+- [Helse og samfunn: Rollen som studentrepresentant](https://mitt.uib.no/courses/2835/pages/helse-og-samfunn-rollen-som-studentrepresentant) — STUDENTUTVALG-MO
+- [Helse og samfunn: Råd og utvalg](https://mitt.uib.no/courses/2835/pages/helse-og-samfunn-rad-og-utvalg) — STUDENTUTVALG-MO
+- [Helse og samfunn: Kontaktinformasjon](https://mitt.uib.no/courses/2835/pages/helse-og-samfunn-kontaktinformasjon) — STUDENTUTVALG-MO
+- [Medisinstudiet / Kull 26](https://mitt.uib.no/courses/58734/pages/medisinstudiet-slash-kull-26) — PRMEDISIN / KULL 2026 HØST
+- [Campus Førde kull 26](https://mitt.uib.no/courses/58736/pages/campus-forde-kull-26) — PRMEDISIN / KULL 2026 HØST / MED26-FØR
+- [Studietur til Førde 30. – 31. oktober](https://mitt.uib.no/courses/58736/pages/studietur-til-forde-30-31-oktober) — PRMEDISIN / KULL 2026 HØST / MED26-FØR
+- [VELKOMMEN TIL MENTORORDNINGEN!](https://mitt.uib.no/courses/61893/pages/velkommen-til-mentorordningen) — MENTOR-MED
+- [MEDOD1 - obligatoriske aktiviteter](https://mitt.uib.no/courses/58892/pages/medod1-obligatoriske-aktiviteter) — MEDOD1
+- [Informasjon om underveistester](https://mitt.uib.no/courses/58892/pages/informasjon-om-underveistester) — MEDOD1
+- [Hovedside -laboratoriekurs](https://mitt.uib.no/courses/58892/pages/hovedside-laboratoriekurs) — MEDOD1
+- [Vurdering og vurderingsformer](https://mitt.uib.no/courses/58892/pages/vurdering-og-vurderingsformer) — MEDOD1
+- [Aktiver sporing på tvers av nettsteder for eksterne verktøy i MittUiB-2](https://mitt.uib.no/courses/58892/pages/aktiver-sporing-pa-tvers-av-nettsteder-for-eksterne-verktoy-i-mittuib-2) — MEDOD1
+- [Ofte stilte spørsmål om eksamen](https://mitt.uib.no/courses/58892/pages/ofte-stilte-sporsmal-om-eksamen) — MEDOD1
+- [KI - reglement for medisinstudiet](https://mitt.uib.no/courses/58892/pages/ki-reglement-for-medisinstudiet) — MEDOD1
+- [Klinikktøy og garderobe Odontologen-2](https://mitt.uib.no/courses/58892/pages/klinikktoy-og-garderobe-odontologen-2) — MEDOD1
+- [Smittevern](https://mitt.uib.no/courses/58892/pages/smittevern) — MEDOD1
+- [Introduksjonskurset -Medisin](https://mitt.uib.no/courses/58892/pages/introduksjonskurset-medisin) — MEDOD1
+- [Frivillig: Medisinsk historie - sykdomsbyrden - Vollset](https://mitt.uib.no/courses/58892/pages/frivillig-medisinsk-historie-sykdomsbyrden-vollset) — MEDOD1
+- [Forberedelse - Folkehelse - Aavitsland](https://mitt.uib.no/courses/58892/pages/forberedelse-folkehelse-aavitsland) — MEDOD1
+- [Introduksjon - Sosial ulikhet i helse - del 1](https://mitt.uib.no/courses/58892/pages/introduksjon-sosial-ulikhet-i-helse-del-1) — MEDOD1
+- [Introduksjon - Sosial ulikhet i helse - del 2 ](https://mitt.uib.no/courses/58892/pages/introduksjon-sosial-ulikhet-i-helse-del-2) — MEDOD1
+- [Introduksjon - Sosial ulikhet i helse - del 3](https://mitt.uib.no/courses/58892/pages/introduksjon-sosial-ulikhet-i-helse-del-3) — MEDOD1
+- [Tiltak for å jevne ut sosiale ulikheter i helse del 1](https://mitt.uib.no/courses/58892/pages/tiltak-for-a-jevne-ut-sosiale-ulikheter-i-helse-del-1) — MEDOD1
+- [Tiltak for å jevne ut sosiale ulikheter i helse del 2](https://mitt.uib.no/courses/58892/pages/tiltak-for-a-jevne-ut-sosiale-ulikheter-i-helse-del-2-2) — MEDOD1
+- [Årsaker - Sosiale Ulikhet i helse (frivillig)](https://mitt.uib.no/courses/58892/pages/arsaker-sosiale-ulikhet-i-helse-frivillig) — MEDOD1
+- [Tiltak for å jevne ut sosiale ulikheter i helse del 3](https://mitt.uib.no/courses/58892/pages/tiltak-for-a-jevne-ut-sosiale-ulikheter-i-helse-del-3) — MEDOD1
+- [Miljømedisin - Informasjon om obligatorisk gruppearbeid](https://mitt.uib.no/courses/58892/pages/miljomedisin-informasjon-om-obligatorisk-gruppearbeid) — MEDOD1
+- [Informasjon om undervisningen i miljømedisin](https://mitt.uib.no/courses/58892/pages/informasjon-om-undervisningen-i-miljomedisin) — MEDOD1
+- [Gruppeoppgave i sosial ulikhet i helse ](https://mitt.uib.no/courses/58892/pages/gruppeoppgave-i-sosial-ulikhet-i-helse) — MEDOD1
+- [Eksamensinformasjon, samfunnsmedisin (OPPDATERT: 4.11.2026)](https://mitt.uib.no/courses/58892/pages/eksamensinformasjon-samfunnsmedisin-oppdatert-4-dot-11-dot-2026) — MEDOD1
+- [Eksempeloppgave 1 (med eksempelsvar)](https://mitt.uib.no/courses/58892/pages/eksempeloppgave-1-med-eksempelsvar) — MEDOD1
+- [Eksempeloppgave 2 (med sensorveiledning)](https://mitt.uib.no/courses/58892/pages/eksempeloppgave-2-med-sensorveiledning) — MEDOD1
+- [Spørretime 1. desember](https://mitt.uib.no/courses/58892/pages/sporretime-1-desember) — MEDOD1
+- [Eksempeloppgave 3 (med sensorveiledning)](https://mitt.uib.no/courses/58892/pages/eksempeloppgave-3-med-sensorveiledning) — MEDOD1
+- [Velkommen!](https://mitt.uib.no/courses/58892/pages/velkommen) — MEDOD1
+- [Digi100 / Digi101](https://mitt.uib.no/courses/58892/pages/digi100-slash-digi101) — MEDOD1
+- [Introduksjon og læringsutbytte: Samenes status og rettigheter som urfolk](https://mitt.uib.no/courses/58892/pages/introduksjon-og-laeringsutbytte-samenes-status-og-rettigheter-som-urfolk) — MEDOD1
+- [Hva er et urfolk? - Video](https://mitt.uib.no/courses/58892/pages/hva-er-et-urfolk-video) — MEDOD1
+- [Hva er et urfolk? - Definisjon](https://mitt.uib.no/courses/58892/pages/hva-er-et-urfolk-definisjon) — MEDOD1
+- [Hva er et urfolk? - Urfolk lever i hele verden](https://mitt.uib.no/courses/58892/pages/hva-er-et-urfolk-urfolk-lever-i-hele-verden) — MEDOD1
+- [Hva er et urfolk? - Læringsaktiviteter](https://mitt.uib.no/courses/58892/pages/hva-er-et-urfolk-laeringsaktiviteter) — MEDOD1
+- [Hva er et urfolk? - Litteratur - Fordypning](https://mitt.uib.no/courses/58892/pages/hva-er-et-urfolk-litteratur-fordypning) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - Lover og konvensjoner](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-lover-og-konvensjoner) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - 6 ting du bør vite om samene i Norge](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-6-ting-du-bor-vite-om-samene-i-norge) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - Samers psykiske helse](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-samers-psykiske-helse) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - Case om Amanda Del 1](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-case-om-amanda-del-1) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - Sentrale lover og føringer](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-sentrale-lover-og-foringer) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - Læringsaktiviteter](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-laeringsaktiviteter) — MEDOD1
+- [Hvilke rettigheter har samer som urfolk? - Litteratur og fordypning](https://mitt.uib.no/courses/58892/pages/hvilke-rettigheter-har-samer-som-urfolk-litteratur-og-fordypning) — MEDOD1
+- [Læringsmål akuttmedisin for odontologi](https://mitt.uib.no/courses/58892/pages/laeringsmal-akuttmedisin-for-odontologi) — MEDOD1
+- [Målbeskrivelse Den akutt syke pasient](https://mitt.uib.no/courses/58892/pages/malbeskrivelse-den-akutt-syke-pasient) — MEDOD1
+- [Forelesningsplan](https://mitt.uib.no/courses/58892/pages/forelesningsplan) — MEDOD1
+- [Kollokvieoppgaver](https://mitt.uib.no/courses/58892/pages/kollokvieoppgaver) — MEDOD1
+- [Celle1 - Hovedside](https://mitt.uib.no/courses/58892/pages/celle1-hovedside) — MEDOD1
+- [Introduksjon til Celle1 26.08.2026](https://mitt.uib.no/courses/58892/pages/introduksjon-til-celle1-26-dot-08-dot-2026) — MEDOD1
+- [Sammensatte tema](https://mitt.uib.no/courses/58892/pages/sammensatte-tema) — MEDOD1
+- [Laboratoriekursene](https://mitt.uib.no/courses/58892/pages/laboratoriekursene) — MEDOD1
+- [Sammensatt tema - Salivas kjemi (15.10.2026)](https://mitt.uib.no/courses/58892/pages/sammensatt-tema-salivas-kjemi-15-dot-10-dot-2026) — MEDOD1
+- [Sammensatt tema - Multippel sklerose (09.11.26)](https://mitt.uib.no/courses/58892/pages/sammensatt-tema-multippel-sklerose-09-dot-11-dot-26) — MEDOD1
+- [Kollokvier i Celle1](https://mitt.uib.no/courses/58892/pages/kollokvier-i-celle1) — MEDOD1
+- [Generell kjemi ](https://mitt.uib.no/courses/58892/pages/generell-kjemi) — MEDOD1
+- [Den generelle cellen](https://mitt.uib.no/courses/58892/pages/den-generelle-cellen) — MEDOD1
+- [Forelesning 2 - fra intermolekylære krafter til løsninger og likevekter (3.9.26)](https://mitt.uib.no/courses/58892/pages/forelesning-2-fra-intermolekylaere-krafter-til-losninger-og-likevekter-3-dot-9-26) — MEDOD1
+- [Forelesning 1 - grunnleggende kjemi (1.9.26)](https://mitt.uib.no/courses/58892/pages/forelesning-1-grunnleggende-kjemi-1-dot-9-26) — MEDOD1
+- [Forelesning 3 - (syre/base)likevekter (14.9.2026)](https://mitt.uib.no/courses/58892/pages/forelesning-3-syre-slash-base-likevekter-14-dot-9-2026) — MEDOD1
+- [Forelesning 4 - buffere og videre likevekter (17.9.2026)](https://mitt.uib.no/courses/58892/pages/forelesning-4-buffere-og-videre-likevekter-17-dot-9-2026) — MEDOD1
+- [Videomaterialer om blodets pH-regulering og hyperventilering](https://mitt.uib.no/courses/58892/pages/videomaterialer-om-blodets-ph-regulering-og-hyperventilering) — MEDOD1
+- [Forelesning 5 - termodynamikk og elektrokjemi (24.9.2026)](https://mitt.uib.no/courses/58892/pages/forelesning-5-termodynamikk-og-elektrokjemi-24-dot-9-2026) — MEDOD1
+- [Hjemmearbeid og oppgaver i generell kjemi](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-og-oppgaver-i-generell-kjemi) — MEDOD1
+- [Hjemmearbeid fra introduksjonen til Celle1 (26.8.2026)](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-fra-introduksjonen-til-celle1-26-dot-8-2026) — MEDOD1
+- [Hjemmearbeid fra forelesning 1](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-fra-forelesning-1) — MEDOD1
+- [Hjemmearbeid fra forelesning 2](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-fra-forelesning-2) — MEDOD1
+- [Hjemmearbeid fra forelesning 5](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-fra-forelesning-5) — MEDOD1
+- [Hjemmearbeid fra forelesning 4](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-fra-forelesning-4) — MEDOD1
+- [Hjemmearbeid fra forelesning 3](https://mitt.uib.no/courses/58892/pages/hjemmearbeid-fra-forelesning-3) — MEDOD1
+- [Oppgaver - generell kjemi](https://mitt.uib.no/courses/58892/pages/oppgaver-generell-kjemi) — MEDOD1
+- [Spørretime 1 - generell kjemi (12.10.2026)](https://mitt.uib.no/courses/58892/pages/sporretime-1-generell-kjemi-12-dot-10-dot-2026) — MEDOD1
+- [Fasit til labøvelsen (titrering)](https://mitt.uib.no/courses/58892/pages/fasit-til-labovelsen-titrering) — MEDOD1
+- [Gjennomgang av underveistest - generell kjemi](https://mitt.uib.no/courses/58892/pages/gjennomgang-av-underveistest-generell-kjemi) — MEDOD1
+- [Nyttige lenker - generell kjemi](https://mitt.uib.no/courses/58892/pages/nyttige-lenker-generell-kjemi) — MEDOD1
+- [Nyttige lenker 2 - tabeller av konstanter ](https://mitt.uib.no/courses/58892/pages/nyttige-lenker-2-tabeller-av-konstanter) — MEDOD1
+- [Material om hybridorbitaler](https://mitt.uib.no/courses/58892/pages/material-om-hybridorbitaler) — MEDOD1
+- [Formelhefte](https://mitt.uib.no/courses/58892/pages/formelhefte) — MEDOD1
+- [Tilleggsmaterialer til Celle1](https://mitt.uib.no/courses/58892/pages/tilleggsmaterialer-til-celle1) — MEDOD1
+- [Proteiner og Enzymer - asynkrone videoer](https://mitt.uib.no/courses/58892/pages/proteiner-og-enzymer-asynkrone-videoer) — MEDOD1
+- [Sikkerhet på lab - Introduksjon](https://mitt.uib.no/courses/58892/pages/sikkerhet-pa-lab-introduksjon) — MEDOD1
+- [Proteiner og Enzymer - 2026](https://mitt.uib.no/courses/58892/pages/proteiner-og-enzymer-2026) — MEDOD1
+- [Sikkerhet på lab - Demonstrasjonsvideoer ](https://mitt.uib.no/courses/58892/pages/sikkerhet-pa-lab-demonstrasjonsvideoer) — MEDOD1
+- [Sikkerhet på lab - Sikkerhetsdatablad](https://mitt.uib.no/courses/58892/pages/sikkerhet-pa-lab-sikkerhetsdatablad) — MEDOD1
+- [Informasjon om Studentparlamentet ved UiB](https://mitt.uib.no/courses/2569/pages/informasjon-om-studentparlamentet-ved-uib) — Studentparlamentet
+- [Kulltillitsvalgte](https://mitt.uib.no/courses/849/pages/kulltillitsvalgte) — PRMEDISIN
+- [Dagens quiz - tilgang HØST 2026](https://mitt.uib.no/courses/849/pages/dagens-quiz-tilgang-host-2026) — PRMEDISIN
+- [Kullstyre](https://mitt.uib.no/courses/849/pages/kullstyre) — PRMEDISIN
+- [Kulldeling](https://mitt.uib.no/courses/849/pages/kulldeling) — PRMEDISIN
+- [Kontaktinformasjon medisinstudiet](https://mitt.uib.no/courses/849/pages/kontaktinformasjon-medisinstudiet) — PRMEDISIN
+- [Informasjon om praksis i medisinstudiet](https://mitt.uib.no/courses/849/pages/informasjon-om-praksis-i-medisinstudiet) — PRMEDISIN
+- [Digitale ressurser for medisinstudenter](https://mitt.uib.no/courses/849/pages/digitale-ressurser-for-medisinstudenter) — PRMEDISIN
+- [Flervalgsoppgavebasen (FVO) for studenter](https://mitt.uib.no/courses/849/pages/flervalgsoppgavebasen-fvo-for-studenter) — PRMEDISIN
+- [Kontaktpersoner samarbeidende sykehus](https://mitt.uib.no/courses/849/pages/kontaktpersoner-samarbeidende-sykehus) — PRMEDISIN
+- [Hovedoppgaven på medisinstudiet](https://mitt.uib.no/courses/849/pages/hovedoppgaven-pa-medisinstudiet) — PRMEDISIN
+- [6. og 7. semester og hovedoppgaven](https://mitt.uib.no/courses/849/pages/6-og-7-semester-og-hovedoppgaven) — PRMEDISIN
+- [8. semester og hovedoppgaven](https://mitt.uib.no/courses/849/pages/8-semester-og-hovedoppgaven) — PRMEDISIN
+- [Forskning ved Det medisinske fakultet](https://mitt.uib.no/courses/849/pages/forskning-ved-det-medisinske-fakultet) — PRMEDISIN
+- [Ressurser til arbeidet med hovedoppgaven](https://mitt.uib.no/courses/849/pages/ressurser-til-arbeidet-med-hovedoppgaven) — PRMEDISIN
+- [10. semester og hovedoppgaven](https://mitt.uib.no/courses/849/pages/10-semester-og-hovedoppgaven) — PRMEDISIN
+- [FAQ hovedoppgave UNDER REVISJON](https://mitt.uib.no/courses/849/pages/faq-hovedoppgave-under-revisjon) — PRMEDISIN
+- [Lage poster](https://mitt.uib.no/courses/849/pages/lage-poster) — PRMEDISIN
+- [Forslag hovedoppgaver medisin](https://mitt.uib.no/courses/849/pages/forslag-hovedoppgaver-medisin) — PRMEDISIN
+- [Jeg vil ta elektive emner ved Det medisinske fakultet](https://mitt.uib.no/courses/849/pages/jeg-vil-ta-elektive-emner-ved-det-medisinske-fakultet) — PRMEDISIN
+- [Elektive emner 2027 - campus Bergen](https://mitt.uib.no/courses/849/pages/elektive-emner-2027-campus-bergen) — PRMEDISIN
+- [Elektiv periode](https://mitt.uib.no/courses/849/pages/elektiv-periode) — PRMEDISIN
+- [Elektive emner 2027 - campus Stavanger](https://mitt.uib.no/courses/849/pages/elektive-emner-2027-campus-stavanger) — PRMEDISIN
+- [På- og avmelding av elektive emner](https://mitt.uib.no/courses/849/pages/pa-og-avmelding-av-elektive-emner) — PRMEDISIN
+- [Jeg vil ta (eller har tatt) emner på andre fakultet/læresteder](https://mitt.uib.no/courses/849/pages/jeg-vil-ta-eller-har-tatt-emner-pa-andre-fakultet-slash-laeresteder) — PRMEDISIN
+- [Ofte stilte spørsmål om elektiv periode](https://mitt.uib.no/courses/849/pages/ofte-stilte-sporsmal-om-elektiv-periode) — PRMEDISIN
+- [Godkjenning av emner til elektiv periode](https://mitt.uib.no/courses/849/pages/godkjenning-av-emner-til-elektiv-periode) — PRMEDISIN
+- [Øre-Nese-Hals kurs](https://mitt.uib.no/courses/849/pages/ore-nese-hals-kurs) — PRMEDISIN
+- [Videoer i Anatomi, Fysiologi og Embryologi](https://mitt.uib.no/courses/849/pages/videoer-i-anatomi-fysiologi-og-embryologi) — PRMEDISIN
+- [Tips til studieteknikk](https://mitt.uib.no/courses/582/pages/tips-til-studieteknikk) — MED
+- [Ferdighetsliste - praktiske ferdigheter](https://mitt.uib.no/courses/849/pages/ferdighetsliste-praktiske-ferdigheter) — PRMEDISIN

@@ -1,0 +1,12 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch();
+const p = await (await b.newContext({ viewport: { width: 1280, height: 1100 } })).newPage();
+p.on('pageerror', (e) => console.log('PAGEERROR', e.message));
+await p.goto('http://localhost:4173/medod1/eksamen/2025-h', { waitUntil: 'networkidle' });
+await p.click('#q-2025-h-66 .options li:nth-child(2) button');
+await p.click('#q-2025-h-66 .primary');
+await p.click('#q-2025-h-2 .options li:nth-child(1) button');
+await p.click('#q-2025-h-2 .primary');
+await p.waitForTimeout(500);
+await p.screenshot({ path: process.argv[2], fullPage: true });
+await b.close();

@@ -1,0 +1,426 @@
+:root {
+	--bg: #f7f6f3;
+	--surface: #ffffff;
+	--surface-2: #f0eee9;
+	--text: #1d2125;
+	--muted: #5d646b;
+	--faint: #8a9096;
+	--border: #e2dfd8;
+	--accent: #2f5d50;
+	--accent-soft: #e3ece8;
+	--link: #23614f;
+	--husk: #2f5d50;
+	--husk-bg: #e8f1ed;
+	--eksamen: #8a5a00;
+	--eksamen-bg: #fbf1dc;
+	--klinikk: #8b3a4a;
+	--klinikk-bg: #f8e8eb;
+	--feil: #a23b1d;
+	--feil-bg: #fbe9e3;
+	--eksempel: #3b5a8a;
+	--eksempel-bg: #e8eef8;
+	--radius: 10px;
+	--shadow: 0 1px 2px rgb(0 0 0 / 0.04), 0 2px 8px rgb(0 0 0 / 0.04);
+	--sidebar: 280px;
+	--prose: 46rem;
+	--font: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, Roboto, 'Helvetica Neue', sans-serif;
+	--mono: ui-monospace, 'SF Mono', Menlo, monospace;
+	color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: #16181d;
+		--surface: #1e2127;
+		--surface-2: #262a31;
+		--text: #e7e8ea;
+		--muted: #a4aab1;
+		--faint: #7b828a;
+		--border: #31353d;
+		--accent: #7fc1ab;
+		--accent-soft: #1f322c;
+		--link: #8fd0ba;
+		--husk: #8fd0ba;
+		--husk-bg: #1c2b27;
+		--eksamen: #e3b65c;
+		--eksamen-bg: #2e2716;
+		--klinikk: #e59aa9;
+		--klinikk-bg: #301e23;
+		--feil: #f0977a;
+		--feil-bg: #33211b;
+		--eksempel: #9db8e6;
+		--eksempel-bg: #1d2533;
+		--shadow: none;
+		color-scheme: dark;
+	}
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+	scroll-padding-top: 4.5rem;
+}
+
+body {
+	margin: 0;
+	background: var(--bg);
+	color: var(--text);
+	font: 16px/1.6 var(--font);
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: var(--link);
+	text-decoration-thickness: 1px;
+	text-underline-offset: 2px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	line-height: 1.25;
+	letter-spacing: -0.01em;
+}
+
+h1 {
+	font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.2rem);
+	margin: 0 0 0.4rem;
+}
+
+.lead {
+	font-size: 1.1rem;
+	color: var(--muted);
+	margin: 0 0 1.5rem;
+	max-width: var(--prose);
+}
+
+.crumbs {
+	font-size: 0.85rem;
+	color: var(--faint);
+	margin-bottom: 0.75rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35rem;
+}
+.crumbs a {
+	color: var(--muted);
+	text-decoration: none;
+}
+.crumbs a:hover {
+	text-decoration: underline;
+}
+
+.card {
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	box-shadow: var(--shadow);
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+	gap: 0.85rem;
+}
+
+a.tile {
+	display: block;
+	padding: 1rem 1.1rem;
+	text-decoration: none;
+	color: inherit;
+	transition: border-color 0.15s;
+}
+a.tile:hover {
+	border-color: var(--accent);
+}
+a.tile h3 {
+	margin: 0 0 0.3rem;
+	font-size: 1.02rem;
+	color: var(--text);
+}
+a.tile p {
+	margin: 0;
+	color: var(--muted);
+	font-size: 0.9rem;
+	line-height: 1.45;
+}
+
+.badge {
+	display: inline-block;
+	font-size: 0.72rem;
+	font-weight: 600;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: var(--accent);
+	background: var(--accent-soft);
+	padding: 0.1rem 0.45rem;
+	border-radius: 999px;
+}
+
+.section-title {
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: var(--faint);
+	margin: 2rem 0 0.75rem;
+}
+
+/* ---------- prose (rendered markdown) ---------- */
+
+.prose {
+	max-width: var(--prose);
+	font-size: 1.03rem;
+	line-height: 1.68;
+	overflow-wrap: break-word;
+}
+.prose > :first-child {
+	margin-top: 0;
+}
+.prose h2 {
+	font-size: 1.4rem;
+	margin: 2.4rem 0 0.8rem;
+	padding-top: 0.4rem;
+	border-top: 1px solid var(--border);
+}
+.prose h3 {
+	font-size: 1.12rem;
+	margin: 1.8rem 0 0.5rem;
+}
+.prose h4 {
+	font-size: 1rem;
+	margin: 1.4rem 0 0.4rem;
+}
+.prose p,
+.prose ul,
+.prose ol {
+	margin: 0.7rem 0;
+}
+.prose li {
+	margin: 0.25rem 0;
+}
+.prose li > ul,
+.prose li > ol {
+	margin: 0.2rem 0;
+}
+.prose code {
+	font-family: var(--mono);
+	font-size: 0.88em;
+	background: var(--surface-2);
+	padding: 0.1em 0.35em;
+	border-radius: 4px;
+}
+.prose pre {
+	background: var(--surface-2);
+	padding: 0.9rem 1rem;
+	border-radius: 8px;
+	overflow-x: auto;
+}
+.prose pre code {
+	background: none;
+	padding: 0;
+}
+.prose blockquote {
+	margin: 1rem 0;
+	padding: 0.2rem 1rem;
+	border-left: 3px solid var(--border);
+	color: var(--muted);
+}
+.prose hr {
+	border: 0;
+	border-top: 1px solid var(--border);
+	margin: 2rem 0;
+}
+
+.table-wrap {
+	overflow-x: auto;
+	margin: 1rem 0;
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	background: var(--surface);
+	-webkit-overflow-scrolling: touch;
+}
+.prose table {
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 0.93rem;
+	line-height: 1.45;
+}
+.prose th,
+.prose td {
+	padding: 0.5rem 0.7rem;
+	border-bottom: 1px solid var(--border);
+	text-align: left;
+	vertical-align: top;
+}
+.prose th {
+	background: var(--surface-2);
+	font-weight: 600;
+	white-space: nowrap;
+}
+.prose tr:last-child td {
+	border-bottom: 0;
+}
+
+.prose .katex-display {
+	overflow-x: auto;
+	overflow-y: hidden;
+	padding: 0.3rem 0;
+}
+.prose .katex {
+	font-size: 1.05em;
+}
+/* Long inline equations (e.g. \ce{...}) can't wrap: let them scroll instead of widening the page. */
+.katex {
+	display: inline-block;
+	max-width: 100%;
+	overflow-x: auto;
+	overflow-y: hidden;
+	vertical-align: bottom;
+	padding-bottom: 1px;
+}
+.katex-display > .katex {
+	display: block;
+}
+
+/* callouts */
+.callout {
+	--c: var(--husk);
+	--cb: var(--husk-bg);
+	margin: 1.2rem 0;
+	padding: 0.75rem 1rem;
+	border-left: 4px solid var(--c);
+	background: var(--cb);
+	border-radius: 0 8px 8px 0;
+}
+.callout > :last-child {
+	margin-bottom: 0;
+}
+.callout-title {
+	font-weight: 700;
+	font-size: 0.82rem;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: var(--c);
+	margin-bottom: 0.3rem;
+}
+.callout-eksamen {
+	--c: var(--eksamen);
+	--cb: var(--eksamen-bg);
+}
+.callout-klinikk {
+	--c: var(--klinikk);
+	--cb: var(--klinikk-bg);
+}
+.callout-feil {
+	--c: var(--feil);
+	--cb: var(--feil-bg);
+}
+.callout-eksempel {
+	--c: var(--eksempel);
+	--cb: var(--eksempel-bg);
+}
+.callout-eksempel .callout-title {
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 0.95rem;
+}
+
+/* self-test */
+details.sjekk {
+	margin: 0.6rem 0;
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	background: var(--surface);
+}
+details.sjekk > summary {
+	cursor: pointer;
+	padding: 0.7rem 1rem 0.7rem 2.4rem;
+	font-weight: 600;
+	list-style: none;
+	position: relative;
+}
+details.sjekk > summary::-webkit-details-marker {
+	display: none;
+}
+details.sjekk > summary::before {
+	content: '?';
+	position: absolute;
+	left: 0.8rem;
+	top: 0.72rem;
+	width: 1.15rem;
+	height: 1.15rem;
+	border-radius: 50%;
+	background: var(--accent-soft);
+	color: var(--accent);
+	font-size: 0.75rem;
+	display: grid;
+	place-items: center;
+}
+details.sjekk[open] > summary::before {
+	content: '✓';
+}
+.sjekk-svar {
+	padding: 0 1rem 0.8rem 2.4rem;
+	border-top: 1px dashed var(--border);
+	padding-top: 0.6rem;
+}
+.sjekk-svar > :first-child {
+	margin-top: 0;
+}
+.sjekk-svar > :last-child {
+	margin-bottom: 0;
+}
+
+/* SMILES structures */
+.smiles-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.75rem;
+	margin: 1rem 0;
+}
+figure.smiles {
+	margin: 0;
+	padding: 0.5rem;
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	text-align: center;
+	flex: 0 1 auto;
+	max-width: 100%;
+}
+figure.smiles svg {
+	display: block;
+	width: 220px;
+	height: 160px;
+	max-width: 100%;
+	margin: 0 auto;
+}
+figure.smiles figcaption {
+	font-size: 0.85rem;
+	color: var(--muted);
+	margin-top: 0.25rem;
+}
+figure.smiles.error svg {
+	display: none;
+}
+figure.smiles.error::before {
+	content: attr(data-smiles);
+	font-family: var(--mono);
+	font-size: 0.8rem;
+	color: var(--faint);
+}
+
+@media (max-width: 640px) {
+	.prose {
+		font-size: 1rem;
+	}
+	figure.smiles svg {
+		width: 160px;
+		height: 120px;
+	}
+}

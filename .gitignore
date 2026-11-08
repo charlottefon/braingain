@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+
+# Downloaded UiB course material (not redistributable)
+/medod1/
+/exphil/
+
+# Generated
+node_modules/
+build/
+.svelte-kit/
+
+# OS
+.DS_Store
