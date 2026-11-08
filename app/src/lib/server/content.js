@@ -15,6 +15,9 @@ import rehypeStringify from 'rehype-stringify';
 import { visit } from 'unist-util-visit';
 import 'katex/contrib/mhchem';
 
+/** URL prefix when hosted in a subfolder (e.g. GitHub Pages). Matches kit.paths.base. */
+export const BASE = process.env.BASE_PATH ?? '';
+
 export const CONTENT_DIR = path.resolve(process.cwd(), 'content');
 export const SOURCE_ROOT = path.resolve(process.cwd(), '..');
 
@@ -120,6 +123,18 @@ function remarkSmiles() {
 	};
 }
 
+/** Prefix site-absolute links in notes with the base path. */
+function rehypeBaseLinks() {
+	return (tree) => {
+		if (!BASE) return;
+		visit(tree, 'element', (node) => {
+			const href = node.properties?.href;
+			if (node.tagName === "a" && typeof href === "string" && href.startsWith("/") && !href.startsWith("//"))
+				node.properties.href = BASE + href;
+		});
+	};
+}
+
 /** Make tables horizontally scrollable on phones. */
 function rehypeWrapTables() {
 	return (tree) => {
@@ -168,6 +183,7 @@ export function renderMarkdown(md) {
 		.use(remarkRehype)
 		.use(rehypeKatex, { throwOnError: false, strict: false, output: 'html' })
 		.use(rehypeWrapTables)
+		.use(rehypeBaseLinks)
 		.use(rehypeSlug)
 		.use(rehypeStringify)
 		.processSync(md);
@@ -248,7 +264,7 @@ export function loadCourse(id) {
 								id: iid,
 								title: it.data.title ?? iid,
 								path: `${sid}/${d.name}/${iid}`,
-								href: `/${id}/${sid}/${d.name}/${iid}`,
+								href: `${BASE}/${id}/${sid}/${d.name}/${iid}`,
 								body: it.body,
 								file: path.join(mdir, f)
 							};
@@ -259,7 +275,7 @@ export function loadCourse(id) {
 						id: d.name,
 						title: m.data.title ?? d.name,
 						type: m.data.type ?? 'guide',
-						href: `/${id}/${sid}/${d.name}`,
+						href: `${BASE}/${id}/${sid}/${d.name}`,
 						body: m.body,
 						file: path.join(mdir, '_module.md'),
 						items
@@ -270,7 +286,7 @@ export function loadCourse(id) {
 				...s.data,
 				id: sid,
 				title: s.data.title ?? sid,
-				href: `/${id}/${sid}`,
+				href: `${BASE}/${id}/${sid}`,
 				body: s.body,
 				file: path.join(sdir, '_subject.md'),
 				modules

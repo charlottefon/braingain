@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import YAML from 'yaml';
-import { CONTENT_DIR, renderMarkdown, lenient } from './content.js';
+import { CONTENT_DIR, BASE, renderMarkdown, lenient } from './content.js';
 
 export const QUESTION_TYPES = ['single', 'multi', 'numeric', 'fill', 'text'];
 const TERM_ORDER = { vår: 0, høst: 1 };
@@ -53,7 +53,7 @@ export function loadExams(courseId) {
 		term: e.term,
 		source: e.source ?? null,
 		note: e.note ?? null,
-		href: `/${courseId}/eksamen/${e.id}`,
+		href: `${BASE}/${courseId}/eksamen/${e.id}`,
 		questions: e.questions.map((q) => renderQuestion(courseId, e, q))
 	}));
 	const result = { exams, questions: exams.flatMap((e) => e.questions) };
@@ -65,7 +65,7 @@ function renderQuestion(courseId, exam, q) {
 	return {
 		id: `${exam.id}-${q.n}`,
 		n: q.n,
-		exam: { id: exam.id, title: exam.title, href: `/${courseId}/eksamen/${exam.id}` },
+		exam: { id: exam.id, title: exam.title, href: `${BASE}/${courseId}/eksamen/${exam.id}` },
 		subject: q.subject ?? null,
 		topics: q.topics ?? [],
 		type: q.type,

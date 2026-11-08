@@ -1,6 +1,6 @@
 /// <reference types="@sveltejs/kit" />
 // Offline-first: precache the whole static site (all prerendered pages, assets, search index).
-import { build, files, prerendered, version } from '$service-worker';
+import { base, build, files, prerendered, version } from '$service-worker';
 
 const CACHE = `prep-${version}`;
 const ASSETS = [...build, ...files, ...prerendered];
@@ -32,7 +32,7 @@ self.addEventListener('fetch', (event) => {
 		(async () => {
 			const cache = await caches.open(CACHE);
 			// Pages are prerendered without trailing slash; normalise.
-			const path = url.pathname.replace(/\/$/, '') || '/';
+			const path = url.pathname.replace(/\/$/, '') || base || '/';
 			const hit = (await cache.match(path)) ?? (await cache.match(event.request, { ignoreSearch: true }));
 			if (hit) return hit;
 			try {
@@ -40,7 +40,7 @@ self.addEventListener('fetch', (event) => {
 				if (res.ok) cache.put(event.request, res.clone());
 				return res;
 			} catch {
-				return (await cache.match('/')) ?? Response.error();
+				return (await cache.match(base || '/')) ?? Response.error();
 			}
 		})()
 	);

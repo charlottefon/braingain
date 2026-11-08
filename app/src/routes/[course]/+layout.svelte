@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { afterNavigate } from '$app/navigation';
 
@@ -18,8 +19,8 @@
 				><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg
 			>
 		</button>
-		<a class="brand" href="/{data.nav.id}">{data.nav.title}</a>
-		<a class="search-btn" href="/{data.nav.id}/sok" aria-label="Søk">
+		<a class="brand" href="{base}/{data.nav.id}">{data.nav.title}</a>
+		<a class="search-btn" href="{base}/{data.nav.id}/sok" aria-label="Søk">
 			<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"
 				><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2" /><path
 					d="m16 16 4.5 4.5"
@@ -34,13 +35,13 @@
 	{#if open}<button class="scrim" aria-label="Lukk meny" onclick={() => (open = false)}></button>{/if}
 
 	<nav class="sidebar" class:open>
-		<a class="side-brand" href="/{data.nav.id}">
+		<a class="side-brand" href="{base}/{data.nav.id}">
 			<strong>{data.nav.title}</strong>
 			<span>{data.nav.fullTitle}</span>
 		</a>
-		<a class="side-search" href="/{data.nav.id}/sok">Søk i alt innhold …</a>
-		<a class="side-link" class:current={path === `/${data.nav.id}`} href="/{data.nav.id}">Oversikt</a>
-		<a class="side-link" class:current={path.startsWith(`/${data.nav.id}/eksamen`)} href="/{data.nav.id}/eksamen"
+		<a class="side-search" href="{base}/{data.nav.id}/sok">Søk i alt innhold …</a>
+		<a class="side-link" class:current={path === `${base}/${data.nav.id}`} href="{base}/{data.nav.id}">Oversikt</a>
+		<a class="side-link" class:current={path.startsWith(`${base}/${data.nav.id}/eksamen`)} href="{base}/{data.nav.id}/eksamen"
 			>Eksamensoppgaver</a
 		>
 		<div class="side-sep"></div>

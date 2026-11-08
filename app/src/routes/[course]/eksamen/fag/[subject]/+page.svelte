@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Question from '$lib/components/Question.svelte';
 	let { data } = $props();
 	let mod = $state('');
@@ -24,7 +25,7 @@
 
 <svelte:head><title>Eksamensoppgaver – {data.subject.title}</title></svelte:head>
 
-<div class="crumbs"><a href="/{data.nav.id}/eksamen">Eksamensoppgaver</a> › <a href={data.subject.href}>{data.subject.title}</a></div>
+<div class="crumbs"><a href="{base}/{data.nav.id}/eksamen">Eksamensoppgaver</a> › <a href={data.subject.href}>{data.subject.title}</a></div>
 <h1>{data.subject.title}: eksamensoppgaver</h1>
 <p class="lead">{data.questions.length} oppgaver fra tidligere eksamener.</p>
 

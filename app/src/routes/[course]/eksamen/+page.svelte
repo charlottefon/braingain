@@ -1,11 +1,12 @@
 <script>
+	import { base } from '$app/paths';
 	let { data } = $props();
 	const max = $derived(Math.max(1, ...data.subjects.map((s) => s.count)));
 </script>
 
 <svelte:head><title>Eksamensoppgaver – {data.nav.title}</title></svelte:head>
 
-<div class="crumbs"><a href="/{data.nav.id}">{data.nav.title}</a></div>
+<div class="crumbs"><a href="{base}/{data.nav.id}">{data.nav.title}</a></div>
 <h1>Eksamensoppgaver</h1>
 <p class="lead">
 	{data.total} oppgaver fra {data.exams.length} tidligere eksamener, merket med fag og tema. Øv per fag, eller ta et helt sett.

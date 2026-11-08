@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import { onMount, tick } from 'svelte';
 	import MiniSearch from 'minisearch';
 	let { data } = $props();
@@ -9,7 +10,7 @@
 
 	onMount(async () => {
 		q = new URLSearchParams(location.search).get('q') ?? '';
-		const docs = await fetch(`/${data.nav.id}/search.json`).then((r) => r.json());
+		const docs = await fetch(`${base}/${data.nav.id}/search.json`).then((r) => r.json());
 		const m = new MiniSearch({
 			fields: ['title', 'tags', 'summary', 'text'],
 			storeFields: ['title', 'summary', 'where'],

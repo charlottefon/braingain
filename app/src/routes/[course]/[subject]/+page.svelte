@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Prose from '$lib/components/Prose.svelte';
 	let { data } = $props();
 	const typeLabel = { guide: 'Gjennomgang', catalog: 'Katalog', page: 'Oppslag' };
@@ -6,7 +7,7 @@
 
 <svelte:head><title>{data.subject.title}</title></svelte:head>
 
-<div class="crumbs"><a href="/{data.nav.id}">{data.nav.title}</a></div>
+<div class="crumbs"><a href="{base}/{data.nav.id}">{data.nav.title}</a></div>
 <h1>{data.subject.title}</h1>
 <p class="lead">{data.subject.summary}</p>
 

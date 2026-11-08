@@ -10,6 +10,7 @@ const config = {
 			handleHttpError: process.env.PRERENDER_LENIENT ? 'warn' : 'fail',
 			handleMissingId: 'warn'
 		},
+		paths: { base: process.env.BASE_PATH ?? '' },
 		serviceWorker: { register: true }
 	}
 };

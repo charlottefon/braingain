@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	let { data } = $props();
 </script>
 
@@ -9,7 +10,7 @@
 	<p class="lead">Velg emne.</p>
 	<div class="grid">
 		{#each data.courses as c}
-			<a class="card tile" href="/{c.id}">
+			<a class="card tile" href="{base}/{c.id}">
 				<span class="badge">{c.institution ?? 'Emne'}</span>
 				<h3 style="margin-top:.5rem">{c.title}</h3>
 				<p>{c.fullTitle}</p>

@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Prose from '$lib/components/Prose.svelte';
 	let { data } = $props();
 	const m = $derived(data.module);
@@ -19,7 +20,7 @@
 <svelte:head><title>{m.title} – {data.subject.title}</title></svelte:head>
 
 <div class="crumbs">
-	<a href="/{data.nav.id}">{data.nav.title}</a> › <a href={data.subject.href}>{data.subject.title}</a>
+	<a href="{base}/{data.nav.id}">{data.nav.title}</a> › <a href={data.subject.href}>{data.subject.title}</a>
 </div>
 <h1>{m.title}</h1>
 <p class="lead">{m.summary}</p>

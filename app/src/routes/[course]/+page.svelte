@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
 	let { data } = $props();
 	const c = $derived(data.course);
@@ -42,7 +43,7 @@
 {/if}
 
 {#if data.examStats.questions}
-	<a class="card practice" href="/{c.id}/eksamen">
+	<a class="card practice" href="{base}/{c.id}/eksamen">
 		<strong>Eksamensoppgaver</strong>
 		<span>{data.examStats.questions} oppgaver fra {data.examStats.exams} tidligere eksamener – øv per fag eller ta hele sett →</span>
 	</a>

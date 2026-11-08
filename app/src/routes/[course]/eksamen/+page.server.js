@@ -1,4 +1,4 @@
-import { listCourses, loadCourse } from '$lib/server/content.js';
+import { listCourses, loadCourse, BASE } from '$lib/server/content.js';
 import { loadExams } from '$lib/server/exams.js';
 
 export function entries() {
@@ -17,7 +17,7 @@ export function load({ params }) {
 					count: qs.filter((q) => q.topics.some((t) => t.startsWith(`${s.id}/${m.id}`))).length
 				}))
 				.filter((m) => m.count);
-			return { id: s.id, title: s.title, count: qs.length, modules, href: `/${course.id}/eksamen/fag/${s.id}` };
+			return { id: s.id, title: s.title, count: qs.length, modules, href: `${BASE}/${course.id}/eksamen/fag/${s.id}` };
 		})
 		.filter((s) => s.count);
 	return {
