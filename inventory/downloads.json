@@ -4024,6 +4024,26 @@
       "content_type": "application/pdf"
     },
     {
+      "id": 8223428,
+      "course": "medod1",
+      "title": "MED1 - MS og lipider-2.pdf",
+      "filename": "med1-ms-og-lipider-2--8223428.pdf",
+      "path": "medod1/material/cellebiologi/med1-ms-og-lipider-2--8223428.pdf",
+      "source": "https://mitt.uib.no/files/8223428",
+      "contexts": [
+        {
+          "kind": "page",
+          "title": "Sammensatt tema - Multippel sklerose (09.11.26)"
+        }
+      ],
+      "status": "downloaded",
+      "attempts": 1,
+      "bytes": 6045395,
+      "sha256": "b11a2a881a81862d9b932a5948b8cb418b42b1be2db95ab5af7150c1a78082f0",
+      "content_type": "application/pdf",
+      "added_on": "2026-11-11"
+    },
+    {
       "id": 8066247,
       "course": "medod1",
       "title": "Kollokvium1-2026.pdf",

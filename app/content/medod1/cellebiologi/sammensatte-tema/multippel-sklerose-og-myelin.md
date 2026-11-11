@@ -1,8 +1,8 @@
 ---
 title: Multippel sklerose og myelin
-summary: Myelin er en tettpakket, lipidrik (80 %) flerlagsmembran fra oligodendrocytter (CNS) og Schwann-celler (PNS) som gir rask saltatorisk ledning (~100 vs. ~1 m/s). Positivt ladde myelinproteiner (MBP pI ~11, P2 pI ~10 – perifere; P0 integralt) limer lagene sammen ved elektrostatisk binding til negative lipider. MS er autoimmun demyelinisering i CNS; CMT er arvelig og rammer PNS.
+summary: Myelin er en tettpakket, lipidrik (80 %) flerlagsmembran fra oligodendrocytter (CNS) og Schwann-celler (PNS) som gir rask saltatorisk ledning (~100 vs. ~1 m/s). Positivt ladde myelinproteiner (MBP pI ~11, P2 pI ~10 – perifere; P0 integralt) limer lagene sammen ved elektrostatisk binding til negative lipider. MS er autoimmun demyelinisering i CNS (unge voksne, kvinner 2:1, ~255/100 000 i Norge) med T-celledrevet lesjonsutvikling, fire forløpstyper og diagnose ved spredning i tid og sted (MR, oligoklonale bånd); CMT er arvelig og rammer PNS.
 category: tema
-tags: [myelin, multippel sklerose, MBP, P0, P2, isoelektrisk punkt, membranproteiner, demyelinisering, CMT]
+tags: [myelin, multippel sklerose, MBP, P0, P2, isoelektrisk punkt, membranproteiner, demyelinisering, CMT, oligodendrocytter, T-celler, molekylær mimikry, oligoklonale bånd, attakkvis MS, progressiv MS, Epstein-Barr-virus]
 related:
   - cellebiologi/cellen/membraner-og-membrantransport
   - cellebiologi/organeller/plasmamembranen
@@ -16,6 +16,7 @@ related:
   - proteiner/teori/folding-og-modifisering
 sources:
   - file: medod1/material/cellebiologi/sammensatt-tema-ms-2026-pk--8214691.pdf
+  - file: medod1/material/cellebiologi/med1-ms-og-lipider-2--8223428.pdf
   - file: medod1/material/cellebiologi/sammensatt-tema-multippel-sklerose-09-11-26--page-374220.html
   - file: medod1/material/cellebiologi/intro-celle1-2026--7976046.pdf
     pages: "25"
@@ -125,17 +126,74 @@ Et protein trenger ikke en stabil fold for å ha funksjon. MBP er et eksempel p�
 | Rammer | **CNS** (hjerne, ryggmarg, synsnerve) | **PNS** (perifere nerver) |
 | Merknad | Kronisk inflammatorisk og degenerativ | Den vanligste arvelige nevrologiske sykdommen – «den vanligste nevropatien som ingen har hørt om» |
 
-### MS
+### MS – oversikt (Stig Wergeland, Norsk MS-register og biobank, Haukeland)
 
-- **Kronisk inflammatorisk og degenerativ sykdom i sentralnervesystemet.**
-- Den vanligste **ikke-traumatiske** årsaken til nevrologisk funksjonssvikt hos **unge og middelaldrende** – stor helsebyrde.
-- Rundt **13 000** i Norge har MS; Norge er blant landene med **høyest forekomst**. Globalt ~**2,8 millioner**.
-- Bergensforskere leder et EU-prosjekt om sammenhengen mellom MS og **Epstein-Barr-virus (kyssesykeviruset)**.
-- Symptomene avhenger av hvor i CNS betennelsen sitter: f.eks. synsforstyrrelser, nummenhet, kraftsvikt, **balanseproblemer**, utmattelse. Forløpet er ofte attakkvis (attakker med bedring imellom) og kan bli gradvis forverret.
-- Når myelinet ødelegges, blir ledningen langsom eller blokkeres → nevrologiske utfall; arrvev («sklerose») i CNS gir navnet.
-- Debuterer typisk i 20–40-årsalderen og er 2–3 ganger vanligere hos kvinner. Diagnosen stilles klinisk med støtte i **MR** (lesjoner spredt i tid og sted) og **spinalvæske** (oligoklonale bånd).
+**Multippel sklerose** er en **kronisk inflammatorisk og degenerativ sykdom i sentralnervesystemet** (hjerne, ryggmarg, synsnerve). Fire nøkkelpunkter fra forelesningen: rammer **CNS**, rammer **unge voksne**, er en **vanlig årsak til uførhet**, og det finnes **ingen kur**.
 
-*Forelesningsfoliene om MS (Wergeland) mangler i kildematerialet; MS-delen her bygger på emnesiden, videoene og standard lærebokkunnskap. Eksamen har så langt spurt om myelinets **kjemi** (protein-pI, membranproteiner), ikke klinisk MS.*
+| | Tall fra forelesningen |
+|---|---|
+| Debutalder | **20–40 år**, typisk rundt **30 år** |
+| Kjønn | **Kvinner : menn = 2 : 1** (flere kvinner i alle aldersgrupper ved debut) |
+| Forekomst (prevalens) i Norge | **~200 per 100 000** (ca. 12 000). Nyere tall på et kart i forelesningen: **13 765** personer, **255 per 100 000** – blant de høyeste i verden |
+| Nye tilfeller (insidens) | **7–8 per 100 000 per år** – ca. **400 per år** i Norge |
+| I verden | **2,5–2,9 millioner** med MS (høyest forekomst i Nord-Europa, Nord-Amerika og Australia) |
+
+**Symptomer:** *hvilket som helst symptom fra sentralnervesystemet*, avhengig av hvor lesjonen sitter.
+
+- Synlige/målbare: **syn**, **kraft og balanse**, **blære- og tarmfunksjon**
+- «Usynlige» symptomer: **utmattelse (fatigue)**, **smerter**, **hukommelse**
+
+**Hvorfor får noen MS?** Et samspill mellom **gener**, **miljø** og **tilfeldigheter**. Bergensforskere leder et EU-prosjekt om sammenhengen med **Epstein-Barr-virus** (kyssesykeviruset).
+
+### Hva skjer i hjernen ved MS?
+
+Myelinskjeden rundt aksonet skades (demyelinisering), slik at aksonet blir «eksponert»; på sikt kan også **aksonet degenerere** (Trapp 2006: normalt akson → demyelinisering med betennelsesceller → aksontap).
+
+Immunologisk modell (Hohlfeld 1997):
+
+1. Det finnes **myelinreaktive T-celler** fra før. De **aktiveres i periferien** – mulige mekanismer er **molekylær mimikry** (et fremmed antigen, f.eks. fra virus, ligner et myelinprotein), superantigener eller andre faktorer.
+2. Aktiverte T-celler **fester seg til og trenger gjennom blodkarveggen** (blod-hjerne-barrieren) inn i CNS.
+3. I CNS **reaktiveres** de av **antigenpresenterende celler** (MHC–T-cellereseptor) og **prolifererer**.
+4. De rekrutterer flere celler (**sekundær innstrømning**): **makrofager/mikroglia**, **plasmaceller** som lager **antistoffer** mot myelinantigener, og **komplement**. Cytokiner, kjemokiner og proteaser frigjøres.
+5. Resultatet er **demyelinisering** og skade på **oligodendrocyttene** som lager myelinet.
+
+**Utvikling av en lesjon** (Kidd & Trapp; mikroskopi med MR-bilde ved siden av):
+
+1. Normal hvit substans rundt et lite blodkar: tettpakkede, myeliniserte aksoner.
+2. Immunceller samles **rundt blodkaret** (perivaskulær betennelse) → en ny, **kontrastladende** lesjon på MR.
+3. Et sentrum av demyeliniserte aksoner omgitt av en **ring av immunceller** som spiser myelin i kanten → **ringformet** kontrastoppladning på MR.
+4. Til slutt fylles området av **astrocytter** som danner **arrvev** («sklerose») → mørkt område på MR («black hole»). Mange aksoner er nå demyeliniserte eller tapt.
+
+**MS-patologi – oversikt.** MS-lesjonen kjennetegnes av fem prosesser: **demyelinisering**, **tap av oligodendrocytter**, **betennelse**, **aksontap** og **remyelinisering** (delvis reparasjon). Lesjonene finnes ikke bare i hvit substans: **kortikal demyelinisering** (i hjernebarken, grå substans) er også vanlig (Bø 2006).
+
+:::husk
+**Cellene i CNS** (vist i forelesningen): **nevroner**, **astrocytter** (astroglia), **mikroglia** (CNS' egne makrofager), **oligodendrocytter** (lager myelin i CNS) og **ependymceller** (kler ventriklene). Oligodendrocytter modnes fra forløperceller (OPC) og uttrykker myelinproteinene først når de myeliniserer: **MBP**, **PLP**, **MOG** og glykolipidet **GalCer**. Ved Ranviers innsnøring sitter **Na⁺-kanalene** i selve innsnøringen og K⁺-kanalene like ved – derfor kan aksjonspotensialet «hoppe» mellom dem.
+:::
+
+### Sykdomsforløp
+
+| Forløp | Kjennetegn |
+|---|---|
+| **Attakkvis (relapsing-remitting)** | Attakker med god bedring imellom; funksjonsnivået er stabilt mellom attakkene |
+| **Sekundær progressiv** | Kommer **etter** en attakkvis fase: gradvis forverring, med eller uten attakker |
+| **Primær progressiv** | Jevn forverring **fra starten**, uten attakker |
+| **Progressiv med attakker (progressive-relapsing)** | Jevn forverring fra starten, med enkelte attakker i tillegg |
+
+### Diagnose
+
+Diagnosen bygger på å vise at sykdommen er **spredt i tid og sted** i CNS (Compston & Coles 2008):
+
+- **To kliniske attakker** → MS.
+- **Ett attakk** + **ny MR** som senere viser nye lesjoner → MS.
+- **Gradvis forverring** (progressiv sykdom) + MR-funn + **spinalvæske** med **oligoklonale bånd** (antistoffer som finnes i spinalvæsken, men ikke i serum – tegn på antistoffproduksjon inne i CNS) eller lesjoner i **ryggmargen** på MR → MS.
+
+### Behandling
+
+**Ingen kur**, men målet har utviklet seg etter hvert som nye effektive legemidler er kommet: fra å **behandle symptomer** → **bremse** sykdomsutviklingen → **stanse** sykdomsutviklingen → kanskje en dag **reparere** (remyelinisering). Funksjonsnivået måles på en skala fra **0 (normal)** til **10** (EDSS); trinnene på veien går fra full gangfunksjon, via behov for stokk/krykker og rullestol, til sengeliggende.
+
+:::eksamen
+Eksamen har så langt spurt om myelinets **kjemi** (protein-pI, perifere/integrale membranproteiner), ikke klinisk MS. Den kliniske delen gir sammenhengen: kjenn til at MS er **autoimmun demyelinisering i CNS**, rammer **unge voksne (kvinner 2:1)**, og at **oligodendrocyttene** (ikke Schwann-cellene) er cellene som rammes.
+:::
 
 :::klinikk
 Koblingen kjemi → klinikk: myelinets stabilitet hviler på svake, elektrostatiske bindinger mellom positivt ladde proteiner (MBP, P2) og negativt ladde lipider, og på integrale proteiner som P0. Mister proteinet ladning, mengde eller riktig struktur (mutasjon ved CMT, immunangrep ved MS), løsner lagene, og nerveledningen svikter.
@@ -170,6 +228,22 @@ Ved pH 7 er MBP positivt og CaM negativt – de tiltrekker hverandre og kan bind
 
 :::sjekk[Sammenlign MS og CMT.]
 MS: autoimmun, rammer CNS (oligodendrocyttenes myelin), opptil 1/500. CMT: arvelig (> 100 gener), rammer PNS (Schwann-cellenes myelin), opptil 1/2500.
+:::
+
+:::sjekk[Hvem får typisk MS, og hvor vanlig er det i Norge?]
+Unge voksne, med debut i 20–40-årsalderen (typisk rundt 30 år), og kvinner dobbelt så ofte som menn. Prevalensen er rundt 200–255 per 100 000 (12 000–14 000 personer), og om lag 400 får diagnosen hvert år.
+:::
+
+:::sjekk[Beskriv kort hvordan en MS-lesjon oppstår, fra T-celle til arr.]
+Myelinreaktive T-celler aktiveres i periferien (f.eks. ved molekylær mimikry), trenger gjennom blod-hjerne-barrieren og reaktiveres av antigenpresenterende celler i CNS. De rekrutterer makrofager/mikroglia, plasmaceller (antistoffer) og komplement, som ødelegger myelin og oligodendrocytter. Til slutt danner astrocytter arrvev (sklerose), og aksoner kan gå tapt.
+:::
+
+:::sjekk[Nevn de fire typene sykdomsforløp ved MS.]
+Attakkvis (relapsing-remitting), sekundær progressiv (etter en attakkvis fase), primær progressiv (jevn forverring fra start) og progressiv med attakker.
+:::
+
+:::sjekk[Hva er oligoklonale bånd, og hvorfor brukes de i MS-diagnostikken?]
+Antistoffbånd som finnes i spinalvæsken, men ikke i serum. De viser at det produseres antistoffer inne i CNS (betennelse), og støtter diagnosen, særlig ved progressiv sykdom.
 :::
 
 :::sjekk[Hva vil det si at MBP er et intrinsisk uordnet protein?]

@@ -199,6 +199,7 @@ PDF, PPTX, and DOCX sample downloads verified by content type and file signature
 - [Salkart stor aud HUS MEDOD1 hø26.pdf](https://mitt.uib.no/files/8129985)
 - [Samhandling spesialisthelsetjenesten - Hansen.pdf](https://mitt.uib.no/files/7968136)
 - [sammensatt-tema-MS-2026-PK.pdf](https://mitt.uib.no/files/8214691)
+- [MED1 - MS og lipider-2.pdf](https://mitt.uib.no/files/8223428)
 - [Sápmi.png](https://mitt.uib.no/files/7793913)
 - [Sår og brudd Damsgaard.pdf](https://mitt.uib.no/files/7793847)
 - [Screenshot 2022-09-06 at 11.49.53.png](https://mitt.uib.no/files/7793927)
@@ -2949,6 +2950,7 @@ PDF, PPTX, and DOCX sample downloads verified by content type and file signature
 - [Samhandling spesialisthelsetjenesten - Hansen.pdf](https://mitt.uib.no/files/7968136) — MEDOD1
 - [Samledokument kortsvar.pdf](https://mitt.uib.no/files/4029270) — MED
 - [sammensatt-tema-MS-2026-PK.pdf](https://mitt.uib.no/files/8214691) — MEDOD1
+- [MED1 - MS og lipider-2.pdf](https://mitt.uib.no/files/8223428) — MEDOD1
 - [Sápmi.png](https://mitt.uib.no/files/7793913) — MEDOD1
 - [Sår og brudd Damsgaard.pdf](https://mitt.uib.no/files/7793847) — MEDOD1
 - [Screenshot 2022-09-06 at 11.49.53.png](https://mitt.uib.no/files/7793927) — MEDOD1
