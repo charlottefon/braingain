@@ -54,4 +54,12 @@ Proteiner og enzymer er det fjerde hovedtemaet i Celle1 (underviser: Aurora Mart
 - forklare dannelsen av enzym–substrat-komplekser, betydningen av transisjonstilstand og spontane reaksjoner
 - beherske grunnleggende enzymkinetikk med Michaelis–Menten-likningen og parameterne Km, Vmax, kcat og kcat/Km
 
-**Enzymer 2 – regulering og hemming** (fra introforelesningen): katalytiske grupper og struktur–funksjon-sammenhenger, regulering og hemming av enzymaktivitet. (Lysbildene til *Enzymer 2* ligger ikke i kursmaterialet; hemming, regulering og chymotrypsin bygger derfor på introforelesningen, kollokvieoppgavene, eksamensfasiter/sensorveiledninger og læreboken.)
+**Enzymer 2 – katalytiske strategier og regulering** (Miesfeld & McEvoy kap. 6B). Studentene skal kunne:
+
+- forklare sentrale katalytiske strategier som enzymer bruker, inkludert kovalent katalyse og syre-base-katalyse
+- beskrive hvordan enzymstruktur bestemmer aktivitet, substratspesifisitet og katalytisk mekanisme, med proteaser og chymotrypsin som eksempler
+- forklare og sammenligne mekanismene for reversibel og irreversibel enzymhemming, inkludert suicidalinhibitorer og transisjonstilstandsanaloger
+- analysere enzymkinetiske data og tolke effekten av inhibitorer på Km og Vmax
+- beskrive sentrale prinsipper for regulering av enzymaktivitet
+
+Stoffet står i [Enzymkatalyse](/medod1/proteiner/teori/enzymkatalyse) (strategier, proteaser, chymotrypsin), [Hemming og regulering](/medod1/proteiner/teori/enzymregulering) og [Enzymkinetikk og hemming](/medod1/proteiner/enzymkinetikk).

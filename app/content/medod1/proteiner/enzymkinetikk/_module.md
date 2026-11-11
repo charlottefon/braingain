@@ -84,13 +84,15 @@ Fordel: rett linje gjør det lettere å lese av Km og Vmax nøyaktig og å se **
 
 α = 1 + [I]/K_i, der K_i er hemmerens dissosiasjonskonstant (jo lavere K_i, jo sterkere hemmer).
 
+Enzymer 2 bruker navnene **kompetitiv**, **unkompetitiv** (= ukompetitiv) og **mikset** hemming. **Nonkompetitiv** (= ikke-kompetitiv) er mikset hemming der hemmeren binder E og ES like godt. Ved mikset hemming beskriver **K_i** bindingen til fritt E og **K_i′** bindingen til ES (lavere verdi = sterkere binding). Km øker hvis K_i < K_i′, minker hvis K_i′ < K_i, og er uendret når **K_i = K_i′ (nonkompetitiv)**.
+
 | Type | Binder til | Mekanisme | Km (tilsynelatende) | Vmax (tilsynelatende) | Lineweaver–Burk | Opphevet av høy [S]? | Eksempel |
 |---|---|---|---|---|---|---|---|
 | **Kompetitiv** | Bare fritt **E**, i aktivt sete | Konkurrerer med S | **↑** (α·Km) | **Uendret** | Linjene skjærer **samme punkt på y-aksen**; brattere; x-skjæring nærmere 0 | **Ja** | Etanol/fomepizol ved metanolforgiftning; **metotreksat** (folatanalog) på DHFR; HIV-proteasehemmere; transisjonstilstandsanaloger |
-| **Ukompetitiv** | Bare **ES** | Låser S i ES | **↓** (Km/α) | **↓** (Vmax/α) | **Parallelle** linjer (samme stigning); y- og x-skjæring flyttes | Nei | (sjelden; vanligst ved flere substrater) |
-| **Ikke-kompetitiv (ren)** | **E og ES like godt**, annet sete | Gjør en andel enzym inaktivt | **Uendret** | **↓** (Vmax/α) | Linjene skjærer **samme punkt på x-aksen** (−1/Km); høyere y-skjæring | Nei | Salicylat på glutamatdehydrogenase (kollokvie) |
-| **Blandet** | E og ES, **ulik affinitet** | Kombinasjon | **↑ eller ↓** | **↓** | Linjene skjærer **til venstre for y-aksen**, over eller under x-aksen | Nei | |
-| **Irreversibel** | Kovalent, oftest aktivt sete | Fjerner aktivt enzym permanent | Uendret (for gjenværende enzym) | **↓** | Som ikke-kompetitiv (høyere y-skjæring) | Nei – heller ikke ved dialyse | Penicillin (selvmordshemmer), DIPF, klavulansyre |
+| **Ukompetitiv** (unkompetitiv) | Bare **ES**, vanligvis nær aktivt sete | Låser S i ES | **↓** (Km/α) | **↓** (Vmax/α) | **Parallelle** linjer (samme stigning); y- og x-skjæring flyttes | Nei | (sjelden; vanligst ved flere substrater) |
+| **Ikke-kompetitiv (ren)** (nonkompetitiv; mikset med K_i = K_i′) | **E og ES like godt**, annet sete | Gjør en andel enzym inaktivt | **Uendret** | **↓** (Vmax/α) | Linjene skjærer **samme punkt på x-aksen** (−1/Km); høyere y-skjæring | Nei | Salicylat på glutamatdehydrogenase (kollokvie) |
+| **Blandet** (mikset) | E og ES, **ulik affinitet** (K_i ≠ K_i′) | Kombinasjon | **↑ eller ↓** | **↓** | Linjene skjærer **til venstre for y-aksen**, over eller under x-aksen | Nei | |
+| **Irreversibel** | Kovalent, oftest aktivt sete | Fjerner aktivt enzym permanent | Uendret (for gjenværende enzym) | **↓** | Som ikke-kompetitiv (høyere y-skjæring) | Nei – heller ikke ved dialyse | Penicillin (suicidal hemmer), DFP/DIPF, klavulansyre |
 
 :::husk
 **K**ompetitiv → **K**m endres (↑). **Ikke-kompetitiv** → bare Vmax (↓). **Ukompetitiv** → begge ↓ (forholdet Km/Vmax og dermed LB-stigningen uendret). På en MM-kurve: kompetitiv hemmer når **samme Vmax** ved høy [S]; ikke-kompetitiv flater ut på et **lavere platå** (og er derfor «mest effektiv ved høy [S]» relativt sett).

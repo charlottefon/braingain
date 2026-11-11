@@ -65,6 +65,7 @@ PDF, PPTX, and DOCX sample downloads verified by content type and file signature
 - [Dreiebok for studentene introkurset H26.pdf](https://mitt.uib.no/files/7942665)
 - [elektro (1).pdf](https://mitt.uib.no/files/7793974)
 - [ENZYM_2026_1.pdf](https://mitt.uib.no/files/8215494)
+- [ENZYM_2026_2.pdf](https://mitt.uib.no/files/8223063)
 - [Fagartikkel_2_TRIAGE.pdf](https://mitt.uib.no/files/7793859)
 - [Faglig-retningslinje-for-håndtering-av-aksidentell-hypotermi.pdf](https://mitt.uib.no/files/7793863)
 - [fakta-boks om samene i norge canvas 4.0-1.jpg](https://mitt.uib.no/files/7794008)
@@ -870,6 +871,7 @@ PDF, PPTX, and DOCX sample downloads verified by content type and file signature
 - [ENG-NUTR230 H19-Exam with solutions.pdf](https://mitt.uib.no/files/2034152) — MED
 - [ENG-NUTR230 H19-Exam without solutions.pdf](https://mitt.uib.no/files/2034150) — MED
 - [ENZYM_2026_1.pdf](https://mitt.uib.no/files/8215494) — MEDOD1
+- [ENZYM_2026_2.pdf](https://mitt.uib.no/files/8223063) — MEDOD1
 - [Epidemiology School Exam Questions and Answer Guide_2023.pdf](https://mitt.uib.no/files/6458672) — MED
 - [Etablering av intravenøs tilgang .pdf](https://mitt.uib.no/files/4204387) — MED
 - [Exam 2013 Observational epidemiology.pdf](https://mitt.uib.no/files/273187) — MED

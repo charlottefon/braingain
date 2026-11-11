@@ -1,8 +1,8 @@
 ---
 title: Hemming og regulering av enzymer
-summary: Reversibel (kompetitiv, ikke-kompetitiv, ukompetitiv) og irreversibel hemming med kliniske eksempler (metanol/etanol, fomepizol, metotreksat, penicillin, klavulansyre, HIV-proteasehemmere, kinasehemmere), allosteri og kooperativitet, feedback-hemming, kovalent modifikasjon, proteolytisk aktivering av zymogener og isoenzymer (LDH).
+summary: Reversibel hemming (kompetitiv, unkompetitiv, mikset/nonkompetitiv; Ki og Ki′) og irreversibel hemming (DFP, suicidale inhibitorer som penicillin) med kliniske eksempler (atorvastatin, metotreksat, metanol/etanol, fomepizol, klavulansyre, HIV-proteasehemmere, kinasehemmere); de fire prinsippene for regulering – allosteri, reversibel kovalent modifisering, proteolytisk aktivering og enzymmengde – og isoenzymer (LDH).
 order: 10
-tags: [hemming, irreversibel hemming, selvmordshemmer, allosteri, kooperativitet, feedback, fosforylering, zymogen, isoenzym, ukompetitiv hemming, metotreksat, kinasehemmer, laktatdehydrogenase]
+tags: [hemming, irreversibel hemming, suicidal inhibitor, selvmordshemmer, mikset hemming, nonkompetitiv, unkompetitiv, Ki, allosteri, kooperativitet, feedback, fosforylering, zymogen, isoenzym, metotreksat, atorvastatin, penicillin, peptidoglykan, kinasehemmer, laktatdehydrogenase]
 related:
   - proteiner/teori/enzymkatalyse
   - proteiner/teori/myoglobin-og-hemoglobin
@@ -11,6 +11,8 @@ related:
   - lab/ovelser/enzymkinetikk-adh
   - organisk-kjemi/reaksjoner/oksidasjon-av-alkoholer
 sources:
+  - file: medod1/material/proteiner/enzym-2026-2--8223063.pdf
+    pages: "18-33"
   - file: medod1/material/proteiner/intro-forelesning--7794102.pdf
     pages: "11-19"
   - file: medod1/material/proteiner/proteiner-og-enzymer-asynkrone-videoer--page-374217.html
@@ -25,30 +27,44 @@ sources:
   - file: medod1/exams/2024-medod1-h2024-med-svar--7298977.pdf
 ---
 
-:::husk
-Presentasjonen *Enzymer 2* (hemming og regulering) ligger ikke i kursmaterialet. Kapitlet bygger på introforelesningen (kompetitiv hemming, metanol/etanol, penicillin, klavulansyre), kollokvieoppgavene, sensorveiledningen V2024 og eksamensoppgaver, supplert med lærebokstoff (zymogener, kovalent modifikasjon, feedback). Kinetikken (Km/Vmax, Lineweaver–Burk) står samlet på siden [Enzymkinetikk og hemming](/medod1/proteiner/enzymkinetikk).
-:::
+Kapitlet følger andre halvdel av forelesningen *Enzymer 2* (Aurora Martinez; Miesfeld & McEvoy kap. 6B). Kinetikken (Km/Vmax, Lineweaver–Burk, regneeksempler) står samlet på siden [Enzymkinetikk og hemming](/medod1/proteiner/enzymkinetikk).
 
-## Hvorfor regulere enzymer?
+## Hvorfor hemming og regulering?
 
-For å tilpasse metabolismen til cellens behov, og fordi mange **legemidler** virker ved å hemme enzymer (over halvparten). Forståelse av hemming forklarer også forgiftninger og genetiske sykdommer.
+Hemming er viktig for **reguleringen av enzymer**, og **mange medikamenter virker ved å hemme et enzym**. Forelesningens eksempel: **atorvastatin** hemmer **HMG-CoA-reduktase** (3-hydroksy-3-metylglutaryl-CoA-reduktase) og reduserer produksjonen av kolesterol. Forståelse av hemming forklarer også forgiftninger og genetiske sykdommer.
 
-## Reversibel hemming – kortversjon
+Hemming kan være:
 
-En reversibel hemmer binder **ikke-kovalent** og kan dissosiere.
+- **reversibel** (vanligst): hemmeren kan dissosiere fra enzymet
+- **irreversibel**: hemmeren bindes permanent (kovalent eller svært tett) og blokkerer enzymreaksjonen
+
+## Reversibel hemming
+
+Forelesningen bruker begrepene **kompetitiv**, **unkompetitiv** og **mikset** hemming, og **nonkompetitiv** som et spesialtilfelle av mikset. På eksamen og i andre kapitler her står også «ukompetitiv» og «ikke-kompetitiv» – det er det samme.
 
 | Type | Binder til | Km | Vmax | Opphevet av høy [S]? |
 |---|---|---|---|---|
-| **Kompetitiv** | Fritt E (aktivt sete), ikke ES | ↑ | uendret | **Ja** |
-| **Ikke-kompetitiv** (ren) | E og ES like godt, annet sete | uendret | ↓ | Nei |
-| **Ukompetitiv** | Bare ES | ↓ | ↓ | Nei |
-| **Blandet** | E og ES ulikt | ↑ eller ↓ | ↓ | Nei |
+| **Kompetitiv** | Fritt E, i aktivt sete (ikke ES) | ↑ | uendret | **Ja** |
+| **Unkompetitiv** | Bare ES, vanligvis nær aktivt sete | ↓ | ↓ | Nei |
+| **Mikset** | Både E og ES | ↑, ↓ eller uendret | ↓ | Nei |
+| **Nonkompetitiv** (mikset med Ki = Ki′) | E og ES like godt | uendret | ↓ | Nei |
 
-Detaljer, grafer og regneeksempler: [Enzymkinetikk og hemming](/medod1/proteiner/enzymkinetikk). Eksamen bruker ofte «non-kompetitiv» og «unkompetitiv» om ikke-kompetitiv og ukompetitiv.
+### Ki og Ki′ – nøkkelen til mikset hemming
 
-### Ukompetitiv hemming – den som ofte glemmes
+- **Ki** er likevektskonstanten for hemmerens binding til **fritt E**. Lavere Ki = sterkere binding til E.
+- **Ki′** er likevektskonstanten for hemmerens binding til **ES**. Lavere Ki′ = sterkere binding til ES.
+- Ved **mikset hemming** synker Vmax alltid. Km kan **øke, minke eller være uendret**, avhengig av hemmerens relative affinitet for E og ES: binder den helst E (Ki < Ki′), øker Km; binder den helst ES (Ki′ < Ki), minker Km.
+- Når **Ki = Ki′** binder hemmeren E og ES like godt: Km er uendret, bare Vmax synker. Det er **(ren) nonkompetitiv hemming**, som er den varianten tabellen i forelesningen viser.
 
-- Hemmeren binder **bare ES-komplekset** (et sete som først dannes når substratet er bundet), ikke fritt E.
+Detaljer, grafer og regneeksempler: [Enzymkinetikk og hemming](/medod1/proteiner/enzymkinetikk).
+
+### Kompetitiv hemming
+
+Hemmeren (I) binder **E, men ikke ES** – i aktivt sete, i konkurranse med substratet. **Km øker, Vmax påvirkes ikke**, og hemmingen **kan motvirkes ved å øke [S]**. Kompetitive hemmere ligner som regel substratet eller [transisjonstilstanden](/medod1/proteiner/teori/enzymkatalyse) (transisjonstilstandsanaloger er ofte effektive kompetitive hemmere).
+
+### Unkompetitiv hemming – den som ofte glemmes
+
+- Hemmeren binder **bare ES-komplekset**, vanligvis nær det aktive setet (et sete som først dannes når substratet er bundet), ikke fritt E.
 - **Både Km og Vmax synker**, med samme faktor → forholdet Km/Vmax er uendret → **parallelle linjer** i Lineweaver–Burk.
 - Km synker fordi hemmeren «trekker» ES ut av likevekten E + S ⇌ ES (Le Chateliers prinsipp), slik at det *ser ut* som om enzymet binder substratet sterkere.
 - **Høy [S] hjelper ikke** – mer substrat gir mer ES, altså mer bindingssted for hemmeren.
@@ -65,7 +81,7 @@ Detaljer, grafer og regneeksempler: [Enzymkinetikk og hemming](/medod1/proteiner
 - **Fomepizol** er en **kompetitiv hemmer av ADH**: binder aktivt sete når substrat ikke er bundet.
 - **HIV-proteasehemmere** binder **aktivt sete** i viral protease → forløperproteiner kløyves ikke → ingen modne viruspartikler.
 - **Acetazolamid** hemmer karbonsyreanhydrase (brukes bl.a. ved glaukom).
-- **Metotreksat (MTX)** er en **strukturanalog av folat** og en **kompetitiv, reversibel** hemmer av **dihydrofolatreduktase (DHFR)**, som lager tetrahydrofolat (trengs til syntese av nukleotider, bl.a. tymidin). Celler som deler seg raskt, rammes mest → cellegift (kreft); i lave doser ved revmatoid artritt. *(Lærebokstoff; eksamen V2020 og H2020.)*
+- **Metotreksat (MTX)** er forelesningens eksempel på **kompetitiv hemming**. MTX hemmer **dihydrofolatreduktase (DHFR)**, et enzym i biosyntesen av nukleotider. MTX **ligner både dihydrofolat (substratet) og tetrahydrofolat (produktet)** og binder DHFR med **høyere affinitet enn disse**. Dermed hemmes syntesen av DNA og RNA, og MTX brukes **mot kreft** (celler som deler seg raskt, rammes mest). I lave doser brukes det også ved revmatoid artritt (lærebokstoff).
 
 :::eksempel[Metotreksat og DHFR (H2020)]
 DHFR-aktivitet måles med ulike [MTX] og [dihydrofolat]. Siden hemmingen er kompetitiv:
@@ -79,10 +95,28 @@ ADH/metanol-klyngen går igjen. Fasiten (H2022, V2024) formulerer etanolens effe
 
 ## Irreversibel hemming
 
-Hemmeren binder **kovalent** (eller ekstremt sterkt) og inaktiverer enzymet permanent; aktiviteten kommer bare tilbake ved nysyntese. Høy [S] hjelper ikke. Kinetisk ser det ut som en reduksjon i mengden aktivt enzym (Vmax ↓).
+Hemmeren **binder kovalent** til enzymet eller **endrer strukturen permanent** på annen måte; aktiviteten kommer bare tilbake ved nysyntese. Høy [S] hjelper ikke. Kinetisk ser det ut som en reduksjon i mengden aktivt enzym (Vmax ↓).
 
-- **DIPF** (diisopropylfluorfosfat) modifiserer Ser195 i serinproteaser (og acetylkolinesterase – nervegasser).
-- **Penicillin** – **selvmordshemmer** (mekanismebasert hemmer) av bakteriens **glykopeptid-transpeptidase** (peptidoglykansyntese i celleveggen): enzymet begynner å behandle penicillin som et substrat; den reaktive peptidbindingen i **β-laktamringen** åpnes og penicillin blir permanent kovalent bundet til aktivt sete.
+- **DFP** (diisopropylfluorfosfat, også skrevet DIPF) hemmer enzymer med **reaktivt serin**: serinproteaser (Ser195 i [chymotrypsin](/medod1/proteiner/teori/enzymkatalyse)) og **acetylkolinesterase (AChE)** – samme mekanisme som nervegasser.
+
+### Suicidale inhibitorer (selvmordshemmere)
+
+Ved suicidal hemming **deltar enzymet selv i å lage den irreversible modifikasjonen**:
+
+1. Hemmeren binder i aktivt sete, og **katalysen starter** som om den var et substrat.
+2. Katalysen setter i gang en **irreversibel modifikasjon** av viktige rester (eller av kofaktorer).
+3. Enzymet **klarer ikke å fullføre reaksjonen**, og hemmeren blir sittende **irreversibelt bundet**.
+
+### Penicillin – det klassiske eksempelet
+
+Penicillin (Alexander Fleming; fra soppen *Penicillium chrysogenum*; Nobelprisen 1945) var det første antibiotikumet og er en **suicidal inhibitor**.
+
+- Bakteriecelleveggen er forsterket av et **peptidoglykanlag**: polysakkaridkjeder som er **kryssbundet** av **tetrapeptider** (med variert aminosyresekvens) og **pentaglysinbroer**. Tetrapeptidene inneholder **D-aminosyrer** (klassisk struktur hos *Staphylococcus aureus*).
+- Det siste trinnet, kryssbindingen mellom tetrapeptidene og pentaglysin, katalyseres av **glykopeptid-transpeptidase**.
+- **Penicillin ligner transisjonstilstanden til R-D-Ala-D-Ala** i transpeptidasereaksjonen. Enzymet starter katalysen, den reaktive peptidbindingen i **β-laktamringen** åpnes, og penicillin blir permanent kovalent bundet til aktivt sete. Celleveggen kryssbindes ikke, og bakterien dør.
+
+Videre:
+
 - **Klavulansyre** binder irreversibelt til aktivt sete i bakterielle **β-laktamaser** (enzymer som inaktiverer penicilliner) → gis sammen med amoksicillin for å sikre effekten mot resistente bakterier.
 
 ```smiles-row
@@ -90,10 +124,22 @@ CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)Cc3ccccc3)C(=O)O)C | Penicillin G (β-la
 C1[C@@H]2N(C1=O)[C@H](/C(=C/CO)/O2)C(=O)O | Klavulansyre
 ```
 
+## Fire prinsipper for regulering av enzymaktivitet
+
+I tillegg til hemming viser Enzymer 2 fire prinsipper (les lærebokas s. 374–382):
+
+| Prinsipp | Kjennetegn | Reversibel? |
+|---|---|---|
+| **1. Allosteri** | Flere bindingsseter; kooperativitet; homotrop og heterotrop regulering; feedback-hemming. **Følger ikke MM-kinetikk** (sigmoide kurver) | Ja |
+| **2. Reversibel kovalent modifisering** | Post-translasjonell modifisering av enzymet, f.eks. **fosforylering med kinaser** og defosforylering med **fosfataser**; viktig i signaloverføring | Ja |
+| **3. Proteolytisk aktivering** | Begrenset proteolyse av en inaktiv forløper | **Nei** |
+| **4. Regulering av enzymmengde** | **Genekspresjon** (transkripsjon og translasjon) | – (langsom) |
+
 ## Allosteri og kooperativitet
 
-**Allosteriske enzymer** reguleres av molekyler (**effektorer**) som binder et **annet sete enn det aktive setet** og endrer konformasjonen.
+**Allosteriske enzymer** (gresk *allos* «annet», *stereos* «område») har **flere bindingsseter**. De reguleres av molekyler (**effektorer**) som binder et **annet sete enn det aktive setet** og endrer konformasjonen.
 
+- **Homotrop regulering:** effektoren er substratet selv (substratbinding i én subenhet påvirker de andre). **Heterotrop regulering:** effektoren er et annet molekyl enn substratet (lærebokdefinisjon).
 - Er som regel **multimere** (ofte tetramere) – har kvartærstruktur.
 - Viser **sigmoid** v₀–[S]-kurve i stedet for Michaelis–Menten-hyperbel → **positiv kooperativitet**: substratbinding til én subenhet øker affiniteten i de andre (samme prinsipp som O₂ i [hemoglobin](/medod1/proteiner/teori/myoglobin-og-hemoglobin)).
 - **Aktivatorer** forskyver kurven mot venstre (mer aktivt R), **inhibitorer** mot høyre (stabiliserer T).
@@ -163,6 +209,10 @@ Isoenzymer: fordelen er **finjustering av metabolismen i ulike vev og utviklings
 - Substrat- og produktkonsentrasjon.
 - Lokalisering (cellerom).
 
+:::husk
+**Momentlisten fra Enzymer 2** (hemming og regulering): reversibel hemming (kompetitiv, unkompetitiv, mikset; nonkompetitiv) · irreversibel hemming (suicidale inhibitorer) · transisjonstilstandsanaloger (katalytiske antistoffer og inhibitorer) · enzymregulering i tillegg til hemmere (allosteri, reversibel kovalent modifisering, proteolytisk aktivering, regulering av enzymmengde). Katalysedelen av momentlisten står i [Enzymkatalyse](/medod1/proteiner/teori/enzymkatalyse).
+:::
+
 ## Test deg selv
 
 :::sjekk[Hvorfor kan en kompetitiv hemmer overvinnes av høy [S], men ikke en ikke-kompetitiv?]
@@ -198,5 +248,17 @@ Kinase A fosforylerer sine substratproteiner mindre, så signalet nedstrøms sve
 :::
 
 :::sjekk[Er metotreksat en reversibel eller irreversibel hemmer, og hvordan overvinnes hemmingen?]
-Reversibel og kompetitiv: MTX ligner folat og binder aktivt sete i DHFR uten kovalent binding. Høy konsentrasjon av substratet (dihydrofolat) kan utkonkurrere den. Penicillin og DIPF er derimot irreversible.
+Reversibel og kompetitiv: MTX ligner både dihydrofolat og tetrahydrofolat og binder aktivt sete i DHFR med høyere affinitet enn dem, uten kovalent binding. Høy konsentrasjon av substratet (dihydrofolat) kan utkonkurrere den. Penicillin og DFP er derimot irreversible.
+:::
+
+:::sjekk[En hemmer binder både E og ES, men sterkest til E (Ki < Ki′). Hva skjer med Km og Vmax? Hva om Ki = Ki′?]
+Det er mikset hemming: Vmax synker alltid, og Km øker fordi hemmeren helst binder fritt E. Med Ki = Ki′ binder den E og ES like godt (nonkompetitiv hemming): Km er uendret, bare Vmax synker.
+:::
+
+:::sjekk[Hva er peptidoglykanlaget, og hvilket trinn blokkerer penicillin?]
+Peptidoglykan er polysakkaridkjeder i bakteriecelleveggen, kryssbundet av tetrapeptider (med D-aminosyrer) og pentaglysinbroer. Penicillin ligner transisjonstilstanden til R-D-Ala-D-Ala og blokkerer glykopeptid-transpeptidasen, som katalyserer det siste trinnet, kryssbindingen.
+:::
+
+:::sjekk[Nevn de fire prinsippene for regulering av enzymaktivitet (i tillegg til hemming). Hvilket er irreversibelt?]
+Allosteri, reversibel kovalent modifisering (f.eks. fosforylering), proteolytisk aktivering og regulering av enzymmengde (genekspresjon). Proteolytisk aktivering er irreversibel.
 :::

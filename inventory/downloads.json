@@ -5289,6 +5289,26 @@
       "content_type": "application/pdf"
     },
     {
+      "id": 8223063,
+      "course": "medod1",
+      "title": "ENZYM_2026_2.pdf",
+      "filename": "enzym-2026-2--8223063.pdf",
+      "path": "medod1/material/proteiner/enzym-2026-2--8223063.pdf",
+      "source": "https://mitt.uib.no/files/8223063",
+      "contexts": [
+        {
+          "kind": "page",
+          "title": "Proteiner og Enzymer - 2026"
+        }
+      ],
+      "status": "downloaded",
+      "attempts": 1,
+      "bytes": 3029784,
+      "sha256": "5a7fc94b4983a1d0f9c491ee99e25bcd5bce8bd1ae4fb95d7c2faf76fd8f8b49",
+      "content_type": "application/pdf",
+      "added_on": "2026-11-11"
+    },
+    {
       "id": 280085,
       "course": "medod1",
       "title": "Bild_35.png",
